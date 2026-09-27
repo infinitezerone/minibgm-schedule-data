@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-09-27T14:40:29.649Z",
+  "generatedAt": "2026-09-27T15:13:21.087Z",
   "window": {
-    "from": 1788705421,
-    "to": 1795703821
+    "from": 1788707476,
+    "to": 1795705876
   },
   "items": [
     {
@@ -971,12 +971,8 @@
       "titleCn": "无职转生Ⅲ ～到了异世界就拿出真本事～",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "FINISHED",
+      "status": "RELEASING",
       "episodes": [
-        {
-          "n": 11,
-          "t": 1788706800
-        },
         {
           "n": 12,
           "t": 1789311600
@@ -1711,10 +1707,6 @@
       "status": "FINISHED",
       "episodes": [
         {
-          "n": 9,
-          "t": 1788705960
-        },
-        {
           "n": 10,
           "t": 1789310760
         },
@@ -1942,7 +1934,7 @@
     },
     {
       "anilistId": 191788,
-      "bgmId": null,
+      "bgmId": 555605,
       "title": "アオアシ 第2期",
       "titleCn": null,
       "countryOfOrigin": "JP",
@@ -2100,7 +2092,7 @@
     },
     {
       "anilistId": 195516,
-      "bgmId": null,
+      "bgmId": 568244,
       "title": "薬屋のひとりごと 第3期",
       "titleCn": null,
       "countryOfOrigin": "JP",
@@ -2523,7 +2515,7 @@
     },
     {
       "anilistId": 198727,
-      "bgmId": null,
+      "bgmId": 507634,
       "title": "千歳くんはラムネ瓶のなか 2クール",
       "titleCn": null,
       "countryOfOrigin": "JP",
@@ -2825,6 +2817,10 @@
         {
           "n": 7,
           "t": 1795100400
+        },
+        {
+          "n": 8,
+          "t": 1795705200
         }
       ]
     },
@@ -3431,7 +3427,7 @@
     },
     {
       "anilistId": 204650,
-      "bgmId": null,
+      "bgmId": 617948,
       "title": "桃源暗鬼 日光・華厳の滝編",
       "titleCn": null,
       "countryOfOrigin": "JP",
@@ -4429,7 +4425,7 @@
     },
     {
       "anilistId": 209872,
-      "bgmId": null,
+      "bgmId": 637802,
       "title": "らんま1/2 (2024) 第3期",
       "titleCn": null,
       "countryOfOrigin": "JP",
@@ -4699,6 +4695,21 @@
         {
           "n": 7,
           "t": 1795105680
+        }
+      ]
+    },
+    {
+      "anilistId": 212575,
+      "bgmId": 655061,
+      "title": "サレ妻は奪われたい",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "RELEASING",
+      "episodes": [
+        {
+          "n": 2,
+          "t": 1795705200
         }
       ]
     },
@@ -5010,10 +5021,6 @@
       "status": "FINISHED",
       "episodes": [
         {
-          "n": 7,
-          "t": 1788706800
-        },
-        {
           "n": 8,
           "t": 1788793200
         },
@@ -5118,7 +5125,7 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "ONA",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "episodes": [
         {
           "n": 1,
@@ -5155,6 +5162,36 @@
         {
           "n": 9,
           "t": 1795354200
+        }
+      ]
+    },
+    {
+      "anilistId": 215989,
+      "bgmId": 697598,
+      "title": "堕ちるパート妻 年下男との情事に溺れた果てに…",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1795705200
+        }
+      ]
+    },
+    {
+      "anilistId": 216171,
+      "bgmId": 698620,
+      "title": "真面目なキミにハマるカラダ THE ANIMATION",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1795705200
         }
       ]
     },
@@ -5268,6 +5305,25 @@
         {
           "n": 8,
           "t": 1795177560
+        }
+      ]
+    },
+    {
+      "anilistId": 216926,
+      "bgmId": 702122,
+      "title": "お隣の贄",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1795705200
+        },
+        {
+          "n": 2,
+          "t": 1795705200
         }
       ]
     }

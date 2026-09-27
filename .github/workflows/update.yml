@@ -1,7 +1,7 @@
 name: update-snapshot
 
 # 每天 3 次（CST 06:00 / 12:00 / 18:00 = UTC 22:00 / 04:00 / 10:00）：
-# 扫描 AniList → 映射 → 校验 → 内容哈希去重，无变化不发布。
+# 扫描 AniList → 映射 → 校验门 → 内容哈希去重，无变化不发布。
 # 探查成本 = 更新成本（AniList 无变更通知接口），哈希去重省的是发布侧。
 on:
   schedule:
@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: update-snapshot
@@ -30,7 +31,10 @@ jobs:
 
       - name: Build snapshot
         id: build
-        run: node scripts/build.mjs | tee build.log && echo "result=$(tail -1 build.log | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+        run: |
+          set -o pipefail
+          node scripts/build.mjs 2>&1 | tee build.log
+          echo "result=$(tail -1 build.log | cut -d ' ' -f 1)" >> "$GITHUB_OUTPUT"
 
       - name: Publish
         if: steps.build.outputs.result == 'CHANGED'
@@ -44,11 +48,26 @@ jobs:
       - name: Purge jsDelivr cache
         if: steps.build.outputs.result == 'CHANGED'
         run: |
-          curl -s "https://purge.jsdelivr.net/gh/infinitezerone/minibgm-schedule-data@main/data/snapshot.json" || true
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/data/snapshot.json" || true
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          n=$(gh issue list --search "snapshot 构建失败 in:title" --state open --json number --jq 'length')
+          if [ "$n" = "0" ]; then
+            gh issue create --title "snapshot 构建失败（$(date -u +%F)）" \
+              --body "最近一次失败运行：$RUN_URL。打开 issue 后请检查 build.log 摘要（见 run 页面 Step Summary）。修复后关闭本 issue。"
+          else
+            gh issue comment "$(gh issue list --search "snapshot 构建失败 in:title" --state open --json number --jq '.[0].number')" \
+              --body "再次失败：$RUN_URL"
+          fi
 
       - name: Job summary
         if: always()
-        run: tail -5 build.log >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+        run: tail -8 build.log >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
 
       # 哈希去重意味着可能长期无提交；临近 60 天不活跃阈值时自动补一次保活提交，
       # 避免 GitHub 禁用定时工作流（数据每周都在变时它永远不会触发，纯保险）

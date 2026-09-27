@@ -52,6 +52,30 @@ async function gql(query, variables = {}) {
 const canonical = (s) =>
   (s ?? "").toLowerCase().replace(/[\s\-_:：·・!！?？~～'’"“”()（）[\]【】、,，.。]/g, "");
 
+// 季标记归一化：从标题中剥离季标记并提取季数。
+// 认识 第N期/第N季/第Nクール/第N話/Season N/N期（含中文数字）；
+// 同串出现多个标记时取最后一个（"第3期 第2クール" → season 2），
+// 无标记视为第 1 季。配合 base 前缀匹配，可识别
+// "アオアシ 第2期" ≡ "アオアシ Season2" 这类跨站命名差异，同时保持防跨季误配。
+const CN_NUM = { 一: 1, 二: 2, 三: 3, 四: 4, 五: 5, 六: 6, 七: 7, 八: 8, 九: 9 };
+const SEASON_RE = /第\s*([0-9一二三四五六七八九十]+)\s*[期季クール話]|season\s*([0-9]+)|([0-9]+)\s*期/gi;
+
+function seasonParts(title) {
+  if (!title) return { base: "", season: 1 };
+  let season = 1;
+  const base = title.replace(SEASON_RE, (_, a, b, c) => {
+    const raw = a ?? b ?? c;
+    let n = 0;
+    if (raw != null) {
+      if (/^[0-9]+$/.test(raw)) n = parseInt(raw, 10);
+      else n = [...raw].reduce((acc, ch) => (ch === "十" ? (acc === 0 ? 10 : acc * 10) : acc + (CN_NUM[ch] ?? 0)), 0);
+    }
+    if (n > 0) season = n;
+    return " ";
+  });
+  return { base: canonical(base), season };
+}
+
 // ---------- 1. 窗口扫描 ----------
 
 async function scanEvents() {
@@ -149,22 +173,29 @@ async function loadBridge() {
 
 async function searchBgmId(title) {
   await sleep(SEARCH_DELAY_MS);
+  // 老搜索接口对 "/" 关键词直接失效（らんま1/2 教训），统一换成空格
+  const keyword = title.replace(/\//g, " ");
+  const q = seasonParts(title);
+  if (!q.base) return null;
   const res = await fetch(
-    `https://api.bgm.tv/search/subject/${encodeURIComponent(title)}?type=2&max_results=20&responseGroup=medium`,
+    `https://api.bgm.tv/search/subject/${encodeURIComponent(keyword)}?type=2&max_results=20&responseGroup=medium`,
     { headers: UA },
   );
   if (!res.ok) return null;
   const j = await res.json();
   const list = j.list ?? [];
   if (list.length === 0) return null;
-  let cands = list;
-  if (list.length > 1) {
-    const key = canonical(title);
-    if (!key) return null;
-    cands = list.filter(
-      (c) => canonical(c.name).startsWith(key) || canonical(c.name_cn).startsWith(key),
+  const qCanon = canonical(title);
+  const cands = list.filter((c) => {
+    if (canonical(c.name) === qCanon || canonical(c.name_cn) === qCanon) return true;
+    const p = seasonParts(c.name);
+    const pn = seasonParts(c.name_cn);
+    const baseMatch = (b) => b.length > 0 && (b.startsWith(q.base) || q.base.startsWith(b));
+    return (
+      (baseMatch(p.base) && p.season === q.season) ||
+      (baseMatch(pn.base) && pn.season === q.season)
     );
-  }
+  });
   return cands.length === 1 ? cands[0].id : null;
 }
 
