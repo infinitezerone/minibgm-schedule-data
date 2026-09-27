@@ -91,7 +91,9 @@ async function scanEvents() {
       `query { Page(page: ${page}, perPage: ${SCAN_PER_PAGE}) { pageInfo { hasNextPage }
         airingSchedules(airingAt_greater: ${from}, airingAt_lesser: ${to}) {
           episode airingAt
-          media { id countryOfOrigin format status title { native romaji } }
+          media { id countryOfOrigin format status isAdult
+            coverImage { large } startDate { year month }
+            title { native romaji } }
         } } }`,
     );
     for (const s of d.Page.airingSchedules) {
@@ -253,6 +255,10 @@ function assemble(roster, events, nextMap, resolved, from, to) {
       countryOfOrigin: m.countryOfOrigin,
       format: m.format,
       status: m.status,
+      coverUrl: m.coverUrl?.large ?? null,
+      isAdult: m.isAdult ?? false,
+      startYear: m.startDate?.year ?? 0,
+      startMonth: m.startDate?.month ?? 0,
       episodes: eps,
     };
   });
