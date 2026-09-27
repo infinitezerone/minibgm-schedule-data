@@ -1,0 +1,51 @@
+name: update-snapshot
+
+# 每天 3 次（CST 06:00 / 12:00 / 18:00 = UTC 22:00 / 04:00 / 10:00）：
+# 扫描 AniList → 映射 → 校验 → 内容哈希去重，无变化不发布。
+# 探查成本 = 更新成本（AniList 无变更通知接口），哈希去重省的是发布侧。
+on:
+  schedule:
+    - cron: "0 22 * * *"
+    - cron: "0 4 * * *"
+    - cron: "0 10 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-snapshot
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build snapshot
+        id: build
+        run: node scripts/build.mjs | tee build.log && echo "result=$(tail -1 build.log | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+
+      - name: Publish
+        if: steps.build.outputs.result == 'CHANGED'
+        run: |
+          git config user.name "minibgm-schedule-bot"
+          git config user.email "minibgm-schedule-bot@users.noreply.github.com"
+          git add data/snapshot.json data/mappings.json
+          git commit -m "snapshot: $(tail -1 build.log)"
+          git push
+
+      - name: Purge jsDelivr cache
+        if: steps.build.outputs.result == 'CHANGED'
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/infinitezerone/minibgm-schedule-data@main/data/snapshot.json" || true
+
+      - name: Job summary
+        if: always()
+        run: tail -5 build.log >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
