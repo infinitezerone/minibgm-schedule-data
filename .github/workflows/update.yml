@@ -69,8 +69,20 @@ jobs:
         if: always()
         run: tail -8 build.log >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
 
-      # 哈希去重意味着可能长期无提交；临近 60 天不活跃阈值时自动补一次保活提交，
-      # 避免 GitHub 禁用定时工作流（数据每周都在变时它永远不会触发，纯保险）
+      # 哈希去重意味着可能长期无提交；临近 60 天不活跃阈值时自动补一次保活空提交，
+      # 避免 GitHub 禁用定时工作流（数据每周都在变时它永远不会触发，纯保险）。
+      # 原生实现而非第三方 action：账号 Actions 权限策略会拦第三方 action 下载。
       - name: Keepalive
         if: always()
-        uses: gautamkrishnar/keepalive-workflow@v2
+        run: |
+          last=$(git log -1 --format=%ct)
+          now=$(date +%s)
+          age=$(( (now - last) / 86400 ))
+          if [ "$age" -ge 50 ]; then
+            git config user.name "minibgm-schedule-bot"
+            git config user.email "minibgm-schedule-bot@users.noreply.github.com"
+            git commit --allow-empty -m "chore: keepalive（防 60 天不活跃禁用定时任务）"
+            git push
+          else
+            echo "最近提交 ${age} 天前，无需保活"
+          fi
