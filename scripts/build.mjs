@@ -289,10 +289,12 @@ function validate(snapshot, previous) {
   return errors;
 }
 
-// ---------- 7. 内容哈希（generatedAt 不参与，避免无变化重发） ----------
+// ---------- 7. 内容哈希 ----------
+// 只对 items 计算：window 是随运行时间滚动的生成参数，纳入会导致每班必判"变化"，
+// 去重失效；items 才是真值本体（窗口滑动造成的增量会如实反映在 items 里）。
 
 function contentHash(snapshot) {
-  const core = JSON.stringify({ schema: snapshot.schema, window: snapshot.window, items: snapshot.items });
+  const core = JSON.stringify({ schema: snapshot.schema, items: snapshot.items });
   return createHash("sha256").update(core).digest("hex");
 }
 
@@ -331,5 +333,6 @@ if (hash === previousHash) {
 
 writeFileSync(SNAPSHOT_FILE, JSON.stringify(snapshot, null, 2));
 writeFileSync(MAPPINGS_FILE, JSON.stringify(mappings, null, 2));
-console.log(`CHANGED ${hash}`);
 console.log(`条目 ${snapshot.items.length} | 事件 ${totalEps} | 新沉淀映射 ${Object.keys(mappings).length} 条 | 本轮未映射 ${unresolved.length}`);
+// 机器可读结果行必须最后输出（CI 以 tail -1 提取 CHANGED/UNCHANGED）
+console.log(`CHANGED ${hash}`);
