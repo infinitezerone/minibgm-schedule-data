@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-09-28T02:53:46.706Z",
+  "generatedAt": "2026-09-28T10:41:43.904Z",
   "window": {
-    "from": 1788749493,
-    "to": 1795747893
+    "from": 1788777624,
+    "to": 1795776024
   },
   "items": [
     {
@@ -1309,6 +1309,10 @@
         {
           "n": 158,
           "t": 1795168500
+        },
+        {
+          "n": 159,
+          "t": 1795773300
         }
       ]
     },
@@ -5556,6 +5560,10 @@
         {
           "n": 8,
           "t": 1795167600
+        },
+        {
+          "n": 9,
+          "t": 1795772400
         }
       ]
     },
@@ -6050,7 +6058,7 @@
       "countryOfOrigin": "JP",
       "format": "TV",
       "status": "NOT_YET_RELEASED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-8xUI10lVVhPY.jpg",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg",
       "airDate": "2026-10-03",
       "sites": [
         {
@@ -12277,6 +12285,10 @@
         {
           "n": 9,
           "t": 1795161600
+        },
+        {
+          "n": 10,
+          "t": 1795766400
         }
       ]
     },
