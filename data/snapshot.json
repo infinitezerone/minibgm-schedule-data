@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-09-27T15:38:09.245Z",
+  "generatedAt": "2026-09-28T00:15:29.110Z",
   "window": {
-    "from": 1788708969,
-    "to": 1795707369
+    "from": 1788740007,
+    "to": 1795738407
   },
   "items": [
     {
@@ -33,35 +33,7 @@
         },
         {
           "n": 1181,
-          "t": 1791123360
-        },
-        {
-          "n": 1182,
-          "t": 1791728160
-        },
-        {
-          "n": 1183,
-          "t": 1792332960
-        },
-        {
-          "n": 1184,
-          "t": 1792937760
-        },
-        {
-          "n": 1185,
-          "t": 1793542560
-        },
-        {
-          "n": 1186,
-          "t": 1794147360
-        },
-        {
-          "n": 1187,
-          "t": 1794752160
-        },
-        {
-          "n": 1188,
-          "t": 1795356960
+          "t": 1798985760
         }
       ]
     },
@@ -4411,7 +4383,7 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "ONA",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": null,
       "isAdult": false,
       "startYear": 2026,
@@ -4676,25 +4648,6 @@
         {
           "n": 4,
           "t": 1793361600
-        }
-      ]
-    },
-    {
-      "anilistId": 208685,
-      "bgmId": 633354,
-      "title": "同じゼミの染谷さんがセクシー女優だった話。",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": null,
-      "isAdult": true,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 8,
-          "t": 1788710400
         }
       ]
     },
@@ -5306,6 +5259,10 @@
         {
           "n": 7,
           "t": 1795105680
+        },
+        {
+          "n": 8,
+          "t": 1795710480
         }
       ]
     },
@@ -5936,16 +5893,12 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "ONA",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": null,
       "isAdult": false,
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1788732000
-        },
         {
           "n": 2,
           "t": 1789336800
