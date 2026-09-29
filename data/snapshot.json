@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-09-29T10:29:29.694Z",
+  "generatedAt": "2026-09-29T16:15:21.126Z",
   "window": {
-    "from": 1788863290,
-    "to": 1795861690
+    "from": 1788884038,
+    "to": 1795882438
   },
   "items": [
     {
@@ -1002,10 +1002,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 10,
-          "t": 1788867000
-        },
         {
           "n": 11,
           "t": 1789471800
@@ -2282,90 +2278,6 @@
       ]
     },
     {
-      "anilistId": 177699,
-      "bgmId": 496276,
-      "title": "攻殻機動隊 THE GHOST IN THE SHELL",
-      "titleCn": "攻壳机动队 THE GHOST IN THE SHELL",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-VHMezCGf48nM.jpg",
-      "airDate": "2026-07-07",
-      "sites": [
-        {
-          "site": "mal",
-          "id": "58929"
-        },
-        {
-          "site": "anidb",
-          "id": "18652"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/255358"
-        },
-        {
-          "site": "nicovideo",
-          "id": "theghostintheshell",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "420-80",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0305846",
-          "begin": "2026-07-08T14:30:00.000Z",
-          "broadcast": "R/2026-07-08T14:30:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29115",
-          "begin": "2026-07-08T14:30:00.000Z",
-          "broadcast": "R/2026-07-08T14:30:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "4029"
-        },
-        {
-          "site": "prime",
-          "id": "B0H43XV99M",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715388b56eb30ad03fd4fb"
-        },
-        {
-          "site": "acgnx",
-          "id": "攻殼機動隊"
-        },
-        {
-          "site": "anibt",
-          "id": "496276"
-        },
-        {
-          "site": "dmhy",
-          "id": "攻殼機動隊"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 10,
-          "t": 1788876000
-        }
-      ]
-    },
-    {
       "anilistId": 178083,
       "bgmId": 499474,
       "title": "東京リベンジャーズ 三天戦争編",
@@ -2904,6 +2816,10 @@
         {
           "n": 8,
           "t": 1795262400
+        },
+        {
+          "n": 9,
+          "t": 1795867200
         }
       ]
     },
@@ -4178,7 +4094,7 @@
       "titleCn": "与你相恋到生命尽头",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
       "airDate": "2026-07-07",
       "sites": [
@@ -4268,10 +4184,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 10,
-          "t": 1788870600
-        },
-        {
           "n": 11,
           "t": 1789475400
         },
@@ -4331,6 +4243,10 @@
         {
           "n": 8,
           "t": 1795258800
+        },
+        {
+          "n": 9,
+          "t": 1795863600
         }
       ]
     },
@@ -4397,6 +4313,10 @@
         {
           "n": 8,
           "t": 1795266000
+        },
+        {
+          "n": 9,
+          "t": 1795870800
         }
       ]
     },
@@ -5389,6 +5309,10 @@
         {
           "n": 8,
           "t": 1795275000
+        },
+        {
+          "n": 9,
+          "t": 1795879800
         }
       ]
     },
@@ -6125,6 +6049,10 @@
         {
           "n": 8,
           "t": 1795269600
+        },
+        {
+          "n": 9,
+          "t": 1795874400
         }
       ]
     },
@@ -6718,10 +6646,6 @@
       "startYear": 2026,
       "startMonth": 6,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1788872400
-        },
         {
           "n": 12,
           "t": 1789477200
@@ -7676,6 +7600,10 @@
         {
           "n": 8,
           "t": 1795271400
+        },
+        {
+          "n": 9,
+          "t": 1795876200
         }
       ]
     },
@@ -9185,6 +9113,10 @@
         {
           "n": 7,
           "t": 1795272300
+        },
+        {
+          "n": 8,
+          "t": 1795877100
         }
       ]
     },
@@ -9638,6 +9570,10 @@
         {
           "n": 9,
           "t": 1795267800
+        },
+        {
+          "n": 10,
+          "t": 1795872600
         }
       ]
     },
@@ -11719,6 +11655,10 @@
         {
           "n": 8,
           "t": 1795271400
+        },
+        {
+          "n": 9,
+          "t": 1795876200
         }
       ]
     },
@@ -11907,10 +11847,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 10,
-          "t": 1788877800
-        },
-        {
           "n": 11,
           "t": 1789482600
         },
@@ -11979,6 +11915,10 @@
         {
           "n": 8,
           "t": 1795276560
+        },
+        {
+          "n": 9,
+          "t": 1795881360
         }
       ]
     },
@@ -12976,10 +12916,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 9,
-          "t": 1788879600
-        },
         {
           "n": 10,
           "t": 1788966000
