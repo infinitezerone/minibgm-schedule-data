@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-09-29T16:15:21.126Z",
+  "generatedAt": "2026-09-30T00:58:10.391Z",
   "window": {
-    "from": 1788884038,
-    "to": 1795882438
+    "from": 1788915411,
+    "to": 1795913811
   },
   "items": [
     {
@@ -4831,7 +4831,7 @@
       "titleCn": "会动的！从前从前有只猫 世界喵童话",
       "countryOfOrigin": "JP",
       "format": "ONA",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg",
       "airDate": "2025-10-14",
       "sites": [
@@ -8718,6 +8718,10 @@
         {
           "n": 8,
           "t": 1795278600
+        },
+        {
+          "n": 9,
+          "t": 1795883400
         }
       ]
     },
@@ -9068,6 +9072,10 @@
         {
           "n": 43,
           "t": 1795303800
+        },
+        {
+          "n": 44,
+          "t": 1795908600
         }
       ]
     },
@@ -9833,10 +9841,6 @@
       "startMonth": 12,
       "episodes": [
         {
-          "n": 36,
-          "t": 1788908400
-        },
-        {
           "n": 37,
           "t": 1789513200
         },
@@ -10444,6 +10448,10 @@
         {
           "n": 34,
           "t": 1795307400
+        },
+        {
+          "n": 35,
+          "t": 1795912200
         }
       ]
     },
@@ -10939,10 +10947,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 10,
-          "t": 1788885300
-        },
         {
           "n": 11,
           "t": 1789490100
