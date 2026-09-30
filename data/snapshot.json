@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-09-30T00:58:10.391Z",
+  "generatedAt": "2026-09-30T10:21:20.014Z",
   "window": {
-    "from": 1788915411,
-    "to": 1795913811
+    "from": 1788949204,
+    "to": 1795947604
   },
   "items": [
     {
@@ -508,6 +508,10 @@
         {
           "n": 2859,
           "t": 1795339800
+        },
+        {
+          "n": 2860,
+          "t": 1795944600
         }
       ]
     },
@@ -903,6 +907,10 @@
         {
           "n": 393,
           "t": 1795338000
+        },
+        {
+          "n": 394,
+          "t": 1795942800
         }
       ]
     },
@@ -5141,6 +5149,10 @@
         {
           "n": 8,
           "t": 1795332600
+        },
+        {
+          "n": 9,
+          "t": 1795937400
         }
       ]
     },
@@ -9704,27 +9716,6 @@
       ]
     },
     {
-      "anilistId": 204561,
-      "bgmId": null,
-      "title": "魔法のプリンセス　ミンキーモモ 憧れの夢へ　まごころの二重奏（デュオ）",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "OVA",
-      "status": "NOT_YET_RELEASED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204561-imS3wIfV2xoa.jpg",
-      "airDate": "2026-11-01",
-      "sites": [],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 11,
-      "episodes": [
-        {
-          "n": 1,
-          "t": 1794495600
-        }
-      ]
-    },
-    {
       "anilistId": 204650,
       "bgmId": 617948,
       "title": "桃源暗鬼 日光・華厳の滝編",
@@ -12688,6 +12679,10 @@
         {
           "n": 7,
           "t": 1795336200
+        },
+        {
+          "n": 8,
+          "t": 1795941000
         }
       ]
     },
