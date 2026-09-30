@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-09-30T10:21:20.014Z",
+  "generatedAt": "2026-09-30T16:10:47.794Z",
   "window": {
-    "from": 1788949204,
-    "to": 1795947604
+    "from": 1788970161,
+    "to": 1795968561
   },
   "items": [
     {
@@ -1123,10 +1123,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 10,
-          "t": 1788957000
-        },
-        {
           "n": 11,
           "t": 1789561800
         },
@@ -1339,7 +1335,7 @@
       "titleCn": "转生就是剑 第二季",
       "countryOfOrigin": "JP",
       "format": "ONA",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
       "airDate": "2026-10-07",
       "sites": [
@@ -1492,10 +1488,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 10,
-          "t": 1788964200
-        },
         {
           "n": 11,
           "t": 1789569000
@@ -3560,6 +3552,10 @@
         {
           "n": 9,
           "t": 1795357800
+        },
+        {
+          "n": 10,
+          "t": 1795962600
         }
       ]
     },
@@ -3824,6 +3820,10 @@
         {
           "n": 8,
           "t": 1795350600
+        },
+        {
+          "n": 9,
+          "t": 1795955400
         }
       ]
     },
@@ -4897,10 +4897,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 48,
-          "t": 1788951600
-        },
-        {
           "n": 49,
           "t": 1789556400
         },
@@ -4961,7 +4957,7 @@
       "titleCn": "Re：从零开始的异世界生活 第四季 夺还篇",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
       "airDate": "2026-08-12",
       "sites": [
@@ -5052,10 +5048,6 @@
       "startYear": 2026,
       "startMonth": 4,
       "episodes": [
-        {
-          "n": 16,
-          "t": 1788958800
-        },
         {
           "n": 17,
           "t": 1789563600
@@ -5387,78 +5379,10 @@
         {
           "n": 8,
           "t": 1795356000
-        }
-      ]
-    },
-    {
-      "anilistId": 192800,
-      "bgmId": 558064,
-      "title": "ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！",
-      "titleCn": "女主角？圣女？不，我是杂役女仆（自豪）！",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg",
-      "airDate": "2026-07-01",
-      "sites": [
-        {
-          "site": "mal",
-          "id": "61686"
         },
         {
-          "site": "anidb",
-          "id": "19327"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/286346"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00378069",
-          "begin": "2026-06-24T00:00:00.000Z",
-          "broadcast": "R/2026-06-24T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29038",
-          "begin": "2026-06-24T13:30:00.000Z",
-          "broadcast": "R/2026-06-24T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "54-121",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "mikan",
-          "id": "3980"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a71538ab56eb30ad03fd507"
-        },
-        {
-          "site": "acgnx",
-          "id": "雜役女僕"
-        },
-        {
-          "site": "anibt",
-          "id": "558064"
-        },
-        {
-          "site": "dmhy",
-          "id": "雜役女僕"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 6,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1788960600
+          "n": 9,
+          "t": 1795960800
         }
       ]
     },
@@ -5741,10 +5665,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 10,
-          "t": 1788965160
-        },
         {
           "n": 11,
           "t": 1789569960
@@ -6761,10 +6681,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 10,
-          "t": 1788964200
-        },
-        {
           "n": 11,
           "t": 1789569000
         },
@@ -6914,72 +6830,6 @@
         {
           "n": 24,
           "t": 1789914600
-        }
-      ]
-    },
-    {
-      "anilistId": 197715,
-      "bgmId": 579787,
-      "title": "LV999の村人",
-      "titleCn": "LV999的村民",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197715-KLFLxU24U1uL.png",
-      "airDate": "2026-07-01",
-      "sites": [
-        {
-          "site": "mal",
-          "id": "62322"
-        },
-        {
-          "site": "anidb",
-          "id": "19534"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/298994"
-        },
-        {
-          "site": "abema",
-          "id": "194-84",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00371878",
-          "begin": "2026-07-01T00:00:00.000Z",
-          "broadcast": "R/2026-07-01T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "4002"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a71538bb56eb30ad03fd50f"
-        },
-        {
-          "site": "acgnx",
-          "id": "LV999 村民"
-        },
-        {
-          "site": "anibt",
-          "id": "579787"
-        },
-        {
-          "site": "dmhy",
-          "id": "LV999 村民"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1788966000
         }
       ]
     },
@@ -7434,7 +7284,7 @@
       "titleCn": "克雷瓦提斯 第二季 -魔兽之王与虚伪的勇者传承-",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg",
       "airDate": "2026-07-08",
       "sites": [
@@ -7535,10 +7385,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 10,
-          "t": 1788955200
-        },
         {
           "n": 11,
           "t": 1789560000
@@ -7730,7 +7576,7 @@
       "titleCn": "新网球王子 U-17 世界杯 决赛成员选拔赛",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png",
       "airDate": "2026-09-30",
       "sites": [
@@ -8014,6 +7860,10 @@
         {
           "n": 8,
           "t": 1795358700
+        },
+        {
+          "n": 9,
+          "t": 1795963500
         }
       ]
     },
@@ -8398,6 +8248,10 @@
         {
           "n": 8,
           "t": 1795357800
+        },
+        {
+          "n": 9,
+          "t": 1795962600
         }
       ]
     },
@@ -8676,6 +8530,10 @@
         {
           "n": 8,
           "t": 1795352400
+        },
+        {
+          "n": 9,
+          "t": 1795957200
         }
       ]
     },
@@ -9949,6 +9807,10 @@
         {
           "n": 7,
           "t": 1795357800
+        },
+        {
+          "n": 8,
+          "t": 1795962600
         }
       ]
     },
@@ -10488,6 +10350,10 @@
         {
           "n": 7,
           "t": 1795356960
+        },
+        {
+          "n": 8,
+          "t": 1795961760
         }
       ]
     },
@@ -10784,10 +10650,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 10,
-          "t": 1788968640
-        },
         {
           "n": 11,
           "t": 1789573440
@@ -11318,6 +11180,10 @@
         {
           "n": 8,
           "t": 1795354200
+        },
+        {
+          "n": 9,
+          "t": 1795959000
         }
       ]
     },
@@ -11367,6 +11233,10 @@
         {
           "n": 8,
           "t": 1795359600
+        },
+        {
+          "n": 9,
+          "t": 1795964400
         }
       ]
     },
@@ -11753,10 +11623,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 12,
-          "t": 1788969600
-        },
         {
           "n": 13,
           "t": 1789574400
@@ -12243,10 +12109,6 @@
       "startMonth": 4,
       "episodes": [
         {
-          "n": 16,
-          "t": 1788960600
-        },
-        {
           "n": 17,
           "t": 1789565400
         },
@@ -12505,6 +12367,10 @@
         {
           "n": 9,
           "t": 1795357800
+        },
+        {
+          "n": 10,
+          "t": 1795962600
         }
       ]
     },
@@ -12775,10 +12641,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 10,
-          "t": 1788958800
-        },
-        {
           "n": 11,
           "t": 1789563600
         },
@@ -12916,10 +12778,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 10,
-          "t": 1788966000
-        },
-        {
           "n": 11,
           "t": 1789052400
         },
@@ -12944,10 +12802,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 10,
-          "t": 1788966000
-        },
         {
           "n": 11,
           "t": 1789570800
@@ -13079,6 +12933,10 @@
         {
           "n": 9,
           "t": 1795354200
+        },
+        {
+          "n": 10,
+          "t": 1795959000
         }
       ]
     },
