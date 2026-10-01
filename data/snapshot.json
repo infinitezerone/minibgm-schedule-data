@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-01T01:00:32.678Z",
+  "generatedAt": "2026-10-01T10:47:42.371Z",
   "window": {
-    "from": 1789001952,
-    "to": 1796000352
+    "from": 1789037186,
+    "to": 1796035586
   },
   "items": [
     {
@@ -4943,6 +4943,10 @@
         {
           "n": 19,
           "t": 1793415600
+        },
+        {
+          "n": 20,
+          "t": 1796007600
         }
       ]
     },
@@ -10599,7 +10603,7 @@
       "titleCn": "雷霆三人行",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207254-StcuNpmZTDCL.jpg",
       "airDate": "2026-07-08",
       "sites": [
@@ -11421,10 +11425,6 @@
       "startYear": 2026,
       "startMonth": 3,
       "episodes": [
-        {
-          "n": 25,
-          "t": 1789032600
-        },
         {
           "n": 26,
           "t": 1789637400
