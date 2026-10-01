@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-01T10:47:42.371Z",
+  "generatedAt": "2026-10-01T16:48:14.051Z",
   "window": {
-    "from": 1789037186,
-    "to": 1796035586
+    "from": 1789058817,
+    "to": 1796057217
   },
   "items": [
     {
@@ -789,10 +789,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 10,
-          "t": 1789050600
-        },
         {
           "n": 11,
           "t": 1789655400
@@ -2710,10 +2706,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789053960
-        },
-        {
           "n": 12,
           "t": 1789658760
         },
@@ -4073,10 +4065,6 @@
       "startYear": 2025,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 49,
-          "t": 1789045200
-        },
         {
           "n": 50,
           "t": 1789650000
@@ -5546,72 +5534,6 @@
       ]
     },
     {
-      "anilistId": 194389,
-      "bgmId": 564980,
-      "title": "コアラ絵日記",
-      "titleCn": "考拉绘日记",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png",
-      "airDate": "2025-10-01",
-      "sites": [
-        {
-          "site": "gamer_hk",
-          "id": "145796",
-          "begin": "2025-10-02T11:00:00.000Z",
-          "broadcast": "R/2025-10-02T11:00:00.000Z/P7D"
-        },
-        {
-          "site": "ani_one",
-          "id": "PLC18xlbCdwtR3berW_tcmNyeLehosfTjq",
-          "begin": "2025-10-02T11:00:06.000Z",
-          "broadcast": "R/2025-10-02T11:00:06.000Z/P7D"
-        },
-        {
-          "site": "ani_one_asia",
-          "id": "PLxSscENEp7Jg8-ovZUfZSZYidXFSwIpA9",
-          "begin": "2025-10-02T11:00:06.000Z",
-          "broadcast": "R/2025-10-02T11:00:06.000Z/P7D"
-        },
-        {
-          "site": "gamer",
-          "id": "145796",
-          "begin": "2025-10-02T11:00:00.000Z",
-          "broadcast": "R/2025-10-02T11:00:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "3801"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/296933"
-        },
-        {
-          "site": "mal",
-          "id": "62005"
-        },
-        {
-          "site": "anidb",
-          "id": "19637"
-        },
-        {
-          "site": "anibt",
-          "id": "564980"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2025,
-      "startMonth": 10,
-      "episodes": [
-        {
-          "n": 49,
-          "t": 1789038000
-        }
-      ]
-    },
-    {
       "anilistId": 194829,
       "bgmId": 565701,
       "title": "片田舎のおっさん、剣聖になるII",
@@ -6393,10 +6315,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 10,
-          "t": 1789052160
-        },
-        {
           "n": 11,
           "t": 1789656960
         },
@@ -6928,114 +6846,6 @@
         {
           "n": 26,
           "t": 1790607600
-        }
-      ]
-    },
-    {
-      "anilistId": 198376,
-      "bgmId": 583729,
-      "title": "バンドリ！ ゆめ∞みた",
-      "titleCn": "BanG Dream! YUME∞MITA",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198376-sc5qcFv0RSH9.jpg",
-      "airDate": "2026-07-02",
-      "sites": [
-        {
-          "site": "mal",
-          "id": "62430"
-        },
-        {
-          "site": "anidb",
-          "id": "19566"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/300112"
-        },
-        {
-          "site": "nicovideo",
-          "id": "bang-dream-yumemita",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "gamer",
-          "id": "147133",
-          "begin": "2026-07-02T14:00:00.000Z",
-          "broadcast": "R/2026-07-02T14:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "147133",
-          "begin": "2026-07-02T14:00:00.000Z",
-          "broadcast": "R/2026-07-02T14:00:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0305847",
-          "begin": "2026-07-02T14:00:00.000Z",
-          "broadcast": "R/2026-07-02T14:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29021",
-          "begin": "2026-07-02T14:00:00.000Z",
-          "broadcast": "R/2026-07-02T14:00:00.000Z/P7D"
-        },
-        {
-          "site": "muse_tw",
-          "id": "PL12UaAf_xzfpqZyzDYDpR_KW9PaGTUQz2",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "muse_hk",
-          "id": "PLuxqoToY7UciW36BXkTooMFAgu5YVZMcb",
-          "begin": "2026-07-09T14:00:07.000Z",
-          "broadcast": "R/2026-07-09T14:00:07.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "283-38",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "mikan",
-          "id": "4038"
-        },
-        {
-          "site": "prime",
-          "id": "B0GZCYSRGW",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a71538db56eb30ad03fd51f"
-        },
-        {
-          "site": "acgnx",
-          "id": "BanG Dream"
-        },
-        {
-          "site": "anibt",
-          "id": "583729"
-        },
-        {
-          "site": "dmhy",
-          "id": "BanG Dream"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 13,
-          "t": 1789048800
         }
       ]
     },
@@ -9237,10 +9047,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789043400
-        },
-        {
           "n": 12,
           "t": 1789648200
         },
@@ -9296,6 +9102,10 @@
         {
           "n": 8,
           "t": 1795442400
+        },
+        {
+          "n": 9,
+          "t": 1796047200
         }
       ]
     },
@@ -9564,10 +9374,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789057680
-        },
-        {
           "n": 12,
           "t": 1789662480
         }
@@ -9732,31 +9538,6 @@
         {
           "n": 47,
           "t": 1795561200
-        }
-      ]
-    },
-    {
-      "anilistId": 205068,
-      "bgmId": 619058,
-      "title": "원룸 조교님",
-      "titleCn": "套房里的助教大人",
-      "countryOfOrigin": "KR",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205068-KPJVtEp9imju.jpg",
-      "airDate": "2026-08-01",
-      "sites": [],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 8,
-      "episodes": [
-        {
-          "n": 6,
-          "t": 1789052400
-        },
-        {
-          "n": 7,
-          "t": 1789052400
         }
       ]
     },
@@ -10009,7 +9790,7 @@
       "titleCn": "FX战士久留美",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png",
       "airDate": "2026-10-01",
       "sites": [
@@ -10500,10 +10281,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 10,
-          "t": 1789054200
-        },
-        {
           "n": 11,
           "t": 1789659000
         },
@@ -10572,6 +10349,10 @@
         {
           "n": 8,
           "t": 1795437000
+        },
+        {
+          "n": 9,
+          "t": 1796041800
         }
       ]
     },
@@ -10843,96 +10624,6 @@
         {
           "n": 21,
           "t": 1795538100
-        }
-      ]
-    },
-    {
-      "anilistId": 208044,
-      "bgmId": 630163,
-      "title": "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～",
-      "titleCn": "落第贤者的学院无双～第二回转生，S等级作弊魔术师冒险记～",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208044-Pm2UhvApQFUh.jpg",
-      "airDate": "2026-07-01",
-      "sites": [
-        {
-          "site": "mal",
-          "id": "63508"
-        },
-        {
-          "site": "anidb",
-          "id": "19896"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/314554"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00378115",
-          "begin": "2026-06-25T00:00:00.000Z",
-          "broadcast": "R/2026-06-25T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "nicovideo",
-          "id": "rakudai-anime",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0305814",
-          "begin": "2026-06-25T15:00:00.000Z",
-          "broadcast": "R/2026-06-25T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29039",
-          "begin": "2026-06-25T15:00:00.000Z",
-          "broadcast": "R/2026-06-25T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "11-84",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "mikan",
-          "id": "3972"
-        },
-        {
-          "site": "prime",
-          "id": "B0H4DZDJD3",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a71538bb56eb30ad03fd511"
-        },
-        {
-          "site": "acgnx",
-          "id": "落第賢者"
-        },
-        {
-          "site": "anibt",
-          "id": "630163"
-        },
-        {
-          "site": "dmhy",
-          "id": "落第賢者"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 6,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789052400
         }
       ]
     },
@@ -12386,10 +12077,6 @@
       "startMonth": 9,
       "episodes": [
         {
-          "n": 1,
-          "t": 1789052400
-        },
-        {
           "n": 2,
           "t": 1791471600
         },
@@ -12707,7 +12394,7 @@
       "titleCn": "冰之城墙 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png",
       "airDate": "2026-10-01",
       "sites": [
@@ -12722,39 +12409,39 @@
       "episodes": [
         {
           "n": 1,
-          "t": 1790823360
+          "t": 1790866560
         },
         {
           "n": 2,
-          "t": 1791428160
+          "t": 1791471360
         },
         {
           "n": 3,
-          "t": 1792032960
+          "t": 1792076160
         },
         {
           "n": 4,
-          "t": 1792637760
+          "t": 1792680960
         },
         {
           "n": 5,
-          "t": 1793242560
+          "t": 1793285760
         },
         {
           "n": 6,
-          "t": 1793847360
+          "t": 1793890560
         },
         {
           "n": 7,
-          "t": 1794452160
+          "t": 1794495360
         },
         {
           "n": 8,
-          "t": 1795056960
+          "t": 1795100160
         },
         {
           "n": 9,
-          "t": 1795661760
+          "t": 1795704960
         }
       ]
     },
@@ -12773,10 +12460,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789052400
-        },
         {
           "n": 12,
           "t": 1789527600
