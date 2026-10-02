@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-02T01:15:12.452Z",
+  "generatedAt": "2026-10-02T10:22:29.778Z",
   "window": {
-    "from": 1789089231,
-    "to": 1796087631
+    "from": 1789122065,
+    "to": 1796120465
   },
   "items": [
     {
@@ -1278,10 +1278,6 @@
       "startYear": 2023,
       "startMonth": 4,
       "episodes": [
-        {
-          "n": 149,
-          "t": 1789120500
-        },
         {
           "n": 150,
           "t": 1789725300
@@ -5385,7 +5381,7 @@
       "titleCn": "神秘面包小子",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg",
       "airDate": "2026-10-02",
       "sites": [],
