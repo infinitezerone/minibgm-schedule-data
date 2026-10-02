@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-02T10:22:29.778Z",
+  "generatedAt": "2026-10-02T16:02:38.800Z",
   "window": {
-    "from": 1789122065,
-    "to": 1796120465
+    "from": 1789142471,
+    "to": 1796140871
   },
   "items": [
     {
@@ -1641,11 +1641,11 @@
         },
         {
           "n": 135,
-          "t": 1790935200
+          "t": 1791540000
         },
         {
           "n": 136,
-          "t": 1792144800
+          "t": 1792749600
         },
         {
           "n": 137,
@@ -2912,10 +2912,6 @@
       "startMonth": 4,
       "episodes": [
         {
-          "n": 22,
-          "t": 1789135200
-        },
-        {
           "n": 23,
           "t": 1789740000
         },
@@ -2932,7 +2928,7 @@
       "titleCn": "擅长逃跑的殿下 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-DymJCBpkR4qs.jpg",
       "airDate": "2026-07-17",
       "sites": [
@@ -3015,10 +3011,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 9,
-          "t": 1789137000
-        },
         {
           "n": 10,
           "t": 1789741800
@@ -4487,6 +4479,10 @@
         {
           "n": 8,
           "t": 1795528800
+        },
+        {
+          "n": 9,
+          "t": 1796133600
         }
       ]
     },
@@ -4802,10 +4798,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 10,
-          "t": 1789137000
-        },
         {
           "n": 11,
           "t": 1789741800
@@ -5604,7 +5596,7 @@
       "titleCn": "药屋少女的呢喃 第三季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg",
       "airDate": "2026-10-02",
       "sites": [
@@ -6403,10 +6395,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789133400
-        },
-        {
           "n": 12,
           "t": 1789738200
         }
@@ -7084,6 +7072,10 @@
         {
           "n": 7,
           "t": 1795528800
+        },
+        {
+          "n": 8,
+          "t": 1796133600
         }
       ]
     },
@@ -7824,10 +7816,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789133400
-        },
-        {
           "n": 12,
           "t": 1789738200
         }
@@ -7986,6 +7974,10 @@
         {
           "n": 8,
           "t": 1795528800
+        },
+        {
+          "n": 9,
+          "t": 1796133600
         }
       ]
     },
@@ -8626,10 +8618,6 @@
       "startMonth": 4,
       "episodes": [
         {
-          "n": 23,
-          "t": 1789137000
-        },
-        {
           "n": 24,
           "t": 1789741800
         }
@@ -8756,6 +8744,39 @@
         {
           "n": 44,
           "t": 1795908600
+        }
+      ]
+    },
+    {
+      "anilistId": 203275,
+      "bgmId": 612608,
+      "title": "デモンズ・クレスト",
+      "titleCn": "恶魔纹章",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+      "airDate": "2026-11-01",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 11,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1793930400
+        },
+        {
+          "n": 2,
+          "t": 1794535200
+        },
+        {
+          "n": 3,
+          "t": 1795140000
+        },
+        {
+          "n": 4,
+          "t": 1795744800
         }
       ]
     },
@@ -8904,10 +8925,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789138800
-        },
         {
           "n": 12,
           "t": 1789743600
@@ -9386,7 +9403,7 @@
       "titleCn": "桃源暗鬼 ～日光・华严之泷篇～",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-nvK5CuG60WGY.jpg",
       "airDate": "2026-10-02",
       "sites": [
@@ -10193,6 +10210,10 @@
         {
           "n": 8,
           "t": 1795523160
+        },
+        {
+          "n": 9,
+          "t": 1796127960
         }
       ]
     },
@@ -10500,6 +10521,10 @@
         {
           "n": 8,
           "t": 1795532400
+        },
+        {
+          "n": 9,
+          "t": 1796137200
         }
       ]
     },
@@ -10986,6 +11011,10 @@
         {
           "n": 8,
           "t": 1795525200
+        },
+        {
+          "n": 9,
+          "t": 1796130000
         }
       ]
     },
@@ -11309,6 +11338,59 @@
       ]
     },
     {
+      "anilistId": 209709,
+      "bgmId": null,
+      "title": "しろたん",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png",
+      "airDate": "2026-10-01",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791012540
+        },
+        {
+          "n": 2,
+          "t": 1791617340
+        },
+        {
+          "n": 3,
+          "t": 1792222140
+        },
+        {
+          "n": 4,
+          "t": 1792826940
+        },
+        {
+          "n": 5,
+          "t": 1793431740
+        },
+        {
+          "n": 6,
+          "t": 1794036540
+        },
+        {
+          "n": 7,
+          "t": 1794641340
+        },
+        {
+          "n": 8,
+          "t": 1795246140
+        },
+        {
+          "n": 9,
+          "t": 1795850940
+        }
+      ]
+    },
+    {
       "anilistId": 209800,
       "bgmId": 612697,
       "title": "鎧真伝サムライトルーパー 第2クール",
@@ -11579,10 +11661,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789142400
-        },
         {
           "n": 12,
           "t": 1789747200
@@ -11968,6 +12046,59 @@
         {
           "n": 2,
           "t": 1795705200
+        }
+      ]
+    },
+    {
+      "anilistId": 212799,
+      "bgmId": 657084,
+      "title": "マロニエ王国の七人の騎士",
+      "titleCn": "七叶树王国的七名骑士",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212799-n7WDdic7IL1z.png",
+      "airDate": "2026-10-03",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791019500
+        },
+        {
+          "n": 2,
+          "t": 1791624300
+        },
+        {
+          "n": 3,
+          "t": 1792229100
+        },
+        {
+          "n": 4,
+          "t": 1792833900
+        },
+        {
+          "n": 5,
+          "t": 1793438700
+        },
+        {
+          "n": 6,
+          "t": 1794043500
+        },
+        {
+          "n": 7,
+          "t": 1794648300
+        },
+        {
+          "n": 8,
+          "t": 1795253100
+        },
+        {
+          "n": 9,
+          "t": 1795857900
         }
       ]
     },
@@ -12751,7 +12882,7 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg",
       "airDate": "2026-10-01",
       "sites": [],
