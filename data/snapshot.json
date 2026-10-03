@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-03T00:53:34.060Z",
+  "generatedAt": "2026-10-03T09:44:44.675Z",
   "window": {
-    "from": 1789174329,
-    "to": 1796172729
+    "from": 1789206198,
+    "to": 1796204598
   },
   "items": [
     {
@@ -359,10 +359,6 @@
       "startMonth": 4,
       "episodes": [
         {
-          "n": 1352,
-          "t": 1789198200
-        },
-        {
           "n": 1353,
           "t": 1789803000
         },
@@ -587,10 +583,6 @@
       "startYear": 2005,
       "startMonth": 4,
       "episodes": [
-        {
-          "n": 932,
-          "t": 1789200000
-        },
         {
           "n": 933,
           "t": 1789804800
@@ -1916,7 +1908,7 @@
       "titleCn": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
       "airDate": "2026-04-04",
       "sites": [
@@ -2005,10 +1997,6 @@
       "startYear": 2026,
       "startMonth": 4,
       "episodes": [
-        {
-          "n": 21,
-          "t": 1789201800
-        },
         {
           "n": 22,
           "t": 1789806600
@@ -3249,10 +3237,6 @@
       "startYear": 2026,
       "startMonth": 4,
       "episodes": [
-        {
-          "n": 22,
-          "t": 1789205160
-        },
         {
           "n": 23,
           "t": 1789809960
@@ -11356,7 +11340,7 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png",
       "airDate": "2026-10-01",
       "sites": [],
@@ -12068,7 +12052,7 @@
       "titleCn": "七叶树王国的七名骑士",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212799-n7WDdic7IL1z.png",
       "airDate": "2026-10-03",
       "sites": [],
@@ -12890,7 +12874,7 @@
     {
       "anilistId": 216895,
       "bgmId": 701782,
-      "title": "蒼き伝承 ウェルシュ＆シェダー",
+      "title": "蒼き伝承 ウェルシュ&シェーダー",
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "TV",
