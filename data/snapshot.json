@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-02T16:02:38.800Z",
+  "generatedAt": "2026-10-03T00:53:34.060Z",
   "window": {
-    "from": 1789142471,
-    "to": 1796140871
+    "from": 1789174329,
+    "to": 1796172729
   },
   "items": [
     {
@@ -2280,7 +2280,7 @@
       "titleCn": "东京复仇者 三天战争篇",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
       "airDate": "2026-10-02",
       "sites": [
@@ -2594,6 +2594,10 @@
         {
           "n": 7,
           "t": 1795538700
+        },
+        {
+          "n": 8,
+          "t": 1796143500
         }
       ]
     },
@@ -9555,6 +9559,10 @@
         {
           "n": 47,
           "t": 1795561200
+        },
+        {
+          "n": 48,
+          "t": 1796166000
         }
       ]
     },
@@ -10649,6 +10657,10 @@
         {
           "n": 21,
           "t": 1795538100
+        },
+        {
+          "n": 22,
+          "t": 1796142900
         }
       ]
     },
@@ -12791,7 +12803,7 @@
       "titleCn": "Keroro军曹☆",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-9CXz04CEmXOi.png",
       "airDate": "2026-10-03",
       "sites": [
