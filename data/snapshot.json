@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-03T09:44:44.675Z",
+  "generatedAt": "2026-10-03T14:29:18.147Z",
   "window": {
-    "from": 1789206198,
-    "to": 1796204598
+    "from": 1789223270,
+    "to": 1796221670
   },
   "items": [
     {
@@ -1191,6 +1191,10 @@
         {
           "n": 8,
           "t": 1795609800
+        },
+        {
+          "n": 9,
+          "t": 1796214600
         }
       ]
     },
@@ -2152,6 +2156,10 @@
         {
           "n": 8,
           "t": 1795615200
+        },
+        {
+          "n": 9,
+          "t": 1796220000
         }
       ]
     },
@@ -2750,7 +2758,7 @@
       "titleCn": "罗梅莉亚战记",
       "countryOfOrigin": "JP",
       "format": "ONA",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png",
       "airDate": "2026-10-05",
       "sites": [
@@ -3606,10 +3614,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 8,
-          "t": 1789221600
-        },
-        {
           "n": 9,
           "t": 1792418400
         },
@@ -3858,120 +3862,6 @@
       ]
     },
     {
-      "anilistId": 186863,
-      "bgmId": 538760,
-      "title": "猫と竜",
-      "titleCn": "猫与龙",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186863-AO4efoB8HuzA.png",
-      "airDate": "2026-07-04",
-      "sites": [
-        {
-          "site": "mal",
-          "id": "61048"
-        },
-        {
-          "site": "anidb",
-          "id": "19172"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/284029"
-        },
-        {
-          "site": "gamer",
-          "id": "143920",
-          "begin": "2026-06-27T13:00:00.000Z",
-          "broadcast": "R/2026-06-27T13:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "143920",
-          "begin": "2026-06-27T13:00:00.000Z",
-          "broadcast": "R/2026-06-27T13:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "54-122",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "nicovideo",
-          "id": "nekoryuu-pr",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "danime",
-          "id": "29051",
-          "begin": "2026-06-27T12:30:00.000Z",
-          "broadcast": "R/2026-06-27T12:30:00.000Z/P7D"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00378117",
-          "begin": "2026-06-27T00:00:00.000Z",
-          "broadcast": "R/2026-06-27T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "ani_one",
-          "id": "PLSJwhEvYRXvY",
-          "begin": "2026-07-04T13:00:07.000Z",
-          "broadcast": "R/2026-07-04T13:00:07.000Z/P7D"
-        },
-        {
-          "site": "ani_one_asia",
-          "id": "PLW7w7NrGJ9As",
-          "begin": "2026-07-04T13:00:06.000Z",
-          "broadcast": "R/2026-07-04T13:00:06.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "3991"
-        },
-        {
-          "site": "unext",
-          "id": "SID0305856",
-          "begin": "2026-07-04T12:00:00.000Z",
-          "broadcast": "R/2026-07-04T12:00:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0H4HRG6BD",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715391b56eb30ad03fd537"
-        },
-        {
-          "site": "acgnx",
-          "id": "貓與龍"
-        },
-        {
-          "site": "anibt",
-          "id": "538760"
-        },
-        {
-          "site": "dmhy",
-          "id": "貓與龍"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 6,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789214400
-        }
-      ]
-    },
-    {
       "anilistId": 187166,
       "bgmId": 540449,
       "title": "元祖！バンドリちゃん",
@@ -4176,7 +4066,7 @@
       "titleCn": "幻想水浒传",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187316-jucYCojVTjSY.jpg",
       "airDate": "2026-10-03",
       "sites": [],
@@ -4229,7 +4119,7 @@
       "titleCn": "转生后的大圣女，极力隐瞒圣女的身分",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187402-ReKkLwFmMV3q.jpg",
       "airDate": "2026-10-03",
       "sites": [
@@ -4400,10 +4290,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789218000
-        },
         {
           "n": 12,
           "t": 1789822800
@@ -5355,59 +5241,6 @@
       ]
     },
     {
-      "anilistId": 194207,
-      "bgmId": 563508,
-      "title": "パンどろぼう",
-      "titleCn": "神秘面包小子",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "RELEASING",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg",
-      "airDate": "2026-10-02",
-      "sites": [],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 10,
-      "episodes": [
-        {
-          "n": 1,
-          "t": 1790934000
-        },
-        {
-          "n": 2,
-          "t": 1791538800
-        },
-        {
-          "n": 3,
-          "t": 1792143600
-        },
-        {
-          "n": 4,
-          "t": 1792748400
-        },
-        {
-          "n": 5,
-          "t": 1793353200
-        },
-        {
-          "n": 6,
-          "t": 1793958000
-        },
-        {
-          "n": 7,
-          "t": 1794562800
-        },
-        {
-          "n": 8,
-          "t": 1795167600
-        },
-        {
-          "n": 9,
-          "t": 1795772400
-        }
-      ]
-    },
-    {
       "anilistId": 194219,
       "bgmId": 563745,
       "title": "鬼の花嫁",
@@ -5831,7 +5664,7 @@
       "titleCn": "黑色五叶草 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg",
       "airDate": "2026-10-03",
       "sites": [
@@ -9783,10 +9616,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789219800
-        },
-        {
           "n": 12,
           "t": 1789824600
         }
@@ -11959,6 +11788,10 @@
         {
           "n": 8,
           "t": 1795611600
+        },
+        {
+          "n": 9,
+          "t": 1796216400
         }
       ]
     },
