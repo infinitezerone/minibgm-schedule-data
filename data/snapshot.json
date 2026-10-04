@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-04T10:28:28.200Z",
+  "generatedAt": "2026-10-04T15:04:16.555Z",
   "window": {
-    "from": 1789295222,
-    "to": 1796293622
+    "from": 1789311702,
+    "to": 1796310102
   },
   "items": [
     {
@@ -72,10 +72,6 @@
       "startYear": 1999,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1178,
-          "t": 1789308960
-        },
         {
           "n": 1179,
           "t": 1789913760
@@ -679,10 +675,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789308000
-        },
         {
           "n": 12,
           "t": 1789912800
@@ -2450,10 +2442,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 12,
-          "t": 1789311600
-        },
-        {
           "n": 13,
           "t": 1789916400
         },
@@ -3732,7 +3720,7 @@
       "titleCn": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg",
       "airDate": "2026-10-04",
       "sites": [
@@ -4463,10 +4451,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 10,
-          "t": 1789310760
-        },
-        {
           "n": 11,
           "t": 1789915560
         }
@@ -5075,7 +5059,7 @@
       "titleCn": "青之芦苇 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191788-XC6F24LdX6a4.jpg",
       "airDate": "2026-10-04",
       "sites": [
@@ -6429,10 +6413,6 @@
       "startMonth": 4,
       "episodes": [
         {
-          "n": 23,
-          "t": 1789309800
-        },
-        {
           "n": 24,
           "t": 1789914600
         }
@@ -6626,10 +6606,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789304400
-        },
         {
           "n": 12,
           "t": 1789909200
@@ -7317,7 +7293,7 @@
       "titleCn": "杀手旅店 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199426-0nBgTV9BrcJn.jpg",
       "airDate": "2026-10-04",
       "sites": [
@@ -7427,6 +7403,10 @@
         {
           "n": 8,
           "t": 1795705200
+        },
+        {
+          "n": 9,
+          "t": 1796310000
         }
       ]
     },
@@ -7683,7 +7663,7 @@
       "titleCn": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200455-P3XStRQMJ7Di.png",
       "airDate": "2026-10-04",
       "sites": [
@@ -7855,10 +7835,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789306200
-        },
-        {
           "n": 12,
           "t": 1789911000
         }
@@ -7967,7 +7943,7 @@
       "titleCn": "大叔喜欢可爱小玩意",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202079-nwBpDUms0Bab.png",
       "airDate": "2026-10-04",
       "sites": [
@@ -9306,7 +9282,7 @@
       "titleCn": "萤火虫的出嫁",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg",
       "airDate": "2026-10-09",
       "sites": [
@@ -9552,6 +9528,10 @@
         {
           "n": 9,
           "t": 1795696200
+        },
+        {
+          "n": 10,
+          "t": 1796301000
         }
       ]
     },
@@ -10059,7 +10039,7 @@
     {
       "anilistId": 207217,
       "bgmId": null,
-      "title": "子猫の配達員うーにゃん",
+      "title": "子猫の配達員うーにゃん (2026)",
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "ONA",
@@ -10511,7 +10491,7 @@
       "titleCn": "魔法姐妹露露特莉莉 第2部分",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209032-MD8TDzYtFoL0.png",
       "airDate": "2026-10-04",
       "sites": [
@@ -10628,6 +10608,59 @@
         {
           "n": 9,
           "t": 1795964400
+        }
+      ]
+    },
+    {
+      "anilistId": 209499,
+      "bgmId": 636023,
+      "title": "TANK CHAIR-戦車椅子-",
+      "titleCn": "战车椅子",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209499-S0sWFrCpft85.jpg",
+      "airDate": "2026-10-04",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791122400
+        },
+        {
+          "n": 2,
+          "t": 1791727200
+        },
+        {
+          "n": 3,
+          "t": 1792332000
+        },
+        {
+          "n": 4,
+          "t": 1792936800
+        },
+        {
+          "n": 5,
+          "t": 1793541600
+        },
+        {
+          "n": 6,
+          "t": 1794146400
+        },
+        {
+          "n": 7,
+          "t": 1794751200
+        },
+        {
+          "n": 8,
+          "t": 1795356000
+        },
+        {
+          "n": 9,
+          "t": 1795960800
         }
       ]
     },
@@ -11725,6 +11758,58 @@
       ]
     },
     {
+      "anilistId": 212667,
+      "bgmId": 656083,
+      "title": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
+      "titleCn": "不擅交际的未亡人雪女与诅咒戒指",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212667-8g5ktyrx34Yl.jpg",
+      "airDate": "2026-10-07",
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "yukionna",
+          "begin": "",
+          "broadcast": ""
+        }
+      ],
+      "isAdult": true,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791129900
+        },
+        {
+          "n": 2,
+          "t": 1791734700
+        },
+        {
+          "n": 3,
+          "t": 1792339500
+        },
+        {
+          "n": 4,
+          "t": 1793549100
+        },
+        {
+          "n": 5,
+          "t": 1794153900
+        },
+        {
+          "n": 6,
+          "t": 1794758700
+        },
+        {
+          "n": 7,
+          "t": 1795968300
+        }
+      ]
+    },
+    {
       "anilistId": 212799,
       "bgmId": 657084,
       "title": "マロニエ王国の七人の騎士",
@@ -12248,6 +12333,10 @@
         {
           "n": 9,
           "t": 1795704960
+        },
+        {
+          "n": 10,
+          "t": 1796309760
         }
       ]
     },
@@ -12526,6 +12615,31 @@
         {
           "n": 9,
           "t": 1795825800
+        }
+      ]
+    },
+    {
+      "anilistId": 216617,
+      "bgmId": 700237,
+      "title": "ふたなり神社は乙女おチ○ポ相談所",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216617-EfEXreUg9Zn4.png",
+      "airDate": "2026-12-01",
+      "sites": [],
+      "isAdult": true,
+      "startYear": 2026,
+      "startMonth": 12,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1796310000
+        },
+        {
+          "n": 2,
+          "t": 1796310000
         }
       ]
     },
