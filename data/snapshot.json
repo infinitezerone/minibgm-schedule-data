@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-05T11:16:12.789Z",
+  "generatedAt": "2026-10-05T18:58:46.039Z",
   "window": {
-    "from": 1789384488,
-    "to": 1796382888
+    "from": 1789412234,
+    "to": 1796410634
   },
   "items": [
     {
@@ -1108,7 +1108,7 @@
       "countryOfOrigin": "JP",
       "format": "TV",
       "status": "NOT_YET_RELEASED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-xVKqY1rqKK75.jpg",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
       "airDate": "2026-10-07",
       "sites": [
         {
@@ -1537,7 +1537,7 @@
       "titleCn": "魔法少女育成计划 restart",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
       "airDate": "2026-10-05",
       "sites": [
@@ -1900,10 +1900,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789387020
-        },
-        {
           "n": 12,
           "t": 1789991820
         }
@@ -1993,10 +1989,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789396200
-        },
         {
           "n": 12,
           "t": 1790001000
@@ -2472,6 +2464,10 @@
         {
           "n": 9,
           "t": 1795798380
+        },
+        {
+          "n": 10,
+          "t": 1796403180
         }
       ]
     },
@@ -3577,10 +3573,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789390800
-        },
-        {
           "n": 12,
           "t": 1789995600
         }
@@ -4168,6 +4160,10 @@
         {
           "n": 8,
           "t": 1795786200
+        },
+        {
+          "n": 9,
+          "t": 1796391000
         }
       ]
     },
@@ -5932,6 +5928,10 @@
         {
           "n": 9,
           "t": 1795788000
+        },
+        {
+          "n": 10,
+          "t": 1796392800
         }
       ]
     },
@@ -6301,10 +6301,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789394400
-        },
         {
           "n": 12,
           "t": 1789999200
@@ -7122,10 +7118,6 @@
       "startMonth": 4,
       "episodes": [
         {
-          "n": 24,
-          "t": 1789398000
-        },
-        {
           "n": 25,
           "t": 1790002800
         },
@@ -7907,10 +7899,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789398000
-        },
-        {
           "n": 12,
           "t": 1790002800
         }
@@ -7994,10 +7982,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789392600
-        },
         {
           "n": 12,
           "t": 1789997400
@@ -9063,10 +9047,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789387200
-        },
-        {
           "n": 12,
           "t": 1789992000
         }
@@ -9530,6 +9510,10 @@
         {
           "n": 21,
           "t": 1795791600
+        },
+        {
+          "n": 22,
+          "t": 1796396400
         }
       ]
     },
@@ -9646,7 +9630,7 @@
       "titleCn": "PSYREN -决战游戏-",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg",
       "airDate": "2026-10-05",
       "sites": [
@@ -10015,7 +9999,7 @@
       "countryOfOrigin": "JP",
       "format": "TV",
       "status": "RELEASING",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-nvK5CuG60WGY.jpg",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png",
       "airDate": "2026-10-02",
       "sites": [
         {
@@ -10098,6 +10082,10 @@
         {
           "n": 9,
           "t": 1795789800
+        },
+        {
+          "n": 10,
+          "t": 1796394600
         }
       ]
     },
@@ -10378,6 +10366,10 @@
         {
           "n": 8,
           "t": 1795789800
+        },
+        {
+          "n": 9,
+          "t": 1796394600
         }
       ]
     },
@@ -10711,10 +10703,6 @@
       "startYear": 2026,
       "startMonth": 6,
       "episodes": [
-        {
-          "n": 12,
-          "t": 1789390800
-        },
         {
           "n": 13,
           "t": 1789995600
@@ -11090,7 +11078,7 @@
       "titleCn": "你好，我是受心上人所托来做恋爱药的魔女。",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
       "airDate": "2026-10-05",
       "sites": [
@@ -11719,6 +11707,110 @@
       ]
     },
     {
+      "anilistId": 209219,
+      "bgmId": 634587,
+      "title": "転生ゴブリンだけど質問ある？",
+      "titleCn": "转生成哥布林但有疑问吗？",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg",
+      "airDate": "2026-10-05",
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0316460",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "gamer",
+          "id": "150292",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "gamer_hk",
+          "id": "150292",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "anidb",
+          "id": "19942"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/316694"
+        },
+        {
+          "site": "mal",
+          "id": "63712"
+        },
+        {
+          "site": "nicovideo",
+          "id": "tengobu",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "149-35",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6abdf90798d9339c5c743182"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791205200
+        },
+        {
+          "n": 2,
+          "t": 1791207000
+        },
+        {
+          "n": 3,
+          "t": 1791810000
+        },
+        {
+          "n": 4,
+          "t": 1792414800
+        },
+        {
+          "n": 5,
+          "t": 1793019600
+        },
+        {
+          "n": 6,
+          "t": 1793624400
+        },
+        {
+          "n": 7,
+          "t": 1794229200
+        },
+        {
+          "n": 8,
+          "t": 1794834000
+        },
+        {
+          "n": 9,
+          "t": 1795438800
+        },
+        {
+          "n": 10,
+          "t": 1796043600
+        }
+      ]
+    },
+    {
       "anilistId": 209463,
       "bgmId": 636058,
       "title": "彼方から",
@@ -12072,10 +12164,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789394400
-        },
         {
           "n": 12,
           "t": 1789999200
@@ -13527,6 +13615,55 @@
       ]
     },
     {
+      "anilistId": 213657,
+      "bgmId": null,
+      "title": "夜桜さんちの大作戦 第2期 第2クール",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213657-ORNXVEBCjXaz.jpg",
+      "airDate": "2026-10-01",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791705600
+        },
+        {
+          "n": 2,
+          "t": 1792310400
+        },
+        {
+          "n": 3,
+          "t": 1792915200
+        },
+        {
+          "n": 4,
+          "t": 1793520000
+        },
+        {
+          "n": 5,
+          "t": 1794124800
+        },
+        {
+          "n": 6,
+          "t": 1794729600
+        },
+        {
+          "n": 7,
+          "t": 1795334400
+        },
+        {
+          "n": 8,
+          "t": 1795939200
+        }
+      ]
+    },
+    {
       "anilistId": 213658,
       "bgmId": 664395,
       "title": "ダイヤのA actⅡ -Second Season- 第2クール",
@@ -14254,6 +14391,10 @@
         {
           "n": 9,
           "t": 1795782360
+        },
+        {
+          "n": 10,
+          "t": 1796387160
         }
       ]
     },
