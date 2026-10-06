@@ -29,24 +29,27 @@ jobs:
         with:
           node-version: 22
 
-      - name: Build snapshot
+      - name: Build snapshot and seasons
         id: build
         run: |
           set -o pipefail
           node scripts/build.mjs 2>&1 | tee build.log
+          node scripts/build-seasons.mjs 2>&1 | tee -a build.log
           echo "result=$(tail -1 build.log | cut -d ' ' -f 1)" >> "$GITHUB_OUTPUT"
 
       - name: Publish
-        if: steps.build.outputs.result == 'CHANGED'
         run: |
           git config user.name "minibgm-schedule-bot"
           git config user.email "minibgm-schedule-bot@users.noreply.github.com"
-          git add data/snapshot.json data/mappings.json
-          git commit -m "snapshot: $(tail -1 build.log)"
-          git push
+          git add data/snapshot.json data/mappings.json data/seasons
+          if git diff --staged --quiet; then
+            echo "无变更，跳过提交"
+          else
+            git commit -m "data: 更新放送时刻表与季度快照"
+            git push
+          fi
 
       - name: Purge jsDelivr cache
-        if: steps.build.outputs.result == 'CHANGED'
         run: |
           curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/data/snapshot.json" || true
 

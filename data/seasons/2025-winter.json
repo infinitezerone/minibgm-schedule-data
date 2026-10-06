@@ -1,0 +1,6985 @@
+{
+  "schema": "minibgm-season-snapshot/1",
+  "year": 2025,
+  "season": "winter",
+  "generatedAt": "2026-10-06T04:49:10.149Z",
+  "total": 108,
+  "mappedTotal": 95,
+  "items": [
+    {
+      "anilistId": 176496,
+      "bgmId": 487630,
+      "title": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-",
+      "titleCn": "我独自升级 第二季 -起于暗影-",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-9BDMjAZGEbq4.png",
+      "airDate": "2025-01-04",
+      "ratingScore": 8.4,
+      "popularity": 313711,
+      "episodes": 13,
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "Urban Fantasy",
+        "Dungeon",
+        "Male Protagonist",
+        "Necromancy",
+        "Magic"
+      ],
+      "sites": [
+        {
+          "site": "viu",
+          "id": "2555869",
+          "begin": "2025-01-04T16:30:12.000Z",
+          "broadcast": "R/2025-01-04T16:30:12.000Z/P7D"
+        },
+        {
+          "site": "mytv",
+          "id": "sololevelingseason2arisefromtheshadow_142485",
+          "begin": "2025-01-04T16:30:00.000Z",
+          "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "138607",
+          "begin": "2025-01-04T16:30:00.000Z",
+          "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3560"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0992f6756712facfc96"
+        },
+        {
+          "site": "unext",
+          "id": "SID0163351",
+          "begin": "2025-01-07T03:00:00.000Z",
+          "broadcast": "R/2025-01-07T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GDKHZEJ0K",
+          "begin": "2024-01-06T15:00:00.000Z",
+          "broadcast": "R/2024-01-06T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "26802",
+          "begin": "2024-01-09T03:00:00.000Z",
+          "broadcast": "R/2024-01-09T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "138607",
+          "begin": "2025-01-04T16:30:00.000Z",
+          "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "bilibili",
+          "id": "24474625",
+          "begin": "2025-01-22T12:00:00.000Z",
+          "broadcast": "R/2025-01-22T12:00:00.000Z/P7D"
+        },
+        {
+          "site": "nicovideo",
+          "id": "sololeveling-anime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "netflix",
+          "id": "81749761",
+          "begin": "2024-01-05T16:00:00.000Z",
+          "broadcast": "R/2024-01-05T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "disneyplus",
+          "id": "59eo9jEqCGLk",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "prime",
+          "id": "B0D3L2JYQP",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "我獨自升級 起"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/127532/season/1/episode/13"
+        },
+        {
+          "site": "mal",
+          "id": "58567"
+        },
+        {
+          "site": "anidb",
+          "id": "18576"
+        },
+        {
+          "site": "abema",
+          "id": "26-215",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "acgnx",
+          "id": "我獨自升級"
+        }
+      ]
+    },
+    {
+      "anilistId": 177709,
+      "bgmId": 496617,
+      "title": "SAKAMOTO DAYS",
+      "titleCn": "坂本日常",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-e5Qx6RlsBgD5.png",
+      "airDate": "2025-01-11",
+      "ratingScore": 7.6,
+      "popularity": 223409,
+      "episodes": 11,
+      "tags": [
+        "WEB",
+        "动作",
+        "搞笑",
+        "Assassins",
+        "Urban",
+        "Found Family",
+        "Konbini",
+        "Crime"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "sakamotodays",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163171",
+          "begin": "2025-01-11T14:30:00.000Z",
+          "broadcast": "R/2025-01-11T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "172-61",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0982f6756712facfc90"
+        },
+        {
+          "site": "bilibili",
+          "id": "24005479",
+          "begin": "2025-01-11T14:00:00.000Z",
+          "broadcast": "R/2025-01-11T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27537",
+          "begin": "2025-01-11T14:30:00.000Z",
+          "broadcast": "R/2025-01-11T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "netflix",
+          "id": "81663325",
+          "begin": "2025-01-10T16:00:00.000Z",
+          "broadcast": "R/2025-01-10T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "disneyplus",
+          "id": "2hBDwVm6klLv",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "3523"
+        },
+        {
+          "site": "prime",
+          "id": "B0DRGXKVP9",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "坂本日常"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/207332"
+        },
+        {
+          "site": "mal",
+          "id": "58939"
+        },
+        {
+          "site": "anidb",
+          "id": "18654"
+        },
+        {
+          "site": "acgnx",
+          "id": "坂本 Days|日常"
+        }
+      ]
+    },
+    {
+      "anilistId": 176301,
+      "bgmId": 486347,
+      "title": "薬屋のひとりごと 第2期",
+      "titleCn": "药屋少女的呢喃 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-TIGmldLffQGX.jpg",
+      "airDate": "2025-01-10",
+      "ratingScore": 8.8,
+      "popularity": 208567,
+      "episodes": 24,
+      "tags": [
+        "剧情",
+        "悬疑",
+        "Female Protagonist",
+        "Medicine",
+        "Royal Affairs",
+        "Detective",
+        "Historical"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "kusuriyanohitorigoto_2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163357",
+          "begin": "2025-01-10T15:30:00.000Z",
+          "broadcast": "R/2025-01-10T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0962f6756712facfc84"
+        },
+        {
+          "site": "mikan",
+          "id": "3530"
+        },
+        {
+          "site": "abema",
+          "id": "19-174",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "netflix",
+          "id": "81712068",
+          "begin": "2025-01-10T15:30:00.000Z",
+          "broadcast": "R/2025-01-10T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "disneyplus",
+          "id": "1Mw6AaFMAfzE",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "26610",
+          "begin": "2025-01-10T15:30:00.000Z",
+          "broadcast": "R/2025-01-10T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DSCTPMTW",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/220542/season/1/episode/25"
+        },
+        {
+          "site": "mal",
+          "id": "58514"
+        },
+        {
+          "site": "anidb",
+          "id": "18562"
+        },
+        {
+          "site": "acgnx",
+          "id": "藥師|藥屋 獨語|呢喃"
+        },
+        {
+          "site": "dmhy",
+          "id": "藥師|藥屋 獨語|呢喃"
+        }
+      ]
+    },
+    {
+      "anilistId": 172019,
+      "bgmId": 471578,
+      "title": "Dr.STONE SCIENCE FUTURE",
+      "titleCn": "石纪元 科学与未来",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172019-3cfZbrYBmV23.jpg",
+      "airDate": "2025-01-09",
+      "ratingScore": 8.2,
+      "popularity": 117582,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "冒险",
+        "搞笑",
+        "科幻",
+        "Post-Apocalyptic",
+        "Educational",
+        "Male Protagonist",
+        "Survival",
+        "Ensemble Cast"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0163360",
+          "begin": "2025-01-09T13:30:00.000Z",
+          "broadcast": "R/2025-01-09T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0922f6756712facfc72"
+        },
+        {
+          "site": "nicovideo",
+          "id": "dr-stone_4",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "3551"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtRH5DnE3OZ6Ov-_SNn73dOQ",
+          "begin": "2025-01-09T14:00:00.000Z",
+          "broadcast": "R/2025-01-09T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7Jj4AHW3_HqDp39-puRHVfNA",
+          "begin": "2025-01-09T14:00:00.000Z",
+          "broadcast": "R/2025-01-09T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27619",
+          "begin": "2025-01-09T13:30:00.000Z",
+          "broadcast": "R/2025-01-09T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "netflix",
+          "id": "81046193",
+          "begin": "2023-04-05T16:00:00.000Z",
+          "broadcast": "R/2023-04-05T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-34",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GYEXQKJG6",
+          "begin": "2019-07-05T13:00:00.000Z",
+          "broadcast": "R/2019-07-05T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "disneyplus",
+          "id": "2icwhag0ihkG",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "gamer_hk",
+          "id": "137041",
+          "begin": "2025-01-09T14:00:00.000Z",
+          "broadcast": "R/2025-01-09T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "137041",
+          "begin": "2025-01-09T14:00:00.000Z",
+          "broadcast": "R/2025-01-09T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0D8GJKXHJ",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bilibili",
+          "id": "24449643",
+          "begin": "2025-01-23T14:00:00.000Z",
+          "broadcast": "R/2025-01-23T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "dmhy",
+          "id": "Dr STONE 4季|四季"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/86031/season/4"
+        },
+        {
+          "site": "mal",
+          "id": "57592"
+        },
+        {
+          "site": "anidb",
+          "id": "18336"
+        },
+        {
+          "site": "acgnx",
+          "id": "dr stone"
+        }
+      ]
+    },
+    {
+      "anilistId": 172258,
+      "bgmId": 471793,
+      "title": "君のことが大大大大大好きな100人の彼女 第2期",
+      "titleCn": "超超超超超喜欢你的100个女朋友 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172258-n23TSWk54aXv.jpg",
+      "airDate": "2025-01-12",
+      "ratingScore": 7.9,
+      "popularity": 80374,
+      "episodes": 12,
+      "tags": [
+        "搞笑",
+        "肉番",
+        "恋爱",
+        "Female Harem",
+        "Parody",
+        "Polyamorous",
+        "Surreal Comedy",
+        "Male Protagonist"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "hyakkano_2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163368",
+          "begin": "2025-01-15T14:00:00.000Z",
+          "broadcast": "R/2025-01-15T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0892f6756712facfc46"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PLN1GNNGfSwtw",
+          "url": "https://www.youtube.com/show/VLPLN1GNNGfSwtw?season=2&sbp=CgEyGgAqCzRBMnVHdGx2d1NBQAFKDVBTTnI4M0xYSjd1YW8%253D",
+          "begin": "2025-01-12T14:00:07.000Z",
+          "broadcast": "R/2025-01-12T14:00:07.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "130911",
+          "begin": "2025-01-12T13:30:00.000Z",
+          "broadcast": "R/2025-01-12T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "130911",
+          "begin": "2025-01-12T13:30:00.000Z",
+          "broadcast": "R/2025-01-12T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "viu",
+          "id": "2560142",
+          "begin": "2025-01-12T14:00:56.000Z",
+          "broadcast": "R/2025-01-12T14:00:56.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27578",
+          "begin": "2025-01-12T14:00:00.000Z",
+          "broadcast": "R/2025-01-12T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3524"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GNVHKN933",
+          "begin": "2023-10-08T13:30:00.000Z",
+          "broadcast": "R/2023-10-08T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DLFCQNFX",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/223564/season/1/episode/13"
+        },
+        {
+          "site": "mal",
+          "id": "57616"
+        },
+        {
+          "site": "anidb",
+          "id": "18343"
+        },
+        {
+          "site": "abema",
+          "id": "420-60",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLZG68aJG70_E",
+          "url": "https://www.youtube.com/show/VLPLZG68aJG70_E?sbp=Kgt5VmxHZzNIbkphb0AB",
+          "begin": "2024-07-01T13:30:06.000Z",
+          "broadcast": "R/2024-07-01T13:30:06.000Z/P7D"
+        }
+      ]
+    },
+    {
+      "anilistId": 178462,
+      "bgmId": 501023,
+      "title": "クラスの大嫌いな女子と結婚することになった。",
+      "titleCn": "我和班上最讨厌的女生结婚了。",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178462-YW6BgSGGP4az.jpg",
+      "airDate": "2025-01-03",
+      "ratingScore": 6.7,
+      "popularity": 78033,
+      "episodes": 12,
+      "tags": [
+        "搞笑",
+        "恋爱",
+        "Tsundere",
+        "Arranged Marriage",
+        "Marriage",
+        "Love Triangle",
+        "Cohabitation"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "kura-kon",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163349",
+          "begin": "2025-01-03T15:00:00.000Z",
+          "broadcast": "R/2025-01-03T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27610",
+          "begin": "2025-01-03T15:00:00.000Z",
+          "broadcast": "R/2025-01-03T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GEXH3W22Z",
+          "begin": "2025-01-03T14:30:00.000Z",
+          "broadcast": "R/2025-01-03T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "140165",
+          "begin": "2025-01-03T16:00:00.000Z",
+          "broadcast": "R/2025-01-03T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3525"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0962f6756712facfc86"
+        },
+        {
+          "site": "gamer",
+          "id": "140165",
+          "begin": "2025-01-03T16:00:00.000Z",
+          "broadcast": "R/2025-01-03T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DQLPSBD9",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "討厭 結婚"
+        },
+        {
+          "site": "netflix",
+          "id": "81991112",
+          "begin": "2025-05-08T16:00:00.000Z",
+          "broadcast": "R/2025-05-08T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/257790"
+        },
+        {
+          "site": "mal",
+          "id": "59135"
+        },
+        {
+          "site": "anidb",
+          "id": "18708"
+        },
+        {
+          "site": "acgnx",
+          "id": "我 班上 最討厭 女生 結婚"
+        }
+      ]
+    },
+    {
+      "anilistId": 176273,
+      "bgmId": 486039,
+      "title": "全修。",
+      "titleCn": "全修。",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176273-raxxcgkslf4Q.jpg",
+      "airDate": "2025-01-05",
+      "ratingScore": 7.4,
+      "popularity": 74154,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "奇幻",
+        "恋爱",
+        "Isekai",
+        "Female Protagonist",
+        "Super Power",
+        "Drawing",
+        "Magic"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "zenshu-anime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0157066",
+          "begin": "2025-01-06T14:45:00.000Z",
+          "broadcast": "R/2025-01-06T14:45:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3539"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08a2f6756712facfc4c"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G24H1NW8E",
+          "begin": "2024-12-20T14:32:59.000Z",
+          "broadcast": "R/2024-12-20T14:32:59.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27570",
+          "begin": "2025-01-06T14:45:00.000Z",
+          "broadcast": "R/2025-01-06T14:45:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DP5SQYL5",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "全修"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/249882"
+        },
+        {
+          "site": "mal",
+          "id": "58502"
+        },
+        {
+          "site": "anidb",
+          "id": "18547"
+        },
+        {
+          "site": "abema",
+          "id": "560-3",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "acgnx",
+          "id": "全修"
+        }
+      ]
+    },
+    {
+      "anilistId": 167143,
+      "bgmId": 445827,
+      "title": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+      "titleCn": "虽然是公会的前台小姐，因为讨厌加班，所以打算自己讨伐boss",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167143-iY2ho0I0KnYF.jpg",
+      "airDate": "2025-01-10",
+      "ratingScore": 6.6,
+      "popularity": 66403,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "冒险",
+        "搞笑",
+        "奇幻",
+        "Work",
+        "Office Lady",
+        "Female Protagonist",
+        "Primarily Adult Cast",
+        "Dungeon"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "girumasu",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163332",
+          "begin": "2025-01-13T15:00:00.000Z",
+          "broadcast": "R/2025-01-13T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "25-278",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0972f6756712facfc88"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G8DHV784M",
+          "begin": "2024-12-20T09:53:14.000Z",
+          "broadcast": "R/2024-12-20T09:53:14.000Z/P7D"
+        },
+        {
+          "site": "netflix",
+          "id": "81988348",
+          "begin": "2025-01-09T16:00:00.000Z",
+          "broadcast": "R/2025-01-09T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "mytv",
+          "id": "imaybeaguildreceptionistbutillsoloanybosstoclockoutontime_142542",
+          "begin": "2025-01-10T16:30:00.000Z",
+          "broadcast": "R/2025-01-10T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "134172",
+          "begin": "2025-01-10T16:30:00.000Z",
+          "broadcast": "R/2025-01-10T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3531"
+        },
+        {
+          "site": "viu",
+          "id": "2560662",
+          "begin": "2025-01-10T16:30:48.000Z",
+          "broadcast": "R/2025-01-10T16:30:48.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "134172",
+          "begin": "2025-01-10T16:30:00.000Z",
+          "broadcast": "R/2025-01-10T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DS3YGMZ9",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "27622",
+          "begin": "2025-01-13T15:00:00.000Z",
+          "broadcast": "R/2025-01-13T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "dmhy",
+          "id": "公會 櫃檯|柜台"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/249964"
+        },
+        {
+          "site": "mal",
+          "id": "55997"
+        },
+        {
+          "site": "anidb",
+          "id": "18118"
+        },
+        {
+          "site": "acgnx",
+          "id": "公會 加班"
+        }
+      ]
+    },
+    {
+      "anilistId": 175443,
+      "bgmId": 482719,
+      "title": "ハニーレモンソーダ",
+      "titleCn": "蜂蜜柠檬碳酸水",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175443-QpmlCJt47Rp9.jpg",
+      "airDate": "2025-01-08",
+      "ratingScore": 7.1,
+      "popularity": 63036,
+      "episodes": 12,
+      "tags": [
+        "恋爱",
+        "Heterosexual",
+        "Rehabilitation",
+        "Shoujo",
+        "Coming of Age",
+        "Bullying"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "honeylemon-anime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163172",
+          "begin": "2025-01-09T15:55:00.000Z",
+          "broadcast": "R/2025-01-09T15:55:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0912f6756712facfc6e"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "138120",
+          "begin": "2025-01-08T16:55:00.000Z",
+          "broadcast": "R/2025-01-08T16:55:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3543"
+        },
+        {
+          "site": "gamer",
+          "id": "138120",
+          "begin": "2025-01-08T16:55:00.000Z",
+          "broadcast": "R/2025-01-08T16:55:00.000Z/P7D"
+        },
+        {
+          "site": "bilibili",
+          "id": "24361881",
+          "begin": "2025-01-08T16:55:00.000Z",
+          "broadcast": "R/2025-01-08T16:55:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27573",
+          "begin": "2025-01-11T16:25:00.000Z",
+          "broadcast": "R/2025-01-11T16:25:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DPY4MSRY",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "檸檬蘇打"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/247859"
+        },
+        {
+          "site": "mal",
+          "id": "58271"
+        },
+        {
+          "site": "anidb",
+          "id": "18516"
+        },
+        {
+          "site": "acgnx",
+          "id": "蜂蜜檸檬"
+        }
+      ]
+    },
+    {
+      "anilistId": 178548,
+      "bgmId": 500840,
+      "title": "不遇職【鑑定士】が実は最強だった～奈落で鍛えた最強の【神眼】で無双する～",
+      "titleCn": "不幸职业【鉴定士】实则最强",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178548-4QkzBuJAx8w7.jpg",
+      "airDate": "2025-01-09",
+      "ratingScore": 6.3,
+      "popularity": 62360,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "冒险",
+        "搞笑",
+        "剧情",
+        "奇幻",
+        "恋爱",
+        "Male Protagonist",
+        "Female Harem",
+        "Magic",
+        "Mixed Gender Harem"
+      ],
+      "sites": [
+        {
+          "site": "abema",
+          "id": "198-13",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0932f6756712facfc76"
+        },
+        {
+          "site": "mikan",
+          "id": "3559"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "140189",
+          "begin": "2025-01-09T14:30:00.000Z",
+          "broadcast": "R/2025-01-09T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7Uci7b0BSO6WtxYbMuDj1Wk3y",
+          "begin": "2025-01-09T14:30:06.000Z",
+          "broadcast": "R/2025-01-09T14:30:06.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "140189",
+          "begin": "2025-01-09T14:30:00.000Z",
+          "broadcast": "R/2025-01-09T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PL12UaAf_xzfoVJ-29KILJxi5z9ENoHRGN",
+          "begin": "2025-01-16T14:30:06.000Z",
+          "broadcast": "R/2025-01-16T14:30:06.000Z/P7D"
+        },
+        {
+          "site": "dmhy",
+          "id": "不幸職業"
+        },
+        {
+          "site": "unext",
+          "id": "SID0236825",
+          "begin": "2025-10-08T15:00:00.000Z",
+          "broadcast": "R/2025-10-08T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28316",
+          "begin": "2025-10-08T15:00:00.000Z",
+          "broadcast": "R/2025-10-08T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/270474"
+        },
+        {
+          "site": "netflix",
+          "id": "82172678",
+          "begin": "2025-12-19T00:00:00.000Z",
+          "broadcast": "R/2025-12-19T00:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DSVX4SZY",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mal",
+          "id": "59144"
+        },
+        {
+          "site": "anidb",
+          "id": "18712"
+        },
+        {
+          "site": "acgnx",
+          "id": "不幸 鑑定士"
+        }
+      ]
+    },
+    {
+      "anilistId": 179696,
+      "bgmId": 504710,
+      "title": "この会社に好きな人がいます",
+      "titleCn": "这公司有我喜欢的人",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179696-1MAqXYVXT7IT.jpg",
+      "airDate": "2025-01-06",
+      "ratingScore": 7.4,
+      "popularity": 60755,
+      "episodes": 12,
+      "tags": [
+        "搞笑",
+        "恋爱",
+        "日常",
+        "Office",
+        "Primarily Adult Cast",
+        "Heterosexual",
+        "Seinen",
+        "Office Lady"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "kaishani-sukinahito",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163362",
+          "begin": "2025-01-12T03:00:00.000Z",
+          "broadcast": "R/2025-01-12T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "bilibili_hk_mo_tw",
+          "id": "24474455",
+          "begin": "2025-01-06T14:00:00.000Z",
+          "broadcast": "R/2025-01-06T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08c2f6756712facfc54"
+        },
+        {
+          "site": "gamer",
+          "id": "140558",
+          "begin": "2025-01-06T14:00:00.000Z",
+          "broadcast": "R/2025-01-06T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtT5jktpBzAiOnJtqwUANwij",
+          "begin": "2025-01-06T14:00:06.000Z",
+          "broadcast": "R/2025-01-06T14:00:06.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7JhCFHIPcW85-IUQ-q9T1eTl",
+          "begin": "2025-01-06T14:00:06.000Z",
+          "broadcast": "R/2025-01-06T14:00:06.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "140558",
+          "begin": "2025-01-06T14:00:00.000Z",
+          "broadcast": "R/2025-01-06T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3546"
+        },
+        {
+          "site": "bilibili",
+          "id": "23761026",
+          "begin": "2025-01-06T14:00:00.000Z",
+          "broadcast": "R/2025-01-06T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27633",
+          "begin": "2025-01-12T03:00:00.000Z",
+          "broadcast": "R/2025-01-12T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DPMLLRP6",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "公司 喜歡的人"
+        },
+        {
+          "site": "netflix",
+          "id": "82027410",
+          "begin": "2025-05-23T16:00:00.000Z",
+          "broadcast": "R/2025-05-23T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/262141"
+        },
+        {
+          "site": "mal",
+          "id": "59361"
+        },
+        {
+          "site": "anidb",
+          "id": "18770"
+        },
+        {
+          "site": "acgnx",
+          "id": "公司 喜歡"
+        }
+      ]
+    },
+    {
+      "anilistId": 169441,
+      "bgmId": 455626,
+      "title": "わたしの幸せな結婚 第二期",
+      "titleCn": "我的幸福婚姻 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169441-DHutDkhkC8EN.jpg",
+      "airDate": "2025-01-06",
+      "ratingScore": 7.5,
+      "popularity": 60721,
+      "episodes": 13,
+      "tags": [
+        "剧情",
+        "恋爱",
+        "超自然",
+        "Female Protagonist",
+        "Urban Fantasy",
+        "Military",
+        "Primarily Adult Cast",
+        "Shoujo"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "watakon-anime2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163337",
+          "begin": "2025-01-06T13:30:00.000Z",
+          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08b2f6756712facfc52"
+        },
+        {
+          "site": "danime",
+          "id": "27621",
+          "begin": "2025-01-06T13:30:00.000Z",
+          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3540"
+        },
+        {
+          "site": "disneyplus",
+          "id": "5Ak7v8mQSOtT",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bilibili",
+          "id": "24004932",
+          "begin": "2025-01-06T13:30:00.000Z",
+          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0D7R45TFQ",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "我的幸福婚 S2|2期"
+        },
+        {
+          "site": "netflix",
+          "id": "81564905",
+          "begin": "2025-01-06T13:30:00.000Z",
+          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/196944/season/1/episode/13"
+        },
+        {
+          "site": "mal",
+          "id": "56701"
+        },
+        {
+          "site": "anidb",
+          "id": "18205"
+        },
+        {
+          "site": "acgnx",
+          "id": "幸福 婚"
+        }
+      ]
+    },
+    {
+      "anilistId": 177506,
+      "bgmId": 493758,
+      "title": "いずれ最強の錬金術師？",
+      "titleCn": "迟早是最强的炼金术师？",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177506-in4J0GNzjOZL.jpg",
+      "airDate": "2025-01-01",
+      "ratingScore": 6.6,
+      "popularity": 60399,
+      "episodes": 12,
+      "tags": [
+        "冒险",
+        "奇幻",
+        "Isekai",
+        "Alchemy",
+        "Slavery",
+        "Female Harem",
+        "Medieval"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "izuresaikyo",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163353",
+          "begin": "2025-01-08T13:00:00.000Z",
+          "broadcast": "R/2025-01-08T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "54-101",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "27545",
+          "begin": "2025-01-01T13:30:00.000Z",
+          "broadcast": "R/2025-01-01T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GQWH0M1P3",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "gamer_hk",
+          "id": "139258",
+          "begin": "2025-01-01T13:30:00.000Z",
+          "broadcast": "R/2025-01-01T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3537"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08f2f6756712facfc62"
+        },
+        {
+          "site": "gamer",
+          "id": "139258",
+          "begin": "2025-01-01T13:30:00.000Z",
+          "broadcast": "R/2025-01-01T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "tropics",
+          "id": "PLoGVqODys23B_R2SCTHfMcrYGwXLBVIHh",
+          "begin": "2025-01-01T13:30:06.000Z",
+          "broadcast": "R/2025-01-01T13:30:06.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DBZJZ8FF",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "遲早 最強"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/261298"
+        },
+        {
+          "site": "mal",
+          "id": "58822"
+        },
+        {
+          "site": "anidb",
+          "id": "18620"
+        },
+        {
+          "site": "acgnx",
+          "id": "遲早 最強 鍊金 師"
+        }
+      ]
+    },
+    {
+      "anilistId": 177552,
+      "bgmId": 494267,
+      "title": "黒岩メダカに私の可愛いが通じない",
+      "titleCn": "我的可爱对黑岩目高不管用",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177552-7XiOf3dGXmNs.jpg",
+      "airDate": "2025-01-06",
+      "ratingScore": 6.4,
+      "popularity": 58216,
+      "episodes": 12,
+      "tags": [
+        "搞笑",
+        "肉番",
+        "恋爱",
+        "Love Triangle",
+        "Heterosexual",
+        "Female Protagonist",
+        "School",
+        "Tsundere"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "monaxmedaka",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163343",
+          "begin": "2025-01-06T15:30:00.000Z",
+          "broadcast": "R/2025-01-06T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08d2f6756712facfc58"
+        },
+        {
+          "site": "danime",
+          "id": "27594",
+          "begin": "2025-01-06T15:30:00.000Z",
+          "broadcast": "R/2025-01-06T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G4PH0WJJG",
+          "begin": "2025-01-06T15:00:00.000Z",
+          "broadcast": "R/2025-01-06T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3548"
+        },
+        {
+          "site": "prime",
+          "id": "B0DNRTKH31",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "黑岩目高"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/258994"
+        },
+        {
+          "site": "mal",
+          "id": "58853"
+        },
+        {
+          "site": "anidb",
+          "id": "18627"
+        },
+        {
+          "site": "acgnx",
+          "id": "黑岩 目高"
+        }
+      ]
+    },
+    {
+      "anilistId": 180812,
+      "bgmId": 511126,
+      "title": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
+      "titleCn": "脱离了A级队伍的我，和从前的徒弟们前往迷宫深处。",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180812-162w2RBaqJzE.jpg",
+      "airDate": "2025-01-11",
+      "ratingScore": 6.5,
+      "popularity": 55044,
+      "episodes": 24,
+      "tags": [
+        "动作",
+        "冒险",
+        "搞笑",
+        "奇幻",
+        "Female Harem",
+        "Dungeon",
+        "Male Protagonist",
+        "Primarily Female Cast",
+        "Magic"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "arank-party-ridatsu",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa09a2f6756712facfc98"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7Ucg45N-r4IBQSossnABDOQMb",
+          "begin": "2025-01-11T16:30:00.000Z",
+          "broadcast": "R/2025-01-11T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PL12UaAf_xzfqw1Y8esAx06P4DPVDblAM0",
+          "begin": "2025-01-11T16:30:06.000Z",
+          "broadcast": "R/2025-01-11T16:30:06.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "141258",
+          "begin": "2025-01-11T16:30:00.000Z",
+          "broadcast": "R/2025-01-11T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27579",
+          "begin": "2025-01-11T16:30:00.000Z",
+          "broadcast": "R/2025-01-11T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "netflix",
+          "id": "81989763",
+          "begin": "2025-01-10T16:00:00.000Z",
+          "broadcast": "R/2025-01-10T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "141258",
+          "begin": "2025-01-11T16:30:00.000Z",
+          "broadcast": "R/2025-01-11T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3556"
+        },
+        {
+          "site": "prime",
+          "id": "B0DPNC53W5",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163367",
+          "begin": "2025-01-14T16:30:00.000Z",
+          "broadcast": "R/2025-01-14T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "dmhy",
+          "id": "A 級 弟子"
+        },
+        {
+          "site": "bilibili",
+          "id": "280730538",
+          "begin": "2025-10-31T10:00:00.000Z",
+          "broadcast": "R/2025-10-31T10:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/270487"
+        },
+        {
+          "site": "mal",
+          "id": "59730"
+        },
+        {
+          "site": "anidb",
+          "id": "18852"
+        },
+        {
+          "site": "acgnx",
+          "id": "A級隊伍 迷宮深處"
+        }
+      ]
+    },
+    {
+      "anilistId": 180292,
+      "bgmId": 508588,
+      "title": "アラフォー男の異世界通販生活",
+      "titleCn": "中年男的异世界网购生活",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180292-GG0nwYZ5HeN7.jpg",
+      "airDate": "2025-01-09",
+      "ratingScore": 6.2,
+      "popularity": 49415,
+      "episodes": 13,
+      "tags": [
+        "动作",
+        "冒险",
+        "搞笑",
+        "肉番",
+        "奇幻",
+        "Male Protagonist",
+        "Isekai",
+        "Female Harem",
+        "Nekomimi",
+        "Adoption"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "arafo-tsuhan",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163333",
+          "begin": "2025-01-14T13:00:00.000Z",
+          "broadcast": "R/2025-01-14T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0922f6756712facfc70"
+        },
+        {
+          "site": "danime",
+          "id": "27637",
+          "begin": "2025-01-09T13:00:00.000Z",
+          "broadcast": "R/2025-01-09T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GVDHX855Q",
+          "begin": "2025-01-09T12:00:00.000Z",
+          "broadcast": "R/2025-01-09T12:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3545"
+        },
+        {
+          "site": "prime",
+          "id": "B0DRSVYW35",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "異世界 網購"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/261745"
+        },
+        {
+          "site": "mal",
+          "id": "59561"
+        },
+        {
+          "site": "anidb",
+          "id": "18818"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "140899",
+          "begin": "2026-07-10T03:00:00.000Z",
+          "broadcast": "R/2026-07-10T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "140899",
+          "begin": "2026-07-10T03:00:00.000Z",
+          "broadcast": "R/2026-07-10T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "25-281",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "acgnx",
+          "id": "異世界 網購"
+        }
+      ]
+    },
+    {
+      "anilistId": 179689,
+      "bgmId": 504591,
+      "title": "サラリーマンが異世界に行ったら四天王になった話",
+      "titleCn": "上班族去了异世界后成了四天王",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179689-kmlqdU3IbxeM.jpg",
+      "airDate": "2025-01-06",
+      "ratingScore": 6.5,
+      "popularity": 48443,
+      "episodes": 12,
+      "tags": [
+        "WEB",
+        "冒险",
+        "搞笑",
+        "奇幻",
+        "Isekai",
+        "Politics",
+        "Work",
+        "Economics",
+        "Demons"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "salaryman-big4",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "54-100",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "27586",
+          "begin": "2025-01-01T14:30:00.000Z",
+          "broadcast": "R/2025-01-01T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtTci503S9yXURJdjbeMVtHn",
+          "begin": "2025-01-01T14:30:00.000Z",
+          "broadcast": "R/2025-01-01T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7Jj9WjsCCnhQehPwk1vwiwnN",
+          "begin": "2025-01-01T14:30:00.000Z",
+          "broadcast": "R/2025-01-01T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "140518",
+          "begin": "2025-01-01T14:30:00.000Z",
+          "broadcast": "R/2025-01-01T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3538"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08c2f6756712facfc56"
+        },
+        {
+          "site": "gamer",
+          "id": "140518",
+          "begin": "2025-01-01T14:30:00.000Z",
+          "broadcast": "R/2025-01-01T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "dmhy",
+          "id": "上班族 四天王"
+        },
+        {
+          "site": "netflix",
+          "id": "82027374",
+          "begin": "2025-05-13T16:00:00.000Z",
+          "broadcast": "R/2025-05-13T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DK2MC214",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0237745",
+          "begin": "2025-10-15T03:00:00.000Z",
+          "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/259559"
+        },
+        {
+          "site": "mal",
+          "id": "59349"
+        },
+        {
+          "site": "anidb",
+          "id": "18768"
+        },
+        {
+          "site": "acgnx",
+          "id": "異世界 四天王"
+        }
+      ]
+    },
+    {
+      "anilistId": 178100,
+      "bgmId": 497909,
+      "title": "外れスキル《木の実マスター》~スキルの実(食べたら死ぬ)を無限に食べられるようになった件について~",
+      "titleCn": "最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178100-GF4dKSrkdByJ.jpg",
+      "airDate": "2025-01-07",
+      "ratingScore": 5.7,
+      "popularity": 45493,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "Magic"
+      ],
+      "sites": [
+        {
+          "site": "abema",
+          "id": "194-45",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GZJH3D801",
+          "begin": "2024-12-31T15:00:00.000Z",
+          "broadcast": "R/2024-12-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3564"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08f2f6756712facfc5e"
+        },
+        {
+          "site": "nicovideo",
+          "id": "kinomimaster",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "28214",
+          "begin": "2025-10-06T15:00:00.000Z",
+          "broadcast": "R/2025-10-06T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FR4YQ9L2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163342",
+          "begin": "2025-10-15T03:00:00.000Z",
+          "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/276204"
+        },
+        {
+          "site": "mal",
+          "id": "59002"
+        },
+        {
+          "site": "anidb",
+          "id": "18675"
+        },
+        {
+          "site": "acgnx",
+          "id": "最弱 果實 大師"
+        },
+        {
+          "site": "dmhy",
+          "id": "最弱 果實 大師"
+        }
+      ]
+    },
+    {
+      "anilistId": 172439,
+      "bgmId": 472661,
+      "title": "日本へようこそエルフさん。",
+      "titleCn": "欢迎来到日本，精灵小姐。",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172439-sTda7baXB0Fh.jpg",
+      "airDate": "2025-01-10",
+      "ratingScore": 7.2,
+      "popularity": 43222,
+      "episodes": 12,
+      "tags": [
+        "搞笑",
+        "奇幻",
+        "恋爱",
+        "日常",
+        "Iyashikei",
+        "Elf",
+        "Heterosexual",
+        "Isekai",
+        "Reverse Isekai"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "welcome-elfsan",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163345",
+          "begin": "2025-01-10T17:30:00.000Z",
+          "broadcast": "R/2025-01-10T17:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0952f6756712facfc80"
+        },
+        {
+          "site": "tropics",
+          "id": "PLoGVqODys23B3ot7COYNvAskVyK3HMR-v",
+          "begin": "2025-01-10T14:00:07.000Z",
+          "broadcast": "R/2025-01-10T14:00:07.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27624",
+          "begin": "2025-01-10T17:30:00.000Z",
+          "broadcast": "R/2025-01-10T17:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "137119",
+          "begin": "2025-01-10T14:00:00.000Z",
+          "broadcast": "R/2025-01-10T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3520"
+        },
+        {
+          "site": "gamer",
+          "id": "137119",
+          "begin": "2025-01-10T14:00:00.000Z",
+          "broadcast": "R/2025-01-10T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DMWWT8HY",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "歡迎 日本 妖精"
+        },
+        {
+          "site": "bilibili",
+          "id": "27125905",
+          "begin": "2025-08-06T10:00:00.000Z",
+          "broadcast": "R/2025-08-06T10:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/249031"
+        },
+        {
+          "site": "mal",
+          "id": "57648"
+        },
+        {
+          "site": "anidb",
+          "id": "18361"
+        },
+        {
+          "site": "acgnx",
+          "id": "歡迎來到日本"
+        }
+      ]
+    },
+    {
+      "anilistId": 172453,
+      "bgmId": 473497,
+      "title": "悪役令嬢転生おじさん",
+      "titleCn": "中年上班族转生恶役",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172453-7iYNTAEZpNsJ.png",
+      "airDate": "2025-01-09",
+      "ratingScore": 7.3,
+      "popularity": 43143,
+      "episodes": 12,
+      "tags": [
+        "搞笑",
+        "奇幻",
+        "Villainess",
+        "Seinen",
+        "Video Games",
+        "Meta",
+        "Otaku Culture"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "tensei-ojisan",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163363",
+          "begin": "2025-01-12T16:00:00.000Z",
+          "broadcast": "R/2025-01-12T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "593-11",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0942f6756712facfc7a"
+        },
+        {
+          "site": "danime",
+          "id": "27577",
+          "begin": "2025-01-09T16:00:00.000Z",
+          "broadcast": "R/2025-01-09T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "viu",
+          "id": "2560203",
+          "begin": "2025-01-09T16:00:45.000Z",
+          "broadcast": "R/2025-01-09T16:00:45.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "137192",
+          "begin": "2025-01-09T16:00:00.000Z",
+          "broadcast": "R/2025-01-09T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3527"
+        },
+        {
+          "site": "gamer",
+          "id": "137192",
+          "begin": "2025-01-09T16:00:00.000Z",
+          "broadcast": "R/2025-01-09T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PL12UaAf_xzfpbyQ2M_VyWeVtDlVO21qLT",
+          "begin": "2025-01-16T16:00:06.000Z",
+          "broadcast": "R/2025-01-16T16:00:06.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DLX2MSQ9",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "中年|大叔 惡役|反派"
+        },
+        {
+          "site": "netflix",
+          "id": "81990125",
+          "begin": "2025-04-29T16:00:00.000Z",
+          "broadcast": "R/2025-04-29T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7UchCREEYmZIElL0SEfWXnqos",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/260822"
+        },
+        {
+          "site": "mal",
+          "id": "57719"
+        },
+        {
+          "site": "anidb",
+          "id": "18366"
+        },
+        {
+          "site": "acgnx",
+          "id": "上班族|大叔 轉生 恶役"
+        }
+      ]
+    },
+    {
+      "anilistId": 165171,
+      "bgmId": 430699,
+      "title": "メダリスト",
+      "titleCn": "金牌得主",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165171-an9pyRXwVxJS.jpg",
+      "airDate": "2025-01-04",
+      "ratingScore": 8.3,
+      "popularity": 41652,
+      "episodes": 13,
+      "tags": [
+        "剧情",
+        "心理",
+        "运动",
+        "Ice Sports",
+        "Coming of Age",
+        "Dancing",
+        "Athletics",
+        "Female Protagonist"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "medalist",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163336",
+          "begin": "2025-01-09T17:00:00.000Z",
+          "broadcast": "R/2025-01-09T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "disneyplus",
+          "id": "4LgC0zEd5JEx",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "3519"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa09a2f6756712facfc9c"
+        },
+        {
+          "site": "danime",
+          "id": "27620",
+          "begin": "2025-01-09T17:00:00.000Z",
+          "broadcast": "R/2025-01-09T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DRCS3YM1",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "金牌得主|Medalist"
+        },
+        {
+          "site": "bilibili",
+          "id": "24006597",
+          "begin": "2025-01-25T17:00:00.000Z",
+          "broadcast": "R/2025-01-25T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/237529"
+        },
+        {
+          "site": "mal",
+          "id": "55318"
+        },
+        {
+          "site": "anidb",
+          "id": "18030"
+        },
+        {
+          "site": "acgnx",
+          "id": "金牌得主|Medalist"
+        }
+      ]
+    },
+    {
+      "anilistId": 176642,
+      "bgmId": 488177,
+      "title": "天久鷹央の推理カルテ",
+      "titleCn": "天久鹰央的推理病历表",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176642-lgDtPlodCMRm.jpg",
+      "airDate": "2025-01-01",
+      "ratingScore": 6.9,
+      "popularity": 41456,
+      "episodes": 12,
+      "tags": [
+        "悬疑",
+        "日常",
+        "Medicine",
+        "Detective",
+        "Female Protagonist",
+        "Primarily Adult Cast",
+        "Seinen"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "amekutakao-anime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163350",
+          "begin": "2025-01-01T16:00:00.000Z",
+          "broadcast": "R/2025-01-01T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27653",
+          "begin": "2025-01-05T03:00:00.000Z",
+          "broadcast": "R/2025-01-05T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G5PHNM970",
+          "begin": "2025-01-01T15:30:00.000Z",
+          "broadcast": "R/2025-01-01T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0912f6756712facfc6c"
+        },
+        {
+          "site": "mikan",
+          "id": "3562"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "138640",
+          "begin": "2025-01-01T16:30:00.000Z",
+          "broadcast": "R/2025-01-01T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "138640",
+          "begin": "2025-01-01T16:30:00.000Z",
+          "broadcast": "R/2025-01-01T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DNBTW2NW",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "天久鷹央"
+        },
+        {
+          "site": "netflix",
+          "id": "81991098",
+          "begin": "2025-05-23T16:00:00.000Z",
+          "broadcast": "R/2025-05-23T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/250994"
+        },
+        {
+          "site": "mal",
+          "id": "58600"
+        },
+        {
+          "site": "anidb",
+          "id": "18581"
+        },
+        {
+          "site": "acgnx",
+          "id": "天久鷹央"
+        }
+      ]
+    },
+    {
+      "anilistId": 176063,
+      "bgmId": 484952,
+      "title": "没落予定の貴族だけど、暇だったから魔法を極めてみた",
+      "titleCn": "虽然我是注定没落的贵族，闲来无事只好来深究魔法",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176063-dIL2xrjmOLs1.jpg",
+      "airDate": "2025-01-06",
+      "ratingScore": 6,
+      "popularity": 41087,
+      "episodes": 12,
+      "tags": [
+        "冒险",
+        "奇幻",
+        "Magic",
+        "Alchemy",
+        "Male Protagonist",
+        "Female Harem",
+        "Reincarnation"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "botsurakukizoku-anime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163347",
+          "begin": "2025-01-06T16:30:00.000Z",
+          "broadcast": "R/2025-01-06T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08d2f6756712facfc5a"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G1XHJV008",
+          "begin": "2025-01-06T17:00:00.000Z",
+          "broadcast": "R/2025-01-06T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27616",
+          "begin": "2025-01-06T16:30:00.000Z",
+          "broadcast": "R/2025-01-06T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3553"
+        },
+        {
+          "site": "prime",
+          "id": "B0DS6GG9C8",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "沒落 貴族"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/261301"
+        },
+        {
+          "site": "mal",
+          "id": "58437"
+        },
+        {
+          "site": "anidb",
+          "id": "18536"
+        },
+        {
+          "site": "abema",
+          "id": "506-6",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "acgnx",
+          "id": "貴族 深究魔法"
+        }
+      ]
+    },
+    {
+      "anilistId": 170892,
+      "bgmId": 464593,
+      "title": "地縛少年花子くん２",
+      "titleCn": "地缚少年花子君 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170892-zhJUSsX6PaF0.jpg",
+      "airDate": "2025-01-12",
+      "ratingScore": 7.9,
+      "popularity": 40661,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "搞笑",
+        "剧情",
+        "悬疑",
+        "超自然",
+        "Urban Fantasy",
+        "Tragedy",
+        "Alternate Universe",
+        "Ghost",
+        "Youkai"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "hanakokun_2nd",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163329",
+          "begin": "2025-01-12T08:30:00.000Z",
+          "broadcast": "R/2025-01-12T08:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0882f6756712facfc40"
+        },
+        {
+          "site": "bilibili",
+          "id": "24004250",
+          "begin": "2025-01-26T10:30:00.000Z",
+          "broadcast": "R/2025-01-26T10:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "136398",
+          "begin": "2025-01-12T08:30:00.000Z",
+          "broadcast": "R/2025-01-12T08:30:00.000Z/P7D"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PL12UaAf_xzfo6QoLUhawiE3-FnJJiA1Yr",
+          "begin": "2025-01-12T08:30:06.000Z",
+          "broadcast": "R/2025-01-12T08:30:06.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27665",
+          "begin": "2025-01-12T08:30:00.000Z",
+          "broadcast": "R/2025-01-12T08:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "136398",
+          "begin": "2025-01-12T08:30:00.000Z",
+          "broadcast": "R/2025-01-12T08:30:00.000Z/P7D"
+        },
+        {
+          "site": "disneyplus",
+          "id": "aq3jZz5dNXmv",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "prime",
+          "id": "B0DQ99MH6F",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "3568"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7UciZkcJ7JPvr1FixxzAbbvXK",
+          "begin": "2025-01-12T08:30:06.000Z",
+          "broadcast": "R/2025-01-12T08:30:06.000Z/P7D"
+        },
+        {
+          "site": "dmhy",
+          "id": "花子君 2季|二季|2期|二期|S02|S2|2nd"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/95269/season/2"
+        },
+        {
+          "site": "mal",
+          "id": "53924"
+        },
+        {
+          "site": "anidb",
+          "id": "17791"
+        },
+        {
+          "site": "acgnx",
+          "id": "花子君"
+        }
+      ]
+    },
+    {
+      "anilistId": 179297,
+      "bgmId": 503268,
+      "title": "マジック・メイカー　～異世界魔法の作り方～",
+      "titleCn": "魔法制造者 ～异世界魔法的制作方法～",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179297-qaG8nCqMpR3o.jpg",
+      "airDate": "2025-01-08",
+      "ratingScore": 6.7,
+      "popularity": 39179,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "日常",
+        "Magic",
+        "Isekai",
+        "Reincarnation",
+        "Family Life",
+        "Male Protagonist"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0163335",
+          "begin": "2025-01-13T15:30:00.000Z",
+          "broadcast": "R/2025-01-13T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "25-277",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0902f6756712facfc68"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GP5HJ8417",
+          "begin": "2024-12-17T14:17:42.000Z",
+          "broadcast": "R/2024-12-17T14:17:42.000Z/P7D"
+        },
+        {
+          "site": "nicovideo",
+          "id": "magicmaker",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "27611",
+          "begin": "2025-01-08T15:30:00.000Z",
+          "broadcast": "R/2025-01-08T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3522"
+        },
+        {
+          "site": "prime",
+          "id": "B0DB6S1XGX",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "魔法 製造|發明"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/258912"
+        },
+        {
+          "site": "mal",
+          "id": "59265"
+        },
+        {
+          "site": "anidb",
+          "id": "18750"
+        },
+        {
+          "site": "acgnx",
+          "id": "魔法製造者"
+        }
+      ]
+    },
+    {
+      "anilistId": 176158,
+      "bgmId": 485469,
+      "title": "Ｓランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士（ペット）として暮らしてます",
+      "titleCn": "S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士(宠物)一起生活",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176158-nQ6EtQp76q6d.jpg",
+      "airDate": "2025-01-04",
+      "ratingScore": 5.6,
+      "popularity": 34802,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "冒险",
+        "搞笑",
+        "肉番",
+        "奇幻",
+        "Reincarnation",
+        "Elf",
+        "Female Harem",
+        "Animals",
+        "Nudity"
+      ],
+      "sites": [
+        {
+          "site": "viu",
+          "id": "2553365",
+          "begin": "2024-12-28T14:00:18.000Z",
+          "broadcast": "R/2024-12-28T14:00:18.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "138414",
+          "begin": "2024-12-28T14:00:00.000Z",
+          "broadcast": "R/2024-12-28T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3502"
+        },
+        {
+          "site": "abema",
+          "id": "149-27",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0982f6756712facfc8e"
+        },
+        {
+          "site": "gamer",
+          "id": "138414",
+          "begin": "2024-12-28T14:00:00.000Z",
+          "broadcast": "R/2024-12-28T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PL12UaAf_xzfqZWTNZyw8Mvfdf0cbf3Xxo",
+          "begin": "2025-01-11T14:00:06.000Z",
+          "broadcast": "R/2025-01-11T14:00:06.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27603",
+          "begin": "2025-01-25T14:00:00.000Z",
+          "broadcast": "R/2025-01-25T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0163346",
+          "begin": "2025-01-25T14:00:00.000Z",
+          "broadcast": "R/2025-01-25T14:00:00.000Z/P7D",
+          "comment": "湯けむりスッキリ版: SID0179061"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7Uch6jgC5px4vvXbMtSrBR5VS",
+          "begin": "2025-08-30T13:30:06.000Z",
+          "broadcast": "R/2025-08-30T13:30:06.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/249545"
+        },
+        {
+          "site": "mal",
+          "id": "58473"
+        },
+        {
+          "site": "anidb",
+          "id": "18541"
+        },
+        {
+          "site": "prime",
+          "id": "B0D52RTKB3",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "acgnx",
+          "id": "貝希摩斯"
+        },
+        {
+          "site": "dmhy",
+          "id": "貝希摩斯"
+        }
+      ]
+    },
+    {
+      "anilistId": 175198,
+      "bgmId": 481649,
+      "title": "Übel Blatt～ユーベルブラット～",
+      "titleCn": "魔域英雄传说",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175198-AtWwEQPTjQ6N.jpg",
+      "airDate": "2025-01-10",
+      "ratingScore": 6.1,
+      "popularity": 32257,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "冒险",
+        "剧情",
+        "奇幻",
+        "Revenge",
+        "Anti-Hero",
+        "Magic",
+        "Reincarnation",
+        "Travel"
+      ],
+      "sites": [
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0972f6756712facfc8a"
+        },
+        {
+          "site": "prime",
+          "id": "B0DSJQW1DW",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "3532"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/247367"
+        },
+        {
+          "site": "mal",
+          "id": "58216"
+        },
+        {
+          "site": "anidb",
+          "id": "18499"
+        },
+        {
+          "site": "acgnx",
+          "id": "魔域英雄傳說"
+        },
+        {
+          "site": "dmhy",
+          "id": "魔域英雄傳說"
+        }
+      ]
+    },
+    {
+      "anilistId": 180052,
+      "bgmId": 507581,
+      "title": "戦隊レッド異世界で冒険者になる",
+      "titleCn": "战队红战士在异世界当冒险者",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180052-i29SxOyEBtXB.jpg",
+      "airDate": "2025-01-12",
+      "ratingScore": 6.6,
+      "popularity": 31612,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "冒险",
+        "搞笑",
+        "奇幻",
+        "Super Robot",
+        "Parody",
+        "Isekai",
+        "Henshin",
+        "Tokusatsu"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "isekai-red",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "25-280",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0892f6756712facfc48"
+        },
+        {
+          "site": "unext",
+          "id": "SID0163340",
+          "begin": "2025-01-17T15:00:00.000Z",
+          "broadcast": "R/2025-01-17T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "bilibili",
+          "id": "24025020",
+          "begin": "2025-01-12T14:30:01.000Z",
+          "broadcast": "R/2025-01-12T14:30:01.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27623",
+          "begin": "2025-01-12T15:00:00.000Z",
+          "broadcast": "R/2025-01-12T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G8DHV788M",
+          "begin": "2025-01-12T14:30:00.000Z",
+          "broadcast": "R/2025-01-12T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3550"
+        },
+        {
+          "site": "prime",
+          "id": "B0DT35VXPM",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "紅 異世界"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/261148"
+        },
+        {
+          "site": "mal",
+          "id": "59514"
+        },
+        {
+          "site": "anidb",
+          "id": "18809"
+        },
+        {
+          "site": "gamer",
+          "id": "140791",
+          "begin": "2026-05-14T04:00:00.000Z",
+          "broadcast": "R/2026-05-14T04:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "140791",
+          "begin": "2026-05-14T04:00:00.000Z",
+          "broadcast": "R/2026-05-14T04:00:00.000Z/P7D"
+        },
+        {
+          "site": "acgnx",
+          "id": "戰隊紅戰士"
+        }
+      ]
+    },
+    {
+      "anilistId": 166699,
+      "bgmId": 443930,
+      "title": "沖縄で好きになった子が方言すぎてツラすぎる",
+      "titleCn": "喜欢的冲绳妹说方言",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166699-k5hIccoA5XSW.jpg",
+      "airDate": "2025-01-04",
+      "ratingScore": 6.9,
+      "popularity": 31378,
+      "episodes": 12,
+      "tags": [
+        "搞笑",
+        "恋爱",
+        "Male Protagonist",
+        "Language Barrier",
+        "Episodic",
+        "Tanned Skin",
+        "Educational"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "okitsura",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163364",
+          "begin": "2025-01-07T15:00:00.000Z",
+          "broadcast": "R/2025-01-07T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "169-147",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "27591",
+          "begin": "2025-01-04T16:00:00.000Z",
+          "broadcast": "R/2025-01-04T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "133810",
+          "begin": "2025-01-04T17:00:00.000Z",
+          "broadcast": "R/2025-01-04T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3552"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa09a2f6756712facfc9a"
+        },
+        {
+          "site": "gamer",
+          "id": "133810",
+          "begin": "2025-01-04T17:00:00.000Z",
+          "broadcast": "R/2025-01-04T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "tropics",
+          "id": "PLoGVqODys23B5O1JsQYajcOnCNSarAMsC",
+          "begin": "2025-01-04T17:00:22.000Z",
+          "broadcast": "R/2025-01-04T17:00:22.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0CZS8LRQJ",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "沖繩 方言"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/245561"
+        },
+        {
+          "site": "mal",
+          "id": "55842"
+        },
+        {
+          "site": "anidb",
+          "id": "18095"
+        },
+        {
+          "site": "acgnx",
+          "id": "沖繩"
+        }
+      ]
+    },
+    {
+      "anilistId": 185880,
+      "bgmId": 531834,
+      "title": "青の祓魔師 終夜篇",
+      "titleCn": "青之驱魔师 终夜篇",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185880-efBIcDBzPiHP.jpg",
+      "airDate": "2025-01-04",
+      "ratingScore": 8,
+      "popularity": 29118,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "奇幻",
+        "超自然",
+        "Demons",
+        "Exorcism",
+        "Urban Fantasy",
+        "Shounen",
+        "Time Manipulation"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "ao-ex-yosugahen",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163352",
+          "begin": "2025-01-04T16:00:00.000Z",
+          "broadcast": "R/2025-01-04T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "26907",
+          "begin": "2025-01-04T16:00:00.000Z",
+          "broadcast": "R/2025-01-04T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "142242",
+          "begin": "2025-01-04T17:00:00.000Z",
+          "broadcast": "R/2025-01-04T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "142242",
+          "begin": "2025-01-04T17:00:00.000Z",
+          "broadcast": "R/2025-01-04T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "bilibili",
+          "id": "24499077",
+          "begin": "2025-02-11T10:30:00.000Z",
+          "broadcast": "R/2025-02-11T10:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0D2RXHBWT",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/38464/season/5"
+        },
+        {
+          "site": "mal",
+          "id": "59226"
+        },
+        {
+          "site": "anidb",
+          "id": "18735"
+        },
+        {
+          "site": "acgnx",
+          "id": "青之驅魔師"
+        },
+        {
+          "site": "dmhy",
+          "id": "青之驅魔師"
+        }
+      ]
+    },
+    {
+      "anilistId": 174654,
+      "bgmId": 479922,
+      "title": "ニートくノ一となぜか同棲はじめました",
+      "titleCn": "不知为何我和尼特且宅的女忍者开始了同居生活",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174654-J8OduNFjRpVY.jpg",
+      "airDate": "2025-01-04",
+      "ratingScore": 5.7,
+      "popularity": 27890,
+      "episodes": 24,
+      "tags": [
+        "WEB",
+        "搞笑",
+        "肉番",
+        "恋爱",
+        "Ninja",
+        "Hikikomori",
+        "Cohabitation",
+        "Urban Fantasy",
+        "Heterosexual"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "neet-kunoichi",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163371",
+          "begin": "2025-01-04T16:30:00.000Z",
+          "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27593",
+          "begin": "2025-01-04T15:00:00.000Z",
+          "broadcast": "R/2025-01-04T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtRIqwsZJVYQaFgTdzbtBwQU",
+          "begin": "2025-01-04T16:30:06.000Z",
+          "broadcast": "R/2025-01-04T16:30:06.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7Jjp3CF8ZGiZ74pZiesyTl6P",
+          "begin": "2025-01-04T16:30:06.000Z",
+          "broadcast": "R/2025-01-04T16:30:06.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "137809",
+          "begin": "2025-01-04T16:30:00.000Z",
+          "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3526"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa09b2f6756712facfc9e"
+        },
+        {
+          "site": "gamer",
+          "id": "137809",
+          "begin": "2025-01-04T16:30:00.000Z",
+          "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DRQYV7H6",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "忍者 同居"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/273048"
+        },
+        {
+          "site": "mal",
+          "id": "58082"
+        },
+        {
+          "site": "anidb",
+          "id": "18491"
+        },
+        {
+          "site": "acgnx",
+          "id": "尼特 女忍"
+        }
+      ]
+    },
+    {
+      "anilistId": 179998,
+      "bgmId": 507115,
+      "title": "怪獣8号 第1期総集編",
+      "titleCn": "怪兽8号 第一季总集篇",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179998-2QNb7f6oXGUI.jpg",
+      "airDate": "2025-03-27",
+      "ratingScore": 7.3,
+      "popularity": 26501,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "动作",
+        "科幻",
+        "Shounen",
+        "Tokusatsu",
+        "Guns",
+        "Military",
+        "Kaiju"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0200950",
+          "begin": "2025-07-01T03:00:00.000Z",
+          "broadcast": "R/2025-07-01T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "59489"
+        },
+        {
+          "site": "anidb",
+          "id": "19471"
+        },
+        {
+          "site": "danime",
+          "id": "28787",
+          "begin": "2026-03-27T15:00:00.000Z",
+          "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1326106"
+        }
+      ]
+    },
+    {
+      "anilistId": 136381,
+      "bgmId": 396229,
+      "title": "SK∞ エスケーエイト EXTRA PART",
+      "titleCn": "OVA 无限滑板 EXTRA PART",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136381-t6c5rfKjnqqd.jpg",
+      "airDate": "2025-03-18",
+      "ratingScore": 7.9,
+      "popularity": 24399,
+      "episodes": 1,
+      "tags": [
+        "OVA",
+        "动作",
+        "搞笑",
+        "剧情",
+        "日常",
+        "运动",
+        "Primarily Male Cast",
+        "Skateboarding",
+        "Male Protagonist",
+        "Cute Boys Doing Cute Things",
+        "Slapstick"
+      ],
+      "sites": [
+        {
+          "site": "gamer",
+          "id": "137495",
+          "begin": "2025-04-18T16:00:00.000Z",
+          "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "137495",
+          "begin": "2025-04-18T16:00:00.000Z",
+          "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1385332"
+        },
+        {
+          "site": "mal",
+          "id": "49363"
+        },
+        {
+          "site": "anidb",
+          "id": "16422"
+        }
+      ]
+    },
+    {
+      "anilistId": 179999,
+      "bgmId": 507122,
+      "title": "怪獣8号 保科の休日",
+      "titleCn": "怪兽8号 保科的假期",
+      "countryOfOrigin": "JP",
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179999-8FuSR5TlOCD1.jpg",
+      "airDate": "2025-03-27",
+      "ratingScore": 6.9,
+      "popularity": 23845,
+      "episodes": 1,
+      "tags": [
+        "科幻",
+        "日常",
+        "Shounen",
+        "Tokusatsu",
+        "Kaiju"
+      ],
+      "sites": [
+        {
+          "site": "gamer_hk",
+          "id": "140244",
+          "begin": "2025-07-05T15:00:00.000Z",
+          "broadcast": "R/2025-07-05T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtRBg1e_l8hZxxGPIT9V-jcL",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7JjBFTyOmpLiobwouSY2fCJM",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bilibili",
+          "id": "26648621",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "28123",
+          "begin": "2025-07-05T14:30:00.000Z",
+          "broadcast": "R/2025-07-05T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0F62XC8CF",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1326106"
+        },
+        {
+          "site": "mal",
+          "id": "59490"
+        }
+      ]
+    },
+    {
+      "anilistId": 178550,
+      "bgmId": 501205,
+      "title": "Unnamed Memory Act.2",
+      "titleCn": "无名记忆 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178550-1mjYHtOwiqkC.jpg",
+      "airDate": "2025-01-07",
+      "ratingScore": 7,
+      "popularity": 22953,
+      "episodes": 12,
+      "tags": [
+        "冒险",
+        "奇幻",
+        "恋爱",
+        "Time Manipulation",
+        "Primarily Adult Cast",
+        "Magic"
+      ],
+      "sites": [
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08e2f6756712facfc5c"
+        },
+        {
+          "site": "mikan",
+          "id": "3549"
+        },
+        {
+          "site": "unext",
+          "id": "SID0100050",
+          "begin": "2024-04-14T15:00:00.000Z",
+          "broadcast": "R/2024-04-14T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "bilibili",
+          "id": "24360257",
+          "begin": "2025-01-07T14:30:00.000Z",
+          "broadcast": "R/2025-01-07T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G9VHN9QXQ",
+          "begin": "2025-01-07T14:30:00.000Z",
+          "broadcast": "R/2025-01-07T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27028",
+          "begin": "2025-01-07T14:30:00.000Z",
+          "broadcast": "R/2025-01-07T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "nicovideo",
+          "id": "unnamedmemory",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/216272/season/1/episode/13"
+        },
+        {
+          "site": "mal",
+          "id": "59142"
+        },
+        {
+          "site": "anidb",
+          "id": "18713"
+        },
+        {
+          "site": "acgnx",
+          "id": "Unnamed|無名 Memory|記憶"
+        },
+        {
+          "site": "dmhy",
+          "id": "Unnamed|無名 Memory|記憶"
+        }
+      ]
+    },
+    {
+      "anilistId": 179878,
+      "bgmId": 505776,
+      "title": "プロジェクトセカイ 壊れたセカイと歌えないミク",
+      "titleCn": "世界计划 无法歌唱的初音未来",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179878-jG5GTXhe2vou.jpg",
+      "airDate": "2025-01-16",
+      "ratingScore": 7.6,
+      "popularity": 22529,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "剧情",
+        "音乐",
+        "Primarily Teen Cast",
+        "Ensemble Cast",
+        "Urban Fantasy",
+        "Vocal Synth",
+        "Band"
+      ],
+      "sites": [
+        {
+          "site": "mikan",
+          "id": "3727"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1322752"
+        },
+        {
+          "site": "nicovideo",
+          "id": "pjsekai-movie",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "218-845",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mal",
+          "id": "59419"
+        },
+        {
+          "site": "anidb",
+          "id": "18780"
+        },
+        {
+          "site": "unext",
+          "id": "SID0309761",
+          "begin": "2026-07-18T03:00:00.000Z",
+          "broadcast": "R/2026-07-18T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "29037",
+          "begin": "2026-07-17T15:00:00.000Z",
+          "broadcast": "R/2026-07-17T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0F9LNV3MS",
+          "begin": "",
+          "broadcast": ""
+        }
+      ]
+    },
+    {
+      "anilistId": 178022,
+      "bgmId": 498934,
+      "title": "花は咲く、修羅の如く",
+      "titleCn": "群花绽放，彷如修罗",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178022-gB3zAfazGBJ6.jpg",
+      "airDate": "2025-01-07",
+      "ratingScore": 7,
+      "popularity": 21371,
+      "episodes": 12,
+      "tags": [
+        "剧情",
+        "日常",
+        "Primarily Teen Cast",
+        "School Club",
+        "School",
+        "Acting",
+        "Female Protagonist"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "hanashura",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163370",
+          "begin": "2025-01-07T16:35:00.000Z",
+          "broadcast": "R/2025-01-07T16:35:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08f2f6756712facfc60"
+        },
+        {
+          "site": "mikan",
+          "id": "3535"
+        },
+        {
+          "site": "gamer",
+          "id": "139915",
+          "begin": "2025-01-07T17:35:00.000Z",
+          "broadcast": "R/2025-01-07T17:35:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "139915",
+          "begin": "2025-01-07T17:35:00.000Z",
+          "broadcast": "R/2025-01-07T17:35:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27630",
+          "begin": "2025-01-10T15:00:00.000Z",
+          "broadcast": "R/2025-01-10T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DR8KDGMM",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "群花 修羅"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/256744"
+        },
+        {
+          "site": "mal",
+          "id": "59055"
+        },
+        {
+          "site": "anidb",
+          "id": "18683"
+        },
+        {
+          "site": "acgnx",
+          "id": "花 修羅"
+        }
+      ]
+    },
+    {
+      "anilistId": 169295,
+      "bgmId": 454684,
+      "title": "BanG Dream! Ave Mujica",
+      "titleCn": "颂乐人偶",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169295-WxoGTeMbje4T.jpg",
+      "airDate": "2025-01-02",
+      "ratingScore": 8.2,
+      "popularity": 20904,
+      "episodes": 13,
+      "tags": [
+        "剧情",
+        "音乐",
+        "心理",
+        "Band",
+        "Primarily Female Cast",
+        "Female Protagonist",
+        "Primarily Teen Cast",
+        "Tragedy"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "bang-dream_avemujica",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163369",
+          "begin": "2025-01-02T14:00:00.000Z",
+          "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27572",
+          "begin": "2025-01-02T14:00:00.000Z",
+          "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7UcgailV895QQWiOgwZ8st8WS",
+          "begin": "2025-01-02T14:00:05.000Z",
+          "broadcast": "R/2025-01-02T14:00:05.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "135594",
+          "begin": "2025-01-02T14:00:00.000Z",
+          "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3518"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0922f6756712facfc74"
+        },
+        {
+          "site": "gamer",
+          "id": "135594",
+          "begin": "2025-01-02T14:00:00.000Z",
+          "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "bilibili",
+          "id": "23679586",
+          "begin": "2025-01-02T14:00:00.000Z",
+          "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PL12UaAf_xzfo6TAmxIM7rEvrJAB0rzAAO",
+          "begin": "2025-01-16T14:00:06.000Z",
+          "broadcast": "R/2025-01-16T14:00:06.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DPZWLPHW",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "mujica"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/274580"
+        },
+        {
+          "site": "mal",
+          "id": "56653"
+        },
+        {
+          "site": "anidb",
+          "id": "18194"
+        },
+        {
+          "site": "acgnx",
+          "id": "頌樂人偶|mujica"
+        }
+      ]
+    },
+    {
+      "anilistId": 175409,
+      "bgmId": 482301,
+      "title": "どうせ、恋してしまうんだ。",
+      "titleCn": "终究、与你相恋。",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175409-ZYYEw0H6QypN.jpg",
+      "airDate": "2025-01-09",
+      "ratingScore": 5.9,
+      "popularity": 19283,
+      "episodes": 12,
+      "tags": [
+        "剧情",
+        "恋爱",
+        "Shoujo",
+        "Female Protagonist",
+        "Male Harem",
+        "LGBTQ+ Themes"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "koishima",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "19-219",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0942f6756712facfc7e"
+        },
+        {
+          "site": "unext",
+          "id": "SID0163356",
+          "begin": "2025-01-09T17:00:00.000Z",
+          "broadcast": "R/2025-01-09T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27635",
+          "begin": "2025-01-09T17:00:00.000Z",
+          "broadcast": "R/2025-01-09T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3528"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtTY1mIwlPOHTnC61IyRc_S4",
+          "begin": "2025-01-10T05:33:40.000Z",
+          "broadcast": "R/2025-01-10T05:33:40.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLag9LydleDRc",
+          "url": "https://www.youtube.com/show/VLPLag9LydleDRc?sbp=Kgtia0gwQ2FuWjc2OEAB",
+          "begin": "2025-01-09T17:00:06.000Z",
+          "broadcast": "R/2025-01-09T17:00:06.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "138112",
+          "begin": "2025-01-09T17:00:00.000Z",
+          "broadcast": "R/2025-01-09T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "138112",
+          "begin": "2025-01-09T17:00:00.000Z",
+          "broadcast": "R/2025-01-09T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DPGX2XVZ",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "與你相戀"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/258680"
+        },
+        {
+          "site": "mal",
+          "id": "58259"
+        },
+        {
+          "site": "anidb",
+          "id": "18506"
+        },
+        {
+          "site": "acgnx",
+          "id": "終究 與你 相戀"
+        }
+      ]
+    },
+    {
+      "anilistId": 176234,
+      "bgmId": 485782,
+      "title": "異修羅 第2期",
+      "titleCn": "异修罗 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176234-Wx2rAYr7YSD8.jpg",
+      "airDate": "2025-01-08",
+      "ratingScore": 7.1,
+      "popularity": 18508,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "剧情",
+        "奇幻",
+        "Ensemble Cast",
+        "Politics",
+        "Primarily Adult Cast",
+        "Battle Royale",
+        "Tragedy"
+      ],
+      "sites": [
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0902f6756712facfc66"
+        },
+        {
+          "site": "mikan",
+          "id": "3563"
+        },
+        {
+          "site": "disneyplus",
+          "id": "hQ0p1WPHHQmZ",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "異修羅 2季|二季|2期|二期|S02|S2|2nd"
+        },
+        {
+          "site": "danime",
+          "id": "28379",
+          "begin": "2025-10-31T15:00:00.000Z",
+          "broadcast": "R/2025-10-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0240273",
+          "begin": "2025-10-31T15:00:00.000Z",
+          "broadcast": "R/2025-10-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/220286/season/2"
+        },
+        {
+          "site": "mal",
+          "id": "58484"
+        },
+        {
+          "site": "anidb",
+          "id": "18542"
+        },
+        {
+          "site": "prime",
+          "id": "B0FR4VX3YV",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "acgnx",
+          "id": "異修羅"
+        }
+      ]
+    },
+    {
+      "anilistId": 170650,
+      "bgmId": 463205,
+      "title": "妃教育から逃げたい私",
+      "titleCn": "想摆脱公主教育的我",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170650-iVQC67atMVj3.png",
+      "airDate": "2025-01-05",
+      "ratingScore": 5.4,
+      "popularity": 14624,
+      "episodes": 12,
+      "tags": [
+        "搞笑",
+        "奇幻",
+        "恋爱",
+        "Female Protagonist",
+        "Torture",
+        "Heterosexual",
+        "Arranged Marriage",
+        "Royal Affairs"
+      ],
+      "sites": [
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0892f6756712facfc44"
+        },
+        {
+          "site": "viu",
+          "id": "2556229",
+          "begin": "2025-01-05T13:00:17.000Z",
+          "broadcast": "R/2025-01-05T13:00:17.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "136265",
+          "begin": "2025-01-05T13:00:00.000Z",
+          "broadcast": "R/2025-01-05T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "136265",
+          "begin": "2025-01-05T13:00:00.000Z",
+          "broadcast": "R/2025-01-05T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3521"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PL12UaAf_xzfo2b2zJY0wWMqzo0TSAEn27",
+          "begin": "2025-01-12T13:00:06.000Z",
+          "broadcast": "R/2025-01-12T13:00:06.000Z/P7D"
+        },
+        {
+          "site": "dmhy",
+          "id": "太子妃"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7UcjePKd5zKnqElsKhBwbL-D5",
+          "begin": "2025-08-18T13:00:06.000Z",
+          "broadcast": "R/2025-08-18T13:00:06.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/261311"
+        },
+        {
+          "site": "danime",
+          "id": "28556",
+          "begin": "2026-01-04T15:00:00.000Z",
+          "broadcast": "R/2026-01-04T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "57050"
+        },
+        {
+          "site": "anidb",
+          "id": "18264"
+        },
+        {
+          "site": "unext",
+          "id": "SID0163328",
+          "begin": "2026-07-07T03:00:00.000Z",
+          "broadcast": "R/2026-07-07T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DQ9B5SGL",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "acgnx",
+          "id": "翹掉太子妃"
+        }
+      ]
+    },
+    {
+      "anilistId": 170916,
+      "bgmId": 465094,
+      "title": "魔法使いの約束",
+      "titleCn": "魔法使的约定",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170916-B6VKOdSOBccU.jpg",
+      "airDate": "2025-01-06",
+      "ratingScore": 5.2,
+      "popularity": 13653,
+      "episodes": 12,
+      "tags": [
+        "奇幻",
+        "Magic",
+        "Isekai",
+        "Ensemble Cast",
+        "Primarily Male Cast",
+        "Female Protagonist"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0163366",
+          "begin": "2025-01-11T13:00:00.000Z",
+          "broadcast": "R/2025-01-11T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08b2f6756712facfc50"
+        },
+        {
+          "site": "nicovideo",
+          "id": "mahoyaku-anime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "gamer_hk",
+          "id": "136424",
+          "begin": "2025-01-06T14:30:00.000Z",
+          "broadcast": "R/2025-01-06T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "136424",
+          "begin": "2025-01-06T14:30:00.000Z",
+          "broadcast": "R/2025-01-06T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3541"
+        },
+        {
+          "site": "danime",
+          "id": "27615",
+          "begin": "2025-01-11T13:00:00.000Z",
+          "broadcast": "R/2025-01-11T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0CX9HRGMW",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/258578"
+        },
+        {
+          "site": "mal",
+          "id": "57152"
+        },
+        {
+          "site": "anidb",
+          "id": "18599"
+        },
+        {
+          "site": "mighty",
+          "id": "PL2ql078AibHX22EkyiMFAku1HBRD6dQVJ",
+          "begin": "2025-11-06T11:00:06.000Z",
+          "broadcast": "R/2025-11-06T11:00:06.000Z/P7D"
+        },
+        {
+          "site": "acgnx",
+          "id": "魔法使 約定"
+        },
+        {
+          "site": "dmhy",
+          "id": "魔法使 約定"
+        }
+      ]
+    },
+    {
+      "anilistId": 178495,
+      "bgmId": 501033,
+      "title": "誰ソ彼ホテル",
+      "titleCn": "黄昏旅店",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178495-RJCGa2YRdKBU.jpg",
+      "airDate": "2025-01-03",
+      "ratingScore": 7,
+      "popularity": 13528,
+      "episodes": 12,
+      "tags": [
+        "WEB",
+        "悬疑",
+        "超自然",
+        "Amnesia",
+        "Female Protagonist",
+        "Afterlife",
+        "Inn",
+        "Shapeshifting"
+      ],
+      "sites": [
+        {
+          "site": "abema",
+          "id": "675-4",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "3547"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0902f6756712facfc64"
+        },
+        {
+          "site": "gamer",
+          "id": "140168",
+          "begin": "2025-01-03T14:30:00.000Z",
+          "broadcast": "R/2025-01-03T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "dmhy",
+          "id": "黃昏旅店"
+        },
+        {
+          "site": "unext",
+          "id": "SID0163355",
+          "begin": "2025-10-01T03:00:00.000Z",
+          "broadcast": "R/2025-10-01T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28265",
+          "begin": "2025-09-30T15:00:00.000Z",
+          "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DCQY6NSQ",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "nicovideo",
+          "id": "anime-tasokarehotel",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/258229"
+        },
+        {
+          "site": "mal",
+          "id": "59136"
+        },
+        {
+          "site": "anidb",
+          "id": "18709"
+        },
+        {
+          "site": "acgnx",
+          "id": "黃昏旅店"
+        }
+      ]
+    },
+    {
+      "anilistId": 145740,
+      "bgmId": 371829,
+      "title": "グリザイア：ファントムトリガー",
+      "titleCn": "灰色：幻影扳机",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145740-KtUZ6O59DaDq.jpg",
+      "airDate": "2025-01-01",
+      "ratingScore": 6.3,
+      "popularity": 13471,
+      "episodes": 13,
+      "tags": [
+        "动作",
+        "Primarily Female Cast",
+        "Guns",
+        "Amnesia"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "gptanime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0100066",
+          "begin": "2025-01-01T16:30:00.000Z",
+          "broadcast": "R/2025-01-01T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27654",
+          "begin": "2025-01-01T16:30:00.000Z",
+          "broadcast": "R/2025-01-01T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3536"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0912f6756712facfc6a"
+        },
+        {
+          "site": "prime",
+          "id": "B0DPLCMCHP",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "灰色"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/280906"
+        },
+        {
+          "site": "mal",
+          "id": "51119"
+        },
+        {
+          "site": "anidb",
+          "id": "17220"
+        },
+        {
+          "site": "acgnx",
+          "id": "幻影扳機"
+        }
+      ]
+    },
+    {
+      "anilistId": 177159,
+      "bgmId": 491915,
+      "title": "もめんたりー・リリィ",
+      "titleCn": "刹那之花",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177159-Yt7VNCVjlnxR.jpg",
+      "airDate": "2025-01-02",
+      "ratingScore": 5.5,
+      "popularity": 13029,
+      "episodes": 13,
+      "tags": [
+        "动作",
+        "冒险",
+        "悬疑",
+        "科幻",
+        "日常",
+        "Tragedy",
+        "Post-Apocalyptic",
+        "Urban",
+        "Primarily Teen Cast",
+        "Aliens"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "momentary-lily",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163365",
+          "begin": "2025-01-02T15:00:00.000Z",
+          "broadcast": "R/2025-01-02T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27614",
+          "begin": "2025-01-05T18:00:00.000Z",
+          "broadcast": "R/2025-01-05T18:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3544"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0932f6756712facfc78"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7UchHa6OiIGv4k20nmziDRrRD",
+          "begin": "2025-01-09T16:30:06.000Z",
+          "broadcast": "R/2025-01-09T16:30:06.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "139019",
+          "begin": "2025-01-02T16:00:00.000Z",
+          "broadcast": "R/2025-01-02T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "139019",
+          "begin": "2025-01-02T16:00:00.000Z",
+          "broadcast": "R/2025-01-02T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PL12UaAf_xzfquIj_VgrFHUMVuwgNPco5Y",
+          "begin": "2025-01-16T16:30:06.000Z",
+          "broadcast": "R/2025-01-16T16:30:06.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DQQBNX2W",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "MOMENTARY"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/258228"
+        },
+        {
+          "site": "mal",
+          "id": "58739"
+        },
+        {
+          "site": "anidb",
+          "id": "18600"
+        },
+        {
+          "site": "acgnx",
+          "id": "剎那之花"
+        }
+      ]
+    },
+    {
+      "anilistId": 174596,
+      "bgmId": 479788,
+      "title": "空色ユーティリティ (TV)",
+      "titleCn": "一杆青空",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174596-GbgKrUtBBuIg.jpg",
+      "airDate": "2025-01-03",
+      "ratingScore": 7.1,
+      "popularity": 12148,
+      "episodes": 12,
+      "tags": [
+        "日常",
+        "运动",
+        "Female Protagonist",
+        "Golf",
+        "Cute Girls Doing Cute Things",
+        "Outdoor Activities",
+        "Primarily Female Cast"
+      ],
+      "sites": [
+        {
+          "site": "mikan",
+          "id": "3557"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtRm8Si7UMuqOl1Rbk5kZFKW",
+          "begin": "2025-01-03T17:00:06.000Z",
+          "broadcast": "R/2025-01-03T17:00:06.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7JhMSCE12UK6Au5HYWL2FLGr",
+          "begin": "2025-01-03T17:00:06.000Z",
+          "broadcast": "R/2025-01-03T17:00:06.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "137790",
+          "begin": "2025-01-03T17:00:00.000Z",
+          "broadcast": "R/2025-01-03T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "137790",
+          "begin": "2025-01-03T17:00:00.000Z",
+          "broadcast": "R/2025-01-03T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27660",
+          "begin": "2025-01-03T17:00:00.000Z",
+          "broadcast": "R/2025-01-03T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DRCSQRGT",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "桿|杆 青空"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/245876"
+        },
+        {
+          "site": "mal",
+          "id": "58066"
+        },
+        {
+          "site": "anidb",
+          "id": "18484"
+        },
+        {
+          "site": "acgnx",
+          "id": "一杆青空"
+        }
+      ]
+    },
+    {
+      "anilistId": 154392,
+      "bgmId": 400216,
+      "title": "劇場版 ベルサイユのばら",
+      "titleCn": "凡尔赛玫瑰",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154392-I35rrWRu9KlY.jpg",
+      "airDate": "2025-01-30",
+      "ratingScore": 6.1,
+      "popularity": 11691,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "冒险",
+        "剧情",
+        "恋爱",
+        "Shoujo",
+        "Historical",
+        "Foreign",
+        "Musical Theater",
+        "Ojou-sama"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0300000",
+          "begin": "2026-05-01T03:00:00.000Z",
+          "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "52967"
+        },
+        {
+          "site": "anidb",
+          "id": "17609"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1021679"
+        }
+      ]
+    },
+    {
+      "anilistId": 154064,
+      "bgmId": 398556,
+      "title": "メイクアガール",
+      "titleCn": "伊人制造",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154064-qYnRF4BQsuM6.png",
+      "airDate": "2025-01-30",
+      "ratingScore": 6.2,
+      "popularity": 10640,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "恋爱",
+        "科幻",
+        "Full CGI",
+        "Artificial Intelligence",
+        "Robots",
+        "Fake Relationship"
+      ],
+      "sites": [
+        {
+          "site": "mal",
+          "id": "54740"
+        },
+        {
+          "site": "anidb",
+          "id": "18460"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1179505"
+        }
+      ]
+    },
+    {
+      "anilistId": 179852,
+      "bgmId": 505488,
+      "title": "モノノ怪 火鼠",
+      "titleCn": "剧场版 物怪 火鼠",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179852-tPwGOkCxA8em.jpg",
+      "airDate": "2025-03-13",
+      "ratingScore": 8.3,
+      "popularity": 10235,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "奇幻",
+        "恐怖",
+        "悬疑",
+        "心理",
+        "超自然",
+        "Pregnancy",
+        "Tragedy",
+        "Royal Affairs",
+        "Class Struggle",
+        "Conspiracy"
+      ],
+      "sites": [
+        {
+          "site": "netflix",
+          "id": "81580575",
+          "begin": "2025-08-13T16:00:00.000Z",
+          "broadcast": "R/2025-08-13T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1322218"
+        },
+        {
+          "site": "mikan",
+          "id": "3726"
+        },
+        {
+          "site": "mal",
+          "id": "59408"
+        }
+      ]
+    },
+    {
+      "anilistId": 182158,
+      "bgmId": 515392,
+      "title": "先輩はおとこのこ あめのち晴れ",
+      "titleCn": "电影 前辈是男孩子 雨过天晴",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182158-ztLTD2FKPnrd.jpg",
+      "airDate": "2025-02-13",
+      "ratingScore": 7.3,
+      "popularity": 8864,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "搞笑",
+        "剧情",
+        "恋爱",
+        "Crossdressing",
+        "Coming of Age",
+        "Femboy",
+        "LGBTQ+ Themes",
+        "Primarily Teen Cast"
+      ],
+      "sites": [
+        {
+          "site": "mikan",
+          "id": "3725"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1362429"
+        },
+        {
+          "site": "mal",
+          "id": "59957"
+        },
+        {
+          "site": "anidb",
+          "id": "18881"
+        },
+        {
+          "site": "gamer",
+          "id": "141631",
+          "begin": "2026-02-06T04:00:00.000Z",
+          "broadcast": "R/2026-02-06T04:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "141631",
+          "begin": "2026-02-06T04:00:00.000Z",
+          "broadcast": "R/2026-02-06T04:00:00.000Z/P7D"
+        }
+      ]
+    },
+    {
+      "anilistId": 178312,
+      "bgmId": 500356,
+      "title": "ファーマギア",
+      "titleCn": "魔农传记",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178312-iGhE7xvvCReS.jpg",
+      "airDate": "2025-01-10",
+      "ratingScore": 5,
+      "popularity": 8214,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "Ensemble Cast",
+        "Proxy Battle"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "farmagia",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0952f6756712facfc82"
+        },
+        {
+          "site": "abema",
+          "id": "171-25",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtQ_9-zXJbQ3RXoEQBsosmuI",
+          "begin": "2025-01-10T14:30:06.000Z",
+          "broadcast": "R/2025-01-10T14:30:06.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7Jju9jZyfPvPCWVljX8k4yjY",
+          "begin": "2025-01-10T14:30:06.000Z",
+          "broadcast": "R/2025-01-10T14:30:06.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0163170",
+          "begin": "2025-01-14T03:00:00.000Z",
+          "broadcast": "R/2025-01-14T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "142404",
+          "begin": "2025-01-10T14:30:00.000Z",
+          "broadcast": "R/2025-01-10T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3529"
+        },
+        {
+          "site": "gamer",
+          "id": "142404",
+          "begin": "2025-01-10T14:30:00.000Z",
+          "broadcast": "R/2025-01-10T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27497",
+          "begin": "2025-01-14T03:00:00.000Z",
+          "broadcast": "R/2025-01-14T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DFV5N4XD",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "netflix",
+          "id": "82027391",
+          "begin": "2025-05-13T16:00:00.000Z",
+          "broadcast": "R/2025-05-13T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/257609"
+        },
+        {
+          "site": "mal",
+          "id": "59113"
+        },
+        {
+          "site": "anidb",
+          "id": "18696"
+        },
+        {
+          "site": "acgnx",
+          "id": "FARMAGIA"
+        },
+        {
+          "site": "dmhy",
+          "id": "FARMAGIA"
+        }
+      ]
+    },
+    {
+      "anilistId": 175422,
+      "bgmId": 482708,
+      "title": "ババンババンバンバンパイア",
+      "titleCn": "嘻嘻嘻嘻吸血鬼",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175422-4I9gEsW7px6C.png",
+      "airDate": "2025-01-11",
+      "ratingScore": 6.1,
+      "popularity": 7914,
+      "episodes": 12,
+      "tags": [
+        "搞笑",
+        "恋爱",
+        "超自然",
+        "Virginity",
+        "Vampire",
+        "Male Protagonist",
+        "Urban Fantasy",
+        "Love Triangle"
+      ],
+      "sites": [
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0992f6756712facfc94"
+        },
+        {
+          "site": "netflix",
+          "id": "81949674",
+          "begin": "2025-01-10T16:00:00.000Z",
+          "broadcast": "R/2025-01-10T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3542"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/273051"
+        },
+        {
+          "site": "unext",
+          "id": "SID0247203",
+          "begin": "2026-01-10T15:00:00.000Z",
+          "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28397",
+          "begin": "2026-01-10T15:00:00.000Z",
+          "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "12-28",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "prime",
+          "id": "B0G5CBV8ZC",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mal",
+          "id": "58265"
+        },
+        {
+          "site": "anidb",
+          "id": "18517"
+        },
+        {
+          "site": "acgnx",
+          "id": "吸吸吸吸|嘻嘻嘻嘻 吸血鬼"
+        },
+        {
+          "site": "dmhy",
+          "id": "吸吸吸吸|嘻嘻嘻嘻 吸血鬼"
+        }
+      ]
+    },
+    {
+      "anilistId": 177778,
+      "bgmId": 497110,
+      "title": "ニンジャバットマン対ヤクザリーグ",
+      "titleCn": "忍者蝙蝠侠对极道联盟",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177778-LF9pwTXJRY0R.jpg",
+      "airDate": "2025-03-20",
+      "ratingScore": 7,
+      "popularity": 5079,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "动作",
+        "科幻",
+        "Superhero",
+        "Yakuza",
+        "Male Protagonist",
+        "Anachronism",
+        "Samurai"
+      ],
+      "sites": [
+        {
+          "site": "mal",
+          "id": "58964"
+        },
+        {
+          "site": "anidb",
+          "id": "18664"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1297763"
+        },
+        {
+          "site": "danime",
+          "id": "27701",
+          "begin": "2025-03-20T15:00:00.000Z",
+          "broadcast": "R/2025-03-20T15:00:00.000Z/P7D"
+        }
+      ]
+    },
+    {
+      "anilistId": 185073,
+      "bgmId": 526104,
+      "title": "キミとアイドルプリキュア♪",
+      "titleCn": "You and idol 光之美少女♪",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185073-m4QzzXcEqmvb.png",
+      "airDate": "2025-02-01",
+      "ratingScore": 6.7,
+      "popularity": 4957,
+      "episodes": 49,
+      "tags": [
+        "动作",
+        "奇幻",
+        "魔法少女",
+        "音乐",
+        "Female Protagonist",
+        "Primarily Female Cast",
+        "Idol",
+        "Dancing",
+        "Cute Girls Doing Cute Things"
+      ],
+      "sites": [
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0882f6756712facfc3e"
+        },
+        {
+          "site": "abema",
+          "id": "5-75",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0166685",
+          "begin": "2025-02-04T15:00:00.000Z",
+          "broadcast": "R/2025-02-04T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27609",
+          "begin": "2025-02-04T15:00:00.000Z",
+          "broadcast": "R/2025-02-04T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DTJ8HY4H",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "3570"
+        },
+        {
+          "site": "dmhy",
+          "id": "你与|与你 光之"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/278378"
+        },
+        {
+          "site": "mal",
+          "id": "60407"
+        },
+        {
+          "site": "anidb",
+          "id": "19019"
+        },
+        {
+          "site": "acgnx",
+          "id": "光之"
+        }
+      ]
+    },
+    {
+      "anilistId": 181440,
+      "bgmId": 514031,
+      "title": "アルドノア・ゼロ 雨の断章 -The Penultimate Truth-",
+      "titleCn": "ALDNOAH.ZERO 雨之断章 -The Penultimate Truth-",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181440-YfrrFmLHwFBR.jpg",
+      "airDate": "2025-03-26",
+      "ratingScore": 6.5,
+      "popularity": 4691,
+      "episodes": 1,
+      "tags": [
+        "OVA",
+        "心理",
+        "科幻"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 187225,
+      "bgmId": 550769,
+      "title": "LOS ANGELES LAKERS x ONE PIECE",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187225-H0ppAOkOYMxM.jpg",
+      "airDate": "2025-02-28",
+      "ratingScore": 7.7,
+      "popularity": 4162,
+      "episodes": 1,
+      "tags": [
+        "动作",
+        "搞笑",
+        "奇幻",
+        "运动",
+        "Basketball",
+        "Super Power",
+        "Shounen",
+        "Male Protagonist"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185714,
+      "bgmId": 533327,
+      "title": "アルドノア・ゼロ（Re+）",
+      "titleCn": "ALDNOAH.ZERO（Re+）",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185714-YYhn41FIOfmM.jpg",
+      "airDate": "2025-02-28",
+      "ratingScore": 6.7,
+      "popularity": 3700,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "动作",
+        "剧情",
+        "机战",
+        "科幻"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185261,
+      "bgmId": 532061,
+      "title": "猫になりたい田万川くん",
+      "titleCn": "想变成猫的田万川君",
+      "countryOfOrigin": "JP",
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185261-hJehR0xUg9cf.jpg",
+      "airDate": "2025-01-05",
+      "ratingScore": 6.7,
+      "popularity": 3222,
+      "episodes": 1,
+      "tags": [
+        "搞笑",
+        "恋爱",
+        "Boys' Love",
+        "Cute Boys Doing Cute Things"
+      ],
+      "sites": [
+        {
+          "site": "mikan",
+          "id": "3566"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1410345"
+        },
+        {
+          "site": "mal",
+          "id": "60662"
+        },
+        {
+          "site": "anidb",
+          "id": "19090"
+        }
+      ]
+    },
+    {
+      "anilistId": 162722,
+      "bgmId": 424454,
+      "title": "魔法つかいプリキュア！！～MIRAI DAYS～",
+      "titleCn": "魔法使光之美少女！！～MIRAI DAYS～",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162722-w30E3QgBvG7H.jpg",
+      "airDate": "2025-01-11",
+      "ratingScore": 7.4,
+      "popularity": 3191,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "奇幻",
+        "魔法少女",
+        "日常",
+        "Female Protagonist",
+        "Primarily Female Cast",
+        "Isekai",
+        "Time Manipulation",
+        "Magic"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0163169",
+          "begin": "2025-01-11T17:30:00.000Z",
+          "broadcast": "R/2025-01-11T17:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa09b2f6756712facfca0"
+        },
+        {
+          "site": "danime",
+          "id": "27606",
+          "begin": "2025-01-14T17:30:00.000Z",
+          "broadcast": "R/2025-01-14T17:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3533"
+        },
+        {
+          "site": "prime",
+          "id": "B0DQVLBYRM",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bilibili",
+          "id": "25508736",
+          "begin": "2025-03-16T02:00:00.000Z",
+          "broadcast": "R/2025-03-16T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/102774/season/2"
+        },
+        {
+          "site": "mal",
+          "id": "54717"
+        },
+        {
+          "site": "anidb",
+          "id": "17908"
+        },
+        {
+          "site": "acgnx",
+          "id": "光之"
+        },
+        {
+          "site": "dmhy",
+          "id": "光之"
+        }
+      ]
+    },
+    {
+      "anilistId": 194403,
+      "bgmId": null,
+      "title": "僕のヒーローアカデミア THE MOVIE ユアネクスト《A PIECE OF CAKE》",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194403-kOJa1pMt3tjk.jpg",
+      "airDate": "2025-02-19",
+      "ratingScore": 6.8,
+      "popularity": 3004,
+      "episodes": 1,
+      "tags": [
+        "OVA",
+        "动作",
+        "搞笑"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 162921,
+      "bgmId": 425355,
+      "title": "想星のアクエリオン Myth of Emotions",
+      "titleCn": "想星的大天使 Myth of Emotions",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162921-ByoCP2VvLjeT.jpg",
+      "airDate": "2025-01-09",
+      "ratingScore": 5.2,
+      "popularity": 2673,
+      "episodes": 12,
+      "tags": [
+        "动作",
+        "奇幻",
+        "机战",
+        "悬疑",
+        "科幻"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "aq-moe",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163344",
+          "begin": "2025-01-09T15:30:00.000Z",
+          "broadcast": "R/2025-01-09T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "194-46",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0942f6756712facfc7c"
+        },
+        {
+          "site": "mikan",
+          "id": "3554"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G3KHEVDDD",
+          "begin": "2025-01-09T15:30:00.000Z",
+          "broadcast": "R/2025-01-09T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27613",
+          "begin": "2025-01-14T16:00:00.000Z",
+          "broadcast": "R/2025-01-14T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DS4BHP3L",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/281545"
+        },
+        {
+          "site": "mal",
+          "id": "54769"
+        },
+        {
+          "site": "anidb",
+          "id": "13987"
+        },
+        {
+          "site": "acgnx",
+          "id": "想星 Emotions"
+        },
+        {
+          "site": "dmhy",
+          "id": "想星 Emotions"
+        }
+      ]
+    },
+    {
+      "anilistId": 186148,
+      "bgmId": 533096,
+      "title": "猫猫のひとりごと 第2期",
+      "titleCn": "猫猫的呢喃 第二季",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186148-Tx8InzoohmXs.png",
+      "airDate": "2025-01-13",
+      "ratingScore": 7.1,
+      "popularity": 2602,
+      "episodes": 24,
+      "tags": [
+        "WEB",
+        "搞笑",
+        "Chibi"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 186559,
+      "bgmId": 536271,
+      "title": "カイリューとゆうびんやさん",
+      "titleCn": "快龙与小邮递员",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186559-yoHyJ6ROfrxT.jpg",
+      "airDate": "2025-02-27",
+      "ratingScore": 7.7,
+      "popularity": 2530,
+      "episodes": 1,
+      "tags": [
+        "WEB",
+        "冒险",
+        "奇幻",
+        "日常",
+        "Creature Taming",
+        "Work",
+        "Travel",
+        "Animals",
+        "Female Protagonist"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 167742,
+      "bgmId": 447954,
+      "title": "UniteUp! -Uni:Birth-",
+      "titleCn": "众星齐聚 -Uni:Birth-",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167742-fFAj38cj7Wxo.png",
+      "airDate": "2025-01-11",
+      "ratingScore": 6.6,
+      "popularity": 2089,
+      "episodes": 12,
+      "tags": [
+        "音乐",
+        "Idol"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "uniteup2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163348",
+          "begin": "2025-01-11T15:00:00.000Z",
+          "broadcast": "R/2025-01-11T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0982f6756712facfc92"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PL12UaAf_xzfrrYxYr-n1f98iIkr_BDSPt",
+          "begin": "2025-01-11T16:00:06.000Z",
+          "broadcast": "R/2025-01-11T16:00:06.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "134516",
+          "begin": "2025-01-11T16:00:00.000Z",
+          "broadcast": "R/2025-01-11T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27462",
+          "begin": "2025-01-11T15:00:00.000Z",
+          "broadcast": "R/2025-01-11T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "134516",
+          "begin": "2025-01-11T16:00:00.000Z",
+          "broadcast": "R/2025-01-11T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3555"
+        },
+        {
+          "site": "prime",
+          "id": "B0DSBX73MH",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7Uch-bSTh3IEfboHQ8f1vsH_a",
+          "begin": "2025-01-18T16:00:06.000Z",
+          "broadcast": "R/2025-01-18T16:00:06.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/210899/season/2"
+        },
+        {
+          "site": "mal",
+          "id": "56135"
+        },
+        {
+          "site": "anidb",
+          "id": "18141"
+        },
+        {
+          "site": "acgnx",
+          "id": "UniteUp"
+        },
+        {
+          "site": "dmhy",
+          "id": "UniteUp"
+        }
+      ]
+    },
+    {
+      "anilistId": 185992,
+      "bgmId": null,
+      "title": "ニートくノ一となぜか同棲はじめました OVAs",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185992-HL0It4J2Vn41.png",
+      "airDate": "2025-03-29",
+      "ratingScore": 6.2,
+      "popularity": 2000,
+      "episodes": 2,
+      "tags": [
+        "WEB",
+        "搞笑",
+        "肉番",
+        "恋爱"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 187236,
+      "bgmId": 559465,
+      "title": "プリンセスコネクト！ 導きの初花　- Fiore Storia -",
+      "titleCn": "公主连结七周年动画 《引导的初花 -Fiore Storia-》",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187236-tFSyyAliXxLH.jpg",
+      "airDate": "2025-02-28",
+      "ratingScore": 6.8,
+      "popularity": 1764,
+      "episodes": 1,
+      "tags": [
+        "WEB",
+        "动作",
+        "冒险",
+        "搞笑",
+        "奇幻",
+        "Virtual World",
+        "Video Games",
+        "Isekai"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185088,
+      "bgmId": 526223,
+      "title": "闇芝居 十四期",
+      "titleCn": "暗芝居 第十四季",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185088-pY2KxbG0KIoO.jpg",
+      "airDate": "2025-01-05",
+      "ratingScore": 5.4,
+      "popularity": 1719,
+      "episodes": 13,
+      "tags": [
+        "恐怖",
+        "超自然",
+        "Curses",
+        "Episodic",
+        "Tragedy",
+        "Exorcism"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0163372",
+          "begin": "2025-01-06T03:00:00.000Z",
+          "broadcast": "R/2025-01-06T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27566",
+          "begin": "2025-01-06T03:00:00.000Z",
+          "broadcast": "R/2025-01-06T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3565"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/56559/season/14"
+        },
+        {
+          "site": "mal",
+          "id": "60410"
+        },
+        {
+          "site": "anidb",
+          "id": "19086"
+        },
+        {
+          "site": "acgnx",
+          "id": "芝居"
+        },
+        {
+          "site": "dmhy",
+          "id": "芝居"
+        }
+      ]
+    },
+    {
+      "anilistId": 189160,
+      "bgmId": null,
+      "title": "もめんたりー・リリィ 続いていく割烹、割烹！",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189160-JInwvQpGhkjT.jpg",
+      "airDate": "2025-03-28",
+      "ratingScore": 6.1,
+      "popularity": 1686,
+      "episodes": 1,
+      "tags": [
+        "动作",
+        "科幻",
+        "Post-Apocalyptic",
+        "Food",
+        "Female Protagonist",
+        "Primarily Female Cast",
+        "Clone"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185462,
+      "bgmId": 526429,
+      "title": "0歳児スタートダッシュ物語 シーズン2",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg",
+      "airDate": "2025-01-05",
+      "ratingScore": 5.3,
+      "popularity": 1638,
+      "episodes": 12,
+      "tags": [
+        "奇幻",
+        "Female Protagonist",
+        "Shoujo",
+        "Royal Affairs",
+        "Arranged Marriage",
+        "Heterosexual"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0163695",
+          "begin": "2025-01-05T09:00:00.000Z",
+          "broadcast": "R/2025-01-05T09:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27571",
+          "begin": "2025-01-12T09:00:00.000Z",
+          "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DMTLT59M",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/256164/season/2"
+        },
+        {
+          "site": "mal",
+          "id": "60425"
+        },
+        {
+          "site": "anidb",
+          "id": "19119"
+        }
+      ]
+    },
+    {
+      "anilistId": 184810,
+      "bgmId": 527088,
+      "title": "インモラルーティーン The Animation",
+      "titleCn": "不道德例行性行为",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "RELEASING",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184810-BJhp0LMwWKpP.png",
+      "airDate": "2025-03-28",
+      "ratingScore": 7.6,
+      "popularity": 1636,
+      "episodes": 0,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185506,
+      "bgmId": 528310,
+      "title": "野々原柚花のヒミツのハイシン",
+      "titleCn": "野野原柚花的秘密直播",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "RELEASING",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185506-e6BT2M2TFz3i.png",
+      "airDate": "2025-02-28",
+      "ratingScore": 7,
+      "popularity": 1599,
+      "episodes": 0,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA",
+        "Female Protagonist",
+        "Filmmaking"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 179333,
+      "bgmId": 525733,
+      "title": "「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179333-BsQOchil1Q9g.png",
+      "airDate": "2025-01-05",
+      "ratingScore": 5.7,
+      "popularity": 1523,
+      "episodes": 8,
+      "tags": [
+        "里番",
+        "R18",
+        "WEB",
+        "剧情",
+        "Cohabitation",
+        "Heterosexual"
+      ],
+      "sites": [
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08a2f6756712facfc4e"
+        },
+        {
+          "site": "mikan",
+          "id": "3561"
+        },
+        {
+          "site": "danime",
+          "id": "27599",
+          "begin": "2025-01-08T15:00:00.000Z",
+          "broadcast": "R/2025-01-08T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0163354",
+          "begin": "2025-01-08T15:00:00.000Z",
+          "broadcast": "R/2025-01-08T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/279120"
+        },
+        {
+          "site": "mal",
+          "id": "60629"
+        },
+        {
+          "site": "anidb",
+          "id": "19003"
+        }
+      ]
+    },
+    {
+      "anilistId": 183602,
+      "bgmId": 521931,
+      "title": "彼女フェイス THE ANIMATION",
+      "titleCn": "女友的真实样貌",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183602-8yGvSxmilgjW.png",
+      "airDate": "2025-01-31",
+      "ratingScore": 6.8,
+      "popularity": 1504,
+      "episodes": 2,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 183741,
+      "bgmId": 533103,
+      "title": "肉園",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183741-eW11ec61Vg0T.png",
+      "airDate": "2025-02-21",
+      "ratingScore": 6.6,
+      "popularity": 1441,
+      "episodes": 2,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA",
+        "Netorare",
+        "Large Breasts",
+        "Anthology",
+        "Rape"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 181886,
+      "bgmId": 514744,
+      "title": "キン肉マン 完璧超人始祖編 Season 2",
+      "titleCn": "金肉人 完美超人始祖篇 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181886-gEqtKp6Wt2U2.jpg",
+      "airDate": "2025-01-12",
+      "ratingScore": 6.9,
+      "popularity": 1429,
+      "episodes": 11,
+      "tags": [
+        "动作",
+        "搞笑",
+        "运动",
+        "Shounen"
+      ],
+      "sites": [
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08a2f6756712facfc4a"
+        },
+        {
+          "site": "gamer",
+          "id": "142297",
+          "begin": "2025-01-12T15:30:00.000Z",
+          "broadcast": "R/2025-01-12T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "142297",
+          "begin": "2025-01-12T15:30:00.000Z",
+          "broadcast": "R/2025-01-12T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "netflix",
+          "id": "81781519",
+          "begin": "2024-07-06T16:00:00.000Z",
+          "broadcast": "R/2024-07-06T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "tropics",
+          "id": "PLoGVqODys23A3Zjq55X8BRdnL-cQDKwh6",
+          "begin": "2025-01-12T15:30:06.000Z",
+          "broadcast": "R/2025-01-12T15:30:06.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0163330",
+          "begin": "2025-01-14T15:30:00.000Z",
+          "broadcast": "R/2025-01-14T15:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3569"
+        },
+        {
+          "site": "danime",
+          "id": "28100",
+          "begin": "2025-07-07T15:00:00.000Z",
+          "broadcast": "R/2025-07-07T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/236000/season/1/episode/12"
+        },
+        {
+          "site": "mal",
+          "id": "59914"
+        },
+        {
+          "site": "anidb",
+          "id": "18875"
+        },
+        {
+          "site": "acgnx",
+          "id": "筋肉人"
+        },
+        {
+          "site": "dmhy",
+          "id": "筋肉人"
+        }
+      ]
+    },
+    {
+      "anilistId": 186153,
+      "bgmId": 532849,
+      "title": "夕顔",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186153-j5G9lBw43N69.png",
+      "airDate": "2025-03-28",
+      "ratingScore": 6.8,
+      "popularity": 1414,
+      "episodes": 1,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA",
+        "Large Breasts",
+        "Memory Manipulation"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 187380,
+      "bgmId": null,
+      "title": "ONE PIECE オリジナルエピソード／ルフィ、ロー",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187380-RZmxpJyB3A6Y.jpg",
+      "airDate": "2025-01-19",
+      "ratingScore": 6.5,
+      "popularity": 1337,
+      "episodes": 1,
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "Pirates"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 182920,
+      "bgmId": 440880,
+      "title": "カードファイト!! ヴァンガード Divinez デラックス編",
+      "titleCn": "卡片战斗先导者 Divinez Deluxe篇",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182920-kGMtP4dBBJBO.jpg",
+      "airDate": "2025-01-10",
+      "ratingScore": 7,
+      "popularity": 1297,
+      "episodes": 13,
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "Card Battle"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "cf-vanguard_deluxe",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "27466",
+          "begin": "2025-01-10T23:30:00.000Z",
+          "broadcast": "R/2025-01-10T23:30:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0167298",
+          "begin": "2025-01-10T23:30:00.000Z",
+          "broadcast": "R/2025-01-10T23:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DMPKSS17",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "gamer",
+          "id": "143134",
+          "begin": "2025-01-17T12:00:00.000Z",
+          "broadcast": "R/2025-01-17T12:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "143134",
+          "begin": "2025-01-17T12:00:00.000Z",
+          "broadcast": "R/2025-01-17T12:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3558"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/106301/season/7"
+        },
+        {
+          "site": "mal",
+          "id": "54144"
+        },
+        {
+          "site": "anidb",
+          "id": "19050"
+        },
+        {
+          "site": "acgnx",
+          "id": "Divinez Deluxe"
+        },
+        {
+          "site": "dmhy",
+          "id": "Divinez Deluxe"
+        }
+      ]
+    },
+    {
+      "anilistId": 185001,
+      "bgmId": 525599,
+      "title": "知らないこと知りたいの？ The Animation",
+      "titleCn": "探索欢爱新境界？",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "RELEASING",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185001-ueqGXlmN8iVe.png",
+      "airDate": "2025-02-28",
+      "ratingScore": 6.9,
+      "popularity": 1283,
+      "episodes": 0,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 186300,
+      "bgmId": null,
+      "title": "ミニっと！かいじゅう８号",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186300-py8AeW9MgfDS.jpg",
+      "airDate": "2024-12-06",
+      "ratingScore": 6.1,
+      "popularity": 1218,
+      "episodes": 31,
+      "tags": [
+        "WEB",
+        "搞笑",
+        "日常"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 183743,
+      "bgmId": null,
+      "title": "完堕ちX寝取られ家族 The Animation 〜アナタ、許して。私たち、浮気セックスに本気でハマっちゃったの〜",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183743-PWnF3dcpsu9M.png",
+      "airDate": "2025-03-21",
+      "ratingScore": 5.6,
+      "popularity": 1218,
+      "episodes": 2,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 183742,
+      "bgmId": 533910,
+      "title": "亜人がお好きなんですね♡",
+      "titleCn": "您喜欢亚人对吧",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "RELEASING",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183742-WOUbrnj69mhF.png",
+      "airDate": "2025-03-28",
+      "ratingScore": 6.3,
+      "popularity": 1177,
+      "episodes": 0,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA",
+        "Primarily Adult Cast",
+        "Nudity",
+        "Nakadashi",
+        "Large Breasts",
+        "Female Protagonist"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 179838,
+      "bgmId": 505378,
+      "title": "美男高校地球防衛部ETERNAL LOVE！",
+      "titleCn": "剧场版 美男高校地球防卫部ETERNAL LOVE！",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179838-qCOaqbhZ8eFX.jpg",
+      "airDate": "2025-01-23",
+      "ratingScore": 6.8,
+      "popularity": 1089,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "搞笑",
+        "魔法少女",
+        "科幻",
+        "日常",
+        "Magic",
+        "Parody",
+        "Super Power",
+        "Henshin",
+        "Urban Fantasy"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0204958",
+          "begin": "2025-06-30T15:00:00.000Z",
+          "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "nicovideo",
+          "id": "boueibu-movie",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "28023",
+          "begin": "2025-06-30T15:00:00.000Z",
+          "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FCQBQTSG",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1406243"
+        },
+        {
+          "site": "mal",
+          "id": "59406"
+        },
+        {
+          "site": "anidb",
+          "id": "18776"
+        }
+      ]
+    },
+    {
+      "anilistId": 182333,
+      "bgmId": 515422,
+      "title": "映画ドラえもん のび太の絵世界物語",
+      "titleCn": "哆啦A梦：大雄的绘画奇遇记",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182333-t7cPjoPHHPBp.png",
+      "airDate": "2025-03-06",
+      "ratingScore": 7.7,
+      "popularity": 1044,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "sites": [
+        {
+          "site": "mikan",
+          "id": "3653"
+        },
+        {
+          "site": "unext",
+          "id": "SID0219875",
+          "begin": "2025-09-28T03:00:00.000Z",
+          "broadcast": "R/2025-09-28T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1372489"
+        },
+        {
+          "site": "mal",
+          "id": "59980"
+        },
+        {
+          "site": "anidb",
+          "id": "18883"
+        },
+        {
+          "site": "abema",
+          "id": "35-134",
+          "begin": "",
+          "broadcast": ""
+        }
+      ]
+    },
+    {
+      "anilistId": 187305,
+      "bgmId": 523821,
+      "title": "映画 ヒプノシスマイク -Division Rap Battle-",
+      "titleCn": "电影 催眠麦克风",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187305-Mzyh5PICkk9X.jpg",
+      "airDate": "2025-02-20",
+      "ratingScore": 7.1,
+      "popularity": 1007,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "动作",
+        "音乐",
+        "科幻",
+        "Hip-hop Music",
+        "Full CGI"
+      ],
+      "sites": [
+        {
+          "site": "mal",
+          "id": "60273"
+        },
+        {
+          "site": "anidb",
+          "id": "19076"
+        }
+      ]
+    },
+    {
+      "anilistId": 184765,
+      "bgmId": 525141,
+      "title": "イクイク♡サキュバス再教育",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184765-bnevwOoXSFur.png",
+      "airDate": "2025-01-31",
+      "ratingScore": 6.2,
+      "popularity": 980,
+      "episodes": 2,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA",
+        "Succubus"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 182877,
+      "bgmId": 517532,
+      "title": "監禁区域レベルX 続編",
+      "titleCn": "监禁区域LevelX 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182877-In2sD6eEJdvw.png",
+      "airDate": "2025-02-21",
+      "ratingScore": 6.2,
+      "popularity": 880,
+      "episodes": 6,
+      "tags": [
+        "恐怖",
+        "悬疑",
+        "Zombie"
+      ],
+      "sites": [
+        {
+          "site": "tmdb",
+          "id": "tv/261135/season/1/episode/7"
+        },
+        {
+          "site": "mal",
+          "id": "60094"
+        },
+        {
+          "site": "anidb",
+          "id": "19179"
+        }
+      ]
+    },
+    {
+      "anilistId": 173333,
+      "bgmId": 474999,
+      "title": "魔神創造伝ワタル",
+      "titleCn": "魔神创造传",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173333-lqvM2Ya74nN9.jpg",
+      "airDate": "2025-01-12",
+      "ratingScore": 6.2,
+      "popularity": 832,
+      "episodes": 24,
+      "tags": [
+        "动作",
+        "冒险",
+        "搞笑",
+        "奇幻",
+        "机战",
+        "科幻",
+        "Kids",
+        "Super Robot"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "wataru-anime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0882f6756712facfc42"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtTRBRkxiwSc7gBC-yyOW8pl",
+          "begin": "2025-01-12T09:00:00.000Z",
+          "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7JhKVWP6J8KAjulzH95c3Zur",
+          "begin": "2025-01-12T09:00:00.000Z",
+          "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "137331",
+          "begin": "2025-01-12T09:00:00.000Z",
+          "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27588",
+          "begin": "2025-01-12T09:00:00.000Z",
+          "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
+        },
+        {
+          "site": "viu",
+          "id": "2560644",
+          "begin": "2025-01-12T09:00:39.000Z",
+          "broadcast": "R/2025-01-12T09:00:39.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "137331",
+          "begin": "2025-01-12T09:00:00.000Z",
+          "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3534"
+        },
+        {
+          "site": "prime",
+          "id": "B0DR2D72FH",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mytv",
+          "id": "mashincreatorwataru_144533",
+          "begin": "2025-10-21T12:50:00.000Z",
+          "broadcast": "R/2025-10-21T12:50:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/271264"
+        },
+        {
+          "site": "mal",
+          "id": "57827"
+        },
+        {
+          "site": "anidb",
+          "id": "18406"
+        },
+        {
+          "site": "acgnx",
+          "id": "魔神創造傳"
+        },
+        {
+          "site": "dmhy",
+          "id": "魔神創造傳"
+        }
+      ]
+    },
+    {
+      "anilistId": 185779,
+      "bgmId": 530237,
+      "title": "ハメツの誘惑",
+      "titleCn": "毁灭性的诱惑",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "RELEASING",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185779-uzQoDrD3Sy6r.png",
+      "airDate": "2025-03-28",
+      "ratingScore": 6.2,
+      "popularity": 828,
+      "episodes": 0,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 186207,
+      "bgmId": 532446,
+      "title": "いつかの私より",
+      "titleCn": "比起曾经的我",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186207-wXRSveC72nUP.png",
+      "airDate": "2025-01-17",
+      "ratingScore": 6.7,
+      "popularity": 770,
+      "episodes": 1,
+      "tags": [
+        "WEB",
+        "日常"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 176432,
+      "bgmId": 486663,
+      "title": "Thunderbolt Fantasy 東離劍遊紀 最終章",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176432-jqq2IZrjYaiZ.jpg",
+      "airDate": "2025-02-20",
+      "ratingScore": 7.9,
+      "popularity": 718,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "动作",
+        "剧情",
+        "奇幻",
+        "Puppetry",
+        "Primarily Adult Cast",
+        "Swordplay",
+        "Demons",
+        "Martial Arts"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "thunderboltfantasy-saishusho",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0195923",
+          "begin": "2025-06-03T03:00:00.000Z",
+          "broadcast": "R/2025-06-03T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1266839"
+        },
+        {
+          "site": "anidb",
+          "id": "18560"
+        },
+        {
+          "site": "abema",
+          "id": "13-209",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "acgnx",
+          "id": "東離劍"
+        },
+        {
+          "site": "dmhy",
+          "id": "東離劍"
+        }
+      ]
+    },
+    {
+      "anilistId": 185612,
+      "bgmId": null,
+      "title": "アイドルマスター シャイニーカラーズ 2nd season SHHis",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185612-k7OiD1ocpHMC.png",
+      "airDate": "2025-03-28",
+      "ratingScore": 5.7,
+      "popularity": 642,
+      "episodes": 1,
+      "tags": [
+        "OVA",
+        "音乐",
+        "日常",
+        "Full CGI"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185648,
+      "bgmId": 538501,
+      "title": "モンポケ",
+      "titleCn": "monpoké短篇动画",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185648-NLFMKByKkNKx.png",
+      "airDate": "2025-02-19",
+      "ratingScore": 5.8,
+      "popularity": 629,
+      "episodes": 10,
+      "tags": [
+        "WEB",
+        "搞笑",
+        "奇幻",
+        "日常",
+        "Animals",
+        "Coastal",
+        "Iyashikei",
+        "Chibi",
+        "Primarily Animal Cast"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 192928,
+      "bgmId": 549375,
+      "title": "ノモの国",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192928-akbttQVo3Mdi.png",
+      "airDate": "2025-03-28",
+      "ratingScore": 6.7,
+      "popularity": 623,
+      "episodes": 1,
+      "tags": [
+        "WEB",
+        "冒险",
+        "奇幻",
+        "悬疑",
+        "Primarily Child Cast",
+        "Isekai",
+        "Magic",
+        "Travel",
+        "Coming of Age"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 184824,
+      "bgmId": 525143,
+      "title": "勇者ちゃんの冒険は終わってしまった！",
+      "titleCn": "勇者妹妹的冒险结束了！",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184824-UcbgUai3o3xd.png",
+      "airDate": "2025-02-28",
+      "ratingScore": 5.9,
+      "popularity": 601,
+      "episodes": 2,
+      "tags": [
+        "里番",
+        "R18",
+        "OVA"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 189893,
+      "bgmId": null,
+      "title": "空色ユーティリティ × BIRDIE WING スペシャルコラボ ミニアニメ",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189893-7T1pZjLbwEie.png",
+      "airDate": "2025-02-12",
+      "ratingScore": 5.8,
+      "popularity": 581,
+      "episodes": 2,
+      "tags": [
+        "WEB",
+        "搞笑",
+        "运动",
+        "Crossover",
+        "Golf",
+        "Chibi"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 187514,
+      "bgmId": null,
+      "title": "レッツロール！シナモロール",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187514-NvIkv0KVoYBF.jpg",
+      "airDate": "2025-03-06",
+      "ratingScore": 7.2,
+      "popularity": 400,
+      "episodes": 12,
+      "tags": [
+        "WEB",
+        "日常",
+        "Animals",
+        "Primarily Animal Cast",
+        "Kids"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 187507,
+      "bgmId": 506773,
+      "title": "Duel Masters LOST ～月下の死神～",
+      "titleCn": "决斗大师 LOST ～月下的死神～",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187507-QqJ6HlOm65Iy.png",
+      "airDate": "2024-12-20",
+      "ratingScore": 5.6,
+      "popularity": 390,
+      "episodes": 4,
+      "tags": [
+        "WEB",
+        "冒险",
+        "超自然"
+      ],
+      "sites": [
+        {
+          "site": "danime",
+          "id": "27377",
+          "begin": "2024-12-24T03:00:00.000Z",
+          "broadcast": "R/2024-12-24T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0165716",
+          "begin": "2024-12-26T03:00:00.000Z",
+          "broadcast": "R/2024-12-26T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "13-195",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/284880/season/2"
+        },
+        {
+          "site": "mal",
+          "id": "59458"
+        },
+        {
+          "site": "anidb",
+          "id": "18797"
+        },
+        {
+          "site": "acgnx",
+          "id": "決鬥大師"
+        },
+        {
+          "site": "dmhy",
+          "id": "決鬥大師"
+        }
+      ]
+    },
+    {
+      "anilistId": 185901,
+      "bgmId": 508394,
+      "title": "TRUST",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185901-iRIID6SJ3ugs.png",
+      "airDate": "2025-03-09",
+      "ratingScore": 5.5,
+      "popularity": 244,
+      "episodes": 1,
+      "tags": [
+        "WEB",
+        "悬疑",
+        "科幻",
+        "Artificial Intelligence"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185898,
+      "bgmId": null,
+      "title": "ギャラクシーアパート★コスモヒルズ",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185898-NnuSreMijs7g.png",
+      "airDate": "2025-03-09",
+      "ratingScore": 5.5,
+      "popularity": 211,
+      "episodes": 1,
+      "tags": [
+        "WEB",
+        "剧情",
+        "科幻"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185900,
+      "bgmId": 508393,
+      "title": "星の子どもとはじまりの樹",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185900-c5hOndo2zcNd.png",
+      "airDate": "2025-03-09",
+      "ratingScore": 5.1,
+      "popularity": 205,
+      "episodes": 1,
+      "tags": [
+        "WEB",
+        "奇幻"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 213461,
+      "bgmId": null,
+      "title": "Fate/Grand Order 藤丸立香はわからない Season 2 特別",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "SPECIAL",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213461-QkQMKaAtZFlb.jpg",
+      "airDate": "2025-03-19",
+      "ratingScore": 6.1,
+      "popularity": 175,
+      "episodes": 2,
+      "tags": [
+        "搞笑"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185539,
+      "bgmId": 613378,
+      "title": "アルプスの老人ハイジのおじいさん",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185539-57P8xM9whe1b.png",
+      "airDate": "2024-12-18",
+      "ratingScore": 4.1,
+      "popularity": 147,
+      "episodes": 12,
+      "tags": [
+        "WEB",
+        "搞笑"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185903,
+      "bgmId": null,
+      "title": "DIVE IN!",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185903-sTZFMXJGnwu4.png",
+      "airDate": "2025-03-09",
+      "ratingScore": 4.7,
+      "popularity": 134,
+      "episodes": 1,
+      "tags": [
+        "WEB",
+        "剧情",
+        "No Dialogue"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 185643,
+      "bgmId": 529199,
+      "title": "おしりたんてい スター・アンド・ムーン",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185643-GdoqcxGGXqq5.png",
+      "airDate": "2025-03-19",
+      "ratingScore": 4.5,
+      "popularity": 108,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "搞笑",
+        "悬疑",
+        "Detective",
+        "Kids"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0237876",
+          "begin": "2025-10-17T03:00:00.000Z",
+          "broadcast": "R/2025-10-17T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1406240"
+        },
+        {
+          "site": "danime",
+          "id": "28500",
+          "begin": "2025-12-19T03:00:00.000Z",
+          "broadcast": "R/2025-12-19T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "60613"
+        },
+        {
+          "site": "anidb",
+          "id": "19059"
+        }
+      ]
+    },
+    {
+      "anilistId": 183412,
+      "bgmId": null,
+      "title": "映画しまじろうしまじろうと ゆうきのうた",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183412-aquaVDg24IRw.png",
+      "airDate": "2025-03-14",
+      "ratingScore": 4.5,
+      "popularity": 94,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "冒险",
+        "搞笑",
+        "奇幻"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 206071,
+      "bgmId": 558417,
+      "title": "普通の生活",
+      "titleCn": "普通的生活",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206071-vzOH2H4EPxFn.jpg",
+      "airDate": "2025-02-15",
+      "ratingScore": 5.3,
+      "popularity": 82,
+      "episodes": 1,
+      "tags": [
+        "剧场版",
+        "日常",
+        "No Dialogue"
+      ],
+      "sites": []
+    },
+    {
+      "anilistId": 189733,
+      "bgmId": 536694,
+      "title": "はーい！ミャクミャクです",
+      "titleCn": "嗨！我是脉脉",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189733-PgwNxBPV1BSA.jpg",
+      "airDate": "2025-03-03",
+      "ratingScore": 5.2,
+      "popularity": 81,
+      "episodes": 8,
+      "tags": [
+        "搞笑",
+        "超自然"
+      ],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0228345",
+          "begin": "2025-08-31T15:00:00.000Z",
+          "broadcast": "R/2025-08-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28184",
+          "begin": "2025-08-30T15:00:00.000Z",
+          "broadcast": "R/2025-08-30T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/285388"
+        },
+        {
+          "site": "mal",
+          "id": "61197"
+        },
+        {
+          "site": "anidb",
+          "id": "19678"
+        }
+      ]
+    }
+  ]
+}
