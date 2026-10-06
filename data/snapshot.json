@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-06T02:02:07.384Z",
+  "generatedAt": "2026-10-06T07:21:02.970Z",
   "window": {
-    "from": 1789437637,
-    "to": 1796436037
+    "from": 1789456734,
+    "to": 1796455134
   },
   "items": [
     {
@@ -1101,6 +1101,119 @@
       ]
     },
     {
+      "anilistId": 140842,
+      "bgmId": 354700,
+      "title": "ちいかわ",
+      "titleCn": "小可爱",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
+      "airDate": "2022-04-03",
+      "sites": [
+        {
+          "site": "gamer",
+          "id": "120421",
+          "begin": "2023-12-22T08:10:00.000Z",
+          "broadcast": "R/2023-12-22T08:10:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-181",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0066847",
+          "begin": "2023-04-10T15:00:00.000Z",
+          "broadcast": "R/2023-04-10T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3288"
+        },
+        {
+          "site": "danime",
+          "id": "26310",
+          "begin": "2023-04-10T15:00:00.000Z",
+          "broadcast": "R/2023-04-10T15:00:00.000Z/P7D",
+          "comment": "#1-240, #241-:27692"
+        },
+        {
+          "site": "bilibili",
+          "id": "25417818",
+          "begin": "2025-03-28T11:14:20.000Z",
+          "broadcast": "R/2025-03-28T11:14:20.000Z/P7D"
+        },
+        {
+          "site": "viu",
+          "id": "2623311",
+          "begin": "2025-06-01T04:00:17.000Z",
+          "broadcast": "R/2025-06-01T04:00:17.000Z/P7D"
+        },
+        {
+          "site": "disneyplus",
+          "id": "7ipu8UcqkQmx",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "prime",
+          "id": "B0DD825MN9",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/194916"
+        },
+        {
+          "site": "mal",
+          "id": "50250"
+        },
+        {
+          "site": "anidb",
+          "id": "16943"
+        },
+        {
+          "site": "acgnx",
+          "id": "Chiikawa"
+        },
+        {
+          "site": "dmhy",
+          "id": "Chiikawa"
+        },
+        {
+          "site": "netflix",
+          "id": "81753363",
+          "begin": "2026-09-18T16:00:00.000Z",
+          "broadcast": "R/2026-09-18T16:00:00.000Z/P7D"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2022,
+      "startMonth": 4,
+      "episodes": [
+        {
+          "n": 379,
+          "t": 1789684800
+        },
+        {
+          "n": 380,
+          "t": 1790030400
+        },
+        {
+          "n": 381,
+          "t": 1790289600
+        },
+        {
+          "n": 382,
+          "t": 1790635200
+        }
+      ]
+    },
+    {
       "anilistId": 152677,
       "bgmId": 393010,
       "title": "探偵はもう、死んでいる。Season2",
@@ -1704,6 +1817,102 @@
         {
           "n": 138,
           "t": 1795168800
+        }
+      ]
+    },
+    {
+      "anilistId": 169080,
+      "bgmId": 454083,
+      "title": "アズールレーン びそくぜんしんっ！にっ！！",
+      "titleCn": "碧蓝航线：微速前行！第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169080-el4sMLlqMxeI.png",
+      "airDate": "2026-07-05",
+      "sites": [
+        {
+          "site": "mal",
+          "id": "56613"
+        },
+        {
+          "site": "anidb",
+          "id": "18188"
+        },
+        {
+          "site": "nicovideo",
+          "id": "azurlane-bisoku2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "gamer",
+          "id": "135454",
+          "begin": "2026-07-05T16:45:00.000Z",
+          "broadcast": "R/2026-07-05T16:45:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "135454",
+          "begin": "2026-07-05T16:45:00.000Z",
+          "broadcast": "R/2026-07-05T16:45:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0305842",
+          "begin": "2026-07-05T16:15:00.000Z",
+          "broadcast": "R/2026-07-05T16:15:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "29097",
+          "begin": "2026-07-05T16:15:00.000Z",
+          "broadcast": "R/2026-07-05T16:15:00.000Z/P7D"
+        },
+        {
+          "site": "tropics",
+          "id": "PLoGVqODys23BfDRQP4UbadKXkqdmZbboo",
+          "begin": "2026-07-05T16:45:06.000Z",
+          "broadcast": "R/2026-07-05T16:45:06.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "4033"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/109805/season/2"
+        },
+        {
+          "site": "prime",
+          "id": "B0H4Z8G1S4",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6a715383b56eb30ad03fd4e1"
+        },
+        {
+          "site": "acgnx",
+          "id": "碧藍航線"
+        },
+        {
+          "site": "anibt",
+          "id": "454083"
+        },
+        {
+          "site": "dmhy",
+          "id": "碧藍航線"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 12,
+          "t": 1789920000
         }
       ]
     },
@@ -3236,6 +3445,156 @@
       ]
     },
     {
+      "anilistId": 183231,
+      "bgmId": 520633,
+      "title": "リラックマ",
+      "titleCn": "轻松熊",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+      "airDate": "2026-04-04",
+      "sites": [
+        {
+          "site": "gamer",
+          "id": "141989",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "gamer_hk",
+          "id": "141989",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLcvvqVl5rw84",
+          "url": "https://www.youtube.com/show/VLPLcvvqVl5rw84?sbp=Kgs4YzJ6QXBkd21PSUAB",
+          "begin": "2026-04-04T01:00:06.000Z",
+          "broadcast": "R/2026-04-04T01:00:06.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "60153"
+        },
+        {
+          "site": "anidb",
+          "id": "18936"
+        },
+        {
+          "site": "unext",
+          "id": "SID0282790",
+          "begin": "2026-04-04T00:30:00.000Z",
+          "broadcast": "R/2026-04-04T00:30:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28879",
+          "begin": "2026-04-04T00:30:00.000Z",
+          "broadcast": "R/2026-04-04T00:30:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GT00374493",
+          "begin": "2026-04-03T00:00:00.000Z",
+          "broadcast": "R/2026-04-03T00:00:00.000Z/P7D"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PLVX7FeuKaWWI",
+          "url": "https://www.youtube.com/show/VLPLVX7FeuKaWWI?sbp=KgtwVU5VQmFBSmszWUAB",
+          "begin": "2026-06-13T01:00:06.000Z",
+          "broadcast": "R/2026-06-13T01:00:06.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-291",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "3964"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "69db11af4b29be5e9e214f34"
+        },
+        {
+          "site": "nicovideo",
+          "id": "rilakkuma-anime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/299144"
+        },
+        {
+          "site": "acgnx",
+          "id": "輕鬆熊"
+        },
+        {
+          "site": "anibt",
+          "id": "520633"
+        },
+        {
+          "site": "dmhy",
+          "id": "輕鬆熊"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 4,
+      "episodes": [
+        {
+          "n": 25,
+          "t": 1789777560
+        },
+        {
+          "n": 26,
+          "t": 1790987160
+        },
+        {
+          "n": 27,
+          "t": 1791591960
+        },
+        {
+          "n": 28,
+          "t": 1792196760
+        },
+        {
+          "n": 29,
+          "t": 1792801560
+        },
+        {
+          "n": 30,
+          "t": 1793406360
+        },
+        {
+          "n": 31,
+          "t": 1794011160
+        },
+        {
+          "n": 32,
+          "t": 1794615960
+        },
+        {
+          "n": 33,
+          "t": 1795220760
+        },
+        {
+          "n": 34,
+          "t": 1795825560
+        },
+        {
+          "n": 35,
+          "t": 1796430360
+        }
+      ]
+    },
+    {
       "anilistId": 184356,
       "bgmId": 621835,
       "title": "도굴왕",
@@ -3579,6 +3938,116 @@
         {
           "n": 12,
           "t": 1789995600
+        }
+      ]
+    },
+    {
+      "anilistId": 185646,
+      "bgmId": 529143,
+      "title": "コウペンちゃん",
+      "titleCn": "正能量企鹅",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
+      "airDate": "2025-04-05",
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0181263",
+          "begin": "2025-04-05T23:30:00.000Z",
+          "broadcast": "R/2025-04-05T23:30:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "87-2101",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "27886",
+          "begin": "2025-04-05T23:30:00.000Z",
+          "broadcast": "R/2025-04-05T23:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "67ed5cb78b961748467f45c3"
+        },
+        {
+          "site": "prime",
+          "id": "B0F2FGM9L1",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "正 企鹅"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/285797"
+        },
+        {
+          "site": "mal",
+          "id": "60534"
+        },
+        {
+          "site": "anidb",
+          "id": "19058"
+        },
+        {
+          "site": "acgnx",
+          "id": "正能量企鵝"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2025,
+      "startMonth": 4,
+      "episodes": [
+        {
+          "n": 77,
+          "t": 1789858800
+        },
+        {
+          "n": 78,
+          "t": 1790463600
+        },
+        {
+          "n": 79,
+          "t": 1791068400
+        },
+        {
+          "n": 80,
+          "t": 1791673200
+        },
+        {
+          "n": 81,
+          "t": 1792278000
+        },
+        {
+          "n": 82,
+          "t": 1792882800
+        },
+        {
+          "n": 83,
+          "t": 1793487600
+        },
+        {
+          "n": 84,
+          "t": 1794092400
+        },
+        {
+          "n": 85,
+          "t": 1794697200
+        },
+        {
+          "n": 86,
+          "t": 1795302000
+        },
+        {
+          "n": 87,
+          "t": 1795906800
         }
       ]
     },
@@ -5652,6 +6121,74 @@
         {
           "n": 9,
           "t": 1795939200
+        }
+      ]
+    },
+    {
+      "anilistId": 194207,
+      "bgmId": 563508,
+      "title": "パンどろぼう",
+      "titleCn": "神秘面包小子",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg",
+      "airDate": "2026-10-02",
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "pandorobo",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6abdf90d98d9339c5c7431b2"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1790934000
+        },
+        {
+          "n": 2,
+          "t": 1791538800
+        },
+        {
+          "n": 3,
+          "t": 1792143600
+        },
+        {
+          "n": 4,
+          "t": 1792748400
+        },
+        {
+          "n": 5,
+          "t": 1793353200
+        },
+        {
+          "n": 6,
+          "t": 1793958000
+        },
+        {
+          "n": 7,
+          "t": 1794562800
+        },
+        {
+          "n": 8,
+          "t": 1795167600
+        },
+        {
+          "n": 9,
+          "t": 1795772400
+        },
+        {
+          "n": 10,
+          "t": 1796377200
         }
       ]
     },
@@ -8747,6 +9284,120 @@
       ]
     },
     {
+      "anilistId": 201667,
+      "bgmId": 603352,
+      "title": "文豪ストレイドッグス わん！２",
+      "titleCn": "文豪野犬 汪！第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg",
+      "airDate": "2026-07-02",
+      "sites": [
+        {
+          "site": "gamer",
+          "id": "151150",
+          "begin": "2026-07-02T12:40:00.000Z",
+          "broadcast": "R/2026-07-02T12:40:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "151150",
+          "begin": "2026-07-02T12:40:00.000Z",
+          "broadcast": "R/2026-07-02T12:40:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "25-161",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "nicovideo",
+          "id": "bungostraydogswan2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0305807",
+          "begin": "2026-06-26T03:00:00.000Z",
+          "broadcast": "R/2026-06-26T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "29087",
+          "begin": "2026-07-02T12:40:00.000Z",
+          "broadcast": "R/2026-07-02T12:40:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLHVglNU6OvbA",
+          "begin": "2026-07-02T12:40:06.000Z",
+          "broadcast": "R/2026-07-02T12:40:06.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLSFfcgIBEqIU",
+          "begin": "2026-07-02T12:40:06.000Z",
+          "broadcast": "R/2026-07-02T12:40:06.000Z/P7D"
+        },
+        {
+          "site": "mytv",
+          "id": "bungostraydogswan2_146720",
+          "begin": "2026-07-02T12:40:00.000Z",
+          "broadcast": "R/2026-07-02T12:40:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "4017"
+        },
+        {
+          "site": "mal",
+          "id": "62883"
+        },
+        {
+          "site": "anidb",
+          "id": "19698"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/110837/season/2"
+        },
+        {
+          "site": "prime",
+          "id": "B0H6YT8V7W",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6a71538cb56eb30ad03fd51b"
+        },
+        {
+          "site": "acgnx",
+          "id": "文豪 汪"
+        },
+        {
+          "site": "anibt",
+          "id": "603352"
+        },
+        {
+          "site": "dmhy",
+          "id": "文豪 汪"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 12,
+          "t": 1789648800
+        }
+      ]
+    },
+    {
       "anilistId": 202079,
       "bgmId": 605533,
       "title": "おじさんはカワイイものがお好き。",
@@ -9053,6 +9704,68 @@
         {
           "n": 12,
           "t": 1789992000
+        }
+      ]
+    },
+    {
+      "anilistId": 202386,
+      "bgmId": 607043,
+      "title": "小3アシベ QQゴマちゃん",
+      "titleCn": "小3阿贝 QQ小芝麻",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png",
+      "airDate": "2026-04-11",
+      "sites": [
+        {
+          "site": "tmdb",
+          "id": "tv/319455"
+        },
+        {
+          "site": "danime",
+          "id": "28883",
+          "begin": "2026-04-11T22:30:00.000Z",
+          "broadcast": "R/2026-04-11T22:30:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0285881",
+          "begin": "2026-04-11T22:30:00.000Z",
+          "broadcast": "R/2026-04-11T22:30:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "62933"
+        },
+        {
+          "site": "anidb",
+          "id": "19930"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "69db119e4b29be5e9e214eca"
+        },
+        {
+          "site": "acgnx",
+          "id": "小3阿貝"
+        },
+        {
+          "site": "anibt",
+          "id": "607043"
+        },
+        {
+          "site": "dmhy",
+          "id": "小3阿貝"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 4,
+      "episodes": [
+        {
+          "n": 24,
+          "t": 1789855200
         }
       ]
     },
@@ -9780,6 +10493,84 @@
       ]
     },
     {
+      "anilistId": 204269,
+      "bgmId": 616378,
+      "title": "おでかけ子ザメ シーズン2",
+      "titleCn": "小鲨鱼去郊游 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png",
+      "airDate": "2026-04-11",
+      "sites": [
+        {
+          "site": "bangumi_moe",
+          "id": "69db119f4b29be5e9e214ece"
+        },
+        {
+          "site": "mal",
+          "id": "63125"
+        },
+        {
+          "site": "mikan",
+          "id": "3978"
+        },
+        {
+          "site": "anibt",
+          "id": "616378"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 4,
+      "episodes": [
+        {
+          "n": 24,
+          "t": 1789855200
+        },
+        {
+          "n": 25,
+          "t": 1790460000
+        },
+        {
+          "n": 26,
+          "t": 1791064800
+        },
+        {
+          "n": 27,
+          "t": 1791669600
+        },
+        {
+          "n": 28,
+          "t": 1792274400
+        },
+        {
+          "n": 29,
+          "t": 1792879200
+        },
+        {
+          "n": 30,
+          "t": 1793484000
+        },
+        {
+          "n": 31,
+          "t": 1794088800
+        },
+        {
+          "n": 32,
+          "t": 1794693600
+        },
+        {
+          "n": 33,
+          "t": 1795298400
+        },
+        {
+          "n": 34,
+          "t": 1795903200
+        }
+      ]
+    },
+    {
       "anilistId": 204389,
       "bgmId": 616808,
       "title": "野生のラスボスが現れた！ 第2期",
@@ -10196,6 +10987,144 @@
         {
           "n": 48,
           "t": 1796166000
+        }
+      ]
+    },
+    {
+      "anilistId": 205116,
+      "bgmId": 619052,
+      "title": "あはれ！名作くん (2026)",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205116-160t0jWDkIdK.png",
+      "airDate": "2026-07-05",
+      "sites": [
+        {
+          "site": "mal",
+          "id": "63219"
+        },
+        {
+          "site": "unext",
+          "id": "SID0308078",
+          "begin": "2026-07-06T03:00:00.000Z",
+          "broadcast": "R/2026-07-06T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "29126",
+          "begin": "2026-07-06T03:00:00.000Z",
+          "broadcast": "R/2026-07-06T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0H7BM31NP",
+          "begin": "",
+          "broadcast": ""
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 12,
+          "t": 1789919100
+        }
+      ]
+    },
+    {
+      "anilistId": 205772,
+      "bgmId": 621449,
+      "title": "キャンディーカリエス",
+      "titleCn": "Candy Caries 蛀在糖糖里",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png",
+      "airDate": "2026-04-15",
+      "sites": [
+        {
+          "site": "mal",
+          "id": "63276"
+        },
+        {
+          "site": "gamer",
+          "id": "149915",
+          "begin": "2026-04-15T16:00:00.000Z",
+          "broadcast": "R/2026-04-15T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "149915",
+          "begin": "2026-04-15T16:00:00.000Z",
+          "broadcast": "R/2026-04-15T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLe8K3ab7TsWI",
+          "url": "https://www.youtube.com/show/VLPLe8K3ab7TsWI?sbp=KgtRbDVtbjNVeV9vTUAB",
+          "begin": "2026-06-10T16:00:06.000Z",
+          "broadcast": "R/2026-06-10T16:00:06.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "210-17",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "muse_tw",
+          "id": "PLKBxIqbuc1F4",
+          "url": "https://www.youtube.com/show/VLPLKBxIqbuc1F4?sbp=KgtZSDBGOUxpSW95Z0AB",
+          "begin": "2026-05-06T16:00:06.000Z",
+          "broadcast": "R/2026-05-06T16:00:06.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0285885",
+          "begin": "2026-04-15T16:00:00.000Z",
+          "broadcast": "R/2026-04-15T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28769",
+          "begin": "2026-04-15T16:00:00.000Z",
+          "broadcast": "R/2026-04-15T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3967"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "69db11a94b29be5e9e214f0c"
+        },
+        {
+          "site": "anidb",
+          "id": "20012"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/312383"
+        },
+        {
+          "site": "anibt",
+          "id": "621449"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 4,
+      "episodes": [
+        {
+          "n": 23,
+          "t": 1789570560
+        },
+        {
+          "n": 24,
+          "t": 1790175360
         }
       ]
     },
@@ -10832,6 +11761,66 @@
       ]
     },
     {
+      "anilistId": 206774,
+      "bgmId": 698032,
+      "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206774-S65hVQp46NUf.jpg",
+      "airDate": "2026-10-04",
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "maukuri",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "anibt",
+          "id": "698032"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6abdf90598d9339c5c743178"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791129600
+        },
+        {
+          "n": 2,
+          "t": 1791734400
+        },
+        {
+          "n": 3,
+          "t": 1792339200
+        },
+        {
+          "n": 4,
+          "t": 1793548800
+        },
+        {
+          "n": 5,
+          "t": 1794153600
+        },
+        {
+          "n": 6,
+          "t": 1794758400
+        },
+        {
+          "n": 7,
+          "t": 1795964400
+        }
+      ]
+    },
+    {
       "anilistId": 206814,
       "bgmId": 623249,
       "title": "ドラゴンボール超 ビルス",
@@ -10978,6 +11967,52 @@
         {
           "n": 9,
           "t": 1796127960
+        }
+      ]
+    },
+    {
+      "anilistId": 206950,
+      "bgmId": 532772,
+      "title": "クマーバシーズン3",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png",
+      "airDate": "2026-04-11",
+      "sites": [
+        {
+          "site": "danime",
+          "id": "28884",
+          "begin": "2026-04-11T22:30:00.000Z",
+          "broadcast": "R/2026-04-11T22:30:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0285882",
+          "begin": "2026-04-11T22:30:00.000Z",
+          "broadcast": "R/2026-04-11T22:30:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "63383"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "69db119f4b29be5e9e214ecc"
+        },
+        {
+          "site": "anibt",
+          "id": "532772"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 4,
+      "episodes": [
+        {
+          "n": 24,
+          "t": 1789855200
         }
       ]
     },
@@ -11325,6 +12360,104 @@
       ]
     },
     {
+      "anilistId": 207674,
+      "bgmId": 627136,
+      "title": "うしろの正面カムイさん",
+      "titleCn": "正后方的神威",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg",
+      "airDate": "2026-07-03",
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "kamuisan",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "643-22",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "gamer",
+          "id": "149857",
+          "begin": "2026-07-03T16:30:00.000Z",
+          "broadcast": "R/2026-07-03T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "149857",
+          "begin": "2026-07-03T16:30:00.000Z",
+          "broadcast": "R/2026-07-03T16:30:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "63468"
+        },
+        {
+          "site": "anidb",
+          "id": "19889"
+        },
+        {
+          "site": "mikan",
+          "id": "4042"
+        },
+        {
+          "site": "danime",
+          "id": "29101",
+          "begin": "2026-07-03T16:30:00.000Z",
+          "broadcast": "R/2026-07-03T16:30:00.000Z/P7D",
+          "comment": "デレギュラ版, オンエア版: 29099, ミニアニメ劇場: 29100"
+        },
+        {
+          "site": "unext",
+          "id": "SID0305860",
+          "begin": "2026-07-06T16:30:00.000Z",
+          "broadcast": "R/2026-07-06T16:30:00.000Z/P7D",
+          "comment": "ミニアニメ劇場: SID0308478"
+        },
+        {
+          "site": "prime",
+          "id": "B0H6QX2LTK",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/325052"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6a715390b56eb30ad03fd535"
+        },
+        {
+          "site": "acgnx",
+          "id": "從後面 神威先生"
+        },
+        {
+          "site": "anibt",
+          "id": "627136"
+        },
+        {
+          "site": "dmhy",
+          "id": "從後面 神威先生"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 12,
+          "t": 1789749000
+        }
+      ]
+    },
+    {
       "anilistId": 207809,
       "bgmId": 627648,
       "title": "天は赤い河のほとり",
@@ -11449,6 +12582,82 @@
         {
           "n": 22,
           "t": 1796142900
+        }
+      ]
+    },
+    {
+      "anilistId": 208025,
+      "bgmId": 630160,
+      "title": "ダークサモナーとデキている",
+      "titleCn": "黑暗召唤师在地下恋爱中",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg",
+      "airDate": "2026-10-04",
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "darksummoner",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "anidb",
+          "id": "19908"
+        },
+        {
+          "site": "mal",
+          "id": "63509"
+        },
+        {
+          "site": "anibt",
+          "id": "630160"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6abdf90698d9339c5c74317e"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791130800
+        },
+        {
+          "n": 2,
+          "t": 1791735600
+        },
+        {
+          "n": 3,
+          "t": 1792340400
+        },
+        {
+          "n": 4,
+          "t": 1792945200
+        },
+        {
+          "n": 5,
+          "t": 1793550000
+        },
+        {
+          "n": 6,
+          "t": 1794154800
+        },
+        {
+          "n": 7,
+          "t": 1794759600
+        },
+        {
+          "n": 8,
+          "t": 1795364400
+        },
+        {
+          "n": 9,
+          "t": 1795969200
         }
       ]
     },
@@ -11618,6 +12827,62 @@
         {
           "n": 4,
           "t": 1793361600
+        }
+      ]
+    },
+    {
+      "anilistId": 208824,
+      "bgmId": 633711,
+      "title": "プラノサウルス ガチコセイブツ部",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208824-JeKq65nNiFhA.png",
+      "airDate": "2026-07-11",
+      "sites": [
+        {
+          "site": "danime",
+          "id": "29125",
+          "begin": "2026-07-11T22:30:00.000Z",
+          "broadcast": "R/2026-07-11T22:30:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0309609",
+          "begin": "2026-07-11T22:30:00.000Z",
+          "broadcast": "R/2026-07-11T22:30:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "63641"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6a715380b56eb30ad03fd4cb"
+        },
+        {
+          "site": "anibt",
+          "id": "633711"
+        },
+        {
+          "site": "abema",
+          "id": "204-21",
+          "begin": "",
+          "broadcast": ""
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 11,
+          "t": 1789855200
+        },
+        {
+          "n": 12,
+          "t": 1790460000
         }
       ]
     },
@@ -13121,6 +14386,260 @@
       ]
     },
     {
+      "anilistId": 211877,
+      "bgmId": 647220,
+      "title": "彼女の友達",
+      "titleCn": "女友的朋友",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211877-yWQ2r7XmWvG6.jpg",
+      "airDate": "2026-10-04",
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "kanojo-no-tomodachi",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "anidb",
+          "id": "20040"
+        },
+        {
+          "site": "mal",
+          "id": "64131"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6abdf90598d9339c5c74317a"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791129900
+        },
+        {
+          "n": 2,
+          "t": 1791734700
+        },
+        {
+          "n": 3,
+          "t": 1792339500
+        },
+        {
+          "n": 4,
+          "t": 1792944300
+        },
+        {
+          "n": 5,
+          "t": 1793549100
+        },
+        {
+          "n": 6,
+          "t": 1794153900
+        },
+        {
+          "n": 7,
+          "t": 1794758700
+        },
+        {
+          "n": 8,
+          "t": 1795363500
+        },
+        {
+          "n": 9,
+          "t": 1795968300
+        }
+      ]
+    },
+    {
+      "anilistId": 212144,
+      "bgmId": 650428,
+      "title": "傷だらけ聖女より報復をこめて Season2",
+      "titleCn": "黑化吧！圣女大人 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
+      "airDate": "2026-10-01",
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "kizudarakeseijo2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "29234",
+          "begin": "2026-10-01T15:15:00.000Z",
+          "broadcast": "R/2026-10-01T15:15:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "151577",
+          "begin": "2026-10-01T16:15:00.000Z",
+          "broadcast": "R/2026-10-01T16:15:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "151577",
+          "begin": "2026-10-01T16:15:00.000Z",
+          "broadcast": "R/2026-10-01T16:15:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLJdcbm_eKSwc",
+          "url": "https://www.youtube.com/show/VLPLJdcbm_eKSwc?sbp=KgtKbDcwa3hLbzZFNEAB",
+          "begin": "2026-10-01T16:15:00.000Z",
+          "broadcast": "R/2026-10-01T16:15:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLcnM8O8NMtiU",
+          "url": "https://www.youtube.com/show/VLPLcnM8O8NMtiU?sbp=KgtDTHkwbmxNUGprc0AB",
+          "begin": "2026-10-01T16:15:00.000Z",
+          "broadcast": "R/2026-10-01T16:15:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0316452",
+          "begin": "2026-10-03T03:00:00.000Z",
+          "broadcast": "R/2026-10-03T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "4109"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1790866800
+        },
+        {
+          "n": 2,
+          "t": 1791471600
+        },
+        {
+          "n": 3,
+          "t": 1792076400
+        },
+        {
+          "n": 4,
+          "t": 1792681200
+        },
+        {
+          "n": 5,
+          "t": 1793286000
+        },
+        {
+          "n": 6,
+          "t": 1793890800
+        },
+        {
+          "n": 7,
+          "t": 1794495600
+        },
+        {
+          "n": 8,
+          "t": 1795100400
+        },
+        {
+          "n": 9,
+          "t": 1795705200
+        },
+        {
+          "n": 10,
+          "t": 1796310000
+        }
+      ]
+    },
+    {
+      "anilistId": 212308,
+      "bgmId": 651872,
+      "title": "パンの赤ちゃん",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg",
+      "airDate": "2026-07-03",
+      "sites": [
+        {
+          "site": "danime",
+          "id": "29177",
+          "begin": "2026-08-25T15:00:00.000Z",
+          "broadcast": "R/2026-08-25T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "64210"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 12,
+          "t": 1789774200
+        },
+        {
+          "n": 13,
+          "t": 1790379000
+        },
+        {
+          "n": 14,
+          "t": 1790983800
+        },
+        {
+          "n": 15,
+          "t": 1791588600
+        },
+        {
+          "n": 16,
+          "t": 1792193400
+        },
+        {
+          "n": 17,
+          "t": 1792798200
+        },
+        {
+          "n": 18,
+          "t": 1793403000
+        },
+        {
+          "n": 19,
+          "t": 1794007800
+        },
+        {
+          "n": 20,
+          "t": 1794612600
+        },
+        {
+          "n": 21,
+          "t": 1795217400
+        },
+        {
+          "n": 22,
+          "t": 1795822200
+        },
+        {
+          "n": 23,
+          "t": 1796427000
+        }
+      ]
+    },
+    {
       "anilistId": 212503,
       "bgmId": 654294,
       "title": "冰剣の魔術師が世界を統べるⅡ",
@@ -13594,6 +15113,134 @@
       ]
     },
     {
+      "anilistId": 213298,
+      "bgmId": 661278,
+      "title": "ゆるゆる図鑑",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213298-ymB1Sw0yDZ0Y.jpg",
+      "airDate": "2026-10-03",
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0316455",
+          "begin": "2026-10-03T22:30:00.000Z",
+          "broadcast": "R/2026-10-03T22:30:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "29264",
+          "begin": "2026-10-03T22:30:00.000Z",
+          "broadcast": "R/2026-10-03T22:30:00.000Z/P7D"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791064800
+        },
+        {
+          "n": 2,
+          "t": 1791669600
+        },
+        {
+          "n": 3,
+          "t": 1792274400
+        },
+        {
+          "n": 4,
+          "t": 1792879200
+        },
+        {
+          "n": 5,
+          "t": 1793484000
+        },
+        {
+          "n": 6,
+          "t": 1794088800
+        },
+        {
+          "n": 7,
+          "t": 1794693600
+        },
+        {
+          "n": 8,
+          "t": 1795298400
+        },
+        {
+          "n": 9,
+          "t": 1795903200
+        }
+      ]
+    },
+    {
+      "anilistId": 213359,
+      "bgmId": 662006,
+      "title": "闇芝居 十七期",
+      "titleCn": "暗芝居 第十七季",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213359-VDIZoZHMA0LI.jpg",
+      "airDate": "2026-07-12",
+      "sites": [
+        {
+          "site": "danime",
+          "id": "29127",
+          "begin": "2026-07-13T03:00:00.000Z",
+          "broadcast": "R/2026-07-13T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0308079",
+          "begin": "2026-07-13T03:00:00.000Z",
+          "broadcast": "R/2026-07-13T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "64435"
+        },
+        {
+          "site": "mikan",
+          "id": "4047"
+        },
+        {
+          "site": "acgnx",
+          "id": "芝居"
+        },
+        {
+          "site": "anibt",
+          "id": "662006"
+        },
+        {
+          "site": "dmhy",
+          "id": "芝居"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 11,
+          "t": 1789928400
+        },
+        {
+          "n": 12,
+          "t": 1790533200
+        },
+        {
+          "n": 13,
+          "t": 1791138000
+        }
+      ]
+    },
+    {
       "anilistId": 213457,
       "bgmId": 661692,
       "title": "フールナイト",
@@ -13615,6 +15262,102 @@
         {
           "n": 2,
           "t": 1796281200
+        }
+      ]
+    },
+    {
+      "anilistId": 213506,
+      "bgmId": 637339,
+      "title": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
+      "titleCn": "北斗神拳 拳王军杂兵们的挽歌 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213506-vr9kwJjMvXV8.jpg",
+      "airDate": "2026-07-06",
+      "sites": [
+        {
+          "site": "mal",
+          "id": "64378"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLOXvq1E702ZQ",
+          "begin": "2026-07-06T11:05:06.000Z",
+          "broadcast": "R/2026-07-06T11:05:06.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLcPnuVJ3jm6A",
+          "begin": "2026-07-06T11:05:06.000Z",
+          "broadcast": "R/2026-07-06T11:05:06.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "4010"
+        },
+        {
+          "site": "prime",
+          "id": "B0GCLNZM7Z",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0251557",
+          "begin": "2026-07-06T11:05:06.000Z",
+          "broadcast": "R/2026-07-06T11:05:06.000Z/P7D"
+        },
+        {
+          "site": "nicovideo",
+          "id": "zakoban",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "117-42",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "28593",
+          "begin": "2026-07-06T11:05:06.000Z",
+          "broadcast": "R/2026-07-06T11:05:06.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "148359",
+          "begin": "2026-07-06T11:05:00.000Z",
+          "broadcast": "R/2026-07-06T11:05:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "148359",
+          "begin": "2026-07-06T11:05:00.000Z",
+          "broadcast": "R/2026-07-06T11:05:00.000Z/P7D"
+        },
+        {
+          "site": "acgnx",
+          "id": "北斗神拳"
+        },
+        {
+          "site": "anibt",
+          "id": "637339"
+        },
+        {
+          "site": "dmhy",
+          "id": "北斗神拳"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 12,
+          "t": 1789916400
         }
       ]
     },
@@ -13718,6 +15461,108 @@
         {
           "n": 8,
           "t": 1795941000
+        }
+      ]
+    },
+    {
+      "anilistId": 213665,
+      "bgmId": 638995,
+      "title": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした",
+      "titleCn": "拯救替身千金的是冷酷无情冰之王子的爱",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png",
+      "airDate": "2026-07-06",
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "migawari",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0305858",
+          "begin": "2026-07-11T03:00:00.000Z",
+          "broadcast": "R/2026-07-11T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "151618",
+          "begin": "2026-07-07T13:00:00.000Z",
+          "broadcast": "R/2026-07-07T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "151618",
+          "begin": "2026-07-07T13:00:00.000Z",
+          "broadcast": "R/2026-07-07T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "63878"
+        },
+        {
+          "site": "danime",
+          "id": "29077",
+          "begin": "2026-07-07T13:00:00.000Z",
+          "broadcast": "R/2026-07-07T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLU8XxacdkS0U",
+          "begin": "2026-07-07T13:00:06.000Z",
+          "broadcast": "R/2026-07-07T13:00:06.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLf6uu4mFo2tQ",
+          "begin": "2026-07-07T13:00:06.000Z",
+          "broadcast": "R/2026-07-07T13:00:06.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "4041"
+        },
+        {
+          "site": "prime",
+          "id": "B0H6Q52SHK",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "anidb",
+          "id": "20180"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/326191"
+        },
+        {
+          "site": "acgnx",
+          "id": "替身 千金 王子"
+        },
+        {
+          "site": "anibt",
+          "id": "638995"
+        },
+        {
+          "site": "dmhy",
+          "id": "替身 千金 王子"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 11,
+          "t": 1789476900
+        },
+        {
+          "n": 12,
+          "t": 1790081700
         }
       ]
     },
@@ -13950,6 +15795,27 @@
       ]
     },
     {
+      "anilistId": 213831,
+      "bgmId": null,
+      "title": "スナックはざま-HAZAMA-",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213831-jrH7JR6feW1q.png",
+      "airDate": "2026-07-01",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 12,
+          "t": 1789749720
+        }
+      ]
+    },
+    {
       "anilistId": 213861,
       "bgmId": 542017,
       "title": "レッツロールシナモロール",
@@ -14063,6 +15929,226 @@
         {
           "n": 1,
           "t": 1790272800
+        }
+      ]
+    },
+    {
+      "anilistId": 214593,
+      "bgmId": 688204,
+      "title": "ゆうさんち！from 遊ハち",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
+      "airDate": "2026-10-01",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791165600
+        },
+        {
+          "n": 2,
+          "t": 1791471600
+        },
+        {
+          "n": 3,
+          "t": 1791770400
+        },
+        {
+          "n": 4,
+          "t": 1792076400
+        },
+        {
+          "n": 5,
+          "t": 1792375200
+        },
+        {
+          "n": 6,
+          "t": 1792681200
+        },
+        {
+          "n": 7,
+          "t": 1792980000
+        },
+        {
+          "n": 8,
+          "t": 1793286000
+        },
+        {
+          "n": 9,
+          "t": 1793584800
+        },
+        {
+          "n": 10,
+          "t": 1793890800
+        },
+        {
+          "n": 11,
+          "t": 1794189600
+        },
+        {
+          "n": 12,
+          "t": 1794495600
+        },
+        {
+          "n": 13,
+          "t": 1794794400
+        },
+        {
+          "n": 14,
+          "t": 1795100400
+        },
+        {
+          "n": 15,
+          "t": 1795399200
+        },
+        {
+          "n": 16,
+          "t": 1795705200
+        },
+        {
+          "n": 17,
+          "t": 1796004000
+        },
+        {
+          "n": 18,
+          "t": 1796310000
+        }
+      ]
+    },
+    {
+      "anilistId": 214703,
+      "bgmId": 675448,
+      "title": "ごーすと・みーつ・ぎゃる！",
+      "titleCn": "Ghost Meets Gal!",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214703-iXoaVH6UkiZd.png",
+      "airDate": "2026-09-04",
+      "sites": [
+        {
+          "site": "danime",
+          "id": "29204",
+          "begin": "2026-09-12T00:00:00.000Z",
+          "broadcast": "R/2026-09-12T00:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0316467",
+          "begin": "2026-09-12T00:00:00.000Z",
+          "broadcast": "R/2026-09-12T00:00:00.000Z/P7D"
+        },
+        {
+          "site": "mal",
+          "id": "64718"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 9,
+      "episodes": [
+        {
+          "n": 3,
+          "t": 1789772400
+        },
+        {
+          "n": 4,
+          "t": 1790377200
+        },
+        {
+          "n": 5,
+          "t": 1790982000
+        },
+        {
+          "n": 6,
+          "t": 1791586800
+        },
+        {
+          "n": 7,
+          "t": 1792191600
+        },
+        {
+          "n": 8,
+          "t": 1792796400
+        },
+        {
+          "n": 9,
+          "t": 1793401200
+        },
+        {
+          "n": 10,
+          "t": 1794006000
+        },
+        {
+          "n": 11,
+          "t": 1794610800
+        },
+        {
+          "n": 12,
+          "t": 1795215600
+        }
+      ]
+    },
+    {
+      "anilistId": 214968,
+      "bgmId": null,
+      "title": "ねずみくんのチョッキ (TV) 第2期",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214968-rrPSP2nKF40C.jpg",
+      "airDate": "2026-10-01",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1790987400
+        },
+        {
+          "n": 2,
+          "t": 1791592200
+        },
+        {
+          "n": 3,
+          "t": 1792197000
+        },
+        {
+          "n": 4,
+          "t": 1792801800
+        },
+        {
+          "n": 5,
+          "t": 1793406600
+        },
+        {
+          "n": 6,
+          "t": 1794011400
+        },
+        {
+          "n": 7,
+          "t": 1794616200
+        },
+        {
+          "n": 8,
+          "t": 1795221000
+        },
+        {
+          "n": 9,
+          "t": 1795825800
+        },
+        {
+          "n": 10,
+          "t": 1796430600
         }
       ]
     },
@@ -14327,6 +16413,70 @@
       ]
     },
     {
+      "anilistId": 216860,
+      "bgmId": 646586,
+      "title": "ぷにるんず ぷに４",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216860-ghfSopHbPVNa.png",
+      "airDate": "2026-10-04",
+      "sites": [
+        {
+          "site": "bangumi_moe",
+          "id": "6abdf90098d9339c5c74315c"
+        },
+        {
+          "site": "unext",
+          "id": "SID0319537",
+          "begin": "2026-10-04T00:30:00.000Z",
+          "broadcast": "R/2026-10-04T00:30:00.000Z/P7D"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791072960
+        },
+        {
+          "n": 2,
+          "t": 1791677760
+        },
+        {
+          "n": 3,
+          "t": 1792282560
+        },
+        {
+          "n": 4,
+          "t": 1792887360
+        },
+        {
+          "n": 5,
+          "t": 1793492160
+        },
+        {
+          "n": 6,
+          "t": 1794096960
+        },
+        {
+          "n": 7,
+          "t": 1794701760
+        },
+        {
+          "n": 8,
+          "t": 1795306560
+        },
+        {
+          "n": 9,
+          "t": 1795911360
+        }
+      ]
+    },
+    {
       "anilistId": 216895,
       "bgmId": 701782,
       "title": "蒼き伝承 ウェルシュ&シェーダー",
@@ -14432,6 +16582,108 @@
       ]
     },
     {
+      "anilistId": 217282,
+      "bgmId": 709475,
+      "title": "ゲルぴよ 2",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217282-fRAAhF2b5eIr.png",
+      "airDate": "2026-10-01",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1792587240
+        },
+        {
+          "n": 2,
+          "t": 1793192040
+        },
+        {
+          "n": 3,
+          "t": 1793796840
+        },
+        {
+          "n": 4,
+          "t": 1794401640
+        },
+        {
+          "n": 5,
+          "t": 1795006440
+        },
+        {
+          "n": 6,
+          "t": 1795611240
+        },
+        {
+          "n": 7,
+          "t": 1796216040
+        }
+      ]
+    },
+    {
+      "anilistId": 217577,
+      "bgmId": 701779,
+      "title": "マゼンチュ",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg",
+      "airDate": "2026-10-01",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1790902200
+        },
+        {
+          "n": 2,
+          "t": 1791507000
+        },
+        {
+          "n": 3,
+          "t": 1792111800
+        },
+        {
+          "n": 4,
+          "t": 1792716600
+        },
+        {
+          "n": 5,
+          "t": 1793321400
+        },
+        {
+          "n": 6,
+          "t": 1793926200
+        },
+        {
+          "n": 7,
+          "t": 1794531000
+        },
+        {
+          "n": 8,
+          "t": 1795135800
+        },
+        {
+          "n": 9,
+          "t": 1795740600
+        },
+        {
+          "n": 10,
+          "t": 1796345400
+        }
+      ]
+    },
+    {
       "anilistId": 217624,
       "bgmId": null,
       "title": "ぷちきゅあ～Precure Fairies～ シーズン4",
@@ -14485,6 +16737,112 @@
         {
           "n": 10,
           "t": 1796290200
+        }
+      ]
+    },
+    {
+      "anilistId": 217782,
+      "bgmId": null,
+      "title": "彼女の友達 ミニアニメ",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217782-DV0vODQ68ZRk.png",
+      "airDate": "2026-10-01",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791130620
+        },
+        {
+          "n": 2,
+          "t": 1791735420
+        },
+        {
+          "n": 3,
+          "t": 1792340220
+        },
+        {
+          "n": 4,
+          "t": 1792945020
+        },
+        {
+          "n": 5,
+          "t": 1793549820
+        },
+        {
+          "n": 6,
+          "t": 1794154620
+        },
+        {
+          "n": 7,
+          "t": 1794759420
+        },
+        {
+          "n": 8,
+          "t": 1795364220
+        },
+        {
+          "n": 9,
+          "t": 1795969020
+        }
+      ]
+    },
+    {
+      "anilistId": 217787,
+      "bgmId": 635258,
+      "title": "ポップパップポルターズ",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg",
+      "airDate": "2026-10-01",
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791075600
+        },
+        {
+          "n": 2,
+          "t": 1791680400
+        },
+        {
+          "n": 3,
+          "t": 1792285200
+        },
+        {
+          "n": 4,
+          "t": 1792890000
+        },
+        {
+          "n": 5,
+          "t": 1793494800
+        },
+        {
+          "n": 6,
+          "t": 1794099600
+        },
+        {
+          "n": 7,
+          "t": 1794704400
+        },
+        {
+          "n": 8,
+          "t": 1795309200
+        },
+        {
+          "n": 9,
+          "t": 1795914000
         }
       ]
     }

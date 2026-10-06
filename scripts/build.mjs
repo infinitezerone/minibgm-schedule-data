@@ -115,7 +115,7 @@ async function scanEvents() {
 
 function buildRoster(medias) {
   return [...medias.values()]
-    .filter((m) => ["TV", "ONA", "OVA"].includes(m.format ?? ""))
+    .filter((m) => ["TV", "TV_SHORT", "ONA", "OVA"].includes(m.format ?? ""))
     .filter((m) => m.countryOfOrigin !== "CN");
 }
 
