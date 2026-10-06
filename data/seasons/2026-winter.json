@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-10-06T04:44:40.517Z",
+  "generatedAt": "2026-10-06T05:20:42.606Z",
   "total": 109,
   "mappedTotal": 103,
   "items": [
@@ -20,15 +20,32 @@
       "ratingScore": 8.6,
       "popularity": 263781,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Drama",
+        "Supernatural"
+      ],
       "tags": [
-        "动作",
-        "剧情",
-        "超自然",
         "Urban Fantasy",
         "Curses",
         "Urban",
         "Shounen",
-        "Death Game"
+        "Death Game",
+        "Tragedy",
+        "Super Power",
+        "Battle Royale",
+        "Survival",
+        "Exorcism",
+        "Male Protagonist",
+        "Primarily Teen Cast",
+        "Gore",
+        "Primarily Male Cast",
+        "Ensemble Cast",
+        "Martial Arts",
+        "Philosophy",
+        "Surreal Comedy",
+        "Demons",
+        "Achromatic"
       ],
       "sites": [
         {
@@ -144,15 +161,29 @@
       "ratingScore": 8.8,
       "popularity": 228952,
       "episodes": 10,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
       "tags": [
-        "冒险",
-        "剧情",
-        "奇幻",
         "Travel",
         "Elf",
         "Magic",
         "Wilderness",
-        "Female Protagonist"
+        "Female Protagonist",
+        "Found Family",
+        "Iyashikei",
+        "Medieval",
+        "Philosophy",
+        "Episodic",
+        "Demons",
+        "Time Skip",
+        "Primarily Adult Cast",
+        "Rural",
+        "Swordplay",
+        "Snowscape",
+        "Shounen"
       ],
       "sites": [
         {
@@ -278,16 +309,31 @@
       "ratingScore": 8.2,
       "popularity": 176072,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Supernatural"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "悬疑",
-        "超自然",
         "Male Protagonist",
         "Survival",
         "Body Horror",
         "Ninja",
-        "Samurai"
+        "Samurai",
+        "Swordplay",
+        "Ensemble Cast",
+        "Cultivation",
+        "Tragedy",
+        "Gore",
+        "Super Power",
+        "Heterosexual",
+        "Gender Bending",
+        "Nudity",
+        "Martial Arts",
+        "Battle Royale",
+        "Religion",
+        "Historical"
       ],
       "sites": [
         {
@@ -346,15 +392,28 @@
       "ratingScore": 8.1,
       "popularity": 163799,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
       "tags": [
-        "动作",
-        "剧情",
-        "奇幻",
         "Medieval",
         "Conspiracy",
         "Male Protagonist",
         "Demons",
-        "Anti-Hero"
+        "Anti-Hero",
+        "Gods",
+        "Gore",
+        "Revenge",
+        "Ensemble Cast",
+        "Tragedy",
+        "Crime",
+        "Military",
+        "Cosmic Horror",
+        "Body Horror",
+        "Swordplay",
+        "Heterosexual"
       ],
       "sites": [
         {
@@ -481,15 +540,24 @@
       "ratingScore": 8.3,
       "popularity": 127668,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
       "tags": [
-        "搞笑",
-        "恋爱",
-        "日常",
         "Heterosexual",
         "Ensemble Cast",
         "School",
         "Primarily Teen Cast",
-        "Coming of Age"
+        "Coming of Age",
+        "Iyashikei",
+        "Gyaru",
+        "Kuudere",
+        "Urban",
+        "Female Protagonist",
+        "Shounen",
+        "Chibi"
       ],
       "sites": [
         {
@@ -617,16 +685,29 @@
       "ratingScore": 8.6,
       "popularity": 111528,
       "episodes": 11,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
       "tags": [
-        "剧情",
-        "悬疑",
-        "心理",
-        "超自然",
         "Revenge",
         "Tragedy",
         "Idol",
         "Acting",
-        "Anti-Hero"
+        "Anti-Hero",
+        "Female Protagonist",
+        "Twins",
+        "Male Protagonist",
+        "Reincarnation",
+        "Seinen",
+        "Ensemble Cast",
+        "Urban Fantasy",
+        "Otaku Culture",
+        "Heterosexual",
+        "Unrequited Love",
+        "Female Harem"
       ],
       "sites": [
         {
@@ -740,16 +821,34 @@
       "ratingScore": 8.2,
       "popularity": 90455,
       "episodes": 13,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Supernatural"
+      ],
       "tags": [
-        "动作",
-        "剧情",
-        "科幻",
-        "超自然",
         "Urban Fantasy",
         "Cosmic Horror",
         "Firefighters",
         "Gods",
-        "Mixed Media"
+        "Mixed Media",
+        "Super Power",
+        "Religion",
+        "Shounen",
+        "Male Protagonist",
+        "Primarily Adult Cast",
+        "Nun",
+        "Demons",
+        "Urban",
+        "Ensemble Cast",
+        "Cult",
+        "Philosophy",
+        "Guns",
+        "Kaiju",
+        "Meta",
+        "Crossover",
+        "Heterosexual"
       ],
       "sites": [
         {
@@ -826,17 +925,41 @@
       "ratingScore": 8.3,
       "popularity": 83377,
       "episodes": 13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "奇幻",
-        "悬疑",
-        "超自然",
         "Urban",
         "Mythology",
         "Magic",
         "Foreign",
-        "Urban Fantasy"
+        "Urban Fantasy",
+        "Conspiracy",
+        "Dissociative Identities",
+        "Gods",
+        "War",
+        "Battle Royale",
+        "Ensemble Cast",
+        "Anachronism",
+        "Police",
+        "Memory Manipulation",
+        "Religion",
+        "Death Game",
+        "Vampire",
+        "Guns",
+        "Swordplay",
+        "Demons",
+        "Assassins",
+        "Tragedy",
+        "Gore",
+        "Gender Bending",
+        "Cyborg",
+        "Archery",
+        "Shapeshifting"
       ],
       "sites": [
         {
@@ -921,19 +1044,35 @@
       "ratingScore": 8.8,
       "popularity": 81204,
       "episodes": 1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Mystery",
+        "Sports",
+        "Supernatural"
+      ],
       "tags": [
-        "WEB",
-        "动作",
-        "冒险",
-        "剧情",
-        "悬疑",
-        "运动",
-        "超自然",
         "Travel",
         "Super Power",
         "Coming of Age",
         "Cowboys",
-        "Male Protagonist"
+        "Male Protagonist",
+        "Foreign",
+        "Seinen",
+        "Disability",
+        "Historical",
+        "Primarily Adult Cast",
+        "Conspiracy",
+        "Tragedy",
+        "Primarily Male Cast",
+        "Philosophy",
+        "Desert",
+        "Religion",
+        "Alternate Universe",
+        "Politics",
+        "Gore",
+        "Urban Fantasy"
       ],
       "sites": [
         {
@@ -986,14 +1125,17 @@
       "ratingScore": 6.7,
       "popularity": 71488,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
       "tags": [
-        "WEB",
-        "动作",
-        "冒险",
-        "奇幻",
         "Male Protagonist",
         "Magic",
-        "Dungeon"
+        "Dungeon",
+        "CGI",
+        "Swordplay"
       ],
       "sites": [
         {
@@ -1100,19 +1242,37 @@
       "ratingScore": 8.4,
       "popularity": 63029,
       "episodes": 1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Music",
+        "Sci-Fi"
+      ],
       "tags": [
-        "WEB",
-        "动作",
-        "搞笑",
-        "剧情",
-        "奇幻",
-        "音乐",
-        "科幻",
         "Female Protagonist",
         "Virtual World",
         "LGBTQ+ Themes",
         "Fairy Tale",
-        "Coming of Age"
+        "Coming of Age",
+        "Idol",
+        "Yuri",
+        "Aliens",
+        "Otaku Culture",
+        "VTuber",
+        "Video Games",
+        "Urban Fantasy",
+        "Time Skip",
+        "Time Manipulation",
+        "Estranged Family",
+        "Urban",
+        "Artificial Intelligence",
+        "Cute Girls Doing Cute Things",
+        "Tragedy",
+        "E-Sports",
+        "CGI",
+        "Vocal Synth"
       ],
       "sites": [
         {
@@ -1163,15 +1323,20 @@
       "ratingScore": 7.2,
       "popularity": 56008,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "奇幻",
         "Creature Taming",
         "Isekai",
         "Male Protagonist",
         "Video Games",
-        "Animals"
+        "Animals",
+        "Class Struggle",
+        "Reincarnation",
+        "CGI"
       ],
       "sites": [
         {
@@ -1266,18 +1431,29 @@
       "ratingScore": 7.4,
       "popularity": 53133,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "剧情",
-        "肉番",
-        "奇幻",
-        "恋爱",
         "Female Harem",
         "Heterosexual",
         "Super Power",
         "Female Protagonist",
-        "Slavery"
+        "Slavery",
+        "Urban Fantasy",
+        "Shounen",
+        "Monster Girl",
+        "Nudity",
+        "Male Protagonist",
+        "Creature Taming",
+        "Femdom",
+        "Primarily Female Cast",
+        "Ensemble Cast"
       ],
       "sites": [
         {
@@ -1380,14 +1556,23 @@
       "ratingScore": 7.3,
       "popularity": 52352,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
       "tags": [
-        "搞笑",
-        "恋爱",
         "Heterosexual",
         "Female Harem",
         "Male Protagonist",
         "School Club",
-        "Ensemble Cast"
+        "Ensemble Cast",
+        "Acting",
+        "Primarily Teen Cast",
+        "Shounen",
+        "VTuber",
+        "Tsundere",
+        "Primarily Female Cast",
+        "School"
       ],
       "sites": [
         {
@@ -1482,17 +1667,25 @@
       "ratingScore": 7.1,
       "popularity": 51943,
       "episodes": 11,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Thriller"
+      ],
       "tags": [
-        "动作",
-        "剧情",
-        "悬疑",
-        "心理",
-        "惊悚",
         "Primarily Female Cast",
         "Death Game",
         "Female Protagonist",
         "Tragedy",
-        "Achronological Order"
+        "Achronological Order",
+        "Philosophy",
+        "Kuudere",
+        "Body Horror",
+        "Mixed Media",
+        "Battle Royale",
+        "Survival"
       ],
       "sites": [
         {
@@ -1605,14 +1798,25 @@
       "ratingScore": 8.7,
       "popularity": 51808,
       "episodes": 13,
+      "genres": [
+        "Drama",
+        "Slice of Life"
+      ],
       "tags": [
-        "剧情",
-        "日常",
         "Female Protagonist",
         "Adoption",
         "Estranged Family",
         "Coming of Age",
-        "Josei"
+        "Josei",
+        "Family Life",
+        "Orphan",
+        "Parenthood",
+        "Found Family",
+        "Writing",
+        "Tragedy",
+        "Primarily Female Cast",
+        "Urban",
+        "School"
       ],
       "sites": [
         {
@@ -1707,13 +1911,18 @@
       "ratingScore": 6.2,
       "popularity": 50624,
       "episodes": 13,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
       "tags": [
-        "冒险",
-        "搞笑",
-        "奇幻",
-        "恋爱",
         "Demons",
-        "Heterosexual"
+        "Heterosexual",
+        "Chuunibyou",
+        "Reincarnation",
+        "Medieval"
       ],
       "sites": [
         {
@@ -1826,17 +2035,28 @@
       "ratingScore": 7.4,
       "popularity": 47184,
       "episodes": 1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
       "tags": [
-        "剧场版",
-        "动作",
-        "冒险",
-        "搞笑",
-        "奇幻",
         "Isekai",
         "Male Protagonist",
         "Medieval",
         "Reincarnation",
-        "Monster Boy"
+        "Monster Boy",
+        "Monster Girl",
+        "Magic",
+        "Kingdom Management",
+        "Dragons",
+        "Coastal",
+        "Agender",
+        "Demons",
+        "Shounen",
+        "Ships",
+        "Ninja"
       ],
       "sites": [
         {
@@ -1905,16 +2125,29 @@
       "ratingScore": 7.8,
       "popularity": 47116,
       "episodes": 13,
+      "genres": [
+        "Comedy",
+        "Music",
+        "Romance"
+      ],
       "tags": [
-        "WEB",
-        "搞笑",
-        "音乐",
-        "恋爱",
         "Otaku Culture",
         "Female Protagonist",
         "Shoujo",
         "Idol",
-        "Heterosexual"
+        "Heterosexual",
+        "Surreal Comedy",
+        "Work",
+        "Primarily Teen Cast",
+        "Hikikomori",
+        "Slapstick",
+        "Urban",
+        "Yandere",
+        "Love Triangle",
+        "Kuudere",
+        "Tsundere",
+        "CGI",
+        "Coming of Age"
       ],
       "sites": [
         {
@@ -2021,16 +2254,24 @@
       "ratingScore": 6.6,
       "popularity": 42651,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
       "tags": [
-        "WEB",
-        "动作",
-        "冒险",
-        "奇幻",
         "Reincarnation",
         "Politics",
         "Royal Affairs",
         "Time Skip",
-        "Conspiracy"
+        "Conspiracy",
+        "Swordplay",
+        "Magic",
+        "Slavery",
+        "Maids",
+        "Arranged Marriage",
+        "Male Protagonist",
+        "Kingdom Management"
       ],
       "sites": [
         {
@@ -2132,14 +2373,19 @@
       "ratingScore": 7.4,
       "popularity": 40880,
       "episodes": 12,
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
       "tags": [
-        "恋爱",
-        "日常",
         "Shoujo",
         "Heterosexual",
         "Female Protagonist",
         "Primarily Teen Cast",
-        "Urban"
+        "Urban",
+        "School",
+        "Tomboy",
+        "Iyashikei"
       ],
       "sites": [
         {
@@ -2222,13 +2468,16 @@
       "ratingScore": 7.4,
       "popularity": 40367,
       "episodes": 13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "剧情",
-        "奇幻",
         "Super Power",
-        "Superhero"
+        "Superhero",
+        "Shounen"
       ],
       "sites": [
         {
@@ -2347,15 +2596,20 @@
       "ratingScore": 6.8,
       "popularity": 39497,
       "episodes": 12,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
       "tags": [
-        "WEB",
-        "冒险",
-        "奇幻",
         "Male Protagonist",
         "Reincarnation",
         "Kingdom Management",
         "Magic",
-        "Isekai"
+        "Isekai",
+        "Rural",
+        "Medieval",
+        "Estranged Family",
+        "Cute Boys Doing Cute Things"
       ],
       "sites": [
         {
@@ -2468,15 +2722,24 @@
       "ratingScore": 8.4,
       "popularity": 38497,
       "episodes": 20,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
       "tags": [
-        "WEB",
-        "剧情",
-        "恋爱",
         "Female Protagonist",
         "Drawing",
         "Historical",
         "Foreign",
-        "College"
+        "College",
+        "Heterosexual",
+        "Primarily Adult Cast",
+        "Time Skip",
+        "Tsundere",
+        "Unrequited Love",
+        "Coming of Age",
+        "Ensemble Cast",
+        "War"
       ],
       "sites": [
         {
@@ -2517,16 +2780,27 @@
       "ratingScore": 6.5,
       "popularity": 37234,
       "episodes": 13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
       "tags": [
-        "WEB",
-        "动作",
-        "冒险",
-        "奇幻",
         "Magic",
         "Disability",
         "Male Protagonist",
         "College",
-        "Primarily Teen Cast"
+        "Primarily Teen Cast",
+        "Chuunibyou",
+        "Maids",
+        "Boarding School",
+        "Surreal Comedy",
+        "Coming of Age",
+        "Arranged Marriage",
+        "Agriculture",
+        "Food",
+        "Swordplay",
+        "Iyashikei"
       ],
       "sites": [
         {
@@ -2609,16 +2883,26 @@
       "ratingScore": 6.7,
       "popularity": 33250,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
       "tags": [
-        "动作",
-        "搞笑",
-        "剧情",
-        "科幻",
         "Dystopian",
         "Shounen",
         "Full CGI",
         "Male Protagonist",
-        "Desert"
+        "Desert",
+        "Time Skip",
+        "Guns",
+        "Primarily Adult Cast",
+        "CGI",
+        "Space",
+        "Steampunk",
+        "Gore",
+        "Dissociative Identities"
       ],
       "sites": [
         {
@@ -2725,16 +3009,22 @@
       "ratingScore": 8,
       "popularity": 30356,
       "episodes": 1,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
       "tags": [
-        "剧场版",
-        "搞笑",
-        "恋爱",
-        "日常",
         "Heterosexual",
         "Coming of Age",
         "Female Protagonist",
         "Male Protagonist",
-        "Primarily Teen Cast"
+        "Primarily Teen Cast",
+        "School",
+        "Tsundere",
+        "Food",
+        "Shounen",
+        "Chuunibyou"
       ],
       "sites": [
         {
@@ -2773,11 +3063,13 @@
       "ratingScore": 6.8,
       "popularity": 30184,
       "episodes": 1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "奇幻",
-        "恋爱",
         "Isekai",
         "Female Harem",
         "Creature Taming"
@@ -2849,14 +3141,19 @@
       "ratingScore": 6.3,
       "popularity": 28953,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
       "tags": [
-        "搞笑",
-        "恋爱",
         "Heterosexual",
         "Female Harem",
         "Male Protagonist",
         "Love Triangle",
-        "Shounen"
+        "Shounen",
+        "School",
+        "Tsundere",
+        "Tanned Skin"
       ],
       "sites": [
         {
@@ -2946,17 +3243,36 @@
       "ratingScore": 6.5,
       "popularity": 28809,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "剧情",
-        "奇幻",
-        "恐怖",
         "Female Protagonist",
         "Swordplay",
         "Conspiracy",
         "Yuri",
-        "Magic"
+        "Magic",
+        "Gore",
+        "Religion",
+        "Slavery",
+        "Medieval",
+        "Body Horror",
+        "Body Image",
+        "Demons",
+        "LGBTQ+ Themes",
+        "Found Family",
+        "Chimera",
+        "Disability",
+        "Tragedy",
+        "Post-Apocalyptic",
+        "Zombie",
+        "Witch",
+        "Age Gap",
+        "Spearplay"
       ],
       "sites": [
         {
@@ -3063,14 +3379,21 @@
       "ratingScore": 6.6,
       "popularity": 27729,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Supernatural"
+      ],
       "tags": [
-        "动作",
-        "超自然",
         "Exorcism",
         "Urban Fantasy",
         "Super Power",
         "Ghost",
-        "Curses"
+        "Curses",
+        "Boarding School",
+        "School",
+        "Male Protagonist",
+        "Shounen",
+        "Body Horror"
       ],
       "sites": [
         {
@@ -3183,15 +3506,33 @@
       "ratingScore": 7.6,
       "popularity": 27058,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Supernatural"
+      ],
       "tags": [
-        "搞笑",
-        "恋爱",
-        "超自然",
         "Iyashikei",
         "Female Protagonist",
         "Disability",
         "Male Protagonist",
-        "Urban"
+        "Urban",
+        "Detective",
+        "Kemonomimi",
+        "Urban Fantasy",
+        "Interspecies",
+        "Office Lady",
+        "Anthropomorphism",
+        "Monster Girl",
+        "Monster Boy",
+        "Heterosexual",
+        "Primarily Adult Cast",
+        "LGBTQ+ Themes",
+        "Boys' Love",
+        "Elf",
+        "Seinen",
+        "Work",
+        "Pregnancy"
       ],
       "sites": [
         {
@@ -3288,10 +3629,12 @@
       "ratingScore": 6.3,
       "popularity": 26660,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "奇幻",
         "Dragons",
         "Male Protagonist",
         "Reincarnation",
@@ -3385,14 +3728,29 @@
       "ratingScore": 6.9,
       "popularity": 26230,
       "episodes": 13,
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
       "tags": [
-        "科幻",
-        "惊悚",
         "Terrorism",
         "Criminal Organization",
         "Environmental",
         "Eco-Horror",
-        "Anthropomorphism"
+        "Anthropomorphism",
+        "Politics",
+        "Coming of Age",
+        "Animals",
+        "Adoption",
+        "Urban Fantasy",
+        "Interspecies",
+        "Foreign",
+        "Philosophy",
+        "Seinen",
+        "Guns",
+        "School",
+        "CGI",
+        "Gore"
       ],
       "sites": [
         {
@@ -3445,13 +3803,18 @@
       "ratingScore": 6,
       "popularity": 25377,
       "episodes": 12,
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
       "tags": [
-        "奇幻",
-        "恋爱",
         "Shoujo",
         "Villainess",
         "Royal Affairs",
-        "Love Triangle"
+        "Love Triangle",
+        "Isekai",
+        "Female Protagonist",
+        "Heterosexual"
       ],
       "sites": [
         {
@@ -3546,16 +3909,24 @@
       "ratingScore": 6.9,
       "popularity": 25008,
       "episodes": 12,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Romance",
+        "Slice of Life"
+      ],
       "tags": [
-        "冒险",
-        "奇幻",
-        "恋爱",
-        "日常",
         "Male Protagonist",
         "Work",
         "Economics",
         "LGBTQ+ Themes",
-        "Boys' Love"
+        "Boys' Love",
+        "Magic",
+        "Politics",
+        "Royal Affairs",
+        "Isekai",
+        "Kingdom Management",
+        "Primarily Adult Cast"
       ],
       "sites": [
         {
@@ -3662,16 +4033,29 @@
       "ratingScore": 7.3,
       "popularity": 24724,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Slice of Life",
+        "Supernatural"
+      ],
       "tags": [
-        "搞笑",
-        "恐怖",
-        "日常",
-        "超自然",
         "Female Protagonist",
         "Primarily Child Cast",
         "Pregnancy",
         "Seinen",
-        "Ghost"
+        "Ghost",
+        "School",
+        "Super Power",
+        "Exorcism",
+        "Episodic",
+        "Curses",
+        "Urban Fantasy",
+        "Revenge",
+        "Body Horror",
+        "Work",
+        "Cosmic Horror",
+        "Parenthood"
       ],
       "sites": [
         {
@@ -3778,17 +4162,31 @@
       "ratingScore": 6.9,
       "popularity": 24289,
       "episodes": 12,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Romance",
+        "Supernatural"
+      ],
       "tags": [
-        "剧情",
-        "奇幻",
-        "悬疑",
-        "恋爱",
-        "超自然",
         "Female Protagonist",
         "Ghost",
         "Revenge",
         "Royal Affairs",
-        "Villainess"
+        "Villainess",
+        "Tragedy",
+        "Detective",
+        "Conspiracy",
+        "Anti-Hero",
+        "Body Swapping",
+        "Politics",
+        "Drugs",
+        "Historical",
+        "Ojou-sama",
+        "Arranged Marriage",
+        "Criminal Organization",
+        "Shoujo"
       ],
       "sites": [
         {
@@ -3883,15 +4281,20 @@
       "ratingScore": 6.7,
       "popularity": 23477,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
       "tags": [
-        "搞笑",
-        "恋爱",
-        "日常",
         "Iyashikei",
         "Work",
         "Female Protagonist",
         "Amnesia",
-        "Educational"
+        "Educational",
+        "Seinen",
+        "Coastal",
+        "Nudity"
       ],
       "sites": [
         {
@@ -3968,13 +4371,16 @@
       "ratingScore": 6.4,
       "popularity": 23430,
       "episodes": 12,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Slice of Life"
+      ],
       "tags": [
-        "冒险",
-        "奇幻",
-        "日常",
         "Iyashikei",
         "Succubus",
-        "Medieval"
+        "Medieval",
+        "Male Protagonist"
       ],
       "sites": [
         {
@@ -4069,14 +4475,22 @@
       "ratingScore": 7.9,
       "popularity": 23388,
       "episodes": 5,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
       "tags": [
-        "搞笑",
-        "恋爱",
         "Yuri",
         "Female Protagonist",
         "Primarily Female Cast",
         "Female Harem",
-        "LGBTQ+ Themes"
+        "LGBTQ+ Themes",
+        "Primarily Teen Cast",
+        "Polyamorous",
+        "Otaku Culture",
+        "Rehabilitation",
+        "Love Triangle",
+        "Cosplay"
       ],
       "sites": [
         {
@@ -4119,16 +4533,19 @@
       "ratingScore": 7.1,
       "popularity": 22468,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
+      ],
       "tags": [
-        "WEB",
-        "搞笑",
-        "奇幻",
-        "日常",
         "Female Protagonist",
         "Cute Girls Doing Cute Things",
         "Demons",
         "Family Life",
-        "Iyashikei"
+        "Iyashikei",
+        "Rural",
+        "Episodic"
       ],
       "sites": [
         {
@@ -4223,15 +4640,31 @@
       "ratingScore": 8.3,
       "popularity": 22042,
       "episodes": 13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "搞笑",
         "Historical",
         "Military",
         "Ensemble Cast",
         "Seinen",
-        "Rural"
+        "Rural",
+        "Urban",
+        "Female Protagonist",
+        "Male Protagonist",
+        "Fugitive",
+        "Indigenous Cultures",
+        "Primarily Adult Cast",
+        "Guns",
+        "Coastal",
+        "Archery",
+        "Trains",
+        "Ships",
+        "Language Barrier",
+        "Martial Arts",
+        "Educational"
       ],
       "sites": [
         {
@@ -4296,17 +4729,28 @@
       "ratingScore": 7.3,
       "popularity": 20117,
       "episodes": 12,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Slice of Life"
+      ],
       "tags": [
-        "WEB",
-        "剧情",
-        "悬疑",
-        "心理",
-        "日常",
         "CGI",
         "Animals",
         "Anthropomorphism",
         "Full CGI",
-        "Primarily Animal Cast"
+        "Primarily Animal Cast",
+        "Chimera",
+        "Interspecies",
+        "Coming of Age",
+        "Heterosexual",
+        "Male Protagonist",
+        "Psychosexual",
+        "Shounen",
+        "Urban",
+        "Philosophy",
+        "Guns"
       ],
       "sites": [
         {
@@ -4355,15 +4799,23 @@
       "ratingScore": 8.4,
       "popularity": 19821,
       "episodes": 9,
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Sports"
+      ],
       "tags": [
-        "剧情",
-        "心理",
-        "运动",
         "Ice Sports",
         "Female Protagonist",
         "Male Protagonist",
         "Athletics",
-        "Seinen"
+        "Seinen",
+        "Primarily Child Cast",
+        "Urban",
+        "Coming of Age",
+        "Dancing",
+        "CGI",
+        "Found Family"
       ],
       "sites": [
         {
@@ -4434,17 +4886,26 @@
       "ratingScore": 6.6,
       "popularity": 19786,
       "episodes": 24,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
       "tags": [
-        "动作",
-        "搞笑",
-        "剧情",
-        "奇幻",
-        "科幻",
         "Male Protagonist",
         "Drugs",
         "Urban Fantasy",
         "Crime",
-        "Anti-Hero"
+        "Anti-Hero",
+        "Super Power",
+        "Mafia",
+        "Swordplay",
+        "Urban",
+        "Gore",
+        "Chibi",
+        "Bar"
       ],
       "sites": [
         {
@@ -4549,17 +5010,25 @@
       "ratingScore": 6.9,
       "popularity": 19496,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
       "tags": [
-        "WEB",
-        "搞笑",
-        "剧情",
-        "恋爱",
-        "日常",
         "Boarding School",
         "Crossdressing",
         "Shoujo",
         "Female Protagonist",
-        "Primarily Male Cast"
+        "Primarily Male Cast",
+        "Primarily Teen Cast",
+        "Athletics",
+        "Tomboy",
+        "Gender Bending",
+        "School",
+        "Male Harem",
+        "Heterosexual"
       ],
       "sites": [
         {
@@ -4646,13 +5115,18 @@
       "ratingScore": 6.3,
       "popularity": 17837,
       "episodes": 12,
+      "genres": [
+        "Supernatural"
+      ],
       "tags": [
-        "超自然",
         "Vampire",
         "Female Protagonist",
         "Ensemble Cast",
         "Male Harem",
-        "Super Power"
+        "Super Power",
+        "School",
+        "Werewolf",
+        "Primarily Male Cast"
       ],
       "sites": [
         {
@@ -4747,12 +5221,14 @@
       "ratingScore": 6.4,
       "popularity": 17609,
       "episodes": 13,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Slice of Life"
+      ],
       "tags": [
-        "搞笑",
-        "剧情",
-        "奇幻",
-        "恋爱",
-        "日常",
         "Teacher",
         "School",
         "Cute Girls Doing Cute Things",
@@ -4852,15 +5328,33 @@
       "ratingScore": 6.6,
       "popularity": 17543,
       "episodes": 12,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
       "tags": [
-        "剧情",
-        "奇幻",
-        "超自然",
         "Witch",
         "Curses",
         "Female Protagonist",
         "Shoujo",
-        "Memory Manipulation"
+        "Memory Manipulation",
+        "Magic",
+        "Medieval",
+        "Animals",
+        "Rural",
+        "Age Regression",
+        "Conspiracy",
+        "Fairy",
+        "Unrequited Love",
+        "Anthropomorphism",
+        "Horticulture",
+        "Wilderness",
+        "Medicine",
+        "Heterosexual",
+        "Shapeshifting",
+        "Tragedy",
+        "Adoption"
       ],
       "sites": [
         {
@@ -4955,15 +5449,25 @@
       "ratingScore": 6.7,
       "popularity": 17462,
       "episodes": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Supernatural",
+        "Thriller"
+      ],
       "tags": [
-        "剧场版",
-        "动作",
-        "科幻",
-        "超自然",
-        "惊悚",
         "Aliens",
         "Time Loop",
-        "CGI"
+        "CGI",
+        "War",
+        "Gore",
+        "Survival",
+        "Robots",
+        "Female Protagonist",
+        "Full CGI",
+        "Cosmic Horror",
+        "POV",
+        "Male Protagonist"
       ],
       "sites": [
         {
@@ -5004,15 +5508,19 @@
       "ratingScore": 7.5,
       "popularity": 16368,
       "episodes": 13,
+      "genres": [
+        "Action",
+        "Sports"
+      ],
       "tags": [
-        "WEB",
-        "动作",
-        "运动",
         "Swordplay",
         "Martial Arts",
         "Samurai",
         "Male Protagonist",
-        "Primarily Male Cast"
+        "Primarily Male Cast",
+        "Shounen",
+        "Clone",
+        "Gore"
       ],
       "sites": [
         {
@@ -5061,15 +5569,19 @@
       "ratingScore": 6.7,
       "popularity": 16096,
       "episodes": 12,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Slice of Life"
+      ],
       "tags": [
-        "冒险",
-        "奇幻",
-        "日常",
         "Primarily Male Cast",
         "Male Protagonist",
         "Josei",
         "Cute Boys Doing Cute Things",
-        "LGBTQ+ Themes"
+        "LGBTQ+ Themes",
+        "Isekai",
+        "Iyashikei"
       ],
       "sites": [
         {
@@ -5134,15 +5646,21 @@
       "ratingScore": 7.7,
       "popularity": 15200,
       "episodes": 1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Supernatural"
+      ],
       "tags": [
-        "剧场版",
-        "动作",
-        "搞笑",
-        "科幻",
-        "超自然",
         "Assassins",
         "Shounen",
-        "Male Protagonist"
+        "Male Protagonist",
+        "School",
+        "Teacher",
+        "Guns",
+        "Primarily Teen Cast",
+        "Super Power"
       ],
       "sites": [
         {
@@ -5205,18 +5723,27 @@
       "ratingScore": 6,
       "popularity": 14798,
       "episodes": 8,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Sci-Fi"
+      ],
       "tags": [
-        "里番",
-        "R18",
-        "搞笑",
-        "肉番",
-        "恋爱",
-        "科幻",
         "Robots",
         "Yuri",
         "Nudity",
         "Artificial Intelligence",
-        "Female Protagonist"
+        "Female Protagonist",
+        "Primarily Adult Cast",
+        "Large Breasts",
+        "Cohabitation",
+        "LGBTQ+ Themes",
+        "Fingering",
+        "Defloration",
+        "Cunnilingus",
+        "Josei",
+        "Office Lady"
       ],
       "sites": [
         {
@@ -5299,12 +5826,15 @@
       "ratingScore": 7.7,
       "popularity": 13861,
       "episodes": 13,
+      "genres": [
+        "Sports"
+      ],
       "tags": [
-        "WEB",
-        "运动",
         "Cars",
         "Primarily Adult Cast",
-        "Primarily Male Cast"
+        "Primarily Male Cast",
+        "Male Protagonist",
+        "Heterosexual"
       ],
       "sites": [
         {
@@ -5417,14 +5947,22 @@
       "ratingScore": 7.7,
       "popularity": 13302,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
       "tags": [
-        "搞笑",
-        "奇幻",
         "Female Protagonist",
         "Cute Girls Doing Cute Things",
         "Food",
         "Primarily Female Cast",
-        "Prison"
+        "Prison",
+        "Monster Girl",
+        "Demons",
+        "Iyashikei",
+        "Anachronism",
+        "Torture",
+        "Surreal Comedy"
       ],
       "sites": [
         {
@@ -5537,14 +6075,19 @@
       "ratingScore": 6.3,
       "popularity": 11818,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
       "tags": [
-        "搞笑",
-        "日常",
         "Cute Boys Doing Cute Things",
         "Torture",
         "Primarily Male Cast",
         "Male Protagonist",
-        "Work"
+        "Work",
+        "Primarily Adult Cast",
+        "Slapstick",
+        "Iyashikei"
       ],
       "sites": [
         {
@@ -5651,11 +6194,15 @@
       "ratingScore": 6,
       "popularity": 11386,
       "episodes": 12,
+      "genres": [
+        "Mystery"
+      ],
       "tags": [
-        "悬疑",
         "Detective",
         "Vampire",
-        "Shoujo"
+        "Shoujo",
+        "Tragedy",
+        "Age Regression"
       ],
       "sites": [
         {
@@ -5744,15 +6291,19 @@
       "ratingScore": 8,
       "popularity": 9469,
       "episodes": 1,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
       "tags": [
-        "剧场版",
-        "动作",
-        "剧情",
-        "机战",
-        "科幻",
         "Terrorism",
         "Military",
-        "Real Robot"
+        "Real Robot",
+        "Male Protagonist",
+        "Love Triangle",
+        "Politics"
       ],
       "sites": []
     },
@@ -5770,9 +6321,10 @@
       "ratingScore": 7,
       "popularity": 7606,
       "episodes": 1,
+      "genres": [
+        "Drama"
+      ],
       "tags": [
-        "剧场版",
-        "剧情",
         "Rural"
       ],
       "sites": [
@@ -5814,9 +6366,11 @@
       "ratingScore": 6.2,
       "popularity": 7006,
       "episodes": 12,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
       "tags": [
-        "剧情",
-        "恋爱",
         "Shoujo",
         "LGBTQ+ Themes",
         "Female Protagonist",
@@ -5923,13 +6477,16 @@
       "ratingScore": 7.9,
       "popularity": 6724,
       "episodes": 1,
+      "genres": [
+        "Comedy",
+        "Psychological"
+      ],
       "tags": [
-        "搞笑",
-        "心理",
         "Meta",
         "Parody",
         "Alternate Universe",
-        "Clone"
+        "Clone",
+        "Robots"
       ],
       "sites": []
     },
@@ -5947,14 +6504,29 @@
       "ratingScore": 7.8,
       "popularity": 6637,
       "episodes": 51,
+      "genres": [
+        "Mahou Shoujo",
+        "Mystery"
+      ],
       "tags": [
-        "魔法少女",
-        "悬疑",
         "Female Protagonist",
         "Henshin",
         "Primarily Child Cast",
         "Kids",
-        "Detective"
+        "Detective",
+        "Primarily Female Cast",
+        "Time Manipulation",
+        "Amnesia",
+        "Urban Fantasy",
+        "Fairy",
+        "Coastal",
+        "Magic",
+        "Crime",
+        "Prophecy",
+        "Anti-Hero",
+        "Urban",
+        "Primarily Teen Cast",
+        "Yuri"
       ],
       "sites": [
         {
@@ -6031,17 +6603,24 @@
       "ratingScore": 8.9,
       "popularity": 6598,
       "episodes": 1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
       "tags": [
-        "剧场版",
-        "动作",
-        "搞笑",
-        "剧情",
-        "科幻",
         "Oiran",
         "Samurai",
         "Found Family",
         "Tragedy",
-        "Meta"
+        "Meta",
+        "Swordplay",
+        "Male Protagonist",
+        "Shounen",
+        "Gore",
+        "Parody",
+        "Historical"
       ],
       "sites": [
         {
@@ -6080,11 +6659,14 @@
       "ratingScore": 4.5,
       "popularity": 4828,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
       "tags": [
-        "动作",
-        "剧情",
         "Firefighters",
-        "Full CGI"
+        "Full CGI",
+        "Historical"
       ],
       "sites": [
         {
@@ -6197,11 +6779,14 @@
       "ratingScore": 5.8,
       "popularity": 4571,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "科幻",
-        "Tokusatsu"
+        "Tokusatsu",
+        "Henshin"
       ],
       "sites": [
         {
@@ -6278,11 +6863,19 @@
       "ratingScore": 7,
       "popularity": 4136,
       "episodes": 13,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror",
+        "Supernatural"
+      ],
       "tags": [
-        "动作",
-        "搞笑",
-        "恐怖",
-        "超自然"
+        "Teacher",
+        "Shounen",
+        "Youkai",
+        "Demons",
+        "Exorcism",
+        "School"
       ],
       "sites": [
         {
@@ -6351,11 +6944,11 @@
       "ratingScore": 7.1,
       "popularity": 3889,
       "episodes": 1,
-      "tags": [
-        "剧场版",
-        "日常",
-        "运动"
+      "genres": [
+        "Slice of Life",
+        "Sports"
       ],
+      "tags": [],
       "sites": [
         {
           "site": "anidb",
@@ -6397,14 +6990,17 @@
       "ratingScore": 7.7,
       "popularity": 3803,
       "episodes": 4,
+      "genres": [
+        "Comedy"
+      ],
       "tags": [
-        "剧场版",
-        "搞笑",
         "Female Protagonist",
         "Parody",
         "School",
         "Ensemble Cast",
-        "School Club"
+        "School Club",
+        "Cute Girls Doing Cute Things",
+        "Primarily Female Cast"
       ],
       "sites": [
         {
@@ -6445,12 +7041,16 @@
       "ratingScore": 6.9,
       "popularity": 3803,
       "episodes": 14,
+      "genres": [
+        "Drama"
+      ],
       "tags": [
-        "剧情",
         "Historical",
         "Samurai",
         "Primarily Male Cast",
-        "Male Protagonist"
+        "Male Protagonist",
+        "Swordplay",
+        "Found Family"
       ],
       "sites": [
         {
@@ -6533,19 +7133,21 @@
       "ratingScore": 6.2,
       "popularity": 3481,
       "episodes": 1,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Sci-Fi"
+      ],
       "tags": [
-        "里番",
-        "R18",
-        "WEB",
-        "搞笑",
-        "肉番",
-        "恋爱",
-        "科幻",
         "Yuri",
         "Nudity",
         "Robots",
         "Primarily Female Cast",
-        "Large Breasts"
+        "Large Breasts",
+        "Female Protagonist",
+        "Artificial Intelligence",
+        "LGBTQ+ Themes"
       ],
       "sites": []
     },
@@ -6563,12 +7165,12 @@
       "ratingScore": 6.4,
       "popularity": 3357,
       "episodes": 1,
-      "tags": [
-        "剧场版",
-        "剧情",
-        "悬疑",
-        "超自然"
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Supernatural"
       ],
+      "tags": [],
       "sites": [
         {
           "site": "mal",
@@ -6608,17 +7210,19 @@
       "ratingScore": 5.8,
       "popularity": 3163,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance"
+      ],
       "tags": [
-        "里番",
-        "R18",
-        "WEB",
-        "搞笑",
-        "肉番",
-        "恋爱",
         "Gyaru",
         "Heterosexual",
         "Nudity",
-        "Inseki"
+        "Inseki",
+        "Male Protagonist",
+        "Rape",
+        "Female Protagonist"
       ],
       "sites": [
         {
@@ -6681,16 +7285,26 @@
       "ratingScore": 7.8,
       "popularity": 2805,
       "episodes": 1,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
       "tags": [
-        "剧场版",
-        "冒险",
-        "搞笑",
-        "科幻",
         "Female Protagonist",
         "Cyborg",
         "Cyberpunk",
         "Delinquents",
-        "Police"
+        "Police",
+        "Ensemble Cast",
+        "Robots",
+        "Full CGI",
+        "Slapstick",
+        "Trains",
+        "Space",
+        "Artificial Intelligence",
+        "Primarily Adult Cast",
+        "Crime"
       ],
       "sites": [
         {
@@ -6731,15 +7345,22 @@
       "ratingScore": 5.3,
       "popularity": 2666,
       "episodes": 12,
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
       "tags": [
-        "WEB",
-        "奇幻",
-        "恋爱",
         "Boys' Love",
         "Adoption",
         "Male Protagonist",
         "Primarily Male Cast",
-        "Age Gap"
+        "Age Gap",
+        "Flash",
+        "Cute Boys Doing Cute Things",
+        "LGBTQ+ Themes",
+        "Age Regression",
+        "Family Life",
+        "Inseki"
       ],
       "sites": [
         {
@@ -6816,12 +7437,15 @@
       "ratingScore": 5.4,
       "popularity": 2499,
       "episodes": 1,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
       "tags": [
-        "剧场版",
-        "恐怖",
-        "科幻",
         "Female Protagonist",
-        "Idol"
+        "Idol",
+        "Isekai",
+        "Full CGI"
       ],
       "sites": [
         {
@@ -6862,10 +7486,11 @@
       "ratingScore": 7.2,
       "popularity": 2300,
       "episodes": 6,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
       "tags": [
-        "WEB",
-        "搞笑",
-        "奇幻",
         "Medieval",
         "Chibi"
       ],
@@ -6885,10 +7510,11 @@
       "ratingScore": 4.9,
       "popularity": 1990,
       "episodes": 12,
-      "tags": [
-        "搞笑",
-        "恋爱"
+      "genres": [
+        "Comedy",
+        "Romance"
       ],
+      "tags": [],
       "sites": [
         {
           "site": "nicovideo",
@@ -6982,14 +7608,19 @@
       "ratingScore": 6.9,
       "popularity": 1748,
       "episodes": 2,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
       "tags": [
-        "动作",
-        "奇幻",
         "Female Protagonist",
         "Agriculture",
         "Horticulture",
         "Gods",
-        "Writing"
+        "Writing",
+        "Rural",
+        "Robots",
+        "Mythology"
       ],
       "sites": [
         {
@@ -7066,17 +7697,25 @@
       "ratingScore": 7.4,
       "popularity": 1562,
       "episodes": 3,
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
       "tags": [
-        "WEB",
-        "悬疑",
-        "心理",
-        "超自然",
-        "惊悚",
         "Female Protagonist",
         "Clone",
         "Urban Fantasy",
         "Monster Girl",
-        "Denpa"
+        "Denpa",
+        "Disability",
+        "Mythology",
+        "Primarily Female Cast",
+        "Family Life",
+        "Rural",
+        "Primarily Teen Cast",
+        "Tragedy"
       ],
       "sites": []
     },
@@ -7094,9 +7733,10 @@
       "ratingScore": 4.4,
       "popularity": 1525,
       "episodes": 12,
-      "tags": [
-        "搞笑"
+      "genres": [
+        "Comedy"
       ],
+      "tags": [],
       "sites": [
         {
           "site": "nicovideo",
@@ -7162,9 +7802,10 @@
       "ratingScore": 6.7,
       "popularity": 1325,
       "episodes": 1,
+      "genres": [
+        "Slice of Life"
+      ],
       "tags": [
-        "OVA",
-        "日常",
         "Female Protagonist",
         "Primarily Female Cast",
         "Steampunk"
@@ -7185,9 +7826,11 @@
       "ratingScore": 5.5,
       "popularity": 1275,
       "episodes": 13,
+      "genres": [
+        "Horror",
+        "Supernatural"
+      ],
       "tags": [
-        "恐怖",
-        "超自然",
         "Episodic",
         "Skeleton",
         "Ghost",
@@ -7250,10 +7893,13 @@
       "ratingScore": 6.2,
       "popularity": 1254,
       "episodes": 12,
+      "genres": [
+        "Slice of Life"
+      ],
       "tags": [
-        "日常",
         "Travel",
-        "Mixed Media"
+        "Mixed Media",
+        "Urban"
       ],
       "sites": []
     },
@@ -7271,13 +7917,14 @@
       "ratingScore": 6.7,
       "popularity": 1118,
       "episodes": 2,
+      "genres": [
+        "Hentai"
+      ],
       "tags": [
-        "里番",
-        "R18",
-        "OVA",
         "Cosplay",
         "School Club",
-        "Heterosexual"
+        "Heterosexual",
+        "Nakadashi"
       ],
       "sites": []
     },
@@ -7295,11 +7942,13 @@
       "ratingScore": 7.6,
       "popularity": 1099,
       "episodes": 0,
+      "genres": [
+        "Hentai"
+      ],
       "tags": [
-        "里番",
-        "R18",
-        "OVA",
-        "Office"
+        "Office",
+        "Nakadashi",
+        "Mating Press"
       ],
       "sites": []
     },
@@ -7317,9 +7966,10 @@
       "ratingScore": 5.1,
       "popularity": 1063,
       "episodes": 12,
-      "tags": [
-        "搞笑"
+      "genres": [
+        "Comedy"
       ],
+      "tags": [],
       "sites": []
     },
     {
@@ -7336,10 +7986,12 @@
       "ratingScore": 6.6,
       "popularity": 1037,
       "episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
       "tags": [
-        "动作",
-        "冒险",
-        "奇幻",
         "Card Battle"
       ],
       "sites": [
@@ -7423,10 +8075,12 @@
       "ratingScore": 6.3,
       "popularity": 974,
       "episodes": 0,
+      "genres": [
+        "Comedy"
+      ],
       "tags": [
-        "WEB",
-        "搞笑",
-        "Chibi"
+        "Chibi",
+        "Nekomimi"
       ],
       "sites": []
     },
@@ -7444,12 +8098,14 @@
       "ratingScore": 7.3,
       "popularity": 883,
       "episodes": 0,
+      "genres": [
+        "Slice of Life"
+      ],
       "tags": [
-        "WEB",
-        "日常",
         "Iyashikei",
         "Animals",
-        "Primarily Animal Cast"
+        "Primarily Animal Cast",
+        "No Dialogue"
       ],
       "sites": [
         {
@@ -7508,14 +8164,19 @@
       "ratingScore": 5.5,
       "popularity": 831,
       "episodes": 8,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Hentai"
+      ],
       "tags": [
-        "里番",
-        "R18",
-        "WEB",
-        "搞笑",
-        "剧情",
         "Idol",
-        "Crossdressing"
+        "Crossdressing",
+        "Heterosexual",
+        "Teens' Love",
+        "Female Protagonist",
+        "Male Protagonist",
+        "Coming of Age"
       ],
       "sites": [
         {
@@ -7580,14 +8241,23 @@
       "ratingScore": 7.4,
       "popularity": 811,
       "episodes": 1,
+      "genres": [
+        "Music"
+      ],
       "tags": [
-        "OVA",
-        "音乐",
         "Female Protagonist",
         "Primarily Female Cast",
         "Urban",
         "Musical Theater",
-        "CGI"
+        "CGI",
+        "Work",
+        "Cute Girls Doing Cute Things",
+        "School",
+        "Band",
+        "Full CGI",
+        "Idol",
+        "Ships",
+        "Acting"
       ],
       "sites": []
     },
@@ -7605,10 +8275,15 @@
       "ratingScore": 4.5,
       "popularity": 734,
       "episodes": 12,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
+      ],
       "tags": [
-        "搞笑",
-        "奇幻",
-        "日常"
+        "Elf",
+        "Urban Fantasy",
+        "Flash"
       ],
       "sites": [
         {
@@ -7673,10 +8348,10 @@
       "ratingScore": 7.4,
       "popularity": 729,
       "episodes": 1,
-      "tags": [
-        "剧场版",
-        "奇幻"
+      "genres": [
+        "Fantasy"
       ],
+      "tags": [],
       "sites": [
         {
           "site": "mal",
@@ -7714,10 +8389,13 @@
       "ratingScore": 6.4,
       "popularity": 702,
       "episodes": 0,
+      "genres": [
+        "Hentai"
+      ],
       "tags": [
-        "里番",
-        "R18",
-        "OVA"
+        "Cunnilingus",
+        "Nakadashi",
+        "Fellatio"
       ],
       "sites": []
     },
@@ -7735,11 +8413,10 @@
       "ratingScore": 6.8,
       "popularity": 664,
       "episodes": 1,
-      "tags": [
-        "里番",
-        "R18",
-        "OVA"
+      "genres": [
+        "Hentai"
       ],
+      "tags": [],
       "sites": []
     },
     {
@@ -7756,11 +8433,10 @@
       "ratingScore": 6.5,
       "popularity": 663,
       "episodes": 1,
-      "tags": [
-        "里番",
-        "R18",
-        "OVA"
+      "genres": [
+        "Hentai"
       ],
+      "tags": [],
       "sites": []
     },
     {
@@ -7777,12 +8453,13 @@
       "ratingScore": 5.6,
       "popularity": 607,
       "episodes": 0,
+      "genres": [
+        "Hentai"
+      ],
       "tags": [
-        "里番",
-        "R18",
-        "OVA",
         "Large Breasts",
-        "Rape"
+        "Rape",
+        "Nakadashi"
       ],
       "sites": []
     },
@@ -7800,11 +8477,11 @@
       "ratingScore": 6,
       "popularity": 600,
       "episodes": 0,
+      "genres": [
+        "Fantasy",
+        "Hentai"
+      ],
       "tags": [
-        "里番",
-        "R18",
-        "OVA",
-        "奇幻",
         "Nudity",
         "Heterosexual"
       ],
@@ -7824,11 +8501,10 @@
       "ratingScore": 6.5,
       "popularity": 518,
       "episodes": 0,
-      "tags": [
-        "里番",
-        "R18",
-        "OVA"
+      "genres": [
+        "Hentai"
       ],
+      "tags": [],
       "sites": []
     },
     {
@@ -7845,11 +8521,11 @@
       "ratingScore": 5.4,
       "popularity": 499,
       "episodes": 4,
-      "tags": [
-        "WEB",
-        "冒险",
-        "超自然"
+      "genres": [
+        "Adventure",
+        "Supernatural"
       ],
+      "tags": [],
       "sites": [
         {
           "site": "unext",
@@ -7897,12 +8573,14 @@
       "ratingScore": 5.3,
       "popularity": 411,
       "episodes": 0,
+      "genres": [
+        "Hentai"
+      ],
       "tags": [
-        "里番",
-        "R18",
-        "OVA",
         "Female Protagonist",
-        "Rape"
+        "Rape",
+        "Henshin",
+        "Large Breasts"
       ],
       "sites": []
     },
@@ -7920,9 +8598,14 @@
       "ratingScore": 6,
       "popularity": 282,
       "episodes": 12,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
       "tags": [
-        "冒险",
-        "奇幻"
+        "Female Protagonist",
+        "Full CGI",
+        "Office Lady"
       ],
       "sites": [
         {
@@ -7981,13 +8664,15 @@
       "ratingScore": 4.7,
       "popularity": 180,
       "episodes": 12,
+      "genres": [
+        "Comedy"
+      ],
       "tags": [
-        "WEB",
-        "搞笑",
         "Body Image",
         "Chibi",
         "Episodic",
-        "Male Protagonist"
+        "Male Protagonist",
+        "Parody"
       ],
       "sites": []
     },
@@ -8005,10 +8690,10 @@
       "ratingScore": 6,
       "popularity": 170,
       "episodes": 1,
-      "tags": [
-        "剧场版",
-        "搞笑"
+      "genres": [
+        "Comedy"
       ],
+      "tags": [],
       "sites": []
     },
     {
@@ -8025,9 +8710,10 @@
       "ratingScore": 4.4,
       "popularity": 155,
       "episodes": 10,
-      "tags": [
-        "搞笑"
+      "genres": [
+        "Comedy"
       ],
+      "tags": [],
       "sites": [
         {
           "site": "mal",
@@ -8057,10 +8743,10 @@
       "ratingScore": 5.6,
       "popularity": 112,
       "episodes": 12,
-      "tags": [
-        "WEB",
-        "搞笑"
+      "genres": [
+        "Comedy"
       ],
+      "tags": [],
       "sites": []
     },
     {
@@ -8077,11 +8763,11 @@
       "ratingScore": 5.3,
       "popularity": 65,
       "episodes": 1,
-      "tags": [
-        "剧场版",
-        "剧情",
-        "科幻"
+      "genres": [
+        "Drama",
+        "Sci-Fi"
       ],
+      "tags": [],
       "sites": []
     }
   ]

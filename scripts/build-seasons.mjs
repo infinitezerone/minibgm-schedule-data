@@ -29,28 +29,6 @@ const SEARCH_DELAY_MS = 800;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-const GENRE_MAP = {
-  Action: "动作",
-  Adventure: "冒险",
-  Comedy: "搞笑",
-  Drama: "剧情",
-  Ecchi: "肉番",
-  Fantasy: "奇幻",
-  Hentai: "里番",
-  Horror: "恐怖",
-  "Mahou Shoujo": "魔法少女",
-  Mecha: "机战",
-  Music: "音乐",
-  Mystery: "悬疑",
-  Psychological: "心理",
-  Romance: "恋爱",
-  "Sci-Fi": "科幻",
-  "Slice of Life": "日常",
-  Sports: "运动",
-  Supernatural: "超自然",
-  Thriller: "惊悚",
-};
-
 const SEASONS = [
   { anilist: "WINTER", key: "winter" },
   { anilist: "SPRING", key: "spring" },
@@ -276,27 +254,9 @@ export async function buildSeason(year, seasonObj, { bridge, bridgeByBgm }, mapp
       airDate = `${y}-${mon}-${d}`;
     }
 
-    // 汇总标签：中文题材 + 高 Rank 英文标签 + 形式/成人标记
-    const tags = new Set();
-    if (m.isAdult) {
-      tags.add("里番");
-      tags.add("R18");
-    }
-    const fmt = m.format || "TV";
-    if (fmt === "MOVIE") tags.add("剧场版");
-    else if (fmt === "OVA") tags.add("OVA");
-    else if (fmt === "ONA") tags.add("WEB");
-
-    for (const g of m.genres || []) {
-      const cnGenre = GENRE_MAP[g];
-      if (cnGenre) tags.add(cnGenre);
-      else tags.add(g);
-    }
-    for (const t of (m.tags || []).slice(0, 5)) {
-      if (t.rank >= 70 && t.name) {
-        tags.add(t.name);
-      }
-    }
+    // 直接使用 AniList 原生题材与标签
+    const genres = m.genres || [];
+    const tags = (m.tags || []).filter((t) => t.rank >= 60 && t.name).map((t) => t.name);
 
     items.push({
       anilistId: m.id,
@@ -312,7 +272,8 @@ export async function buildSeason(year, seasonObj, { bridge, bridgeByBgm }, mapp
       ratingScore: m.meanScore ? Math.round((m.meanScore / 10.0) * 10) / 10 : 0.0,
       popularity: m.popularity || 0,
       episodes: m.episodes || 0,
-      tags: Array.from(tags),
+      genres,
+      tags,
       sites: sites || [],
     });
   }
