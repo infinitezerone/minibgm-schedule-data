@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-06T11:06:05.931Z",
+  "generatedAt": "2026-10-06T16:24:31.612Z",
   "window": {
-    "from": 1789470265,
-    "to": 1796468665
+    "from": 1789489375,
+    "to": 1796487775
   },
   "items": [
     {
@@ -984,10 +984,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789471800
-        },
         {
           "n": 12,
           "t": 1790076600
@@ -3239,6 +3235,10 @@
         {
           "n": 9,
           "t": 1795867200
+        },
+        {
+          "n": 10,
+          "t": 1796472000
         }
       ]
     },
@@ -4833,10 +4833,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789475400
-        },
-        {
           "n": 12,
           "t": 1790080200
         },
@@ -5095,6 +5091,10 @@
         {
           "n": 10,
           "t": 1795870800
+        },
+        {
+          "n": 11,
+          "t": 1796475600
         }
       ]
     },
@@ -5220,7 +5220,7 @@
       "titleCn": "战斗之魂[Re] 绝界之空",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187990-tNyQPmr9TkYi.png",
       "airDate": "2026-10-06",
       "sites": [
@@ -6039,6 +6039,10 @@
         {
           "n": 9,
           "t": 1795879800
+        },
+        {
+          "n": 10,
+          "t": 1796484600
         }
       ]
     },
@@ -6761,6 +6765,10 @@
         {
           "n": 9,
           "t": 1795874400
+        },
+        {
+          "n": 10,
+          "t": 1796479200
         }
       ]
     },
@@ -7248,96 +7256,6 @@
         {
           "n": 12,
           "t": 1789738200
-        }
-      ]
-    },
-    {
-      "anilistId": 196219,
-      "bgmId": 571910,
-      "title": "無自覚聖女は今日も無意識に力を垂れ流す",
-      "titleCn": "无自觉圣女今天也无意识地释放力量",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg",
-      "airDate": "2026-06-30",
-      "sites": [
-        {
-          "site": "mal",
-          "id": "62080"
-        },
-        {
-          "site": "anidb",
-          "id": "19485"
-        },
-        {
-          "site": "nicovideo",
-          "id": "mujikaku-seijo",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0305848",
-          "begin": "2026-06-30T13:30:00.000Z",
-          "broadcast": "R/2026-06-30T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29092",
-          "begin": "2026-06-30T13:30:00.000Z",
-          "broadcast": "R/2026-06-30T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00378125",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "19-295",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "mikan",
-          "id": "3979"
-        },
-        {
-          "site": "prime",
-          "id": "B0H4Z9RC2K",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/296436"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715388b56eb30ad03fd4f9"
-        },
-        {
-          "site": "acgnx",
-          "id": "無自覺聖女"
-        },
-        {
-          "site": "anibt",
-          "id": "571910"
-        },
-        {
-          "site": "dmhy",
-          "id": "無自覺聖女"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 6,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789477200
         }
       ]
     },
@@ -8140,6 +8058,10 @@
         {
           "n": 9,
           "t": 1795876200
+        },
+        {
+          "n": 10,
+          "t": 1796481000
         }
       ]
     },
@@ -8910,7 +8832,7 @@
       "titleCn": "超巡！超条前辈",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg",
       "airDate": "2026-10-06",
       "sites": [
@@ -10101,6 +10023,10 @@
         {
           "n": 8,
           "t": 1795877100
+        },
+        {
+          "n": 9,
+          "t": 1796481900
         }
       ]
     },
@@ -10679,6 +10605,10 @@
         {
           "n": 10,
           "t": 1795872600
+        },
+        {
+          "n": 11,
+          "t": 1796477400
         }
       ]
     },
@@ -11899,7 +11829,7 @@
       "titleCn": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png",
       "airDate": "2026-10-06",
       "sites": [
@@ -12296,7 +12226,7 @@
       "titleCn": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
       "airDate": "2026-10-06",
       "sites": [
@@ -13260,7 +13190,7 @@
       "titleCn": "冷淡的佐藤同学只对我撒娇",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg",
       "airDate": "2026-10-06",
       "sites": [
@@ -13585,6 +13515,10 @@
         {
           "n": 9,
           "t": 1795876200
+        },
+        {
+          "n": 10,
+          "t": 1796481000
         }
       ]
     },
@@ -13826,10 +13760,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789482600
-        },
-        {
           "n": 12,
           "t": 1790087400
         }
@@ -13912,6 +13842,10 @@
         {
           "n": 9,
           "t": 1795881360
+        },
+        {
+          "n": 10,
+          "t": 1796486160
         }
       ]
     },
@@ -15576,10 +15510,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789476900
-        },
         {
           "n": 12,
           "t": 1790081700
