@@ -12,6 +12,7 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { translateTags, GENRE_MAP } from "./tag-dict.mjs";
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const DATA_DIR = join(ROOT, "data");
@@ -244,7 +245,10 @@ export async function buildSeason(year, seasonObj, { bridge, bridgeByBgm }, mapp
       }
     }
 
-    if (bgmId) mappedCount++;
+    if (!bgmId || bgmId <= 0) {
+      continue; // 彻底剔除未映射条目，不进入季度产物
+    }
+    mappedCount++;
 
     // 格式化开播日 YYYY-MM-DD
     if (!airDate && m.startDate?.year && m.startDate?.month) {
@@ -254,13 +258,12 @@ export async function buildSeason(year, seasonObj, { bridge, bridgeByBgm }, mapp
       airDate = `${y}-${mon}-${d}`;
     }
 
-    // 直接使用 AniList 原生题材与标签
-    const genres = m.genres || [];
-    const tags = (m.tags || []).filter((t) => t.rank >= 60 && t.name).map((t) => t.name);
+    // 翻译与中文化题材与标签
+    const translatedTags = translateTags(m.genres || [], m.tags || [], m.isAdult === true);
 
     items.push({
       anilistId: m.id,
-      bgmId: bgmId ?? null,
+      bgmId: bgmId,
       title: m.title.native || m.title.romaji || m.title.english || "",
       titleCn: titleCn ?? null,
       countryOfOrigin: m.countryOfOrigin || "JP",
@@ -271,10 +274,11 @@ export async function buildSeason(year, seasonObj, { bridge, bridgeByBgm }, mapp
       airDate: airDate || null,
       ratingScore: m.meanScore ? Math.round((m.meanScore / 10.0) * 10) / 10 : 0.0,
       popularity: m.popularity || 0,
-      episodes: m.episodes || 0,
-      genres,
-      tags,
+      totalEpisodes: m.episodes || 0,
+      genres: (m.genres || []).map((g) => GENRE_MAP[g] || g),
+      tags: translatedTags,
       sites: sites || [],
+      episodes: [],
     });
   }
 

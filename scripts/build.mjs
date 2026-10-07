@@ -16,6 +16,7 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { createHash } from "node:crypto";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { translateTags, GENRE_MAP } from "./tag-dict.mjs";
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const DATA_DIR = join(ROOT, "data");
@@ -95,7 +96,8 @@ async function scanEvents() {
           episode airingAt
           media { id countryOfOrigin format status isAdult
             coverImage { large } startDate { year month }
-            title { native romaji } }
+            title { native romaji }
+            genres tags { name rank } meanScore popularity episodes }
         } } }`,
     );
     for (const s of d.Page.airingSchedules) {
@@ -343,31 +345,40 @@ function assemble(roster, events, nextMap, resolved, from, to) {
     if (!byId.has(e.id)) byId.set(e.id, []);
     byId.get(e.id).push(e);
   }
-  const items = roster.map((m) => {
-    const r = resolved.get(m.id);
-    const eps = (byId.get(m.id) ?? []).map((e) => ({ n: e.episode, t: e.airAt }));
-    const next = nextMap.get(m.id);
-    if (next && !eps.some((e) => e.n === next.episode)) {
-      eps.push({ n: next.episode, t: next.airingAt });
-    }
-    eps.sort((a, b) => a.n - b.n);
-    return {
-      anilistId: m.id,
-      bgmId: r.bgmId,
-      title: m.title.native || m.title.romaji,
-      titleCn: r.titleCn,
-      countryOfOrigin: m.countryOfOrigin,
-      format: m.format,
-      status: m.status,
-      coverUrl: m.coverImage?.large ?? null,
-      airDate: r.airDate ?? (m.startDate?.year && m.startDate?.month ? `${m.startDate.year}-${String(m.startDate.month).padStart(2, '0')}-01` : null),
-      sites: r.sites ?? [],
-      isAdult: m.isAdult ?? false,
-      startYear: m.startDate?.year ?? 0,
-      startMonth: m.startDate?.month ?? 0,
-      episodes: eps,
-    };
-  });
+  const items = roster
+    .map((m) => {
+      const r = resolved.get(m.id);
+      if (!r || !r.bgmId || r.bgmId <= 0) return null;
+      const eps = (byId.get(m.id) ?? []).map((e) => ({ n: e.episode, t: e.airAt }));
+      const next = nextMap.get(m.id);
+      if (next && !eps.some((e) => e.n === next.episode)) {
+        eps.push({ n: next.episode, t: next.airingAt });
+      }
+      eps.sort((a, b) => a.n - b.n);
+      const translatedTags = translateTags(m.genres || [], m.tags || [], m.isAdult ?? false);
+      return {
+        anilistId: m.id,
+        bgmId: r.bgmId,
+        title: m.title.native || m.title.romaji,
+        titleCn: r.titleCn,
+        countryOfOrigin: m.countryOfOrigin,
+        format: m.format,
+        status: m.status,
+        coverUrl: m.coverImage?.large ?? null,
+        airDate: r.airDate ?? (m.startDate?.year && m.startDate?.month ? `${m.startDate.year}-${String(m.startDate.month).padStart(2, '0')}-01` : null),
+        ratingScore: m.meanScore ? Math.round((m.meanScore / 10.0) * 10) / 10 : 0.0,
+        popularity: m.popularity || 0,
+        totalEpisodes: m.episodes || 0,
+        genres: (m.genres || []).map((g) => GENRE_MAP[g] || g),
+        tags: translatedTags,
+        sites: r.sites ?? [],
+        isAdult: m.isAdult ?? false,
+        startYear: m.startDate?.year ?? 0,
+        startMonth: m.startDate?.month ?? 0,
+        episodes: eps,
+      };
+    })
+    .filter(Boolean);
   items.sort((a, b) => a.anilistId - b.anilistId);
   return {
     schema: "minibgm-schedule-snapshot/1",
