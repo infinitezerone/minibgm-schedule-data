@@ -103,6 +103,7 @@ async function loadBridge() {
         const bgm = it.sites?.find((s) => s.site === "bangumi");
         const bgmId = Number(bgm?.id) || null;
         const entry = {
+          anilistId: al ? Number(al.id) : null,
           bgmId,
           titleCn: it.titleTranslate?.["zh-Hans"]?.[0] ?? null,
           airDate: it.begin ? it.begin.substring(0, 10) : null,
@@ -193,6 +194,58 @@ async function fetchSeasonMedias(seasonAnilist, year, isAdult) {
   return list;
 }
 
+const SEASON_DATE_RANGES = {
+  winter: ["01-01", "03-31"],
+  spring: ["04-01", "06-30"],
+  summer: ["07-01", "09-30"],
+  autumn: ["10-01", "12-31"],
+};
+
+async function fetchChineseAnime(year, seasonKey) {
+  const [startMonthDay, endMonthDay] = SEASON_DATE_RANGES[seasonKey] || [];
+  if (!startMonthDay) return [];
+  const startDate = `${year}-${startMonthDay}`;
+  const endDate = `${year}-${endMonthDay}`;
+  console.log(`  拉取国产动画 (${startDate} ~ ${endDate})...`);
+
+  const results = [];
+  let offset = 0;
+  const limit = 50;
+
+  while (true) {
+    try {
+      const res = await fetch(`https://api.bgm.tv/v0/search/subjects?limit=${limit}&offset=${offset}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", ...UA },
+        body: JSON.stringify({
+          filter: {
+            type: [2],
+            air_date: [`>=${startDate}`, `<=${endDate}`],
+            meta_tags: ["中国"],
+          },
+        }),
+      });
+      if (!res.ok) {
+        console.warn(`  Bangumi search/subjects 返回 ${res.status}`);
+        break;
+      }
+      const data = await res.json();
+      const list = data.data || [];
+      results.push(...list);
+      if (list.length < limit || results.length >= (data.total || 0)) {
+        break;
+      }
+      offset += limit;
+      await sleep(SEARCH_DELAY_MS);
+    } catch (e) {
+      console.warn(`  拉取国产动画失败: ${e.message}`);
+      break;
+    }
+  }
+  console.log(`  获取到 ${results.length} 部国产动画`);
+  return results;
+}
+
 export async function buildSeason(year, seasonObj, { bridge, bridgeByBgm }, mappings) {
   const { anilist: seasonAnilist, key: seasonKey } = seasonObj;
   console.log(`\n=== 正在处理季度：${year} ${seasonKey.toUpperCase()} (${seasonAnilist}) ===`);
@@ -280,6 +333,61 @@ export async function buildSeason(year, seasonObj, { bridge, bridgeByBgm }, mapp
       sites: sites || [],
       episodes: [],
     });
+  }
+
+  // 3. 补充拉取 Bangumi 当季国产动画并去重合并
+  const existingBgmIds = new Set(items.map((it) => it.bgmId));
+  const chineseMedias = await fetchChineseAnime(year, seasonKey);
+
+  for (const cn of chineseMedias) {
+    if (!cn.id || cn.id <= 0) continue;
+    if (existingBgmIds.has(cn.id)) {
+      const existing = items.find((it) => it.bgmId === cn.id);
+      if (existing) {
+        existing.countryOfOrigin = "CN";
+        if (!existing.titleCn && cn.name_cn) existing.titleCn = cn.name_cn;
+      }
+      continue;
+    }
+
+    const bridgeEntry = bridgeByBgm.get(cn.id);
+    const anilistId = bridgeEntry?.anilistId ?? null;
+    const coverUrl = cn.images?.large || cn.images?.common || cn.image || null;
+    const airDate = cn.date || bridgeEntry?.airDate || null;
+    const ratingScore = cn.rating?.score ? Math.round(cn.rating.score * 10) / 10 : 0.0;
+    const pop =
+      (cn.collection
+        ? (cn.collection.collect || 0) +
+          (cn.collection.doing || 0) +
+          (cn.collection.wish || 0) +
+          (cn.collection.on_hold || 0) +
+          (cn.collection.dropped || 0)
+        : 0) || cn.rating?.total || 0;
+    const tags = (cn.tags || [])
+      .map((t) => t.name)
+      .filter((t) => t && t !== "动画" && t !== "中国" && t !== "国产");
+
+    items.push({
+      anilistId,
+      bgmId: cn.id,
+      title: cn.name || cn.name_cn || "",
+      titleCn: cn.name_cn || cn.name || null,
+      countryOfOrigin: "CN",
+      format: cn.platform || "WEB",
+      status: "",
+      isAdult: cn.nsfw === true,
+      coverUrl,
+      airDate,
+      ratingScore,
+      popularity: pop,
+      totalEpisodes: cn.total_episodes || cn.eps || 0,
+      genres: ["国产动画"],
+      tags,
+      sites: bridgeEntry?.sites || [],
+      episodes: [],
+    });
+    mappedCount++;
+    existingBgmIds.add(cn.id);
   }
 
   // 排序：按热度降序
