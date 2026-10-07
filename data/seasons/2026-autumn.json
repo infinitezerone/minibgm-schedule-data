@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-06T16:26:57.768Z",
+  "generatedAt": "2026-10-07T01:14:21.841Z",
   "total": 106,
   "mappedTotal": 95,
   "items": [
@@ -908,15 +908,14 @@
       "tags": [
         "Heterosexual",
         "Nudity",
+        "Large Breasts",
+        "Magic",
         "Female Protagonist",
         "Male Protagonist",
         "Slapstick",
         "Monster Girl",
         "Interspecies",
         "Primarily Female Cast",
-        "Hypersexuality",
-        "Large Breasts",
-        "Magic",
         "Demons"
       ],
       "sites": [
@@ -1009,11 +1008,11 @@
       "format": "TV",
       "status": "RELEASING",
       "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-4rkciwfBGi2A.jpg",
       "airDate": "2026-10-05",
       "ratingScore": 7.2,
       "popularity": 15161,
-      "episodes": 0,
+      "episodes": 12,
       "genres": [
         "Fantasy",
         "Romance"
@@ -1259,7 +1258,11 @@
         "Tragedy",
         "Primarily Female Cast",
         "Primarily Adult Cast",
-        "Seinen"
+        "Seinen",
+        "Work",
+        "Educational",
+        "Large Breasts",
+        "Time Skip"
       ],
       "sites": [
         {
@@ -1583,13 +1586,16 @@
       "airDate": "2026-10-06",
       "ratingScore": 0,
       "popularity": 9644,
-      "episodes": 0,
+      "episodes": 25,
       "genres": [
         "Fantasy"
       ],
       "tags": [
         "Female Protagonist",
-        "Reincarnation"
+        "Age Regression",
+        "Magic",
+        "Reincarnation",
+        "Maids"
       ],
       "sites": [
         {
@@ -2069,9 +2075,9 @@
         "Supernatural"
       ],
       "tags": [
-        "Female Protagonist",
         "Zombie",
         "Post-Apocalyptic",
+        "Female Protagonist",
         "Cute Girls Doing Cute Things",
         "Gyaru",
         "Survival",
@@ -2146,7 +2152,10 @@
         "Surreal Comedy",
         "Found Family",
         "Magic",
-        "Slapstick"
+        "Chibi",
+        "Male Protagonist",
+        "Slapstick",
+        "Exiled"
       ],
       "sites": []
     },
@@ -2885,8 +2894,10 @@
       ],
       "tags": [
         "Police",
+        "Super Power",
         "Primarily Adult Cast",
-        "Super Power"
+        "Surreal Comedy",
+        "Shounen"
       ],
       "sites": [
         {
@@ -3277,7 +3288,8 @@
       "popularity": 969,
       "episodes": 0,
       "genres": [
-        "Action"
+        "Action",
+        "Fantasy"
       ],
       "tags": [
         "Card Battle"

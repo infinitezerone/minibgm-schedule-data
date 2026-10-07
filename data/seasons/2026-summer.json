@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-06T16:26:44.169Z",
+  "generatedAt": "2026-10-07T01:14:08.238Z",
   "total": 121,
   "mappedTotal": 108,
   "items": [
@@ -736,8 +736,8 @@
         "CGI",
         "Exiled",
         "Isekai",
-        "Reincarnation",
         "Male Protagonist",
+        "Reincarnation",
         "Class Struggle",
         "Dungeon",
         "Gore",
@@ -3438,10 +3438,9 @@
         "Female Protagonist",
         "Primarily Female Cast",
         "E-Sports",
-        "Advertisement",
         "Primarily Teen Cast",
+        "Advertisement",
         "Boarding School",
-        "Cute Girls Doing Cute Things",
         "Yuri",
         "Ojou-sama",
         "Otaku Culture"
@@ -4966,7 +4965,8 @@
       "tags": [
         "Josei",
         "Isekai",
-        "Food"
+        "Food",
+        "Female Protagonist"
       ],
       "sites": [
         {
