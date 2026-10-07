@@ -2,8 +2,8 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-10-07T01:12:34.284Z",
-  "total": 128,
+  "generatedAt": "2026-10-07T10:06:40.003Z",
+  "total": 111,
   "mappedTotal": 111,
   "items": [
     {
@@ -19,40 +19,30 @@
       "airDate": "2025-04-04",
       "ratingScore": 7.8,
       "popularity": 131856,
-      "episodes": 12,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Drama",
-        "Sci-Fi",
-        "Supernatural"
+        "动作",
+        "剧情",
+        "科幻",
+        "超自然"
       ],
       "tags": [
-        "Post-Apocalyptic",
-        "Cult",
-        "Dystopian",
-        "Conspiracy",
-        "Super Power",
-        "Male Protagonist",
-        "Shounen",
-        "Demons",
-        "Firefighters",
-        "Urban",
-        "Anti-Hero",
-        "Religion",
-        "Urban Fantasy",
-        "Ensemble Cast",
-        "Kaiju",
-        "Rescue",
-        "Gods",
-        "Lost Civilization",
-        "Cosmic Horror",
-        "Kemonomimi",
-        "Mythology",
-        "Nun",
-        "Primarily Adult Cast",
-        "Nekomimi",
-        "Swordplay",
-        "Philosophy"
+        "动作",
+        "剧情",
+        "科幻",
+        "超自然",
+        "末日废土",
+        "反乌托邦",
+        "男主",
+        "少年向",
+        "恶魔",
+        "反英雄",
+        "都市奇幻",
+        "群像",
+        "神明",
+        "兽耳",
+        "神话",
+        "剑术"
       ],
       "sites": [
         {
@@ -143,7 +133,8 @@
           "site": "acgnx",
           "id": "炎炎消防隊"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 167336,
@@ -158,32 +149,21 @@
       "airDate": "2025-04-06",
       "ratingScore": 7,
       "popularity": 114614,
-      "episodes": 13,
+      "totalEpisodes": 13,
       "genres": [
-        "Action",
-        "Sci-Fi",
-        "Thriller"
+        "动作",
+        "科幻",
+        "惊悚"
       ],
       "tags": [
-        "Ensemble Cast",
-        "Crime",
-        "Medicine",
-        "Urban",
-        "Fugitive",
-        "Environmental",
-        "Drugs",
-        "Found Family",
-        "Anti-Hero",
-        "Parkour",
-        "Male Protagonist",
-        "Episodic",
-        "Philosophy",
-        "Cyberpunk",
-        "Espionage",
-        "Guns",
-        "Foreign",
-        "Homeless",
-        "LGBTQ+ Themes"
+        "动作",
+        "科幻",
+        "惊悚",
+        "群像",
+        "拟似家庭",
+        "反英雄",
+        "男主",
+        "赛博朋克"
       ],
       "sites": [
         {
@@ -262,7 +242,8 @@
           "site": "acgnx",
           "id": "LAZARUS|拉撒路"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 178680,
@@ -276,27 +257,23 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178680-nIAhCizY46ZU.jpg",
       "airDate": "2025-04-03",
       "ratingScore": 7.7,
-      "popularity": 101738,
-      "episodes": 12,
+      "popularity": 101812,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Comedy",
-        "Drama"
+        "动作",
+        "搞笑",
+        "剧情"
       ],
       "tags": [
-        "Delinquents",
-        "Gangs",
-        "Shounen",
-        "Found Family",
-        "Primarily Male Cast",
-        "Primarily Teen Cast",
-        "Male Protagonist",
-        "Tsundere",
-        "Criminal Organization",
-        "Urban",
-        "Crossdressing",
-        "School",
-        "Femboy"
+        "动作",
+        "搞笑",
+        "剧情",
+        "不良少年",
+        "少年向",
+        "拟似家庭",
+        "男主",
+        "傲娇",
+        "校园"
       ],
       "sites": [
         {
@@ -357,7 +334,8 @@
           "site": "acgnx",
           "id": "WIND BREAKER"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 180367,
@@ -371,36 +349,35 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180367-GlRuB2lG7Kaa.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 7.2,
-      "popularity": 101197,
-      "episodes": 25,
+      "popularity": 101261,
+      "totalEpisodes": 25,
       "genres": [
-        "Comedy",
-        "Drama",
-        "Fantasy",
-        "Romance",
-        "Slice of Life",
-        "Supernatural"
+        "搞笑",
+        "剧情",
+        "奇幻",
+        "恋爱",
+        "日常",
+        "超自然"
       ],
       "tags": [
-        "Witch",
-        "Magic",
-        "Slapstick",
-        "Heterosexual",
-        "Episodic",
-        "Surreal Comedy",
-        "Found Family",
-        "Cohabitation",
-        "Primarily Teen Cast",
-        "Parody",
-        "Urban Fantasy",
-        "Female Protagonist",
-        "Ensemble Cast",
-        "Male Protagonist",
-        "Otaku Culture",
-        "Meta",
-        "Youkai",
-        "Shounen",
-        "Urban"
+        "搞笑",
+        "剧情",
+        "奇幻",
+        "恋爱",
+        "日常",
+        "超自然",
+        "魔女",
+        "搞笑滑稽",
+        "拟似家庭",
+        "同居",
+        "恶搞/梗番",
+        "都市奇幻",
+        "女主",
+        "群像",
+        "男主",
+        "御宅文化",
+        "妖怪",
+        "少年向"
       ],
       "sites": [
         {
@@ -497,7 +474,8 @@
           "site": "acgnx",
           "id": "魔女與使魔"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 183161,
@@ -511,23 +489,22 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183161-5M054tuPmZJX.jpg",
       "airDate": "2025-04-02",
       "ratingScore": 6,
-      "popularity": 97361,
-      "episodes": 12,
+      "popularity": 97424,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "动作",
+        "冒险",
+        "奇幻"
       ],
       "tags": [
-        "Magic",
-        "Reincarnation",
-        "Isekai",
-        "Male Protagonist",
-        "Medieval",
-        "War",
-        "Cultivation",
-        "CGI",
-        "Travel"
+        "动作",
+        "冒险",
+        "奇幻",
+        "转生",
+        "异世界",
+        "男主",
+        "战争",
+        "旅行"
       ],
       "sites": [
         {
@@ -636,7 +613,8 @@
           "site": "acgnx",
           "id": "終末起點|最强王者"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 179955,
@@ -650,29 +628,26 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179955-e4UPTow92B1O.jpg",
       "airDate": "2025-04-05",
       "ratingScore": 6.9,
-      "popularity": 87351,
-      "episodes": 12,
+      "popularity": 87437,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
+        "动作",
+        "冒险",
+        "搞笑",
+        "奇幻"
       ],
       "tags": [
-        "Medieval",
-        "Teacher",
-        "Swordplay",
-        "Seinen",
-        "Primarily Adult Cast",
-        "Male Protagonist",
-        "Family Life",
-        "Female Harem",
-        "School",
-        "Age Gap",
-        "Magic",
-        "CGI",
-        "Coming of Age",
-        "Primarily Female Cast"
+        "动作",
+        "冒险",
+        "搞笑",
+        "奇幻",
+        "剑术",
+        "青年向",
+        "男主",
+        "家庭",
+        "校园",
+        "年龄差",
+        "青春成长"
       ],
       "sites": [
         {
@@ -733,7 +708,8 @@
           "site": "acgnx",
           "id": "鄉下 劍聖"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 175872,
@@ -747,25 +723,22 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175872-d55nfiC4WWHO.jpg",
       "airDate": "2025-04-03",
       "ratingScore": 6.8,
-      "popularity": 77178,
-      "episodes": 12,
+      "popularity": 77243,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Comedy",
-        "Fantasy"
+        "动作",
+        "搞笑",
+        "奇幻"
       ],
       "tags": [
-        "Medicine",
-        "Magic",
-        "Male Protagonist",
-        "Female Harem",
-        "Primarily Female Cast",
-        "Elf",
-        "Monster Girl",
-        "Nekomimi",
-        "Ghost",
-        "Kemonomimi",
-        "Revenge"
+        "动作",
+        "搞笑",
+        "奇幻",
+        "男主",
+        "精灵",
+        "魔物娘",
+        "幽灵",
+        "兽耳"
       ],
       "sites": [
         {
@@ -862,7 +835,8 @@
           "site": "acgnx",
           "id": "天才 治療|治疗"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 185736,
@@ -876,25 +850,25 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185736-Ci6AiGwjKKtp.jpg",
       "airDate": "2025-04-07",
       "ratingScore": 7.6,
-      "popularity": 74595,
-      "episodes": 13,
+      "popularity": 74642,
+      "totalEpisodes": 13,
       "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy"
+        "动作",
+        "冒险",
+        "剧情",
+        "奇幻"
       ],
       "tags": [
-        "Urban Fantasy",
-        "Urban",
-        "Super Power",
-        "Superhero",
-        "Shounen",
-        "Crime",
-        "Male Protagonist",
-        "Idol",
-        "Anti-Hero",
-        "Fugitive"
+        "动作",
+        "冒险",
+        "剧情",
+        "奇幻",
+        "都市奇幻",
+        "超级英雄",
+        "少年向",
+        "男主",
+        "偶像",
+        "反英雄"
       ],
       "sites": [
         {
@@ -997,7 +971,8 @@
           "site": "dmhy",
           "id": "英雄学院 非法"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 153554,
@@ -1012,24 +987,19 @@
       "airDate": "2025-04-04",
       "ratingScore": 6.4,
       "popularity": 68382,
-      "episodes": 12,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Romance"
+        "搞笑",
+        "恋爱"
       ],
       "tags": [
-        "Love Triangle",
-        "Heterosexual",
-        "School",
-        "Male Protagonist",
-        "Horticulture",
-        "Unrequited Love",
-        "Work",
-        "Female Protagonist",
-        "Fashion",
-        "Primarily Teen Cast",
-        "Coming of Age",
-        "Blackmail"
+        "搞笑",
+        "恋爱",
+        "三角恋",
+        "校园",
+        "男主",
+        "女主",
+        "青春成长"
       ],
       "sites": [
         {
@@ -1120,7 +1090,8 @@
           "site": "dmhy",
           "id": "男女 友情 存在"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 182814,
@@ -1134,39 +1105,28 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182814-UTKRUUm7Jah5.jpg",
       "airDate": "2025-04-05",
       "ratingScore": 7.2,
-      "popularity": 67614,
-      "episodes": 13,
+      "popularity": 67655,
+      "totalEpisodes": 13,
       "genres": [
-        "Drama",
-        "Mystery",
-        "Romance",
-        "Sci-Fi",
-        "Slice of Life"
+        "剧情",
+        "悬疑",
+        "恋爱",
+        "科幻",
+        "日常"
       ],
       "tags": [
-        "Denpa",
-        "Conspiracy",
-        "Dystopian",
-        "Primarily Adult Cast",
-        "Female Protagonist",
-        "Urban",
-        "Heterosexual",
-        "Amnesia",
-        "Clone",
-        "Foreign",
-        "Tragedy",
-        "Body Image",
-        "Seinen",
-        "Office Lady",
-        "Office",
-        "Work",
-        "Fashion",
-        "Urban Fantasy",
-        "LGBTQ+ Themes",
-        "Time Loop",
-        "Boys' Love",
-        "Philosophy",
-        "Transgender"
+        "剧情",
+        "悬疑",
+        "恋爱",
+        "科幻",
+        "日常",
+        "反乌托邦",
+        "女主",
+        "悲剧",
+        "青年向",
+        "办公室",
+        "都市奇幻",
+        "BL"
       ],
       "sites": [
         {
@@ -1257,7 +1217,8 @@
           "site": "acgnx",
           "id": "九龍大眾浪漫"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 179965,
@@ -1271,29 +1232,26 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179965-EwqzG3xSyxwc.jpg",
       "airDate": "2025-04-02",
       "ratingScore": 5.8,
-      "popularity": 57266,
-      "episodes": 12,
+      "popularity": 57302,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Ecchi",
-        "Romance",
-        "Slice of Life"
+        "搞笑",
+        "限制级",
+        "恋爱",
+        "日常"
       ],
       "tags": [
-        "Femdom",
-        "Nudity",
-        "Heterosexual",
-        "Time Manipulation",
-        "Slavery",
-        "Bullying",
-        "Tsundere",
-        "Slapstick",
-        "Blackmail",
-        "Female Protagonist",
-        "Male Protagonist",
-        "Shounen",
-        "School",
-        "Sadism"
+        "搞笑",
+        "限制级",
+        "恋爱",
+        "日常",
+        "时间回溯",
+        "傲娇",
+        "搞笑滑稽",
+        "女主",
+        "男主",
+        "少年向",
+        "校园"
       ],
       "sites": [
         {
@@ -1355,7 +1313,8 @@
           "site": "acgnx",
           "id": "鷹峰同學"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 143598,
@@ -1370,23 +1329,26 @@
       "airDate": "2025-03-31",
       "ratingScore": 7.1,
       "popularity": 56765,
-      "episodes": 24,
+      "totalEpisodes": 24,
       "genres": [
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Mystery",
-        "Slice of Life"
+        "动作",
+        "剧情",
+        "奇幻",
+        "悬疑",
+        "日常"
       ],
       "tags": [
-        "Demons",
-        "Male Protagonist",
-        "Historical",
-        "Samurai",
-        "Swordplay",
-        "Tragedy",
-        "Time Skip",
-        "Rape"
+        "动作",
+        "剧情",
+        "奇幻",
+        "悬疑",
+        "日常",
+        "恶魔",
+        "男主",
+        "历史",
+        "武士",
+        "剑术",
+        "悲剧"
       ],
       "sites": [
         {
@@ -1471,7 +1433,8 @@
           "site": "acgnx",
           "id": "鬼人幻燈抄"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 174802,
@@ -1485,24 +1448,21 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174802-ILahIZlNWN3R.jpg",
       "airDate": "2025-04-08",
       "ratingScore": 7,
-      "popularity": 56617,
-      "episodes": 12,
+      "popularity": 56662,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Romance"
+        "搞笑",
+        "恋爱"
       ],
       "tags": [
-        "Inseki",
-        "Heterosexual",
-        "Female Harem",
-        "Primarily Female Cast",
-        "Adoption",
-        "Male Protagonist",
-        "Seinen",
-        "Coming of Age",
-        "Tsundere",
-        "Kuudere",
-        "Slapstick"
+        "搞笑",
+        "恋爱",
+        "男主",
+        "青年向",
+        "青春成长",
+        "傲娇",
+        "无口/三无",
+        "搞笑滑稽"
       ],
       "sites": [
         {
@@ -1599,7 +1559,8 @@
           "site": "acgnx",
           "id": "紫雲寺家"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 143337,
@@ -1614,37 +1575,30 @@
       "airDate": "2025-04-05",
       "ratingScore": 6.7,
       "popularity": 49731,
-      "episodes": 12,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Fantasy",
-        "Slice of Life"
+        "搞笑",
+        "奇幻",
+        "日常"
       ],
       "tags": [
-        "Female Protagonist",
-        "Primarily Female Cast",
-        "Cute Girls Doing Cute Things",
-        "Witch",
-        "Iyashikei",
-        "Isekai",
-        "Found Family",
-        "Medieval",
-        "Female Harem",
-        "Gods",
-        "Kemonomimi",
-        "Coastal",
-        "Ghost",
-        "Reincarnation",
-        "Anthropomorphism",
-        "Nekomimi",
-        "Dragons",
-        "Demons",
-        "Elf",
-        "LGBTQ+ Themes",
-        "Episodic",
-        "Yuri",
-        "Family Life",
-        "Food"
+        "搞笑",
+        "奇幻",
+        "日常",
+        "女主",
+        "魔女",
+        "治愈",
+        "异世界",
+        "拟似家庭",
+        "神明",
+        "兽耳",
+        "幽灵",
+        "转生",
+        "恶魔",
+        "精灵",
+        "百合",
+        "家庭",
+        "美食料理"
       ],
       "sites": [
         {
@@ -1742,7 +1696,8 @@
           "site": "acgnx",
           "id": "史萊姆 不知不覺"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 180516,
@@ -1756,21 +1711,19 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180516-lebpoKLkw6E3.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 8.5,
-      "popularity": 48016,
-      "episodes": 13,
+      "popularity": 48059,
+      "totalEpisodes": 13,
       "genres": [
-        "Drama",
-        "Sports"
+        "剧情",
+        "运动"
       ],
       "tags": [
-        "Athletics",
-        "Primarily Female Cast",
-        "Female Protagonist",
-        "Kemonomimi",
-        "Seinen",
-        "Fitness",
-        "Historical",
-        "Disability"
+        "剧情",
+        "运动",
+        "女主",
+        "兽耳",
+        "青年向",
+        "历史"
       ],
       "sites": [
         {
@@ -1867,7 +1820,8 @@
           "site": "acgnx",
           "id": "賽馬娘 灰姑娘"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 183133,
@@ -1881,21 +1835,20 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183133-SSeg5j1UrMDG.png",
       "airDate": "2025-04-06",
       "ratingScore": 6.4,
-      "popularity": 46966,
-      "episodes": 12,
+      "popularity": 47012,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "动作",
+        "冒险",
+        "奇幻"
       ],
       "tags": [
-        "Slapstick",
-        "Male Protagonist",
-        "Urban Fantasy",
-        "Magic",
-        "Medieval",
-        "Female Harem",
-        "Aromantic"
+        "动作",
+        "冒险",
+        "奇幻",
+        "搞笑滑稽",
+        "男主",
+        "都市奇幻"
       ],
       "sites": [
         {
@@ -1974,7 +1927,8 @@
           "site": "acgnx",
           "id": "雜活 最強"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 181244,
@@ -1988,27 +1942,31 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181244-ICHU0FzIhEAY.jpg",
       "airDate": "2025-03-14",
       "ratingScore": 8,
-      "popularity": 42941,
-      "episodes": 2,
+      "popularity": 42972,
+      "totalEpisodes": 2,
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Ecchi",
-        "Fantasy"
+        "动作",
+        "冒险",
+        "搞笑",
+        "限制级",
+        "奇幻"
       ],
       "tags": [
-        "Slapstick",
-        "Chuunibyou",
-        "Primarily Female Cast",
-        "Isekai",
-        "Male Protagonist",
-        "Satire",
-        "Parody",
-        "Ensemble Cast",
-        "Gods"
+        "动作",
+        "冒险",
+        "搞笑",
+        "限制级",
+        "奇幻",
+        "搞笑滑稽",
+        "异世界",
+        "男主",
+        "讽刺",
+        "恶搞/梗番",
+        "群像",
+        "神明"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 183274,
@@ -2022,28 +1980,30 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183274-zqrwevS4PBJF.jpg",
       "airDate": "2025-04-05",
       "ratingScore": 6.8,
-      "popularity": 42586,
-      "episodes": 12,
+      "popularity": 42631,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Ecchi",
-        "Fantasy",
-        "Mecha",
-        "Sci-Fi"
+        "动作",
+        "冒险",
+        "搞笑",
+        "限制级",
+        "奇幻",
+        "机战",
+        "科幻"
       ],
       "tags": [
-        "Isekai",
-        "Reincarnation",
-        "Space",
-        "Swordplay",
-        "Maids",
-        "Male Protagonist",
-        "Super Robot",
-        "Politics",
-        "Time Skip",
-        "Heterosexual"
+        "动作",
+        "冒险",
+        "搞笑",
+        "限制级",
+        "奇幻",
+        "机战",
+        "科幻",
+        "异世界",
+        "转生",
+        "太空",
+        "剑术",
+        "男主"
       ],
       "sites": [
         {
@@ -2138,7 +2098,8 @@
           "site": "acgnx",
           "id": "星際國家 惡德領主"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 179694,
@@ -2152,26 +2113,20 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179694-7zhc0T6IImor.jpg",
       "airDate": "2025-04-03",
       "ratingScore": 7.7,
-      "popularity": 39824,
-      "episodes": 13,
+      "popularity": 39844,
+      "totalEpisodes": 13,
       "genres": [
-        "Drama",
-        "Music"
+        "剧情",
+        "音乐"
       ],
       "tags": [
-        "Female Protagonist",
-        "Rock Music",
-        "Band",
-        "Ojou-sama",
-        "Primarily Female Cast",
-        "Primarily Teen Cast",
-        "School",
-        "CGI",
-        "Seinen",
-        "Sweat",
-        "Urban",
-        "LGBTQ+ Themes",
-        "Yuri"
+        "剧情",
+        "音乐",
+        "女主",
+        "乐队",
+        "校园",
+        "青年向",
+        "百合"
       ],
       "sites": [
         {
@@ -2262,7 +2217,8 @@
           "site": "acgnx",
           "id": "搖滾 淑女"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 180675,
@@ -2276,28 +2232,21 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180675-YEwsxiMsnyvL.png",
       "airDate": "2025-04-08",
       "ratingScore": 8,
-      "popularity": 39150,
-      "episodes": 12,
+      "popularity": 39179,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Slice of Life"
+        "搞笑",
+        "科幻",
+        "日常"
       ],
       "tags": [
-        "Post-Apocalyptic",
-        "Robots",
-        "Work",
-        "Inn",
-        "Anthropomorphism",
-        "Female Protagonist",
-        "Artificial Intelligence",
-        "Surreal Comedy",
-        "Aliens",
-        "Urban",
-        "Time Skip",
-        "Episodic",
-        "Iyashikei",
-        "Shapeshifting"
+        "搞笑",
+        "科幻",
+        "日常",
+        "末日废土",
+        "女主",
+        "外星人",
+        "治愈"
       ],
       "sites": [
         {
@@ -2370,7 +2319,8 @@
           "site": "acgnx",
           "id": "末日後|天啓 酒店|飯店"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 143200,
@@ -2385,31 +2335,27 @@
       "airDate": "2025-04-07",
       "ratingScore": 7.1,
       "popularity": 37652,
-      "episodes": 26,
+      "totalEpisodes": 26,
       "genres": [
-        "Drama",
-        "Romance",
-        "Slice of Life",
-        "Supernatural"
+        "剧情",
+        "恋爱",
+        "日常",
+        "超自然"
       ],
       "tags": [
-        "Rural",
-        "Urban Fantasy",
-        "Time Manipulation",
-        "Male Protagonist",
-        "Family Life",
-        "Coastal",
-        "Time Loop",
-        "Alternate Universe",
-        "Tragedy",
-        "Age Regression",
-        "Heterosexual",
-        "Coming of Age",
-        "Memory Manipulation",
-        "Ghost",
-        "Kuudere",
-        "Female Harem",
-        "Swimming"
+        "剧情",
+        "恋爱",
+        "日常",
+        "超自然",
+        "都市奇幻",
+        "时间回溯",
+        "男主",
+        "家庭",
+        "悲剧",
+        "青春成长",
+        "幽灵",
+        "无口/三无",
+        "游泳"
       ],
       "sites": [
         {
@@ -2484,7 +2430,8 @@
           "site": "acgnx",
           "id": "夏日|Summer Pockets|口袋"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 183275,
@@ -2498,20 +2445,18 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183275-WtAo77sYDFW8.png",
       "airDate": "2025-04-09",
       "ratingScore": 7.2,
-      "popularity": 36539,
-      "episodes": 12,
+      "popularity": 36563,
+      "totalEpisodes": 12,
       "genres": [
-        "Fantasy",
-        "Romance"
+        "奇幻",
+        "恋爱"
       ],
       "tags": [
-        "Kuudere",
-        "Female Protagonist",
-        "Magic",
-        "Shoujo",
-        "Revenge",
-        "Ojou-sama",
-        "Royal Affairs"
+        "奇幻",
+        "恋爱",
+        "无口/三无",
+        "女主",
+        "少女向"
       ],
       "sites": [
         {
@@ -2590,7 +2535,8 @@
           "site": "acgnx",
           "id": "聖女 廢除 婚約 賣 鄰國"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 179979,
@@ -2604,24 +2550,23 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179979-OiIKSkhJRmvo.jpg",
       "airDate": "2025-04-07",
       "ratingScore": 7.5,
-      "popularity": 34691,
-      "episodes": 12,
+      "popularity": 34701,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life"
+        "搞笑",
+        "恋爱",
+        "日常"
       ],
       "tags": [
-        "Kuudere",
-        "School",
-        "Surreal Comedy",
-        "Male Protagonist",
-        "Female Protagonist",
-        "Primarily Teen Cast",
-        "Heterosexual",
-        "Shounen",
-        "Slapstick",
-        "Episodic"
+        "搞笑",
+        "恋爱",
+        "日常",
+        "无口/三无",
+        "校园",
+        "男主",
+        "女主",
+        "少年向",
+        "搞笑滑稽"
       ],
       "sites": [
         {
@@ -2700,7 +2645,8 @@
           "site": "acgnx",
           "id": "阿波連"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 185213,
@@ -2714,39 +2660,28 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185213-RKQN0qxKlqd6.jpg",
       "airDate": "2025-04-08",
       "ratingScore": 6.8,
-      "popularity": 34399,
-      "episodes": 12,
+      "popularity": 34412,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Drama",
-        "Mecha",
-        "Sci-Fi"
+        "动作",
+        "剧情",
+        "机战",
+        "科幻"
       ],
       "tags": [
-        "Female Protagonist",
-        "Space",
-        "Alternate Universe",
-        "Real Robot",
-        "Conspiracy",
-        "Heterosexual",
-        "Cyberpunk",
-        "Robots",
-        "Guns",
-        "Space Opera",
-        "Super Robot",
-        "Fugitive",
-        "Tragedy",
-        "Love Triangle",
-        "Politics",
-        "CGI",
-        "Achronological Order",
-        "Meta",
-        "Espionage",
-        "Isekai",
-        "Military",
-        "Swordplay",
-        "Class Struggle",
-        "Ensemble Cast"
+        "动作",
+        "剧情",
+        "机战",
+        "科幻",
+        "女主",
+        "太空",
+        "赛博朋克",
+        "悲剧",
+        "三角恋",
+        "异世界",
+        "军事",
+        "剑术",
+        "群像"
       ],
       "sites": [
         {
@@ -2813,7 +2748,8 @@
           "site": "acgnx",
           "id": "機動戰士高達 GQuuuuuuX"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 178781,
@@ -2827,31 +2763,24 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178781-pbk5FgfiAJxS.jpg",
       "airDate": "2025-04-13",
       "ratingScore": 6.9,
-      "popularity": 33354,
-      "episodes": 12,
+      "popularity": 33371,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Comedy",
-        "Drama",
-        "Sci-Fi"
+        "动作",
+        "搞笑",
+        "剧情",
+        "科幻"
       ],
       "tags": [
-        "Shounen",
-        "Urban",
-        "Urban Fantasy",
-        "Henshin",
-        "Monster Boy",
-        "Tokusatsu",
-        "Anti-Hero",
-        "Revenge",
-        "Shapeshifting",
-        "Espionage",
-        "Aliens",
-        "Acting",
-        "Work",
-        "Parody",
-        "Meta",
-        "Kaiju"
+        "动作",
+        "搞笑",
+        "剧情",
+        "科幻",
+        "少年向",
+        "都市奇幻",
+        "反英雄",
+        "外星人",
+        "恶搞/梗番"
       ],
       "sites": [
         {
@@ -2894,7 +2823,8 @@
           "site": "acgnx",
           "id": "戰隊大失格"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 177120,
@@ -2908,27 +2838,19 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177120-xRucIg2WDr77.png",
       "airDate": "2025-04-10",
       "ratingScore": 7.5,
-      "popularity": 30142,
-      "episodes": 12,
+      "popularity": 30153,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy"
+        "搞笑"
       ],
       "tags": [
-        "Female Protagonist",
-        "Primarily Female Cast",
-        "Ninja",
-        "Assassins",
-        "Slapstick",
-        "Cute Girls Doing Cute Things",
-        "Urban",
-        "Surreal Comedy",
-        "Anti-Hero",
-        "Fugitive",
-        "Yuri",
-        "Tragedy",
-        "LGBTQ+ Themes",
-        "Robots",
-        "Artificial Intelligence"
+        "搞笑",
+        "女主",
+        "忍者",
+        "搞笑滑稽",
+        "反英雄",
+        "百合",
+        "悲剧"
       ],
       "sites": [
         {
@@ -3001,7 +2923,8 @@
           "site": "acgnx",
           "id": "忍者 殺手"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 192809,
@@ -3015,19 +2938,20 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192809-wRlqABGsx2Qs.jpg",
       "airDate": "2025-05-29",
       "ratingScore": 8.4,
-      "popularity": 29771,
-      "episodes": 1,
+      "popularity": 29830,
+      "totalEpisodes": 1,
       "genres": [
-        "Action",
-        "Drama",
-        "Supernatural"
+        "动作",
+        "剧情",
+        "超自然"
       ],
       "tags": [
-        "Urban Fantasy",
-        "Curses",
-        "Tragedy",
-        "Shounen",
-        "Exorcism"
+        "动作",
+        "剧情",
+        "超自然",
+        "都市奇幻",
+        "悲剧",
+        "少年向"
       ],
       "sites": [
         {
@@ -3066,7 +2990,8 @@
           "begin": "",
           "broadcast": ""
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 180829,
@@ -3080,26 +3005,25 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180829-jHViG8fIkaIJ.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 5.3,
-      "popularity": 29320,
-      "episodes": 12,
+      "popularity": 29352,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Ecchi",
-        "Fantasy",
-        "Romance"
+        "搞笑",
+        "限制级",
+        "奇幻",
+        "恋爱"
       ],
       "tags": [
-        "Elf",
-        "Nudity",
-        "Tanned Skin",
-        "Yandere",
-        "Male Protagonist",
-        "Age Gap",
-        "Heterosexual",
-        "Female Protagonist",
-        "Isekai",
-        "Nekomimi",
-        "Reverse Isekai"
+        "搞笑",
+        "限制级",
+        "奇幻",
+        "恋爱",
+        "精灵",
+        "病娇",
+        "男主",
+        "年龄差",
+        "女主",
+        "异世界"
       ],
       "sites": [
         {
@@ -3168,7 +3092,8 @@
           "site": "dmhy",
           "id": "愛 沉重 黑暗精靈 異世界"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 179706,
@@ -3182,26 +3107,22 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179706-NvVrmMxnDatB.jpg",
       "airDate": "2025-04-16",
       "ratingScore": 7.8,
-      "popularity": 29216,
-      "episodes": 6,
+      "popularity": 29234,
+      "totalEpisodes": 6,
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "搞笑",
+        "日常"
       ],
       "tags": [
-        "Cute Girls Doing Cute Things",
-        "Episodic",
-        "Restaurant",
-        "Primarily Female Cast",
-        "Female Protagonist",
-        "Kuudere",
-        "Work",
-        "Urban",
-        "Guns",
-        "Ghost",
-        "Yuri"
+        "搞笑",
+        "日常",
+        "女主",
+        "无口/三无",
+        "幽灵",
+        "百合"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 178701,
@@ -3215,27 +3136,23 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178701-OA537qbje5AU.jpg",
       "airDate": "2025-04-01",
       "ratingScore": 7.1,
-      "popularity": 28458,
-      "episodes": 12,
+      "popularity": 28482,
+      "totalEpisodes": 12,
       "genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy"
+        "冒险",
+        "剧情",
+        "奇幻"
       ],
       "tags": [
-        "Female Protagonist",
-        "Curses",
-        "Witch",
-        "Primarily Female Cast",
-        "Magic",
-        "Coming of Age",
-        "Found Family",
-        "Urban Fantasy",
-        "Iyashikei",
-        "Foreign",
-        "Orphan",
-        "Bisexual",
-        "Environmental"
+        "冒险",
+        "剧情",
+        "奇幻",
+        "女主",
+        "魔女",
+        "青春成长",
+        "拟似家庭",
+        "都市奇幻",
+        "治愈"
       ],
       "sites": [
         {
@@ -3320,7 +3237,8 @@
           "site": "acgnx",
           "id": "直至魔女消逝"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 181449,
@@ -3334,31 +3252,25 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181449-OciICz3Pgl29.jpg",
       "airDate": "2025-06-26",
       "ratingScore": 7.1,
-      "popularity": 27425,
-      "episodes": 1,
+      "popularity": 27442,
+      "totalEpisodes": 1,
       "genres": [
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Sci-Fi"
+        "动作",
+        "剧情",
+        "奇幻",
+        "科幻"
       ],
       "tags": [
-        "Female Protagonist",
-        "Cyberpunk",
-        "Guns",
-        "Cyborg",
-        "Blackmail",
-        "Body Horror",
-        "Assassins",
-        "Urban",
-        "Age Regression",
-        "Gore",
-        "Nudity",
-        "Robots",
-        "Orphan",
-        "Police",
-        "Slavery",
-        "Unrequited Love"
+        "动作",
+        "剧情",
+        "奇幻",
+        "科幻",
+        "女主",
+        "赛博朋克",
+        "半机械人",
+        "肉体恐怖",
+        "猎奇/血腥",
+        "警察"
       ],
       "sites": [
         {
@@ -3377,7 +3289,8 @@
           "site": "tmdb",
           "id": "movie/1360829"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 176246,
@@ -3391,30 +3304,24 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176246-ndH8bKh7cmzf.jpg",
       "airDate": "2025-04-12",
       "ratingScore": 7.6,
-      "popularity": 27389,
-      "episodes": 12,
+      "popularity": 27400,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "搞笑",
+        "日常"
       ],
       "tags": [
-        "Travel",
-        "Cute Girls Doing Cute Things",
-        "Female Protagonist",
-        "Iyashikei",
-        "Episodic",
-        "Primarily Female Cast",
-        "Primarily Teen Cast",
-        "School Club",
-        "Food",
-        "Meta",
-        "Drawing",
-        "Photography",
-        "Urban",
-        "Animals",
-        "Ensemble Cast",
-        "Seinen",
-        "Yuri"
+        "搞笑",
+        "日常",
+        "旅行",
+        "女主",
+        "治愈",
+        "社团活动",
+        "美食料理",
+        "绘画/创作",
+        "群像",
+        "青年向",
+        "百合"
       ],
       "sites": [
         {
@@ -3493,7 +3400,8 @@
           "site": "acgnx",
           "id": "mono 女孩"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 181839,
@@ -3507,29 +3415,27 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181839-pgM02tCNM2ae.png",
       "airDate": "2025-06-26",
       "ratingScore": 8.3,
-      "popularity": 27114,
-      "episodes": 1,
+      "popularity": 27137,
+      "totalEpisodes": 1,
       "genres": [
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Slice of Life"
+        "动作",
+        "剧情",
+        "奇幻",
+        "日常"
       ],
       "tags": [
-        "Dragons",
-        "Magic",
-        "Found Family",
-        "Female Protagonist",
-        "Estranged Family",
-        "Family Life",
-        "Cute Girls Doing Cute Things",
-        "Shapeshifting",
-        "Monster Girl",
-        "Reverse Isekai",
-        "Seinen",
-        "Isekai",
-        "War",
-        "Swordplay"
+        "动作",
+        "剧情",
+        "奇幻",
+        "日常",
+        "拟似家庭",
+        "女主",
+        "家庭",
+        "魔物娘",
+        "青年向",
+        "异世界",
+        "战争",
+        "剑术"
       ],
       "sites": [
         {
@@ -3554,7 +3460,8 @@
           "site": "tmdb",
           "id": "movie/1359607"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 182060,
@@ -3568,25 +3475,22 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182060-r0ihNqhiyvpT.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 6.5,
-      "popularity": 26729,
-      "episodes": 12,
+      "popularity": 26744,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Fantasy",
-        "Romance"
+        "搞笑",
+        "奇幻",
+        "恋爱"
       ],
       "tags": [
-        "Female Protagonist",
-        "Shoujo",
-        "Super Power",
-        "Animals",
-        "Male Harem",
-        "Medieval",
-        "Heterosexual",
-        "Shapeshifting",
-        "Gods",
-        "Slapstick",
-        "School"
+        "搞笑",
+        "奇幻",
+        "恋爱",
+        "女主",
+        "少女向",
+        "神明",
+        "搞笑滑稽",
+        "校园"
       ],
       "sites": [
         {
@@ -3647,7 +3551,8 @@
           "site": "acgnx",
           "id": "猩猩之神 大小姐 騎士團"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 177509,
@@ -3661,25 +3566,24 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177509-LzpyXGnjitvF.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 5.2,
-      "popularity": 25049,
-      "episodes": 12,
+      "popularity": 25067,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Ecchi",
-        "Mecha",
-        "Romance",
-        "Sci-Fi"
+        "搞笑",
+        "限制级",
+        "机战",
+        "恋爱",
+        "科幻"
       ],
       "tags": [
-        "Seinen",
-        "Artificial Intelligence",
-        "Nudity",
-        "Robots",
-        "Interspecies",
-        "Heterosexual",
-        "Male Protagonist",
-        "Female Protagonist",
-        "Primarily Female Cast"
+        "搞笑",
+        "限制级",
+        "机战",
+        "恋爱",
+        "科幻",
+        "青年向",
+        "男主",
+        "女主"
       ],
       "sites": [
         {
@@ -3743,7 +3647,8 @@
           "site": "acgnx",
           "id": "瑪琪娜同學"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 185939,
@@ -3757,23 +3662,21 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185939-hqt1He153el8.jpg",
       "airDate": "2025-04-12",
       "ratingScore": 7.7,
-      "popularity": 24862,
-      "episodes": 12,
+      "popularity": 24873,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "搞笑",
+        "日常"
       ],
       "tags": [
-        "Cute Girls Doing Cute Things",
-        "School Club",
-        "Food",
-        "Primarily Adult Cast",
-        "Primarily Female Cast",
-        "Female Protagonist",
-        "College",
-        "Iyashikei",
-        "Ensemble Cast",
-        "Outdoor Activities"
+        "搞笑",
+        "日常",
+        "社团活动",
+        "美食料理",
+        "女主",
+        "大学",
+        "治愈",
+        "群像"
       ],
       "sites": [
         {
@@ -3858,7 +3761,8 @@
           "site": "acgnx",
           "id": "流逝 美味"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 150654,
@@ -3873,24 +3777,23 @@
       "airDate": "2025-04-09",
       "ratingScore": 6.4,
       "popularity": 24388,
-      "episodes": 18,
+      "totalEpisodes": 18,
       "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
+        "动作",
+        "冒险",
+        "科幻"
       ],
       "tags": [
-        "Space",
-        "Dystopian",
-        "Urban Fantasy",
-        "Robots",
-        "Artificial Intelligence",
-        "Tragedy",
-        "Male Protagonist",
-        "CGI",
-        "War",
-        "Orphan",
-        "Military"
+        "动作",
+        "冒险",
+        "科幻",
+        "太空",
+        "反乌托邦",
+        "都市奇幻",
+        "悲剧",
+        "男主",
+        "战争",
+        "军事"
       ],
       "sites": [
         {
@@ -3911,7 +3814,8 @@
           "site": "anidb",
           "id": "14561"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 181182,
@@ -3925,30 +3829,25 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181182-lnlfAByYD7X6.png",
       "airDate": "2025-04-05",
       "ratingScore": 8.1,
-      "popularity": 24353,
-      "episodes": 12,
+      "popularity": 24361,
+      "totalEpisodes": 12,
       "genres": [
-        "Mystery",
-        "Psychological",
-        "Slice of Life"
+        "悬疑",
+        "心理",
+        "日常"
       ],
       "tags": [
-        "Detective",
-        "Female Protagonist",
-        "Crime",
-        "Ensemble Cast",
-        "Male Protagonist",
-        "Conspiracy",
-        "Unrequited Love",
-        "Anti-Hero",
-        "Revenge",
-        "School Club",
-        "Primarily Teen Cast",
-        "School",
-        "Rural",
-        "Aromantic",
-        "Fake Relationship",
-        "Mixed Media"
+        "悬疑",
+        "心理",
+        "日常",
+        "侦探",
+        "女主",
+        "群像",
+        "男主",
+        "反英雄",
+        "社团活动",
+        "校园",
+        "契约恋爱"
       ],
       "sites": [
         {
@@ -4009,7 +3908,8 @@
           "site": "acgnx",
           "id": "小市民"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 179054,
@@ -4023,32 +3923,27 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179054-HmN0Za4T157B.jpg",
       "airDate": "2025-04-05",
       "ratingScore": 8.1,
-      "popularity": 23362,
-      "episodes": 13,
+      "popularity": 23373,
+      "totalEpisodes": 13,
       "genres": [
-        "Action",
-        "Fantasy",
-        "Mystery",
-        "Supernatural"
+        "动作",
+        "奇幻",
+        "悬疑",
+        "超自然"
       ],
       "tags": [
-        "Butler",
-        "Demons",
-        "Tragedy",
-        "Crime",
-        "Historical",
-        "Foreign",
-        "Witch",
-        "Anti-Hero",
-        "Orphan",
-        "Male Protagonist",
-        "Disability",
-        "Kuudere",
-        "Werewolf",
-        "Rural",
-        "Conspiracy",
-        "Ojou-sama",
-        "Language Barrier"
+        "动作",
+        "奇幻",
+        "悬疑",
+        "超自然",
+        "执事",
+        "恶魔",
+        "悲剧",
+        "历史",
+        "魔女",
+        "反英雄",
+        "男主",
+        "无口/三无"
       ],
       "sites": [
         {
@@ -4109,7 +4004,8 @@
           "site": "acgnx",
           "id": "黑執事"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 177476,
@@ -4123,24 +4019,24 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177476-kduwwEfxcZtU.jpg",
       "airDate": "2025-04-05",
       "ratingScore": 7.1,
-      "popularity": 22842,
-      "episodes": 24,
+      "popularity": 22847,
+      "totalEpisodes": 24,
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
+        "动作",
+        "冒险",
+        "搞笑",
+        "奇幻"
       ],
       "tags": [
-        "Samurai",
-        "Swordplay",
-        "Shounen",
-        "Male Protagonist",
-        "Super Power",
-        "Demons",
-        "Anthropomorphism",
-        "Animals",
-        "Shapeshifting"
+        "动作",
+        "冒险",
+        "搞笑",
+        "奇幻",
+        "武士",
+        "剑术",
+        "少年向",
+        "男主",
+        "恶魔"
       ],
       "sites": [
         {
@@ -4237,7 +4133,8 @@
           "site": "acgnx",
           "id": "真 武士傳"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 184639,
@@ -4251,35 +4148,23 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184639-tmj8NbTroNeI.jpg",
       "airDate": "2025-04-05",
       "ratingScore": 7.6,
-      "popularity": 22826,
-      "episodes": 24,
+      "popularity": 22832,
+      "totalEpisodes": 24,
       "genres": [
-        "Drama",
-        "Slice of Life"
+        "剧情",
+        "日常"
       ],
       "tags": [
-        "Orphan",
-        "Female Protagonist",
-        "Coming of Age",
-        "Parenthood",
-        "Classic Literature",
-        "Rural",
-        "Historical",
-        "Iyashikei",
-        "Shoujo",
-        "School",
-        "College",
-        "Heterosexual",
-        "Unrequited Love",
-        "Coastal",
-        "Time Skip",
-        "Foreign",
-        "Adoption",
-        "Family Life",
-        "Teacher",
-        "Body Image",
-        "Boarding School",
-        "Writing"
+        "剧情",
+        "日常",
+        "女主",
+        "青春成长",
+        "历史",
+        "治愈",
+        "少女向",
+        "校园",
+        "大学",
+        "家庭"
       ],
       "sites": [
         {
@@ -4358,7 +4243,8 @@
           "site": "acgnx",
           "id": "安妮 雪莉"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 184279,
@@ -4372,24 +4258,24 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184279-dw02k4DPxwGz.png",
       "airDate": "2025-04-01",
       "ratingScore": 6.9,
-      "popularity": 20715,
-      "episodes": 12,
+      "popularity": 20724,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life",
-        "Sports"
+        "搞笑",
+        "恋爱",
+        "日常",
+        "运动"
       ],
       "tags": [
-        "Ensemble Cast",
-        "Seinen",
-        "Work",
-        "Baseball",
-        "Iyashikei",
-        "Female Protagonist",
-        "Episodic",
-        "Gyaru",
-        "Primarily Adult Cast"
+        "搞笑",
+        "恋爱",
+        "日常",
+        "运动",
+        "群像",
+        "青年向",
+        "棒球",
+        "治愈",
+        "女主"
       ],
       "sites": [
         {
@@ -4456,7 +4342,8 @@
           "site": "acgnx",
           "id": "陽光馬達棒球場"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 167142,
@@ -4471,31 +4358,26 @@
       "airDate": "2025-04-02",
       "ratingScore": 6,
       "popularity": 20491,
-      "episodes": 13,
+      "totalEpisodes": 13,
       "genres": [
-        "Action",
-        "Drama",
-        "Mystery",
-        "Sci-Fi"
+        "动作",
+        "剧情",
+        "悬疑",
+        "科幻"
       ],
       "tags": [
-        "Female Protagonist",
-        "Detective",
-        "Crime",
-        "Cyberpunk",
-        "Police",
-        "Memory Manipulation",
-        "Anti-Hero",
-        "Artificial Intelligence",
-        "Cyborg",
-        "Anthropomorphism",
-        "Asexual",
-        "Tragedy",
-        "Revenge",
-        "Primarily Adult Cast",
-        "Urban",
-        "Male Protagonist",
-        "Robots"
+        "动作",
+        "剧情",
+        "悬疑",
+        "科幻",
+        "女主",
+        "侦探",
+        "赛博朋克",
+        "警察",
+        "反英雄",
+        "半机械人",
+        "悲剧",
+        "男主"
       ],
       "sites": [
         {
@@ -4574,7 +4456,8 @@
           "site": "acgnx",
           "id": "記憶縫線"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 165445,
@@ -4589,23 +4472,24 @@
       "airDate": "2025-04-07",
       "ratingScore": 6.7,
       "popularity": 18804,
-      "episodes": 12,
+      "totalEpisodes": 12,
       "genres": [
-        "Adventure",
-        "Comedy",
-        "Drama",
-        "Slice of Life"
+        "冒险",
+        "搞笑",
+        "剧情",
+        "日常"
       ],
       "tags": [
-        "Travel",
-        "Female Protagonist",
-        "Primarily Female Cast",
-        "Iyashikei",
-        "Cute Girls Doing Cute Things",
-        "Primarily Adult Cast",
-        "Seinen",
-        "Drawing",
-        "Yuri"
+        "冒险",
+        "搞笑",
+        "剧情",
+        "日常",
+        "旅行",
+        "女主",
+        "治愈",
+        "青年向",
+        "绘画/创作",
+        "百合"
       ],
       "sites": [
         {
@@ -4678,7 +4562,8 @@
           "site": "acgnx",
           "id": "隨興旅"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 176702,
@@ -4692,19 +4577,18 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176702-sD5AnHf8g4zi.jpg",
       "airDate": "2025-04-11",
       "ratingScore": 6.7,
-      "popularity": 17577,
-      "episodes": 12,
+      "popularity": 17595,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Fantasy"
+        "动作",
+        "奇幻"
       ],
       "tags": [
-        "Survival",
-        "Male Protagonist",
-        "Magic",
-        "Anthropomorphism",
-        "Rural",
-        "Gods"
+        "动作",
+        "奇幻",
+        "生存",
+        "男主",
+        "神明"
       ],
       "sites": [
         {
@@ -4777,7 +4661,8 @@
           "site": "acgnx",
           "id": "神統記"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 184989,
@@ -4791,21 +4676,22 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184989-UaWWbrRn2vWV.jpg",
       "airDate": "2025-04-04",
       "ratingScore": 6.1,
-      "popularity": 13865,
-      "episodes": 12,
+      "popularity": 13867,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Drama",
-        "Mystery"
+        "搞笑",
+        "剧情",
+        "悬疑"
       ],
       "tags": [
-        "Detective",
-        "Female Protagonist",
-        "Crime",
-        "Butler",
-        "Primarily Adult Cast",
-        "Police",
-        "Josei"
+        "搞笑",
+        "剧情",
+        "悬疑",
+        "侦探",
+        "女主",
+        "执事",
+        "警察",
+        "女性向"
       ],
       "sites": [
         {
@@ -4854,7 +4740,8 @@
           "site": "acgnx",
           "id": "推理 晚餐 後"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 178046,
@@ -4869,21 +4756,18 @@
       "airDate": "2025-04-05",
       "ratingScore": 5.7,
       "popularity": 11439,
-      "episodes": 8,
+      "totalEpisodes": 8,
       "genres": [
-        "Action",
-        "Sci-Fi"
+        "动作",
+        "科幻"
       ],
       "tags": [
-        "Super Power",
-        "Full CGI",
-        "Post-Apocalyptic",
-        "Magic",
-        "Conspiracy",
-        "Family Life",
-        "Time Manipulation",
-        "Cosmic Horror",
-        "Coming of Age"
+        "动作",
+        "科幻",
+        "末日废土",
+        "家庭",
+        "时间回溯",
+        "青春成长"
       ],
       "sites": [
         {
@@ -4950,7 +4834,8 @@
           "site": "dmhy",
           "id": "罪惡裝備 奮戰:"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 181078,
@@ -4964,17 +4849,19 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181078-4ooHGXSnDQL4.jpg",
       "airDate": "2025-04-04",
       "ratingScore": 6,
-      "popularity": 9264,
-      "episodes": 10,
+      "popularity": 9270,
+      "totalEpisodes": 10,
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "动作",
+        "冒险",
+        "奇幻"
       ],
       "tags": [
-        "Female Protagonist",
-        "Swordplay",
-        "Heterosexual"
+        "动作",
+        "冒险",
+        "奇幻",
+        "女主",
+        "剑术"
       ],
       "sites": [
         {
@@ -5017,7 +4904,8 @@
           "site": "acgnx",
           "id": "再見 地球"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 180825,
@@ -5031,37 +4919,25 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180825-trzjP1VDF19U.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 6.8,
-      "popularity": 7749,
-      "episodes": 12,
+      "popularity": 7751,
+      "totalEpisodes": 12,
       "genres": [
-        "Drama",
-        "Mahou Shoujo",
-        "Music",
-        "Supernatural"
+        "剧情",
+        "魔法少女",
+        "音乐",
+        "超自然"
       ],
       "tags": [
-        "Female Protagonist",
-        "Magic",
-        "Henshin",
-        "Witch",
-        "Primarily Female Cast",
-        "Urban",
-        "Urban Fantasy",
-        "Idol",
-        "Primarily Teen Cast",
-        "Coming of Age",
-        "Body Image",
-        "Bullying",
-        "CGI",
-        "Dancing",
-        "Animals",
-        "Tsundere",
-        "Photography",
-        "Work",
-        "Memory Manipulation",
-        "Cute Girls Doing Cute Things",
-        "Fashion",
-        "Unrequited Love"
+        "剧情",
+        "魔法少女",
+        "音乐",
+        "超自然",
+        "女主",
+        "魔女",
+        "都市奇幻",
+        "偶像",
+        "青春成长",
+        "傲娇"
       ],
       "sites": [
         {
@@ -5134,7 +5010,8 @@
           "site": "acgnx",
           "id": "前橋魔女"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 166527,
@@ -5149,23 +5026,19 @@
       "airDate": "2025-03-29",
       "ratingScore": 7.5,
       "popularity": 7403,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Drama"
+        "剧情"
       ],
       "tags": [
-        "War",
-        "Tragedy",
-        "Female Protagonist",
-        "Survival",
-        "Military",
-        "Historical",
-        "Josei",
-        "Primarily Female Cast",
-        "Primarily Teen Cast",
-        "Suicide",
-        "Rural",
-        "Coastal"
+        "剧情",
+        "战争",
+        "悲剧",
+        "女主",
+        "生存",
+        "军事",
+        "历史",
+        "女性向"
       ],
       "sites": [
         {
@@ -5192,7 +5065,8 @@
           "site": "tmdb",
           "id": "movie/1452267"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 179541,
@@ -5206,22 +5080,23 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179541-lZwENMAHZS9Y.jpg",
       "airDate": "2025-04-20",
       "ratingScore": 6.5,
-      "popularity": 7162,
-      "episodes": 12,
+      "popularity": 7167,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Fantasy",
-        "Slice of Life"
+        "搞笑",
+        "奇幻",
+        "日常"
       ],
       "tags": [
-        "Reincarnation",
-        "Gods",
-        "Isekai",
-        "Estranged Family",
-        "Elf",
-        "Maids",
-        "Family Life",
-        "Male Protagonist"
+        "搞笑",
+        "奇幻",
+        "日常",
+        "转生",
+        "神明",
+        "异世界",
+        "精灵",
+        "家庭",
+        "男主"
       ],
       "sites": [
         {
@@ -5284,7 +5159,8 @@
           "site": "acgnx",
           "id": "白豚貴族 前世"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 182419,
@@ -5298,23 +5174,23 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182419-6l9Cb3tNseZr.png",
       "airDate": "2025-04-07",
       "ratingScore": 6.2,
-      "popularity": 6696,
-      "episodes": 12,
+      "popularity": 6698,
+      "totalEpisodes": 12,
       "genres": [
-        "Mystery",
-        "Psychological",
-        "Supernatural"
+        "悬疑",
+        "心理",
+        "超自然"
       ],
       "tags": [
-        "Shounen",
-        "Detective",
-        "Female Protagonist",
-        "Rural",
-        "Episodic",
-        "Teacher",
-        "Historical",
-        "School",
-        "Male Protagonist"
+        "悬疑",
+        "心理",
+        "超自然",
+        "少年向",
+        "侦探",
+        "女主",
+        "历史",
+        "校园",
+        "男主"
       ],
       "sites": [
         {
@@ -5405,7 +5281,8 @@
           "site": "acgnx",
           "id": "中禪寺老師"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 185070,
@@ -5419,20 +5296,22 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185070-VKzUA4B9kmaX.jpg",
       "airDate": "2025-04-09",
       "ratingScore": 6.4,
-      "popularity": 5504,
-      "episodes": 24,
+      "popularity": 5506,
+      "totalEpisodes": 24,
       "genres": [
-        "Comedy",
-        "Mystery",
-        "Sci-Fi",
-        "Slice of Life"
+        "搞笑",
+        "悬疑",
+        "科幻",
+        "日常"
       ],
       "tags": [
-        "Educational",
-        "Female Protagonist",
-        "Aliens",
-        "Animals",
-        "College"
+        "搞笑",
+        "悬疑",
+        "科幻",
+        "日常",
+        "女主",
+        "外星人",
+        "大学"
       ],
       "sites": [
         {
@@ -5511,7 +5390,8 @@
           "site": "acgnx",
           "id": "外星人姆姆"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 178052,
@@ -5525,40 +5405,27 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178052-igWygf0ZG1gl.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 7,
-      "popularity": 5388,
-      "episodes": 48,
+      "popularity": 5390,
+      "totalEpisodes": 48,
       "genres": [
-        "Action",
-        "Mahou Shoujo",
-        "Music"
+        "动作",
+        "魔法少女",
+        "音乐"
       ],
       "tags": [
-        "Henshin",
-        "Idol",
-        "Kids",
-        "Super Power",
-        "Female Protagonist",
-        "Dancing",
-        "Urban Fantasy",
-        "Primarily Female Cast",
-        "Magic",
-        "Superhero",
-        "Fairy",
-        "Urban",
-        "Aromantic",
-        "Tokusatsu",
-        "Acting",
-        "Kaiju",
-        "Tomboy",
-        "Cute Girls Doing Cute Things",
-        "Martial Arts",
+        "动作",
+        "魔法少女",
+        "音乐",
+        "偶像",
+        "少儿向",
+        "女主",
+        "都市奇幻",
+        "超级英雄",
+        "武术格斗",
         "Cosplay",
-        "Cosmic Horror",
-        "Isekai",
-        "Episodic",
-        "Swordplay",
-        "Tragedy",
-        "Amnesia"
+        "异世界",
+        "剑术",
+        "悲剧"
       ],
       "sites": [
         {
@@ -5620,7 +5487,8 @@
           "site": "acgnx",
           "id": "公主 管弦 樂團"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 188668,
@@ -5634,21 +5502,19 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188668-rOB7rkgOz89w.jpg",
       "airDate": "2025-04-01",
       "ratingScore": 6.7,
-      "popularity": 4820,
-      "episodes": 5,
+      "popularity": 4822,
+      "totalEpisodes": 5,
       "genres": [
-        "Comedy",
-        "Romance"
+        "搞笑",
+        "恋爱"
       ],
       "tags": [
-        "Meta",
-        "Heterosexual",
-        "Vertical Video",
-        "Primarily Teen Cast",
-        "School Club",
-        "Chibi"
+        "搞笑",
+        "恋爱",
+        "社团活动"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 158287,
@@ -5663,21 +5529,20 @@
       "airDate": "2025-04-07",
       "ratingScore": 5.1,
       "popularity": 4638,
-      "episodes": 12,
+      "totalEpisodes": 12,
       "genres": [
-        "Action",
-        "Sci-Fi"
+        "动作",
+        "科幻"
       ],
       "tags": [
-        "Virtual World",
-        "Vocal Synth",
-        "Video Games",
-        "Anachronism",
-        "Anti-Hero",
-        "Robots",
-        "Urban Fantasy",
-        "Tragedy",
-        "Reincarnation"
+        "动作",
+        "科幻",
+        "虚拟世界",
+        "游戏",
+        "反英雄",
+        "都市奇幻",
+        "悲剧",
+        "转生"
       ],
       "sites": [
         {
@@ -5732,7 +5597,8 @@
           "site": "dmhy",
           "id": "COMPASS 戰鬥天賦"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 189513,
@@ -5746,19 +5612,19 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189513-1R9Sryve0K53.png",
       "airDate": "2025-04-02",
       "ratingScore": 7.2,
-      "popularity": 4607,
-      "episodes": 6,
+      "popularity": 4608,
+      "totalEpisodes": 6,
       "genres": [
-        "Comedy",
-        "Fantasy"
+        "搞笑",
+        "奇幻"
       ],
       "tags": [
-        "Chibi",
-        "Magic",
-        "Medieval",
-        "Elf"
+        "搞笑",
+        "奇幻",
+        "精灵"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 187362,
@@ -5772,20 +5638,19 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187362-Qz6YXMv0TcRJ.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 7,
-      "popularity": 4274,
-      "episodes": 1,
+      "popularity": 4277,
+      "totalEpisodes": 1,
       "genres": [
-        "Romance"
+        "恋爱"
       ],
       "tags": [
-        "Boys' Love",
-        "Shoujo",
-        "LGBTQ+ Themes",
-        "Tsundere",
-        "Male Protagonist",
-        "Delinquents",
-        "School",
-        "Primarily Male Cast"
+        "恋爱",
+        "BL",
+        "少女向",
+        "傲娇",
+        "男主",
+        "不良少年",
+        "校园"
       ],
       "sites": [
         {
@@ -5804,7 +5669,8 @@
           "site": "anidb",
           "id": "19279"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 185584,
@@ -5818,19 +5684,16 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185584-a5oABU1uknYX.jpg",
       "airDate": "2025-04-04",
       "ratingScore": 6.8,
-      "popularity": 3730,
-      "episodes": 24,
+      "popularity": 3731,
+      "totalEpisodes": 24,
       "genres": [
-        "Comedy"
+        "搞笑"
       ],
       "tags": [
-        "Work",
-        "Slapstick",
-        "Cute Boys Doing Cute Things",
-        "Primarily Male Cast",
-        "Primarily Adult Cast",
-        "Male Protagonist",
-        "Shoujo"
+        "搞笑",
+        "搞笑滑稽",
+        "男主",
+        "少女向"
       ],
       "sites": [
         {
@@ -5903,7 +5766,8 @@
           "site": "acgnx",
           "id": "每日男公關|Everyday Host"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 185212,
@@ -5917,18 +5781,16 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185212-ejyh60F81l8n.jpg",
       "airDate": "2025-04-17",
       "ratingScore": 7.7,
-      "popularity": 3703,
-      "episodes": 1,
+      "popularity": 3708,
+      "totalEpisodes": 1,
       "genres": [
-        "Mystery"
+        "悬疑"
       ],
       "tags": [
-        "Detective",
-        "Police",
-        "Snowscape",
-        "Crime",
-        "Male Protagonist",
-        "Espionage"
+        "悬疑",
+        "侦探",
+        "警察",
+        "男主"
       ],
       "sites": [
         {
@@ -5947,7 +5809,8 @@
           "site": "anidb",
           "id": "19025"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 191689,
@@ -5961,19 +5824,18 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191689-GcPVOgZLgdMa.png",
       "airDate": "2025-04-30",
       "ratingScore": 6.9,
-      "popularity": 3459,
-      "episodes": 4,
+      "popularity": 3465,
+      "totalEpisodes": 4,
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "搞笑",
+        "日常"
       ],
       "tags": [
-        "Chibi",
-        "Primarily Female Cast",
-        "Kemonomimi",
-        "Cute Girls Doing Cute Things",
-        "Female Protagonist",
-        "Food"
+        "搞笑",
+        "日常",
+        "兽耳",
+        "女主",
+        "美食料理"
       ],
       "sites": [
         {
@@ -5994,7 +5856,8 @@
           "site": "tmdb",
           "id": "tv/310069"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 186716,
@@ -6008,28 +5871,22 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186716-1oz2nkanT5pk.jpg",
       "airDate": "2025-05-22",
       "ratingScore": 7.6,
-      "popularity": 3371,
-      "episodes": 1,
+      "popularity": 3373,
+      "totalEpisodes": 1,
       "genres": [
-        "Action",
-        "Adventure",
-        "Mystery",
-        "Sci-Fi"
+        "动作",
+        "冒险",
+        "悬疑",
+        "科幻"
       ],
       "tags": [
-        "Female Protagonist",
-        "Conspiracy",
-        "Espionage",
-        "Primarily Female Cast",
-        "Royal Affairs",
-        "Steampunk",
-        "Primarily Teen Cast",
-        "Politics",
-        "Foreign",
-        "Guns",
-        "Criminal Organization",
-        "Crime",
-        "Swordplay"
+        "动作",
+        "冒险",
+        "悬疑",
+        "科幻",
+        "女主",
+        "蒸汽朋克",
+        "剑术"
       ],
       "sites": [
         {
@@ -6046,35 +5903,8 @@
           "site": "mal",
           "id": "57093"
         }
-      ]
-    },
-    {
-      "anilistId": 184762,
-      "bgmId": null,
-      "title": "夏目友人帳 漆 伸ばした手は",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "SPECIAL",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184762-d43MK74zcrPI.jpg",
-      "airDate": "2025-04-23",
-      "ratingScore": 7.8,
-      "popularity": 3363,
-      "episodes": 1,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Slice of Life",
-        "Supernatural"
       ],
-      "tags": [
-        "Shoujo",
-        "Found Family",
-        "Youkai",
-        "Male Protagonist"
-      ],
-      "sites": []
+      "episodes": []
     },
     {
       "anilistId": 185646,
@@ -6088,19 +5918,14 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
       "airDate": "2025-04-05",
       "ratingScore": 7.3,
-      "popularity": 3261,
-      "episodes": 0,
+      "popularity": 3259,
+      "totalEpisodes": 0,
       "genres": [
-        "Slice of Life"
+        "日常"
       ],
       "tags": [
-        "Iyashikei",
-        "Animals",
-        "Primarily Animal Cast",
-        "Chibi",
-        "Episodic",
-        "Agender",
-        "Educational"
+        "日常",
+        "治愈"
       ],
       "sites": [
         {
@@ -6151,7 +5976,8 @@
           "site": "acgnx",
           "id": "正能量企鵝"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 185084,
@@ -6166,18 +5992,19 @@
       "airDate": "2025-06-26",
       "ratingScore": 6.8,
       "popularity": 3121,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Action",
-        "Adventure",
-        "Mystery",
-        "Supernatural"
+        "动作",
+        "冒险",
+        "悬疑",
+        "超自然"
       ],
       "tags": [
-        "Assassins",
-        "Male Protagonist",
-        "Guns",
-        "Natural Disaster"
+        "动作",
+        "冒险",
+        "悬疑",
+        "超自然",
+        "男主"
       ],
       "sites": [
         {
@@ -6198,31 +6025,8 @@
           "site": "tmdb",
           "id": "movie/1395140"
         }
-      ]
-    },
-    {
-      "anilistId": 186151,
-      "bgmId": null,
-      "title": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "RELEASING",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186151-oUFvXQXVBMMP.png",
-      "airDate": "2025-04-21",
-      "ratingScore": 6.2,
-      "popularity": 3117,
-      "episodes": 0,
-      "genres": [
-        "Action",
-        "Fantasy"
       ],
-      "tags": [
-        "Episodic",
-        "Card Battle"
-      ],
-      "sites": []
+      "episodes": []
     },
     {
       "anilistId": 166373,
@@ -6237,17 +6041,17 @@
       "airDate": "2025-04-02",
       "ratingScore": 5,
       "popularity": 3036,
-      "episodes": 5,
+      "totalEpisodes": 5,
       "genres": [
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
+        "冒险",
+        "奇幻",
+        "科幻"
       ],
       "tags": [
-        "Robots",
-        "Environmental",
-        "Anthology",
-        "Dystopian"
+        "冒险",
+        "奇幻",
+        "科幻",
+        "反乌托邦"
       ],
       "sites": [
         {
@@ -6308,7 +6112,8 @@
           "site": "dmhy",
           "id": "MIRU 未來"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 178825,
@@ -6322,16 +6127,15 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178825-F4StA5BbfN9H.png",
       "airDate": "2025-04-05",
       "ratingScore": 5.1,
-      "popularity": 2928,
-      "episodes": 13,
+      "popularity": 2930,
+      "totalEpisodes": 13,
       "genres": [
-        "Music"
+        "音乐"
       ],
       "tags": [
-        "Classical Music",
-        "School",
-        "Primarily Male Cast",
-        "Idol"
+        "音乐",
+        "校园",
+        "偶像"
       ],
       "sites": [
         {
@@ -6410,7 +6214,8 @@
           "site": "acgnx",
           "id": "古典樂 之星"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 177678,
@@ -6424,20 +6229,19 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177678-4ZRG0wXfjubO.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 6.6,
-      "popularity": 2386,
-      "episodes": 8,
+      "popularity": 2389,
+      "totalEpisodes": 8,
       "genres": [
-        "Comedy",
-        "Romance"
+        "搞笑",
+        "恋爱"
       ],
       "tags": [
-        "Boys' Love",
-        "Anal Sex",
-        "Nudity",
-        "LGBTQ+ Themes",
-        "Male Protagonist",
-        "Urban",
-        "Office"
+        "搞笑",
+        "恋爱",
+        "BL",
+        "男主",
+        "办公室",
+        "里番"
       ],
       "sites": [
         {
@@ -6480,7 +6284,8 @@
           "site": "acgnx",
           "id": "深見君"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 191884,
@@ -6494,27 +6299,23 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191884-ykNXs7U1OZJ9.jpg",
       "airDate": "2025-06-19",
       "ratingScore": 7.5,
-      "popularity": 2256,
-      "episodes": 1,
+      "popularity": 2257,
+      "totalEpisodes": 1,
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Mystery"
+        "动作",
+        "冒险",
+        "搞笑",
+        "悬疑"
       ],
       "tags": [
-        "Detective",
-        "Fugitive",
-        "Assassins",
-        "Male Protagonist",
-        "Politics",
-        "Foreign",
-        "Conspiracy",
-        "Terrorism",
-        "Primarily Adult Cast",
-        "Guns",
-        "Seinen",
-        "Gore"
+        "动作",
+        "冒险",
+        "搞笑",
+        "悬疑",
+        "侦探",
+        "男主",
+        "青年向",
+        "猎奇/血腥"
       ],
       "sites": [
         {
@@ -6547,7 +6348,8 @@
           "site": "anidb",
           "id": "19338"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 186827,
@@ -6561,19 +6363,19 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186827-B9FgO0n9G0IC.png",
       "airDate": "2025-04-25",
       "ratingScore": 7.6,
-      "popularity": 1853,
-      "episodes": 0,
+      "popularity": 1855,
+      "totalEpisodes": 0,
       "genres": [
-        "Hentai"
+        "里番"
       ],
       "tags": [
-        "School",
-        "Large Breasts",
-        "Tanned Skin",
-        "Female Protagonist",
-        "Male Protagonist"
+        "里番",
+        "校园",
+        "女主",
+        "男主"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 166371,
@@ -6588,21 +6390,18 @@
       "airDate": "2025-04-09",
       "ratingScore": 5.4,
       "popularity": 1850,
-      "episodes": 12,
+      "totalEpisodes": 12,
       "genres": [
-        "Music",
-        "Mystery",
-        "Psychological"
+        "音乐",
+        "悬疑",
+        "心理"
       ],
       "tags": [
-        "Male Protagonist",
-        "Primarily Adult Cast",
-        "Primarily Male Cast",
-        "Idol",
-        "Estranged Family",
-        "Medicine",
-        "Conspiracy",
-        "Work"
+        "音乐",
+        "悬疑",
+        "心理",
+        "男主",
+        "偶像"
       ],
       "sites": [
         {
@@ -6675,7 +6474,8 @@
           "site": "acgnx",
           "id": "華Doll"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 185071,
@@ -6689,42 +6489,17 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185071-lb95ZFqYyGut.png",
       "airDate": "2025-06-27",
       "ratingScore": 7.6,
-      "popularity": 1825,
-      "episodes": 1,
+      "popularity": 1826,
+      "totalEpisodes": 1,
       "genres": [
-        "Hentai"
+        "里番"
       ],
       "tags": [
-        "Masturbation",
-        "Female Protagonist",
-        "Hypersexuality",
-        "Primarily Adult Cast",
-        "Sex Toys",
-        "Nudity"
+        "里番",
+        "女主"
       ],
-      "sites": []
-    },
-    {
-      "anilistId": 192810,
-      "bgmId": null,
-      "title": "じゅじゅさんぽ 劇場版",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "SPECIAL",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192810-hQ9HxiiIXyfI.jpg",
-      "airDate": "2025-05-30",
-      "ratingScore": 7.4,
-      "popularity": 1761,
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Slice of Life",
-        "Supernatural"
-      ],
-      "tags": [],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 178445,
@@ -6739,19 +6514,18 @@
       "airDate": "2025-05-02",
       "ratingScore": 7,
       "popularity": 1544,
-      "episodes": 0,
+      "totalEpisodes": 0,
       "genres": [
-        "Hentai"
+        "里番"
       ],
       "tags": [
-        "Female Harem",
-        "Isekai",
-        "Kemonomimi",
-        "Reincarnation",
-        "Nekomimi",
-        "Flat Chest"
+        "里番",
+        "异世界",
+        "兽耳",
+        "转生"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 186058,
@@ -6765,17 +6539,18 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186058-knK1uJxYFkVy.png",
       "airDate": "2025-06-06",
       "ratingScore": 6.5,
-      "popularity": 1246,
-      "episodes": 0,
+      "popularity": 1247,
+      "totalEpisodes": 0,
       "genres": [
-        "Hentai",
-        "Romance"
+        "里番",
+        "恋爱"
       ],
       "tags": [
-        "Tanned Skin",
-        "Gyaru"
+        "里番",
+        "恋爱"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 166249,
@@ -6790,21 +6565,18 @@
       "airDate": "2025-04-17",
       "ratingScore": 6.5,
       "popularity": 1241,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Slice of Life"
+        "搞笑",
+        "科幻",
+        "日常"
       ],
       "tags": [
-        "Maids",
-        "Robots",
-        "Shounen",
-        "Alternate Universe",
-        "Parody",
-        "Revenge",
-        "Super Power",
-        "Surreal Comedy"
+        "搞笑",
+        "科幻",
+        "日常",
+        "少年向",
+        "恶搞/梗番"
       ],
       "sites": [
         {
@@ -6859,7 +6631,8 @@
           "begin": "",
           "broadcast": ""
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 191491,
@@ -6873,40 +6646,16 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191491-MMcTCb01bWb6.png",
       "airDate": "2025-06-27",
       "ratingScore": 6.2,
-      "popularity": 1219,
-      "episodes": 1,
+      "popularity": 1221,
+      "totalEpisodes": 1,
       "genres": [
-        "Hentai"
+        "里番"
       ],
       "tags": [
-        "Netorare"
+        "里番"
       ],
-      "sites": []
-    },
-    {
-      "anilistId": 189832,
-      "bgmId": null,
-      "title": "ちょっとだけ愛が重いダークエルフが異世界から追いかけてきたミニアニメ劇場",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "TV_SHORT",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189832-ef4szjfj2BFb.png",
-      "airDate": "2025-04-07",
-      "ratingScore": 5,
-      "popularity": 1158,
-      "episodes": 12,
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Fantasy",
-        "Romance"
-      ],
-      "tags": [
-        "Chibi"
-      ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 184470,
@@ -6920,26 +6669,22 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184470-m2izEvBeO49C.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 6.8,
-      "popularity": 1099,
-      "episodes": 51,
+      "popularity": 1100,
+      "totalEpisodes": 51,
       "genres": [
-        "Music",
-        "Slice of Life"
+        "音乐",
+        "日常"
       ],
       "tags": [
-        "Idol",
-        "Yuri",
-        "Virtual World",
-        "School",
-        "Kids",
-        "Female Protagonist",
-        "Primarily Female Cast",
-        "Ensemble Cast",
-        "Boarding School",
-        "Henshin",
-        "Primarily Child Cast",
-        "CGI",
-        "LGBTQ+ Themes"
+        "音乐",
+        "日常",
+        "偶像",
+        "百合",
+        "虚拟世界",
+        "校园",
+        "少儿向",
+        "女主",
+        "群像"
       ],
       "sites": [
         {
@@ -7000,7 +6745,8 @@
           "site": "dmhy",
           "id": "祕密 偶像 公主"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 162682,
@@ -7015,11 +6761,13 @@
       "airDate": "2025-05-22",
       "ratingScore": 4.7,
       "popularity": 1095,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Mystery"
+        "悬疑"
       ],
-      "tags": [],
+      "tags": [
+        "悬疑"
+      ],
       "sites": [
         {
           "site": "danime",
@@ -7051,7 +6799,8 @@
           "site": "anidb",
           "id": "17905"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 191492,
@@ -7065,15 +6814,16 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191492-EgmRSCxwLYSq.png",
       "airDate": "2025-06-27",
       "ratingScore": 6.6,
-      "popularity": 1088,
-      "episodes": 1,
+      "popularity": 1091,
+      "totalEpisodes": 1,
       "genres": [
-        "Hentai"
+        "里番"
       ],
       "tags": [
-        "Netorase"
+        "里番"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 187998,
@@ -7088,24 +6838,20 @@
       "airDate": "2025-04-03",
       "ratingScore": 4.3,
       "popularity": 1052,
-      "episodes": 13,
+      "totalEpisodes": 13,
       "genres": [
-        "Comedy",
-        "Mahou Shoujo",
-        "Supernatural"
+        "搞笑",
+        "魔法少女",
+        "超自然"
       ],
       "tags": [
-        "Chibi",
-        "Urban",
-        "Monster Girl",
-        "Ensemble Cast",
-        "Flash",
-        "Magic",
-        "Gender Bending",
-        "Mixed Media",
-        "Meta",
-        "Parody",
-        "Slapstick"
+        "搞笑",
+        "魔法少女",
+        "超自然",
+        "魔物娘",
+        "群像",
+        "恶搞/梗番",
+        "搞笑滑稽"
       ],
       "sites": [
         {
@@ -7134,7 +6880,8 @@
           "site": "dmhy",
           "id": "歡迎 魔法少女村"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 172393,
@@ -7149,16 +6896,14 @@
       "airDate": "2025-05-08",
       "ratingScore": 6.9,
       "popularity": 1013,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Music"
+        "音乐"
       ],
       "tags": [
-        "Idol",
-        "Primarily Adult Cast",
-        "CGI",
-        "Primarily Male Cast",
-        "Ensemble Cast"
+        "音乐",
+        "偶像",
+        "群像"
       ],
       "sites": [
         {
@@ -7205,7 +6950,8 @@
           "site": "dmhy",
           "id": "歌之"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 194879,
@@ -7220,17 +6966,21 @@
       "airDate": "2025-05-16",
       "ratingScore": 6.5,
       "popularity": 1001,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Drama",
-        "Music",
-        "Psychological"
+        "剧情",
+        "音乐",
+        "心理"
       ],
       "tags": [
-        "Idol",
-        "Post-Apocalyptic"
+        "剧情",
+        "音乐",
+        "心理",
+        "偶像",
+        "末日废土"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 188394,
@@ -7244,26 +6994,22 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188394-4oTa98gvtw8R.jpg",
       "airDate": "2025-04-03",
       "ratingScore": 5.8,
-      "popularity": 955,
-      "episodes": 27,
+      "popularity": 956,
+      "totalEpisodes": 27,
       "genres": [
-        "Fantasy",
-        "Slice of Life"
+        "奇幻",
+        "日常"
       ],
       "tags": [
-        "Primarily Animal Cast",
-        "Animals",
-        "Fairy",
-        "Kids",
-        "No Dialogue",
-        "Magic",
-        "Crossover",
-        "Chibi",
-        "Ghost",
-        "Aliens",
-        "Food"
+        "奇幻",
+        "日常",
+        "少儿向",
+        "幽灵",
+        "外星人",
+        "美食料理"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 185166,
@@ -7277,15 +7023,16 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185166-nRoGrSNTd13z.png",
       "airDate": "2025-04-04",
       "ratingScore": 6,
-      "popularity": 923,
-      "episodes": 2,
+      "popularity": 924,
+      "totalEpisodes": 2,
       "genres": [
-        "Hentai"
+        "里番"
       ],
       "tags": [
-        "Netorare"
+        "里番"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 185778,
@@ -7299,20 +7046,19 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185778-Zl01zbfShlCc.jpg",
       "airDate": "2025-05-15",
       "ratingScore": 7,
-      "popularity": 836,
-      "episodes": 8,
+      "popularity": 835,
+      "totalEpisodes": 8,
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "搞笑",
+        "日常"
       ],
       "tags": [
-        "VTuber",
-        "Female Protagonist",
-        "Chibi",
-        "Travel",
-        "Slapstick",
-        "Kemonomimi",
-        "Episodic"
+        "搞笑",
+        "日常",
+        "女主",
+        "旅行",
+        "搞笑滑稽",
+        "兽耳"
       ],
       "sites": [
         {
@@ -7340,7 +7086,8 @@
           "site": "anidb",
           "id": "19401"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 168810,
@@ -7355,12 +7102,15 @@
       "airDate": "2025-05-11",
       "ratingScore": 6.1,
       "popularity": 815,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Hentai"
+        "里番"
       ],
-      "tags": [],
-      "sites": []
+      "tags": [
+        "里番"
+      ],
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 187404,
@@ -7374,16 +7124,16 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187404-uRgR6RFKWlcZ.png",
       "airDate": "2025-06-20",
       "ratingScore": 6.5,
-      "popularity": 777,
-      "episodes": 2,
+      "popularity": 778,
+      "totalEpisodes": 2,
       "genres": [
-        "Hentai"
+        "里番"
       ],
       "tags": [
-        "Oyakodon",
-        "Incest"
+        "里番"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 186522,
@@ -7398,15 +7148,16 @@
       "airDate": "2025-04-03",
       "ratingScore": 5.4,
       "popularity": 714,
-      "episodes": 24,
+      "totalEpisodes": 24,
       "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Slice of Life"
+        "搞笑",
+        "科幻",
+        "日常"
       ],
       "tags": [
-        "Primarily Animal Cast",
-        "Episodic"
+        "搞笑",
+        "科幻",
+        "日常"
       ],
       "sites": [
         {
@@ -7455,7 +7206,8 @@
           "site": "dmhy",
           "id": "小浣熊"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 194706,
@@ -7470,25 +7222,25 @@
       "airDate": "2025-04-20",
       "ratingScore": 6.5,
       "popularity": 703,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Action",
-        "Mecha",
-        "Romance",
-        "Sci-Fi"
+        "动作",
+        "机战",
+        "恋爱",
+        "科幻"
       ],
       "tags": [
-        "LGBTQ+ Themes",
-        "Yuri",
-        "Aliens",
-        "Female Protagonist",
-        "Primarily Female Cast",
-        "Urban",
-        "Coastal",
-        "Swordplay",
-        "Gods",
-        "School",
-        "Space"
+        "动作",
+        "机战",
+        "恋爱",
+        "科幻",
+        "百合",
+        "外星人",
+        "女主",
+        "剑术",
+        "神明",
+        "校园",
+        "太空"
       ],
       "sites": [
         {
@@ -7517,7 +7269,8 @@
           "site": "tmdb",
           "id": "movie/1170180"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 186308,
@@ -7531,13 +7284,16 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186308-REUfR4DxBB18.png",
       "airDate": "2025-04-25",
       "ratingScore": 6.4,
-      "popularity": 688,
-      "episodes": 0,
+      "popularity": 690,
+      "totalEpisodes": 0,
       "genres": [
-        "Hentai"
+        "里番"
       ],
-      "tags": [],
-      "sites": []
+      "tags": [
+        "里番"
+      ],
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 188933,
@@ -7551,17 +7307,16 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188933-akAyf4m11e0y.png",
       "airDate": "2025-06-27",
       "ratingScore": 5.6,
-      "popularity": 637,
-      "episodes": 0,
+      "popularity": 638,
+      "totalEpisodes": 0,
       "genres": [
-        "Hentai"
+        "里番"
       ],
       "tags": [
-        "Rape",
-        "Wrestling",
-        "Nudity"
+        "里番"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 185259,
@@ -7576,14 +7331,14 @@
       "airDate": "2025-04-07",
       "ratingScore": 5.8,
       "popularity": 619,
-      "episodes": 12,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy"
+        "搞笑"
       ],
       "tags": [
-        "Shounen",
-        "Parody",
-        "Surreal Comedy"
+        "搞笑",
+        "少年向",
+        "恶搞/梗番"
       ],
       "sites": [
         {
@@ -7650,27 +7405,8 @@
           "site": "acgnx",
           "id": "搞笑 日和 GO"
         }
-      ]
-    },
-    {
-      "anilistId": 206349,
-      "bgmId": null,
-      "title": "猫猫のひとりごと ～USJを調査せよ！～",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "SPECIAL",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206349-RzDGDKhWPiMN.png",
-      "airDate": "2025-06-19",
-      "ratingScore": 6.1,
-      "popularity": 580,
-      "episodes": 2,
-      "genres": [
-        "Comedy"
       ],
-      "tags": [],
-      "sites": []
+      "episodes": []
     },
     {
       "anilistId": 186307,
@@ -7685,12 +7421,15 @@
       "airDate": "2025-04-25",
       "ratingScore": 5.7,
       "popularity": 578,
-      "episodes": 2,
+      "totalEpisodes": 2,
       "genres": [
-        "Hentai"
+        "里番"
       ],
-      "tags": [],
-      "sites": []
+      "tags": [
+        "里番"
+      ],
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 193413,
@@ -7705,20 +7444,18 @@
       "airDate": "2025-04-27",
       "ratingScore": 6.1,
       "popularity": 538,
-      "episodes": 10,
+      "totalEpisodes": 10,
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "搞笑",
+        "日常"
       ],
       "tags": [
-        "School",
-        "Cute Girls Doing Cute Things",
-        "Female Protagonist",
-        "Primarily Female Cast",
-        "Food",
-        "Tsundere",
-        "Episodic",
-        "Primarily Teen Cast"
+        "搞笑",
+        "日常",
+        "校园",
+        "女主",
+        "美食料理",
+        "傲娇"
       ],
       "sites": [
         {
@@ -7739,30 +7476,8 @@
           "site": "tmdb",
           "id": "tv/309067"
         }
-      ]
-    },
-    {
-      "anilistId": 189891,
-      "bgmId": null,
-      "title": "勘違いの工房主ミニアニメ",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189891-UvNQzMMStf94.png",
-      "airDate": "2025-04-06",
-      "ratingScore": 5.5,
-      "popularity": 495,
-      "episodes": 14,
-      "genres": [
-        "Comedy"
       ],
-      "tags": [
-        "Chibi",
-        "Medieval"
-      ],
-      "sites": []
+      "episodes": []
     },
     {
       "anilistId": 186935,
@@ -7776,14 +7491,18 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186935-WPDw5KNiCSGb.png",
       "airDate": "2025-05-23",
       "ratingScore": 4.8,
-      "popularity": 470,
-      "episodes": 1,
+      "popularity": 472,
+      "totalEpisodes": 1,
       "genres": [
-        "Fantasy",
-        "Supernatural"
+        "奇幻",
+        "超自然"
       ],
-      "tags": [],
-      "sites": []
+      "tags": [
+        "奇幻",
+        "超自然"
+      ],
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 191370,
@@ -7798,18 +7517,21 @@
       "airDate": "2025-06-13",
       "ratingScore": 6.8,
       "popularity": 464,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Thriller"
+        "动作",
+        "冒险",
+        "科幻",
+        "惊悚"
       ],
       "tags": [
-        "Philosophy",
-        "Stop Motion"
+        "动作",
+        "冒险",
+        "科幻",
+        "惊悚"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 184289,
@@ -7824,13 +7546,12 @@
       "airDate": "2025-04-05",
       "ratingScore": 5.2,
       "popularity": 459,
-      "episodes": 50,
+      "totalEpisodes": 50,
       "genres": [
-        "Slice of Life"
+        "日常"
       ],
       "tags": [
-        "Kaiju",
-        "Chibi"
+        "日常"
       ],
       "sites": [
         {
@@ -7881,31 +7602,8 @@
           "site": "acgnx",
           "id": "怪獸世界征服"
         }
-      ]
-    },
-    {
-      "anilistId": 185716,
-      "bgmId": null,
-      "title": "百姓貴族 2nd Season OVA",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "OVA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185716-LYQR7AFNEC0m.jpg",
-      "airDate": "2025-04-23",
-      "ratingScore": 6.4,
-      "popularity": 441,
-      "episodes": 2,
-      "genres": [
-        "Comedy",
-        "Slice of Life"
       ],
-      "tags": [
-        "Shoujo",
-        "Agriculture"
-      ],
-      "sites": []
+      "episodes": []
     },
     {
       "anilistId": 187304,
@@ -7920,15 +7618,15 @@
       "airDate": "2025-05-30",
       "ratingScore": 6.2,
       "popularity": 432,
-      "episodes": 0,
+      "totalEpisodes": 0,
       "genres": [
-        "Hentai"
+        "里番"
       ],
       "tags": [
-        "Tentacles",
-        "Rape"
+        "里番"
       ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 186313,
@@ -7943,14 +7641,12 @@
       "airDate": "2025-04-03",
       "ratingScore": 5.4,
       "popularity": 421,
-      "episodes": 48,
+      "totalEpisodes": 48,
       "genres": [
-        "Comedy"
+        "搞笑"
       ],
       "tags": [
-        "Animals",
-        "Primarily Animal Cast",
-        "Episodic"
+        "搞笑"
       ],
       "sites": [
         {
@@ -8001,28 +7697,8 @@
           "site": "dmhy",
           "id": "嗚莓貓貓"
         }
-      ]
-    },
-    {
-      "anilistId": 189892,
-      "bgmId": null,
-      "title": "プチフォルマ～電犯局日誌～",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189892-ZFli3O2ZX5wS.png",
-      "airDate": "2025-03-28",
-      "ratingScore": 5.5,
-      "popularity": 321,
-      "episodes": 5,
-      "genres": [
-        "Mystery",
-        "Sci-Fi"
       ],
-      "tags": [],
-      "sites": []
+      "episodes": []
     },
     {
       "anilistId": 194889,
@@ -8037,45 +7713,17 @@
       "airDate": "2025-06-20",
       "ratingScore": 7.2,
       "popularity": 290,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Music"
+        "音乐"
       ],
       "tags": [
-        "Idol",
-        "Female Protagonist",
-        "Primarily Female Cast",
-        "Fashion"
+        "音乐",
+        "偶像",
+        "女主"
       ],
-      "sites": []
-    },
-    {
-      "anilistId": 188239,
-      "bgmId": null,
-      "title": "トランスフォーマー ワイルドキング",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
-      "airDate": "2025-03-26",
-      "ratingScore": 5,
-      "popularity": 253,
-      "episodes": 14,
-      "genres": [
-        "Action",
-        "Mecha",
-        "Sci-Fi"
-      ],
-      "tags": [
-        "Full CGI",
-        "Super Robot",
-        "Shapeshifting",
-        "Animals",
-        "Dinosaurs"
-      ],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 177633,
@@ -8090,16 +7738,13 @@
       "airDate": "2025-04-01",
       "ratingScore": 5.3,
       "popularity": 221,
-      "episodes": 13,
+      "totalEpisodes": 13,
       "genres": [
-        "Slice of Life"
+        "日常"
       ],
       "tags": [
-        "Animals",
-        "Primarily Animal Cast",
-        "Anthropomorphism",
-        "No Dialogue",
-        "Iyashikei"
+        "日常",
+        "治愈"
       ],
       "sites": [
         {
@@ -8132,7 +7777,8 @@
           "site": "anidb",
           "id": "18639"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 188131,
@@ -8147,12 +7793,15 @@
       "airDate": "2025-04-08",
       "ratingScore": 4.3,
       "popularity": 221,
-      "episodes": 12,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy",
-        "Sci-Fi"
+        "搞笑",
+        "科幻"
       ],
-      "tags": [],
+      "tags": [
+        "搞笑",
+        "科幻"
+      ],
       "sites": [
         {
           "site": "unext",
@@ -8184,7 +7833,8 @@
           "site": "mal",
           "id": "61238"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 185718,
@@ -8199,11 +7849,13 @@
       "airDate": "2025-04-05",
       "ratingScore": 5.9,
       "popularity": 209,
-      "episodes": 51,
+      "totalEpisodes": 51,
       "genres": [
-        "Action"
+        "动作"
       ],
-      "tags": [],
+      "tags": [
+        "动作"
+      ],
       "sites": [
         {
           "site": "unext",
@@ -8241,7 +7893,8 @@
           "site": "anidb",
           "id": "19288"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 188884,
@@ -8256,11 +7909,13 @@
       "airDate": "2025-04-03",
       "ratingScore": 6.5,
       "popularity": 208,
-      "episodes": 26,
+      "totalEpisodes": 26,
       "genres": [
-        "Slice of Life"
+        "日常"
       ],
-      "tags": [],
+      "tags": [
+        "日常"
+      ],
       "sites": [
         {
           "site": "unext",
@@ -8286,7 +7941,8 @@
           "begin": "2026-03-20T15:00:00.000Z",
           "broadcast": "R/2026-03-20T15:00:00.000Z/P7D"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 180124,
@@ -8300,18 +7956,19 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180124-Yqk9d9iKiYwo.png",
       "airDate": "2025-04-30",
       "ratingScore": 5.9,
-      "popularity": 178,
-      "episodes": 1,
+      "popularity": 179,
+      "totalEpisodes": 1,
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "动作",
+        "冒险",
+        "奇幻"
       ],
       "tags": [
-        "Full CGI",
-        "Kids",
-        "Animals",
-        "Food"
+        "动作",
+        "冒险",
+        "奇幻",
+        "少儿向",
+        "美食料理"
       ],
       "sites": [
         {
@@ -8344,28 +8001,8 @@
           "begin": "",
           "broadcast": ""
         }
-      ]
-    },
-    {
-      "anilistId": 193242,
-      "bgmId": null,
-      "title": "ちびぜんじ先生 居残り講義録",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193242-0pIv8EQ3ijOA.png",
-      "airDate": "2025-04-08",
-      "ratingScore": 5.6,
-      "popularity": 171,
-      "episodes": 12,
-      "genres": [
-        "Comedy",
-        "Mystery"
       ],
-      "tags": [],
-      "sites": []
+      "episodes": []
     },
     {
       "anilistId": 185715,
@@ -8380,11 +8017,13 @@
       "airDate": "2025-04-04",
       "ratingScore": 5.7,
       "popularity": 166,
-      "episodes": 13,
+      "totalEpisodes": 13,
       "genres": [
-        "Slice of Life"
+        "日常"
       ],
-      "tags": [],
+      "tags": [
+        "日常"
+      ],
       "sites": [
         {
           "site": "danime",
@@ -8422,7 +8061,8 @@
           "site": "acgnx",
           "id": "SHIBUYA HACHI"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 185645,
@@ -8436,14 +8076,18 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185645-oURiWI3bVWgq.png",
       "airDate": "2025-04-05",
       "ratingScore": 3,
-      "popularity": 149,
-      "episodes": 8,
+      "popularity": 150,
+      "totalEpisodes": 8,
       "genres": [
-        "Comedy",
-        "Fantasy",
-        "Mystery"
+        "搞笑",
+        "奇幻",
+        "悬疑"
       ],
-      "tags": [],
+      "tags": [
+        "搞笑",
+        "奇幻",
+        "悬疑"
+      ],
       "sites": [
         {
           "site": "danime",
@@ -8463,7 +8107,8 @@
           "site": "anidb",
           "id": "15084"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 184182,
@@ -8478,16 +8123,13 @@
       "airDate": "2025-04-08",
       "ratingScore": 4.5,
       "popularity": 120,
-      "episodes": 12,
+      "totalEpisodes": 12,
       "genres": [
-        "Comedy"
+        "搞笑"
       ],
       "tags": [
-        "Kids",
-        "Work",
-        "Animals",
-        "Anthropomorphism",
-        "Primarily Animal Cast"
+        "搞笑",
+        "少儿向"
       ],
       "sites": [
         {
@@ -8538,7 +8180,8 @@
           "site": "anidb",
           "id": "18981"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 186542,
@@ -8553,12 +8196,15 @@
       "airDate": "2025-06-26",
       "ratingScore": 4.9,
       "popularity": 120,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Comedy",
-        "Fantasy"
+        "搞笑",
+        "奇幻"
       ],
-      "tags": [],
+      "tags": [
+        "搞笑",
+        "奇幻"
+      ],
       "sites": [
         {
           "site": "unext",
@@ -8584,7 +8230,8 @@
           "site": "tmdb",
           "id": "movie/1504914"
         }
-      ]
+      ],
+      "episodes": []
     },
     {
       "anilistId": 189602,
@@ -8599,121 +8246,17 @@
       "airDate": "2025-04-15",
       "ratingScore": 5.8,
       "popularity": 117,
-      "episodes": 10,
+      "totalEpisodes": 10,
       "genres": [
-        "Comedy",
-        "Slice of Life"
+        "搞笑",
+        "日常"
       ],
       "tags": [
-        "Animals",
-        "Primarily Animal Cast",
-        "Episodic"
+        "搞笑",
+        "日常"
       ],
-      "sites": []
-    },
-    {
-      "anilistId": 188661,
-      "bgmId": null,
-      "title": "ゴー！ゴー！びーくるずー のりものスター編",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "TV_SHORT",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188661-I48XaB1Bvkju.png",
-      "airDate": "2025-04-06",
-      "ratingScore": 5.5,
-      "popularity": 108,
-      "episodes": 13,
-      "genres": [
-        "Slice of Life"
-      ],
-      "tags": [
-        "Kids",
-        "Cars"
-      ],
-      "sites": []
-    },
-    {
-      "anilistId": 200639,
-      "bgmId": null,
-      "title": "キュー",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "MOVIE",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200639-AxI6hMu80so5.png",
-      "airDate": "2025-05-30",
-      "ratingScore": 6,
-      "popularity": 86,
-      "episodes": 1,
-      "genres": [],
-      "tags": [
-        "Motorcycles",
-        "Tragedy",
-        "Male Protagonist",
-        "Ghost",
-        "No Dialogue"
-      ],
-      "sites": []
-    },
-    {
-      "anilistId": 199371,
-      "bgmId": null,
-      "title": "『深夜ラーメンの誘惑』 SUNTORY からだを想うオールフリーCM",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "SPECIAL",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199371-gxvEDjfgJQQS.png",
-      "airDate": "2025-06-12",
-      "ratingScore": 5.9,
-      "popularity": 83,
-      "episodes": 1,
-      "genres": [
-        "Drama"
-      ],
-      "tags": [
-        "Advertisement"
-      ],
-      "sites": []
-    },
-    {
-      "anilistId": 189716,
-      "bgmId": null,
-      "title": "ゆるかわメルちゃん",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "TV_SHORT",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b189716-6r2f88YG3XNP.png",
-      "airDate": "2025-04-03",
-      "ratingScore": 4.1,
-      "popularity": 73,
-      "episodes": 13,
-      "genres": [
-        "Slice of Life"
-      ],
-      "tags": [],
-      "sites": [
-        {
-          "site": "danime",
-          "id": "27987",
-          "begin": "2025-05-22T15:00:00.000Z",
-          "broadcast": "R/2025-05-22T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/296170"
-        },
-        {
-          "site": "mal",
-          "id": "61379"
-        }
-      ]
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 205601,
@@ -8728,80 +8271,19 @@
       "airDate": "2025-05-21",
       "ratingScore": 4.5,
       "popularity": 72,
-      "episodes": 1,
+      "totalEpisodes": 1,
       "genres": [
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "tags": [],
-      "sites": []
-    },
-    {
-      "anilistId": 193613,
-      "bgmId": null,
-      "title": "シナぷしゅ THE MOVIE ぷしゅほっぺダンシングPARTY",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "MOVIE",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193613-appYSBxXrbXL.png",
-      "airDate": "2025-05-16",
-      "ratingScore": 4.9,
-      "popularity": 70,
-      "episodes": 1,
-      "genres": [
-        "Adventure",
-        "Fantasy"
+        "冒险",
+        "搞笑",
+        "奇幻"
       ],
       "tags": [
-        "Kids",
-        "Mixed Media",
-        "CGI",
-        "Puppetry"
+        "冒险",
+        "搞笑",
+        "奇幻"
       ],
-      "sites": []
-    },
-    {
-      "anilistId": 204496,
-      "bgmId": null,
-      "title": "リエラ大河ドラマ ぎゃらぼう ～平安名栄華乃夢噺～",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "SPECIAL",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204496-iwcjjOOjs3r6.png",
-      "airDate": "2025-04-01",
-      "ratingScore": 5.9,
-      "popularity": 54,
-      "episodes": 1,
-      "genres": [
-        "Slice of Life"
-      ],
-      "tags": [],
-      "sites": []
-    },
-    {
-      "anilistId": 204474,
-      "bgmId": null,
-      "title": "ガヴっとアニメ！　Ｓｗｅｅｔｙ　Ｄａｙｓ　～おかしな日常～",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204474-NfZorDxwxeXK.png",
-      "airDate": "2025-03-02",
-      "ratingScore": 6.7,
-      "popularity": 35,
-      "episodes": 5,
-      "genres": [
-        "Comedy"
-      ],
-      "tags": [],
-      "sites": []
+      "sites": [],
+      "episodes": []
     },
     {
       "anilistId": 213459,
@@ -8816,13 +8298,17 @@
       "airDate": "2025-05-21",
       "ratingScore": 5.4,
       "popularity": 19,
-      "episodes": 4,
+      "totalEpisodes": 4,
       "genres": [
-        "Comedy",
-        "Sports"
+        "搞笑",
+        "运动"
       ],
-      "tags": [],
-      "sites": []
+      "tags": [
+        "搞笑",
+        "运动"
+      ],
+      "sites": [],
+      "episodes": []
     }
   ]
 }
