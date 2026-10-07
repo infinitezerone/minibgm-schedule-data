@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-07T10:55:30.220Z",
+  "generatedAt": "2026-10-07T17:06:59.080Z",
   "window": {
-    "from": 1789556029,
-    "to": 1796554429
+    "from": 1789578316,
+    "to": 1796576716
   },
   "items": [
     {
@@ -741,7 +741,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 61130,
+      "popularity": 61248,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -824,7 +824,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8013,
+      "popularity": 8021,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -963,7 +963,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
       "airDate": "2019-05-04",
       "ratingScore": 7.9,
-      "popularity": 14794,
+      "popularity": 14790,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -1076,7 +1076,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
       "airDate": "2026-07-07",
       "ratingScore": 7.5,
-      "popularity": 29651,
+      "popularity": 29695,
       "totalEpisodes": 12,
       "genres": [
         "剧情"
@@ -1191,7 +1191,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
       "airDate": "2026-07-08",
       "ratingScore": 8,
-      "popularity": 96664,
+      "popularity": 96823,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -1304,10 +1304,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789561800
-        },
-        {
           "n": 12,
           "t": 1790166600
         }
@@ -1324,7 +1320,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
       "airDate": "2022-04-03",
       "ratingScore": 8.5,
-      "popularity": 11974,
+      "popularity": 12011,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -1334,8 +1330,8 @@
         "搞笑",
         "日常",
         "治愈",
-        "搞笑滑稽",
         "拟似家庭",
+        "搞笑滑稽",
         "少儿向",
         "反乌托邦",
         "美食料理"
@@ -1450,7 +1446,7 @@
       "titleCn": "侦探已经死了。 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
       "airDate": "2026-10-07",
       "ratingScore": 0,
@@ -1943,10 +1939,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789569000
-        },
         {
           "n": 12,
           "t": 1790173800
@@ -2754,7 +2746,7 @@
       "titleCn": "归还者的魔法要特别 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
       "airDate": "2026-10-07",
       "ratingScore": 0,
@@ -2853,7 +2845,7 @@
       "titleCn": "佐佐木与文鸟小哔 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
       "airDate": "2026-10-07",
       "ratingScore": 0,
@@ -2930,39 +2922,39 @@
       "episodes": [
         {
           "n": 1,
-          "t": 1791381600
+          "t": 1791378000
         },
         {
           "n": 2,
-          "t": 1791986400
+          "t": 1791982800
         },
         {
           "n": 3,
-          "t": 1792591200
+          "t": 1792587600
         },
         {
           "n": 4,
-          "t": 1793196000
+          "t": 1793192400
         },
         {
           "n": 5,
-          "t": 1793800800
+          "t": 1793797200
         },
         {
           "n": 6,
-          "t": 1794405600
+          "t": 1794402000
         },
         {
           "n": 7,
-          "t": 1795010400
+          "t": 1795006800
         },
         {
           "n": 8,
-          "t": 1795615200
+          "t": 1795611600
         },
         {
           "n": 9,
-          "t": 1796220000
+          "t": 1796216400
         }
       ]
     },
@@ -3340,7 +3332,7 @@
       "titleCn": "魔法骑士雷阿斯",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
       "airDate": "2026-10-07",
       "ratingScore": 0,
@@ -4256,10 +4248,10 @@
         "冒险",
         "奇幻",
         "反英雄",
-        "时间回溯",
         "男主",
         "神明",
         "恶魔",
+        "时间回溯",
         "都市奇幻",
         "地下城",
         "旅行"
@@ -4368,10 +4360,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789575300
-        },
         {
           "n": 12,
           "t": 1790784900
@@ -5005,6 +4993,10 @@
         {
           "n": 10,
           "t": 1795962600
+        },
+        {
+          "n": 11,
+          "t": 1796567400
         }
       ]
     },
@@ -5362,6 +5354,10 @@
         {
           "n": 9,
           "t": 1795955400
+        },
+        {
+          "n": 10,
+          "t": 1796560200
         }
       ]
     },
@@ -6666,10 +6662,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 49,
-          "t": 1789556400
-        },
-        {
           "n": 50,
           "t": 1790161200
         }
@@ -6863,10 +6855,6 @@
       "startYear": 2026,
       "startMonth": 4,
       "episodes": [
-        {
-          "n": 17,
-          "t": 1789563600
-        },
         {
           "n": 18,
           "t": 1790168400
@@ -7499,10 +7487,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789569960
-        },
         {
           "n": 12,
           "t": 1790174760
@@ -8676,10 +8660,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789569000
-        },
-        {
           "n": 12,
           "t": 1790356980
         }
@@ -9361,10 +9341,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789560000
-        },
-        {
           "n": 12,
           "t": 1790164800
         },
@@ -9402,8 +9378,8 @@
         "超自然",
         "丧尸",
         "末日废土",
-        "旅行",
         "生存",
+        "旅行",
         "女主",
         "少年向"
       ],
@@ -10058,6 +10034,10 @@
         {
           "n": 9,
           "t": 1795963500
+        },
+        {
+          "n": 10,
+          "t": 1796568300
         }
       ]
     },
@@ -10588,6 +10568,10 @@
         {
           "n": 9,
           "t": 1795962600
+        },
+        {
+          "n": 10,
+          "t": 1796567400
         }
       ]
     },
@@ -10996,8 +10980,8 @@
         "日常",
         "男主",
         "治愈",
-        "少女向",
-        "办公室"
+        "办公室",
+        "少女向"
       ],
       "sites": [
         {
@@ -11080,6 +11064,10 @@
         {
           "n": 9,
           "t": 1795957200
+        },
+        {
+          "n": 10,
+          "t": 1796562000
         }
       ]
     },
@@ -12101,9 +12089,9 @@
         "动作",
         "冒险",
         "科幻",
-        "异世界",
+        "少年向",
         "反乌托邦",
-        "少年向"
+        "异世界"
       ],
       "sites": [
         {
@@ -12979,10 +12967,6 @@
       "startMonth": 4,
       "episodes": [
         {
-          "n": 23,
-          "t": 1789570560
-        },
-        {
           "n": 24,
           "t": 1790175360
         }
@@ -13072,6 +13056,10 @@
         {
           "n": 8,
           "t": 1795962600
+        },
+        {
+          "n": 9,
+          "t": 1796567400
         }
       ]
     },
@@ -13721,8 +13709,8 @@
         "限制级",
         "恋爱",
         "超自然",
-        "男主",
-        "校园"
+        "校园",
+        "男主"
       ],
       "sites": [
         {
@@ -13771,6 +13759,10 @@
         {
           "n": 7,
           "t": 1795964400
+        },
+        {
+          "n": 8,
+          "t": 1796569200
         }
       ]
     },
@@ -13797,9 +13789,9 @@
         "冒险",
         "科幻",
         "神明",
-        "男主",
-        "武术格斗",
         "少年向",
+        "武术格斗",
+        "男主",
         "外星人"
       ],
       "sites": [
@@ -13849,6 +13841,10 @@
         {
           "n": 8,
           "t": 1795961760
+        },
+        {
+          "n": 9,
+          "t": 1796566560
         }
       ]
     },
@@ -14290,10 +14286,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789573440
-        },
-        {
           "n": 12,
           "t": 1790783040
         }
@@ -14686,8 +14678,8 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "魔物娘",
         "搞笑滑稽",
+        "魔物娘",
         "男主",
         "女主",
         "恶魔"
@@ -14755,6 +14747,10 @@
         {
           "n": 9,
           "t": 1795969200
+        },
+        {
+          "n": 10,
+          "t": 1796574000
         }
       ]
     },
@@ -15053,13 +15049,13 @@
       "tags": [
         "魔法少女",
         "音乐",
+        "校园",
+        "少儿向",
+        "青春成长",
         "都市奇幻",
         "女主",
-        "青春成长",
-        "少儿向",
-        "校园",
-        "外星人",
-        "偶像"
+        "偶像",
+        "外星人"
       ],
       "sites": [
         {
@@ -15137,6 +15133,10 @@
         {
           "n": 9,
           "t": 1795959000
+        },
+        {
+          "n": 10,
+          "t": 1796563800
         }
       ]
     },
@@ -15368,6 +15368,10 @@
         {
           "n": 9,
           "t": 1795964400
+        },
+        {
+          "n": 10,
+          "t": 1796569200
         }
       ]
     },
@@ -15450,6 +15454,10 @@
         {
           "n": 9,
           "t": 1795960800
+        },
+        {
+          "n": 10,
+          "t": 1796565600
         }
       ]
     },
@@ -15703,8 +15711,8 @@
         "机战",
         "外星人",
         "女主",
-        "男主",
-        "都市奇幻"
+        "都市奇幻",
+        "男主"
       ],
       "sites": [
         {
@@ -15809,126 +15817,6 @@
         {
           "n": 10,
           "t": 1796481000
-        }
-      ]
-    },
-    {
-      "anilistId": 209669,
-      "bgmId": 637124,
-      "title": "花ざかりの君たちへ 第2期",
-      "titleCn": "花样少年少女 第二季",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209669-7GlPe2ra5f1i.jpg",
-      "airDate": "2026-07-01",
-      "ratingScore": 7.2,
-      "popularity": 7587,
-      "totalEpisodes": 13,
-      "genres": [
-        "搞笑",
-        "剧情",
-        "恋爱",
-        "日常"
-      ],
-      "tags": [
-        "搞笑",
-        "剧情",
-        "恋爱",
-        "日常",
-        "女主",
-        "少女向",
-        "BL"
-      ],
-      "sites": [
-        {
-          "site": "nicovideo",
-          "id": "hanakimi-anime2",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0305821",
-          "begin": "2026-07-01T16:00:00.000Z",
-          "broadcast": "R/2026-07-01T16:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "28633",
-          "begin": "2026-07-01T16:00:00.000Z",
-          "broadcast": "R/2026-07-01T16:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer",
-          "id": "150547",
-          "begin": "2026-07-01T17:00:00.000Z",
-          "broadcast": "R/2026-07-01T17:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "150547",
-          "begin": "2026-07-01T17:00:00.000Z",
-          "broadcast": "R/2026-07-01T17:00:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0H58VMP8T",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "26-259",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00365568",
-          "begin": "2026-07-02T16:59:00.000Z",
-          "broadcast": "R/2026-07-02T16:59:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "4025"
-        },
-        {
-          "site": "mal",
-          "id": "63780"
-        },
-        {
-          "site": "anidb",
-          "id": "19961"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/254492/season/2"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a71538bb56eb30ad03fd513"
-        },
-        {
-          "site": "acgnx",
-          "id": "花樣少年少女"
-        },
-        {
-          "site": "anibt",
-          "id": "637124"
-        },
-        {
-          "site": "dmhy",
-          "id": "花樣少年少女"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 13,
-          "t": 1789574400
         }
       ]
     },
@@ -16053,8 +15941,8 @@
         "恋爱",
         "武术格斗",
         "三角恋",
-        "同居",
-        "校园"
+        "校园",
+        "同居"
       ],
       "sites": [
         {
@@ -16562,10 +16450,6 @@
       "startMonth": 4,
       "episodes": [
         {
-          "n": 17,
-          "t": 1789565400
-        },
-        {
           "n": 18,
           "t": 1790170200
         },
@@ -16612,7 +16496,7 @@
       "titleCn": "世界最强的魔女，就此开始",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg",
       "airDate": "2026-10-07",
       "ratingScore": 0,
@@ -16802,6 +16686,10 @@
         {
           "n": 9,
           "t": 1795968300
+        },
+        {
+          "n": 10,
+          "t": 1796573100
         }
       ]
     },
@@ -17206,6 +17094,10 @@
         {
           "n": 7,
           "t": 1795968300
+        },
+        {
+          "n": 8,
+          "t": 1796573100
         }
       ]
     },
@@ -17425,6 +17317,10 @@
         {
           "n": 10,
           "t": 1795962600
+        },
+        {
+          "n": 11,
+          "t": 1796567400
         }
       ]
     },
@@ -17503,7 +17399,7 @@
       "titleCn": "兽王武神丹帝拜恩",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png",
       "airDate": "2026-10-07",
       "ratingScore": 0,
@@ -17901,7 +17797,10 @@
       ],
       "tags": [
         "运动",
-        "棒球"
+        "棒球",
+        "社团活动",
+        "男主",
+        "少年向"
       ],
       "sites": [
         {
@@ -18161,10 +18060,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 11,
-          "t": 1789563600
-        },
-        {
           "n": 12,
           "t": 1790168400
         }
@@ -18269,9 +18164,9 @@
         "校园",
         "男主",
         "少女向",
-        "三角恋",
         "无口/三无",
-        "群像"
+        "群像",
+        "三角恋"
       ],
       "sites": [
         {
@@ -18365,10 +18260,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789570800
-        },
         {
           "n": 12,
           "t": 1790175600
@@ -18697,6 +18588,10 @@
         {
           "n": 10,
           "t": 1795959000
+        },
+        {
+          "n": 11,
+          "t": 1796563800
         }
       ]
     },
@@ -18927,8 +18822,8 @@
       ],
       "tags": [
         "日常",
-        "少儿向",
-        "校园"
+        "校园",
+        "少儿向"
       ],
       "sites": [
         {

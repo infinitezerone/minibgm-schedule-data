@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-07T10:57:52.654Z",
+  "generatedAt": "2026-10-07T17:09:23.582Z",
   "total": 128,
   "mappedTotal": 128,
   "items": [
@@ -257,7 +257,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
       "airDate": "2026-07-08",
       "ratingScore": 8,
-      "popularity": 96664,
+      "popularity": 96823,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -963,7 +963,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 61130,
+      "popularity": 61248,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -1716,7 +1716,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133007-5gOUXDvzxy9S.jpg",
       "airDate": "2026-08-28",
       "ratingScore": 8.4,
-      "popularity": 49912,
+      "popularity": 49968,
       "totalEpisodes": 1,
       "genres": [
         "魔法少女"
@@ -3371,7 +3371,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
       "airDate": "2026-07-07",
       "ratingScore": 7.5,
-      "popularity": 29651,
+      "popularity": 29695,
       "totalEpisodes": 12,
       "genres": [
         "剧情"
@@ -6198,7 +6198,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8013,
+      "popularity": 8021,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7231,7 +7231,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 2780,
+      "popularity": 2785,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7259,11 +7259,11 @@
         "2026年",
         "国创",
         "记忆管理局",
-        "剧集",
-        "Web动画",
         "架空",
-        "作画",
-        "治愈"
+        "治愈",
+        "2026夏",
+        "中国动画",
+        "作画"
       ],
       "sites": [],
       "episodes": []
@@ -7638,7 +7638,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 969,
+      "popularity": 971,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7646,8 +7646,8 @@
       "tags": [
         "剧场版",
         "奇幻",
-        "2026",
         "喜剧",
+        "2026",
         "战斗",
         "原创",
         "神话",
@@ -7664,13 +7664,13 @@
         "2026年7月",
         "小说改",
         "国产动画",
-        "8分",
-        "8",
         "国产动画电影",
         "玄幻",
-        "架空世界",
-        "7",
-        "四川省"
+        "8分",
+        "8",
+        "剧场版（国产）",
+        "6",
+        "2020s"
       ],
       "sites": [],
       "episodes": []
@@ -8132,7 +8132,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
       "ratingScore": 6.6,
-      "popularity": 443,
+      "popularity": 445,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8145,18 +8145,18 @@
         "搞笑",
         "奇幻",
         "WEB",
+        "漫改",
         "2025",
         "TV",
-        "漫改",
         "国产动画",
         "2026",
-        "玄幻",
         "补",
-        "可爱",
-        "绘梦",
         "腾讯",
+        "玄幻",
         "国创",
-        "非常好看"
+        "绘梦",
+        "非常好看",
+        "可爱"
       ],
       "sites": [],
       "episodes": []
@@ -8186,23 +8186,23 @@
         "奇幻",
         "李豪凌",
         "WEB",
-        "国漫",
         "时光代理人",
-        "绘梦",
+        "国漫",
         "推理",
+        "绘梦",
         "TV",
         "续作",
-        "国产动画",
+        "漫画改",
+        "番",
+        "2026年8月",
         "重庆后生动画电影有限公司",
+        "国产动画",
+        "CMC",
+        "腐",
         "2分",
         "国创",
-        "2026年8月",
-        "番",
         "2026年",
-        "Media",
-        "腐",
-        "CMC",
-        "漫画改"
+        "Media"
       ],
       "sites": [],
       "episodes": []
@@ -8662,7 +8662,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6,
-      "popularity": 160,
+      "popularity": 162,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8700,7 +8700,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/2f/491578_whDt3.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 6,
-      "popularity": 136,
+      "popularity": 138,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
@@ -8793,7 +8793,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
       "airDate": "2026-07-08",
       "ratingScore": 5.8,
-      "popularity": 117,
+      "popularity": 118,
       "totalEpisodes": 9,
       "genres": [
         "国产动画"
@@ -8802,9 +8802,9 @@
         "短片集",
         "原创",
         "2026",
-        "2026年7月",
         "WEB",
         "短片",
+        "2026年7月",
         "科幻",
         "国创",
         "画枚动画",
@@ -9093,10 +9093,10 @@
         "WEB",
         "国漫",
         "2026",
+        "民俗",
         "黑暗",
         "2026年8月",
-        "异闻",
-        "民俗"
+        "异闻"
       ],
       "sites": [],
       "episodes": []
@@ -9121,9 +9121,9 @@
       "tags": [
         "恋爱",
         "彩色铅笔动画",
-        "2026",
-        "WEB",
         "校园",
+        "WEB",
+        "2026",
         "漫画改",
         "快看漫画",
         "2026年8月",
@@ -9272,16 +9272,16 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/13/57/466756_xd3AT.jpg",
       "airDate": "2026-09-30",
       "ratingScore": 3,
-      "popularity": 18,
+      "popularity": 19,
       "totalEpisodes": 59,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "WEB",
-        "国漫",
+        "小说改",
         "玄幻",
-        "小说改"
+        "WEB",
+        "国漫"
       ],
       "sites": [],
       "episodes": []

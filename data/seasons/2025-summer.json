@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "summer",
-  "generatedAt": "2026-10-07T10:56:35.605Z",
+  "generatedAt": "2026-10-07T17:08:05.309Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -1529,9 +1529,9 @@
         "反英雄",
         "恶魔",
         "猎奇/血腥",
+        "肉体恐怖",
         "拟似家庭",
-        "战争",
-        "肉体恐怖"
+        "战争"
       ],
       "sites": [
         {
@@ -6965,6 +6965,73 @@
       "episodes": []
     },
     {
+      "anilistId": 166475,
+      "bgmId": 442114,
+      "title": "罗小黑战记2",
+      "titleCn": "罗小黑战记2",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
+      "airDate": "2025-07-18",
+      "ratingScore": 7.7,
+      "popularity": 6851,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "战斗",
+        "原创",
+        "奇幻",
+        "2025",
+        "罗小黑战记",
+        "冒险",
+        "治愈",
+        "萌系",
+        "喜剧",
+        "寒木春华",
+        "国漫",
+        "国产动画",
+        "动画电影",
+        "MTJJ",
+        "2025年7月",
+        "电影",
+        "续作",
+        "2025年",
+        "顾杰",
+        "玄幻",
+        "搞笑",
+        "萌",
+        "热血",
+        "弃养",
+        "院线",
+        "打拳",
+        "中国动画"
+      ],
+      "sites": [
+        {
+          "site": "mikan",
+          "id": "3803"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1144107"
+        },
+        {
+          "site": "mal",
+          "id": "61952"
+        },
+        {
+          "site": "anidb",
+          "id": "19721"
+        }
+      ],
+      "episodes": []
+    },
+    {
       "anilistId": 177887,
       "bgmId": 497923,
       "title": "リヴァイアサン",
@@ -7025,73 +7092,6 @@
         {
           "site": "dmhy",
           "id": "利維坦號戰記"
-        }
-      ],
-      "episodes": []
-    },
-    {
-      "anilistId": 166475,
-      "bgmId": 442114,
-      "title": "罗小黑战记2",
-      "titleCn": "罗小黑战记2",
-      "countryOfOrigin": "CN",
-      "format": "剧场版",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
-      "airDate": "2025-07-18",
-      "ratingScore": 7.7,
-      "popularity": 6849,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "剧场版",
-        "战斗",
-        "原创",
-        "奇幻",
-        "2025",
-        "罗小黑战记",
-        "冒险",
-        "治愈",
-        "萌系",
-        "喜剧",
-        "寒木春华",
-        "国漫",
-        "国产动画",
-        "动画电影",
-        "MTJJ",
-        "2025年7月",
-        "电影",
-        "续作",
-        "2025年",
-        "顾杰",
-        "玄幻",
-        "搞笑",
-        "萌",
-        "热血",
-        "国创",
-        "好猫配贱人",
-        "院线",
-        "弃养"
-      ],
-      "sites": [
-        {
-          "site": "mikan",
-          "id": "3803"
-        },
-        {
-          "site": "tmdb",
-          "id": "movie/1144107"
-        },
-        {
-          "site": "mal",
-          "id": "61952"
-        },
-        {
-          "site": "anidb",
-          "id": "19721"
         }
       ],
       "episodes": []

@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-07T10:58:07.366Z",
-  "total": 109,
-  "mappedTotal": 109,
+  "generatedAt": "2026-10-07T17:09:39.610Z",
+  "total": 110,
+  "mappedTotal": 110,
   "items": [
     {
       "anilistId": 195516,
@@ -724,7 +724,7 @@
       "titleCn": "归还者的魔法要特别 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
       "airDate": "2026-10-08",
@@ -777,7 +777,7 @@
       "titleCn": "侦探已经死了。 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
       "airDate": "2026-10-07",
@@ -1735,7 +1735,7 @@
       "titleCn": "佐佐木与文鸟小哔 第二季",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
       "airDate": "2026-10-07",
@@ -1832,11 +1832,11 @@
         "剧情",
         "恋爱",
         "超自然",
+        "少女向",
         "婚姻",
         "女主",
-        "都市奇幻",
         "历史",
-        "少女向"
+        "都市奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -2055,7 +2055,7 @@
       "titleCn": "魔法骑士雷阿斯",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
       "airDate": "2026-10-07",
@@ -2275,7 +2275,7 @@
       "titleCn": "世界最强的魔女，就此开始",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg",
       "airDate": "2026-10-07",
@@ -3005,7 +3005,10 @@
       ],
       "tags": [
         "运动",
-        "棒球"
+        "棒球",
+        "男主",
+        "社团活动",
+        "少年向"
       ],
       "sites": [],
       "episodes": []
@@ -3191,7 +3194,7 @@
       "titleCn": "兽王武神丹帝拜恩",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png",
       "airDate": "2026-10-08",
@@ -3388,7 +3391,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 6.5,
-      "popularity": 348,
+      "popularity": 354,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -3397,24 +3400,24 @@
         "原创",
         "2026",
         "WEB",
-        "TV",
         "战斗",
+        "TV",
         "罗小黑战记",
         "国漫",
         "治愈",
         "2026年10月",
         "续集",
-        "玄幻",
         "未定档",
+        "玄幻",
+        "11",
+        "国产动画",
         "寒木春华",
         "◆TV◆",
-        "奇幻",
-        "11",
-        "泡面",
-        "国产动画",
+        "萌",
         "3",
         "续作",
-        "萌"
+        "泡面",
+        "奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -3431,37 +3434,38 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 8.5,
-      "popularity": 256,
+      "popularity": 257,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "漫画改",
+        "奇幻",
         "TV",
         "搞笑",
-        "奇幻",
         "WEB",
-        "2026",
         "国漫",
+        "2026",
         "战斗",
-        "未上映",
         "武侠",
-        "腾讯",
-        "国产或合作动画",
+        "未上映",
         "历史",
+        "国产或合作动画",
         "2025",
         "推理",
+        "腾讯",
+        "大理寺日志",
+        "好船动画",
+        "国内番剧",
+        "3",
+        "好传动画",
+        "2020-2029",
+        "未定档",
         "中国动画",
         "漫改",
         "古风",
-        "3",
-        "大理寺日志",
-        "未定档",
-        "动作",
-        "好传动画",
-        "好船动画",
-        "国内番剧"
+        "动作"
       ],
       "sites": [],
       "episodes": []
@@ -3526,7 +3530,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.9,
-      "popularity": 178,
+      "popularity": 180,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -4172,6 +4176,29 @@
       "tags": [
         "英国",
         "剧场版"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 217941,
+      "bgmId": 710854,
+      "title": "人妻と寝取られ旅行",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217941-olQB62EBXrqS.png",
+      "airDate": "2026-12-11",
+      "ratingScore": 0,
+      "popularity": 0,
+      "totalEpisodes": 0,
+      "genres": [
+        "里番"
+      ],
+      "tags": [
+        "里番"
       ],
       "sites": [],
       "episodes": []
