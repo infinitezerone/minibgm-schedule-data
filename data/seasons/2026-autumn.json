@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-07T10:08:38.312Z",
-  "total": 95,
-  "mappedTotal": 95,
+  "generatedAt": "2026-10-07T10:58:07.366Z",
+  "total": 109,
+  "mappedTotal": 109,
   "items": [
     {
       "anilistId": 195516,
@@ -168,7 +168,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
       "airDate": "2026-10-01",
       "ratingScore": 7.6,
-      "popularity": 45755,
+      "popularity": 46123,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -280,7 +280,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160275-cBOWJpcCGeMq.jpg",
       "airDate": "2026-10-23",
       "ratingScore": 0,
-      "popularity": 42228,
+      "popularity": 42403,
       "totalEpisodes": 1,
       "genres": [
         "冒险",
@@ -320,7 +320,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143103-vvsaIpZPpIuE.png",
       "airDate": "2026-11-20",
       "ratingScore": 0,
-      "popularity": 40487,
+      "popularity": 40679,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -782,7 +782,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
       "airDate": "2026-10-07",
       "ratingScore": 0,
-      "popularity": 22068,
+      "popularity": 22214,
       "totalEpisodes": 13,
       "genres": [
         "搞笑",
@@ -2298,32 +2298,6 @@
       "episodes": []
     },
     {
-      "anilistId": 209499,
-      "bgmId": 636023,
-      "title": "TANK CHAIR-戦車椅子-",
-      "titleCn": "战车椅子",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "RELEASING",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209499-S0sWFrCpft85.jpg",
-      "airDate": "2026-10-04",
-      "ratingScore": 6.3,
-      "popularity": 6277,
-      "totalEpisodes": 0,
-      "genres": [
-        "动作",
-        "科幻"
-      ],
-      "tags": [
-        "动作",
-        "科幻",
-        "反乌托邦"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": 160803,
       "bgmId": 418229,
       "title": "魔法少女育成計画 restart",
@@ -2335,7 +2309,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
       "airDate": "2026-10-05",
       "ratingScore": 6.8,
-      "popularity": 6120,
+      "popularity": 6369,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -2389,6 +2363,32 @@
           "id": "6abdf90798d9339c5c743188"
         }
       ],
+      "episodes": []
+    },
+    {
+      "anilistId": 209499,
+      "bgmId": 636023,
+      "title": "TANK CHAIR-戦車椅子-",
+      "titleCn": "战车椅子",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "RELEASING",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209499-S0sWFrCpft85.jpg",
+      "airDate": "2026-10-04",
+      "ratingScore": 6.3,
+      "popularity": 6277,
+      "totalEpisodes": 0,
+      "genres": [
+        "动作",
+        "科幻"
+      ],
+      "tags": [
+        "动作",
+        "科幻",
+        "反乌托邦"
+      ],
+      "sites": [],
       "episodes": []
     },
     {
@@ -2640,8 +2640,7 @@
         "动作",
         "冒险",
         "奇幻",
-        "男主",
-        "女主"
+        "游戏"
       ],
       "sites": [],
       "episodes": []
@@ -2806,7 +2805,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157330-Ow09pWu8lqCT.jpg",
       "airDate": "2026-11-13",
       "ratingScore": 0,
-      "popularity": 4106,
+      "popularity": 4116,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -3378,6 +3377,96 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 593863,
+      "title": "罗小黑战记 学前篇",
+      "titleCn": "罗小黑战记 学前篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+      "airDate": "2026-10-30",
+      "ratingScore": 6.5,
+      "popularity": 348,
+      "totalEpisodes": 6,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "原创",
+        "2026",
+        "WEB",
+        "TV",
+        "战斗",
+        "罗小黑战记",
+        "国漫",
+        "治愈",
+        "2026年10月",
+        "续集",
+        "玄幻",
+        "未定档",
+        "寒木春华",
+        "◆TV◆",
+        "奇幻",
+        "11",
+        "泡面",
+        "国产动画",
+        "3",
+        "续作",
+        "萌"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 449346,
+      "title": "大理寺日志 叁",
+      "titleCn": "大理寺日志 第三季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
+      "airDate": "2026-10-15",
+      "ratingScore": 8.5,
+      "popularity": 256,
+      "totalEpisodes": 16,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "漫画改",
+        "TV",
+        "搞笑",
+        "奇幻",
+        "WEB",
+        "2026",
+        "国漫",
+        "战斗",
+        "未上映",
+        "武侠",
+        "腾讯",
+        "国产或合作动画",
+        "历史",
+        "2025",
+        "推理",
+        "中国动画",
+        "漫改",
+        "古风",
+        "3",
+        "大理寺日志",
+        "未定档",
+        "动作",
+        "好传动画",
+        "好船动画",
+        "国内番剧"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 208367,
       "bgmId": 632061,
       "title": "Duel Masters LOST ～断罪の少年～",
@@ -3426,6 +3515,45 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 507820,
+      "title": "大王饶命 第三季",
+      "titleCn": "大王饶命 第三季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
+      "airDate": "2026-10-03",
+      "ratingScore": 7.9,
+      "popularity": 178,
+      "totalEpisodes": 16,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "小说改",
+        "异能",
+        "2026年10月",
+        "WEB",
+        "大火鸟文化",
+        "战斗",
+        "搞笑",
+        "网文改",
+        "厕纸",
+        "2026补",
+        "玄幻",
+        "国产动画",
+        "奇幻",
+        "TV",
+        "2D",
+        "未上映",
+        "表番"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 215527,
       "bgmId": 697409,
       "title": "夏日 The Animation",
@@ -3444,6 +3572,35 @@
       ],
       "tags": [
         "里番"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 516076,
+      "title": "镇魂街 第五季",
+      "titleCn": "镇魂街 王国纷争篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
+      "airDate": "2026-12-11",
+      "ratingScore": 5.8,
+      "popularity": 167,
+      "totalEpisodes": 30,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "镇魂街",
+        "国创",
+        "艾尔平方",
+        "未定档",
+        "战斗",
+        "国漫",
+        "WEB"
       ],
       "sites": [],
       "episodes": []
@@ -3511,6 +3668,41 @@
       ],
       "tags": [
         "里番"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 577237,
+      "title": "仙逆剧场版 弑仙之战",
+      "titleCn": "仙逆剧场版 弑仙之战",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+      "airDate": "2026-10-01",
+      "ratingScore": 6,
+      "popularity": 145,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "2026",
+        "网文改",
+        "国漫",
+        "WEB",
+        "玄幻",
+        "3D",
+        "小说改",
+        "轻小说改",
+        "剧场版",
+        "厕纸",
+        "动画电影",
+        "6"
       ],
       "sites": [],
       "episodes": []
@@ -3605,6 +3797,36 @@
       "tags": [
         "搞笑",
         "日常"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 461585,
+      "title": "第一序列2",
+      "titleCn": "第一序列 第二季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/a5/4a/461585_HDDuK.jpg",
+      "airDate": "2026-12-17",
+      "ratingScore": 0,
+      "popularity": 84,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "奇幻",
+        "3D",
+        "异能",
+        "末世",
+        "未上映",
+        "小说改",
+        "WEB",
+        "科幻"
       ],
       "sites": [],
       "episodes": []
@@ -3729,6 +3951,32 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 390200,
+      "title": "列女战纪：女娲石记",
+      "titleCn": "列女战纪：女娲石记",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
+      "airDate": "2026-10-05",
+      "ratingScore": 4.3,
+      "popularity": 24,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "乐子",
+        "WEB",
+        "WEBA",
+        "2026"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 217787,
       "bgmId": 635258,
       "title": "ポップパップポルターズ",
@@ -3747,6 +3995,183 @@
       ],
       "tags": [
         "日常"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 576783,
+      "title": "狂王2",
+      "titleCn": "狂王 第2季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_fzZXD.jpg",
+      "airDate": "2026-10-08",
+      "ratingScore": 0,
+      "popularity": 7,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "狂王罗喉",
+        "WEB",
+        "战斗",
+        "漫画改"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 705980,
+      "title": "熊出没之神奇宝物2",
+      "titleCn": "熊出没之神奇宝物 第二季",
+      "countryOfOrigin": "CN",
+      "format": "TV",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
+      "airDate": "2026-10-01",
+      "ratingScore": 6,
+      "popularity": 7,
+      "totalEpisodes": 52,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "子供向",
+        "原创",
+        "奇幻",
+        "TV"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 564202,
+      "title": "闽都侠仙传之靖姑",
+      "titleCn": "闽都侠仙传之靖姑",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/e3/60/564202_X8Xrq.jpg",
+      "airDate": "2026-12-30",
+      "ratingScore": 0,
+      "popularity": 3,
+      "totalEpisodes": 15,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "绘乡（宁德）影业有限公司",
+        "福建",
+        "WEB",
+        "武侠",
+        "动画片"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 583008,
+      "title": "三星堆：未来往事",
+      "titleCn": "三星堆：未来往事",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/e5/23/583008_yYZIG.jpg",
+      "airDate": "2026-10-23",
+      "ratingScore": 0,
+      "popularity": 3,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "动画片"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 632817,
+      "title": "肥志百科 第15季",
+      "titleCn": "肥志百科 第15季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
+      "airDate": "2026-10-04",
+      "ratingScore": 0,
+      "popularity": 2,
+      "totalEpisodes": 12,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "动画片",
+        "WEB"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 708145,
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "titleCn": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/f3/708145_U4P57.jpg",
+      "airDate": "2026-10-01",
+      "ratingScore": 5,
+      "popularity": 2,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "科幻",
+        "子供向",
+        "2026"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 708225,
+      "title": "小猪佩奇·完美假期",
+      "titleCn": "小猪佩奇·完美假期",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c0/79/708225_Y86R8.jpg",
+      "airDate": "2026-10-01",
+      "ratingScore": 0,
+      "popularity": 1,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "英国",
+        "剧场版"
       ],
       "sites": [],
       "episodes": []

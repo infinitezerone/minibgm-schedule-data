@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-10-07T10:07:32.769Z",
-  "total": 105,
-  "mappedTotal": 105,
+  "generatedAt": "2026-10-07T10:57:04.151Z",
+  "total": 125,
+  "mappedTotal": 125,
   "items": [
     {
       "anilistId": 153800,
@@ -18,7 +18,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153800-8SpzdHOaZCoU.jpg",
       "airDate": "2025-10-12",
       "ratingScore": 5,
-      "popularity": 153738,
+      "popularity": 153843,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -970,7 +970,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162669-FLYUTftoXgMh.jpg",
       "airDate": "2025-10-04",
       "ratingScore": 7.4,
-      "popularity": 56589,
+      "popularity": 56613,
       "totalEpisodes": 22,
       "genres": [
         "冒险",
@@ -1724,7 +1724,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169969-SqCjoqYT4A6Z.jpg",
       "airDate": "2025-10-01",
       "ratingScore": 6.2,
-      "popularity": 47323,
+      "popularity": 47376,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -4768,105 +4768,6 @@
       "episodes": []
     },
     {
-      "anilistId": 188388,
-      "bgmId": 545499,
-      "title": "DIGIMON BEATBREAK",
-      "titleCn": "数码宝贝 BEATBREAK",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
-      "airDate": "2025-10-05",
-      "ratingScore": 7.1,
-      "popularity": 15125,
-      "totalEpisodes": 49,
-      "genres": [
-        "动作",
-        "冒险",
-        "奇幻",
-        "科幻"
-      ],
-      "tags": [
-        "动作",
-        "冒险",
-        "奇幻",
-        "科幻",
-        "拟似家庭",
-        "反乌托邦",
-        "男主",
-        "群像",
-        "都市奇幻",
-        "虚拟世界",
-        "少儿向"
-      ],
-      "sites": [
-        {
-          "site": "viu",
-          "id": "2686826",
-          "begin": "2025-10-05T06:30:46.000Z",
-          "broadcast": "R/2025-10-05T06:30:46.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0238285",
-          "begin": "2025-10-07T15:00:00.000Z",
-          "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "28330",
-          "begin": "2025-10-07T15:00:00.000Z",
-          "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "68e3e1f7aaf82561f9a74de2"
-        },
-        {
-          "site": "mikan",
-          "id": "3786"
-        },
-        {
-          "site": "abema",
-          "id": "5-78",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/286791"
-        },
-        {
-          "site": "prime",
-          "id": "B0FT984KDL",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "mal",
-          "id": "61269"
-        },
-        {
-          "site": "anidb",
-          "id": "19230"
-        },
-        {
-          "site": "acgnx",
-          "id": "數碼 BEATBREAK"
-        },
-        {
-          "site": "anibt",
-          "id": "545499"
-        },
-        {
-          "site": "dmhy",
-          "id": "數碼 BEATBREAK"
-        }
-      ],
-      "episodes": []
-    },
-    {
       "anilistId": 162890,
       "bgmId": 425208,
       "title": "3年Z組銀八先生",
@@ -4878,7 +4779,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162890-vDRlo1KuRM6W.jpg",
       "airDate": "2025-10-06",
       "ratingScore": 7.5,
-      "popularity": 15119,
+      "popularity": 15125,
       "totalEpisodes": 12,
       "genres": [
         "搞笑"
@@ -4992,6 +4893,105 @@
         {
           "site": "dmhy",
           "id": "銀八老師"
+        }
+      ],
+      "episodes": []
+    },
+    {
+      "anilistId": 188388,
+      "bgmId": 545499,
+      "title": "DIGIMON BEATBREAK",
+      "titleCn": "数码宝贝 BEATBREAK",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
+      "airDate": "2025-10-05",
+      "ratingScore": 7.1,
+      "popularity": 15125,
+      "totalEpisodes": 49,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "科幻"
+      ],
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "科幻",
+        "拟似家庭",
+        "反乌托邦",
+        "男主",
+        "群像",
+        "都市奇幻",
+        "虚拟世界",
+        "少儿向"
+      ],
+      "sites": [
+        {
+          "site": "viu",
+          "id": "2686826",
+          "begin": "2025-10-05T06:30:46.000Z",
+          "broadcast": "R/2025-10-05T06:30:46.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0238285",
+          "begin": "2025-10-07T15:00:00.000Z",
+          "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28330",
+          "begin": "2025-10-07T15:00:00.000Z",
+          "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "68e3e1f7aaf82561f9a74de2"
+        },
+        {
+          "site": "mikan",
+          "id": "3786"
+        },
+        {
+          "site": "abema",
+          "id": "5-78",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/286791"
+        },
+        {
+          "site": "prime",
+          "id": "B0FT984KDL",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mal",
+          "id": "61269"
+        },
+        {
+          "site": "anidb",
+          "id": "19230"
+        },
+        {
+          "site": "acgnx",
+          "id": "數碼 BEATBREAK"
+        },
+        {
+          "site": "anibt",
+          "id": "545499"
+        },
+        {
+          "site": "dmhy",
+          "id": "數碼 BEATBREAK"
         }
       ],
       "episodes": []
@@ -5793,7 +5793,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170018-1PqdLX68YayA.jpg",
       "airDate": "2025-10-05",
       "ratingScore": 7.5,
-      "popularity": 6790,
+      "popularity": 6796,
       "totalEpisodes": 21,
       "genres": [
         "剧情",
@@ -7771,6 +7771,51 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 458926,
+      "title": "光阴之外",
+      "titleCn": "光阴之外",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/f6/458926_0qw05.jpg",
+      "airDate": "2025-12-28",
+      "ratingScore": 6.9,
+      "popularity": 538,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "玄幻",
+        "战斗",
+        "小说改",
+        "网文改",
+        "WEB",
+        "2025",
+        "3D",
+        "耳根",
+        "伊恩动漫",
+        "TV",
+        "国漫",
+        "飞鱼映画",
+        "原创",
+        "7",
+        "优酷动漫",
+        "末世",
+        "2026年1月",
+        "平板观看",
+        "优酷",
+        "正番",
+        "奇幻",
+        "youku",
+        "漫画改"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 199164,
       "bgmId": 588221,
       "title": "聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～",
@@ -7978,6 +8023,48 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 395223,
+      "title": "仙剑奇侠传叁",
+      "titleCn": "仙剑奇侠传三",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/85/58/395223_Mf6La.jpg",
+      "airDate": "2025-12-30",
+      "ratingScore": 5.7,
+      "popularity": 215,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "游戏改",
+        "玄幻",
+        "3D",
+        "2025",
+        "仙剑奇侠传",
+        "WEB",
+        "炎央文化",
+        "TV",
+        "国漫",
+        "仙俠",
+        "2025年12月",
+        "遊戲改",
+        "2026年1月",
+        "国产，工业垃圾",
+        "仙侠",
+        "国漫你就真的崛起吧！",
+        "打发时间",
+        "5",
+        "屎",
+        "國漫"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 188522,
       "bgmId": 545844,
       "title": "映画 すみっコぐらし 空の王国とふたりのコ",
@@ -8031,6 +8118,102 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 487853,
+      "title": "永生 第五季",
+      "titleCn": "永生 第五季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/88/59/487853_2bCYs.jpg",
+      "airDate": "2025-12-20",
+      "ratingScore": 6.2,
+      "popularity": 208,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "玄幻",
+        "战斗",
+        "小说改",
+        "网文改",
+        "国漫",
+        "天工艺彩",
+        "WEB",
+        "修仙",
+        "梦入神机",
+        "3D",
+        "B站",
+        "2025年",
+        "永生",
+        "2025",
+        "bilibili",
+        "厕纸",
+        "爽文改",
+        "TV",
+        "7",
+        "-完结摇摇无指日……",
+        "2025年10月",
+        "武侠",
+        "续作",
+        "轻小说改"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 487201,
+      "title": "三国的星空第一部",
+      "titleCn": "三国的星空第一部",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/55/06/487201_LLBps.jpg",
+      "airDate": "2025-10-01",
+      "ratingScore": 4.3,
+      "popularity": 203,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "2025",
+        "历史",
+        "战斗",
+        "原创",
+        "易中天",
+        "动画电影",
+        "三国",
+        "3D",
+        "华语",
+        "国漫",
+        "2025年10月",
+        "海平屋脊影视文化（上海）有限公司",
+        "国产动画",
+        "笑死我了",
+        "现代国产动画剧场版",
+        "剧情",
+        "小说改",
+        "2025年",
+        "电影",
+        "红鲤",
+        "国创",
+        "于孟",
+        "袁原",
+        "下饭",
+        "国产动画电影",
+        "影动备字2024第034号",
+        "浪费时间"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 195383,
       "bgmId": 568800,
       "title": "MUZIK TIGER In the Forest 第2期",
@@ -8049,6 +8232,43 @@
       ],
       "tags": [
         "日常"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 219760,
+      "title": "我的哪吒与变形金刚",
+      "titleCn": "我的哪吒与变形金刚",
+      "countryOfOrigin": "CN",
+      "format": "TV",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/f6/dc/219760_7FG73.jpg",
+      "airDate": "2025-12-06",
+      "ratingScore": 2.7,
+      "popularity": 142,
+      "totalEpisodes": 52,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "变形金刚",
+        "国产动画",
+        "哪吒",
+        "TV",
+        "异世界",
+        "穿越",
+        "萝卜",
+        "机战",
+        "中美联动",
+        "2025",
+        "R18",
+        "神作",
+        "原创",
+        "猎奇",
+        "里番"
       ],
       "sites": [],
       "episodes": []
@@ -8118,6 +8338,83 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 456170,
+      "title": "仙帝归来",
+      "titleCn": "仙帝归来",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/40/e5/456170_3B8UI.jpg",
+      "airDate": "2025-10-27",
+      "ratingScore": 5.3,
+      "popularity": 106,
+      "totalEpisodes": 16,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "玄幻",
+        "小说改",
+        "3D",
+        "2025年10月",
+        "灵樨文化",
+        "国漫",
+        "WEB",
+        "厕纸",
+        "战斗",
+        "修炼",
+        "网文改",
+        "2025年",
+        "2025",
+        "国产动画",
+        "Youtube",
+        "一",
+        "搞笑",
+        "TV",
+        "后宫",
+        "风无极光",
+        "国产网文"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 403731,
+      "title": "山海经密码",
+      "titleCn": "山海经密码",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c0/83/403731_Jzqio.jpg",
+      "airDate": "2025-12-27",
+      "ratingScore": 5.3,
+      "popularity": 104,
+      "totalEpisodes": 13,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "玄幻",
+        "小说改",
+        "晴祥文化",
+        "国漫",
+        "2025",
+        "3D",
+        "WEB",
+        "网文改",
+        "TV",
+        "这拍的是给女人看的嘛",
+        "youku",
+        "5"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 198921,
       "bgmId": 585457,
       "title": "シルバニアファミリー フレアのワンダーデイズ",
@@ -8168,6 +8465,46 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 403740,
+      "title": "天相",
+      "titleCn": "天相",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/2e/403740_8taeY.jpg",
+      "airDate": "2025-10-15",
+      "ratingScore": 5.2,
+      "popularity": 88,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "国漫",
+        "玄幻",
+        "战斗",
+        "3D",
+        "网文改",
+        "WEB",
+        "鸿陆科技",
+        "2025",
+        "热血",
+        "悬疑",
+        "TV",
+        "妖怪",
+        "2025年",
+        "2025年10月",
+        "妖魔",
+        "小说改",
+        "4",
+        "二"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 194832,
       "bgmId": 529240,
       "title": "おしりたんてい(第9シリーズ)",
@@ -8186,6 +8523,43 @@
       ],
       "tags": [
         "搞笑"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 491587,
+      "title": "傲世丹神",
+      "titleCn": "傲世丹神",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/aa/fa/491587_AK1pz.jpg",
+      "airDate": "2025-12-02",
+      "ratingScore": 6.3,
+      "popularity": 76,
+      "totalEpisodes": 12,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB",
+        "若鸿文化",
+        "2025",
+        "玄幻",
+        "3D",
+        "战斗",
+        "轻小说改",
+        "2025年1月",
+        "小说改",
+        "网文改",
+        "漫禾动漫",
+        "国漫",
+        "后宫",
+        "2025年12月",
+        "2025年"
       ],
       "sites": [],
       "episodes": []
@@ -8216,6 +8590,261 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 493026,
+      "title": "猪猪侠·一只老猪的逆袭",
+      "titleCn": "猪猪侠·一只老猪的逆袭",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/71/493026_TT49d.jpg",
+      "airDate": "2025-10-01",
+      "ratingScore": 3.5,
+      "popularity": 73,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "2025年10月",
+        "原创",
+        "2025",
+        "搞笑",
+        "广东省",
+        "国漫",
+        "动画电影",
+        "国创",
+        "猪猪侠",
+        "子供向",
+        "2020-2029",
+        "影动备字〔2024〕第048号",
+        "广东咏声动漫股份有限公司",
+        "喜剧",
+        "赵小蕾",
+        "唐一歌",
+        "奇幻",
+        "华玮琳"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 395217,
+      "title": "三线轮洄",
+      "titleCn": "三线轮洄",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/d6/00/395217_YsB8q.jpg",
+      "airDate": "2025-12-05",
+      "ratingScore": 5.8,
+      "popularity": 67,
+      "totalEpisodes": 18,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "悬疑",
+        "小说改",
+        "冒险",
+        "奇幻",
+        "WEB",
+        "2025",
+        "TV",
+        "中国动画",
+        "2D",
+        "2026年1月",
+        "艾尼美图",
+        "7",
+        "连玉洁",
+        "曹刚",
+        "夏影",
+        "2025年",
+        "莲子"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 345759,
+      "title": "孤雄",
+      "titleCn": "孤雄",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/7d/1c/345759_Lrqh7.jpg",
+      "airDate": "2025-11-02",
+      "ratingScore": 6.1,
+      "popularity": 57,
+      "totalEpisodes": 9,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "原创",
+        "好传动画",
+        "科幻",
+        "艾思动漫",
+        "复仇",
+        "TV",
+        "2025年11月",
+        "WEB",
+        "2025",
+        "2025年10月",
+        "2D",
+        "6",
+        "未上映"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 345792,
+      "title": "深潜 强制倒带",
+      "titleCn": "深潜 强制倒带",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/19/0c/345792_USYYL.jpg",
+      "airDate": "2025-11-05",
+      "ratingScore": 6.5,
+      "popularity": 56,
+      "totalEpisodes": 8,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "科幻",
+        "原创",
+        "好传动画",
+        "悬疑",
+        "机战",
+        "腾讯",
+        "萝卜",
+        "国产或合作动画",
+        "3D",
+        "2025",
+        "2025年11月",
+        "5",
+        "TV",
+        "WEB"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 453311,
+      "title": "曾经有勇士",
+      "titleCn": "曾经有勇士",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/84/47/453311_oiEji.jpg",
+      "airDate": "2025-10-31",
+      "ratingScore": 6.6,
+      "popularity": 56,
+      "totalEpisodes": 12,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "漫画改",
+        "日常",
+        "奇幻",
+        "铅元素动画",
+        "治愈",
+        "WEB",
+        "国创",
+        "2025年10月",
+        "周五",
+        "2025",
+        "12:00",
+        "子供",
+        "漫改",
+        "萌",
+        "35岁",
+        "弃",
+        "韩国"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 166443,
+      "bgmId": 434816,
+      "title": "紫禁·御喵房",
+      "titleCn": "紫禁·御喵房",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/e5/2b/434816_lp0h7.jpg",
+      "airDate": "2025-12-03",
+      "ratingScore": 6,
+      "popularity": 54,
+      "totalEpisodes": 16,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "彩色铅笔动画",
+        "漫画改",
+        "WEB",
+        "历史",
+        "奇幻",
+        "2026年1月",
+        "2025",
+        "中国动画",
+        "关清书",
+        "漫改",
+        "古川慎",
+        "2D",
+        "一二工作室",
+        "周三",
+        "TV",
+        "浦和希",
+        "邓志巍",
+        "国产或合作动画",
+        "10:00",
+        "战斗",
+        "2025年12月"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "nekokeibishitsu",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mal",
+          "id": "61640"
+        },
+        {
+          "site": "anidb",
+          "id": "19938"
+        },
+        {
+          "site": "unext",
+          "id": "SID0316397",
+          "begin": "",
+          "broadcast": ""
+        }
+      ],
+      "episodes": []
+    },
+    {
       "anilistId": 200375,
       "bgmId": 593000,
       "title": "インプる君の存在しないお仕事",
@@ -8234,6 +8863,39 @@
       ],
       "tags": [
         "搞笑"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 434812,
+      "title": "九阳武神",
+      "titleCn": "九阳武神",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/c8/434812_FYyDH.jpg",
+      "airDate": "2025-11-22",
+      "ratingScore": 4.9,
+      "popularity": 46,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "玄幻",
+        "小说改",
+        "WEB",
+        "3D",
+        "2025",
+        "兴艺凯晨",
+        "网文改",
+        "战斗",
+        "2025年11月",
+        "2025年10月",
+        "2025年"
       ],
       "sites": [],
       "episodes": []
@@ -8264,6 +8926,97 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 473671,
+      "title": "为喵人生",
+      "titleCn": "为喵人生",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/35/bb/473671_jrMRb.jpg",
+      "airDate": "2025-11-11",
+      "ratingScore": 4.8,
+      "popularity": 38,
+      "totalEpisodes": 36,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "漫画改",
+        "恋爱",
+        "TV",
+        "喜剧",
+        "三渲二",
+        "动画片",
+        "漫改",
+        "WEB"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 449362,
+      "title": "开局就有王者账号",
+      "titleCn": "开局就有王者账号",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/49/f4/449362_Mi3zN.jpg",
+      "airDate": "2025-12-21",
+      "ratingScore": 4.3,
+      "popularity": 31,
+      "totalEpisodes": 12,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "奇幻",
+        "网游",
+        "漫画改",
+        "冒险",
+        "WEB",
+        "勾线文化",
+        "2D",
+        "2025年10月",
+        "2026年1月"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 449371,
+      "title": "超凡进化",
+      "titleCn": "超凡进化",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/53/5e/449371_KZclz.jpg",
+      "airDate": "2025-12-23",
+      "ratingScore": 5.2,
+      "popularity": 28,
+      "totalEpisodes": 14,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "奇幻",
+        "科幻",
+        "战斗",
+        "冒险",
+        "3D",
+        "空",
+        "WEB",
+        "漫画改"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 213460,
       "bgmId": 613380,
       "title": "そろ谷のけいばっち シーズン3",
@@ -8284,6 +9037,34 @@
       "tags": [
         "搞笑",
         "运动"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 446289,
+      "title": "火凤重天",
+      "titleCn": "火凤重天",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/2e/fd/446289_81jPU.jpg",
+      "airDate": "2025-12-27",
+      "ratingScore": 3,
+      "popularity": 18,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "动画电影",
+        "享弘影视",
+        "国产动画",
+        "主旋律",
+        "火凤重天"
       ],
       "sites": [],
       "episodes": []
