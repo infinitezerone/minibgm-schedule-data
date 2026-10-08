@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-08T11:15:20.023Z",
+  "generatedAt": "2026-10-08T17:09:53.361Z",
   "total": 128,
   "mappedTotal": 128,
   "items": [
@@ -598,7 +598,8 @@
         "少年向",
         "妖怪",
         "男主",
-        "都市奇幻"
+        "都市奇幻",
+        "群像"
       ],
       "sites": [
         {
@@ -963,7 +964,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 61248,
+      "popularity": 61371,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -3371,7 +3372,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
       "airDate": "2026-07-07",
       "ratingScore": 7.5,
-      "popularity": 29695,
+      "popularity": 29747,
       "totalEpisodes": 12,
       "genres": [
         "剧情"
@@ -6198,7 +6199,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8021,
+      "popularity": 8030,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7231,7 +7232,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 2791,
+      "popularity": 2793,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7253,17 +7254,17 @@
         "意识流",
         "国漫",
         "电波",
-        "国产动画",
         "青春",
+        "国产动画",
         "2026年8月",
         "2026年",
         "国创",
         "记忆管理局",
         "2026夏",
-        "中国动画",
+        "作画",
+        "7月",
         "日本",
-        "Web动画",
-        "7月"
+        "中国动画"
       ],
       "sites": [],
       "episodes": []
@@ -7602,31 +7603,6 @@
       "episodes": []
     },
     {
-      "anilistId": 213961,
-      "bgmId": 658254,
-      "title": "ようじょしぇんき2",
-      "titleCn": "迷你幼女战记2",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
-      "airDate": "2026-07-09",
-      "ratingScore": 6.5,
-      "popularity": 974,
-      "totalEpisodes": 12,
-      "genres": [
-        "搞笑",
-        "奇幻"
-      ],
-      "tags": [
-        "搞笑",
-        "奇幻"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": null,
       "bgmId": 492481,
       "title": "八仙！",
@@ -7638,7 +7614,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 974,
+      "popularity": 975,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7664,13 +7640,38 @@
         "2026年7月",
         "小说改",
         "国产动画",
-        "玄幻",
         "8分",
         "8",
         "国产动画电影",
-        "6+",
-        "成都画梦成帧文化传媒有限公司",
-        "动作"
+        "玄幻",
+        "架空世界",
+        "7",
+        "四川省"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 213961,
+      "bgmId": 658254,
+      "title": "ようじょしぇんき2",
+      "titleCn": "迷你幼女战记2",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
+      "airDate": "2026-07-09",
+      "ratingScore": 6.5,
+      "popularity": 974,
+      "totalEpisodes": 12,
+      "genres": [
+        "搞笑",
+        "奇幻"
+      ],
+      "tags": [
+        "搞笑",
+        "奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -8173,7 +8174,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 5,
-      "popularity": 443,
+      "popularity": 444,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"

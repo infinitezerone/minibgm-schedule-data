@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-10-08T11:14:38.492Z",
+  "generatedAt": "2026-10-08T17:09:11.122Z",
   "total": 123,
   "mappedTotal": 123,
   "items": [
@@ -6158,7 +6158,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113971-GIit95PnSGvt.jpg",
       "airDate": "2026-01-30",
       "ratingScore": 8,
-      "popularity": 9506,
+      "popularity": 9521,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -7457,7 +7457,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1f/91/250224_7ZUS7.jpg",
       "airDate": "2026-03-02",
       "ratingScore": 7.3,
-      "popularity": 1933,
+      "popularity": 1935,
       "totalEpisodes": 8,
       "genres": [
         "国产动画"
@@ -7599,8 +7599,8 @@
         "国产动画"
       ],
       "tags": [
-        "漫画改",
         "战斗",
+        "漫画改",
         "一人之下",
         "奇幻",
         "热血",
@@ -7610,22 +7610,22 @@
         "国漫",
         "漫改",
         "国产动画",
-        "TV",
         "2D",
+        "TV",
         "启缘映画",
         "未定档",
         "玄幻",
         "续作",
         "一魁夺动漫",
         "武侠",
-        "6+=",
+        "2020-2029",
+        "C2",
+        "B4",
+        "国漫之光",
+        "A3",
         "1月",
         "2026年",
-        "未上映",
-        "动画片国漫",
-        "2026春",
-        "7",
-        "2026补"
+        "待看原著"
       ],
       "sites": [],
       "episodes": []
@@ -8671,12 +8671,12 @@
         "猫腻",
         "国漫",
         "战斗",
-        "2026年1月",
-        "单女主",
-        "IYF",
-        "原创",
         "修炼",
-        "6"
+        "6",
+        "IYF",
+        "单女主",
+        "2026年1月",
+        "原创"
       ],
       "sites": [],
       "episodes": []
@@ -8693,7 +8693,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2c/493777_G0G0p.jpg",
       "airDate": "2026-01-16",
       "ratingScore": 5.7,
-      "popularity": 201,
+      "popularity": 203,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8712,16 +8712,16 @@
         "国创",
         "网文改",
         "2026年",
-        "厕纸",
-        "后宫",
-        "哔哩哔哩",
-        "TV",
-        "7",
-        "国产动画",
         "玄幻",
         "平板观看",
+        "7",
+        "国产动画",
         "B站收藏",
-        "电视动画"
+        "厕纸",
+        "电视动画",
+        "哔哩哔哩",
+        "后宫",
+        "TV"
       ],
       "sites": [],
       "episodes": []
