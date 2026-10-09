@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-08T17:09:53.361Z",
+  "generatedAt": "2026-10-09T01:41:21.022Z",
   "total": 128,
   "mappedTotal": 128,
   "items": [
@@ -853,7 +853,8 @@
         "治愈",
         "校园",
         "男主",
-        "女主"
+        "女主",
+        "少年向"
       ],
       "sites": [
         {
@@ -5217,11 +5218,13 @@
         "搞笑",
         "日常",
         "家庭",
-        "校园",
         "女主",
         "治愈",
+        "校园",
+        "女性向",
         "恶搞/梗番",
-        "女性向"
+        "历史",
+        "百合"
       ],
       "sites": [
         {
@@ -7232,7 +7235,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 2793,
+      "popularity": 2794,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7254,17 +7257,17 @@
         "意识流",
         "国漫",
         "电波",
-        "青春",
         "国产动画",
+        "青春",
         "2026年8月",
         "2026年",
         "国创",
         "记忆管理局",
-        "2026夏",
+        "剧集",
+        "Web动画",
+        "架空",
         "作画",
-        "7月",
-        "日本",
-        "中国动画"
+        "治愈"
       ],
       "sites": [],
       "episodes": []
@@ -8173,8 +8176,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
-      "ratingScore": 5,
-      "popularity": 444,
+      "ratingScore": 4.9,
+      "popularity": 446,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8189,21 +8192,22 @@
         "WEB",
         "国漫",
         "时光代理人",
-        "推理",
         "绘梦",
+        "推理",
         "TV",
         "续作",
-        "漫画改",
-        "番",
-        "2026年8月",
-        "重庆后生动画电影有限公司",
-        "国产动画",
-        "CMC",
-        "腐",
-        "2分",
         "国创",
+        "重庆后生动画电影有限公司",
+        "异能",
+        "2分",
         "2026年",
-        "Media"
+        "2026年8月",
+        "番",
+        "腐",
+        "Media",
+        "漫画改",
+        "CMC",
+        "国产动画"
       ],
       "sites": [],
       "episodes": []
@@ -8663,7 +8667,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6,
-      "popularity": 162,
+      "popularity": 164,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -9012,13 +9016,13 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "TV_SHORT",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213097-gyDmsm7qyRYV.png",
       "airDate": "2026-07-05",
       "ratingScore": 5.7,
       "popularity": 66,
-      "totalEpisodes": 0,
+      "totalEpisodes": 13,
       "genres": [
         "日常"
       ],
@@ -9082,7 +9086,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/07/2d/552778_I4uFv.jpg",
       "airDate": "2026-08-16",
       "ratingScore": 4.2,
-      "popularity": 50,
+      "popularity": 51,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"

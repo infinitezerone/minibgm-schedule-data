@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-08T17:10:09.279Z",
+  "generatedAt": "2026-10-09T01:41:36.175Z",
   "total": 110,
   "mappedTotal": 110,
   "items": [
@@ -549,11 +549,11 @@
         "恋爱",
         "日常",
         "校园",
-        "男主",
         "少女向",
-        "无口/三无",
+        "三角恋",
+        "女主",
         "群像",
-        "三角恋"
+        "男主"
       ],
       "sites": [],
       "episodes": []
@@ -690,7 +690,8 @@
         "恋爱",
         "病娇",
         "女性向",
-        "历史"
+        "历史",
+        "猎奇/血腥"
       ],
       "sites": [
         {
@@ -1666,9 +1667,10 @@
         "超自然",
         "吸血鬼",
         "外星人",
+        "游戏",
+        "魔物娘",
         "大逃杀",
-        "拟似家庭",
-        "游戏"
+        "拟似家庭"
       ],
       "sites": [],
       "episodes": []
@@ -3039,6 +3041,7 @@
         "女主",
         "治愈",
         "社团活动",
+        "旅行",
         "大学"
       ],
       "sites": [
@@ -3396,7 +3399,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 6.5,
-      "popularity": 370,
+      "popularity": 371,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -3439,7 +3442,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7.7,
-      "popularity": 262,
+      "popularity": 264,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -3535,7 +3538,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.6,
-      "popularity": 190,
+      "popularity": 191,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -3546,19 +3549,19 @@
         "WEB",
         "大火鸟文化",
         "2026年10月",
-        "搞笑",
         "战斗",
-        "网文改",
+        "搞笑",
         "厕纸",
+        "网文改",
+        "coocaa",
+        "玄幻",
         "国产动画",
         "表番",
+        "2026补",
+        "奇幻",
         "2D",
         "未上映",
-        "玄幻",
-        "coocaa",
-        "TV",
-        "奇幻",
-        "2026补"
+        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -3693,26 +3696,26 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
-      "ratingScore": 6,
+      "ratingScore": 5.9,
       "popularity": 148,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "战斗",
         "2026",
+        "战斗",
+        "WEB",
         "网文改",
         "国漫",
-        "WEB",
         "小说改",
         "玄幻",
         "3D",
-        "轻小说改",
-        "剧场版",
-        "厕纸",
         "动画电影",
-        "6"
+        "轻小说改",
+        "6",
+        "厕纸",
+        "剧场版"
       ],
       "sites": [],
       "episodes": []

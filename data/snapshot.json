@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-08T17:07:25.947Z",
+  "generatedAt": "2026-10-09T01:38:59.447Z",
   "window": {
-    "from": 1789664676,
-    "to": 1796663076
+    "from": 1789695436,
+    "to": 1796693836
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
       "airDate": "2026-04-05",
       "ratingScore": 8.7,
-      "popularity": 757730,
+      "popularity": 758017,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -131,7 +131,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 80439,
+      "popularity": 80466,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -314,7 +314,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20150,
+      "popularity": 20158,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -482,7 +482,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
       "airDate": "1969-10-05",
       "ratingScore": 5.7,
-      "popularity": 2538,
+      "popularity": 2539,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -604,7 +604,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 7943,
+      "popularity": 7950,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -1418,10 +1418,6 @@
       "startMonth": 4,
       "episodes": [
         {
-          "n": 379,
-          "t": 1789684800
-        },
-        {
           "n": 380,
           "t": 1790030400
         },
@@ -1967,8 +1963,8 @@
         "惊悚",
         "女主",
         "无口/三无",
-        "猎奇/血腥",
-        "大逃杀"
+        "大逃杀",
+        "猎奇/血腥"
       ],
       "sites": [
         {
@@ -2634,8 +2630,8 @@
         "异世界",
         "神明",
         "转生",
-        "旅行",
         "女性向",
+        "旅行",
         "悲剧",
         "美食料理"
       ],
@@ -7122,8 +7118,8 @@
       "tags": [
         "运动",
         "足球",
-        "男主",
-        "青年向"
+        "青年向",
+        "男主"
       ],
       "sites": [
         {
@@ -8556,11 +8552,13 @@
         "搞笑",
         "日常",
         "家庭",
-        "校园",
         "女主",
         "治愈",
+        "校园",
+        "女性向",
         "恶搞/梗番",
-        "女性向"
+        "历史",
+        "百合"
       ],
       "sites": [
         {
@@ -10048,9 +10046,10 @@
       ],
       "tags": [
         "日常",
-        "女主",
-        "治愈",
+        "旅行",
         "社团活动",
+        "治愈",
+        "女主",
         "大学"
       ],
       "sites": [
@@ -12806,7 +12805,8 @@
         "恋爱",
         "病娇",
         "女性向",
-        "历史"
+        "历史",
+        "猎奇/血腥"
       ],
       "sites": [
         {
@@ -14400,9 +14400,9 @@
         "限制级",
         "奇幻",
         "恋爱",
+        "女主",
         "男主",
         "搞笑滑稽",
-        "女主",
         "魔物娘",
         "恶魔"
       ],
@@ -15895,7 +15895,8 @@
         "治愈",
         "校园",
         "男主",
-        "女主"
+        "女主",
+        "少年向"
       ],
       "sites": [
         {
@@ -16747,8 +16748,8 @@
         "里番",
         "超自然",
         "妖怪",
-        "女主",
-        "男主"
+        "男主",
+        "女主"
       ],
       "sites": [
         {
@@ -17176,6 +17177,41 @@
         {
           "n": 9,
           "t": 1796225400
+        }
+      ]
+    },
+    {
+      "anilistId": 213097,
+      "bgmId": 659686,
+      "title": "トミカとトム シーズン2",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213097-gyDmsm7qyRYV.png",
+      "airDate": "2026-07-01",
+      "ratingScore": 5.7,
+      "popularity": 66,
+      "totalEpisodes": 13,
+      "genres": [
+        "日常"
+      ],
+      "tags": [
+        "日常",
+        "少儿向"
+      ],
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 12,
+          "t": 1789860600
+        },
+        {
+          "n": 13,
+          "t": 1790465400
         }
       ]
     },
@@ -17858,11 +17894,11 @@
         "恋爱",
         "日常",
         "校园",
-        "男主",
         "少女向",
-        "无口/三无",
+        "三角恋",
+        "女主",
         "群像",
-        "三角恋"
+        "男主"
       ],
       "sites": [
         {
