@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-09T11:12:10.479Z",
+  "generatedAt": "2026-10-09T16:43:53.904Z",
   "window": {
-    "from": 1789729822,
-    "to": 1796728222
+    "from": 1789749728,
+    "to": 1796748128
   },
   "items": [
     {
@@ -741,7 +741,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 61371,
+      "popularity": 61482,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -824,7 +824,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8030,
+      "popularity": 8035,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -925,7 +925,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112936-MOPqLdKu7dgJ.jpg",
       "airDate": "2020-01-01",
       "ratingScore": 7.1,
-      "popularity": 4961,
+      "popularity": 4962,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -959,7 +959,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
       "airDate": "2019-05-04",
       "ratingScore": 7.9,
-      "popularity": 14792,
+      "popularity": 14795,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -1072,7 +1072,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
       "airDate": "2026-07-07",
       "ratingScore": 7.5,
-      "popularity": 29747,
+      "popularity": 29781,
       "totalEpisodes": 12,
       "genres": [
         "剧情"
@@ -1187,7 +1187,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
       "airDate": "2026-07-08",
       "ratingScore": 8,
-      "popularity": 96983,
+      "popularity": 97099,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -2851,9 +2851,7 @@
         "都市奇幻",
         "男主",
         "异世界",
-        "病娇",
-        "天使",
-        "恶魔"
+        "病娇"
       ],
       "sites": [
         {
@@ -3920,10 +3918,6 @@
       "startMonth": 4,
       "episodes": [
         {
-          "n": 23,
-          "t": 1789740000
-        },
-        {
           "n": 24,
           "t": 1790344800
         }
@@ -4037,10 +4031,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 10,
-          "t": 1789741800
-        },
         {
           "n": 11,
           "t": 1790346600
@@ -5123,8 +5113,8 @@
         "魔法少女",
         "科幻",
         "女主",
-        "恶魔",
         "末日废土",
+        "恶魔",
         "拟似家庭",
         "猎奇/血腥",
         "悲剧",
@@ -5355,7 +5345,7 @@
       "titleCn": "某暗部的少女共栖",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png",
       "airDate": "2026-10-09",
       "ratingScore": 0,
@@ -6200,6 +6190,10 @@
         {
           "n": 9,
           "t": 1796133600
+        },
+        {
+          "n": 10,
+          "t": 1796738400
         }
       ]
     },
@@ -6561,10 +6555,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 11,
-          "t": 1789741800
-        },
         {
           "n": 12,
           "t": 1790346600
@@ -8421,112 +8411,6 @@
       ]
     },
     {
-      "anilistId": 196218,
-      "bgmId": 571895,
-      "title": "領民0人スタートの辺境領主様",
-      "titleCn": "从0位居民开始的边境领主大人",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg",
-      "airDate": "2026-07-10",
-      "ratingScore": 6.8,
-      "popularity": 34552,
-      "totalEpisodes": 12,
-      "genres": [
-        "动作",
-        "搞笑",
-        "剧情",
-        "奇幻",
-        "恋爱",
-        "日常"
-      ],
-      "tags": [
-        "动作",
-        "搞笑",
-        "剧情",
-        "奇幻",
-        "恋爱",
-        "日常",
-        "同居",
-        "拟似家庭",
-        "年龄差"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "62078"
-        },
-        {
-          "site": "anidb",
-          "id": "19484"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/296437"
-        },
-        {
-          "site": "gamer",
-          "id": "146354",
-          "begin": "2026-07-03T13:30:00.000Z",
-          "broadcast": "R/2026-07-03T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "146354",
-          "begin": "2026-07-03T13:30:00.000Z",
-          "broadcast": "R/2026-07-03T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "3986"
-        },
-        {
-          "site": "tropics",
-          "id": "PLoGVqODys23C4EWdELmvKjT5FIUHeWdfc",
-          "begin": "2026-07-03T13:30:06.000Z",
-          "broadcast": "R/2026-07-03T13:30:06.000Z/P7D"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00378124",
-          "begin": "2026-07-03T00:00:00.000Z",
-          "broadcast": "R/2026-07-03T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0H4NKHVGJ",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a71538fb56eb30ad03fd52b"
-        },
-        {
-          "site": "acgnx",
-          "id": "開始 邊境領主大人"
-        },
-        {
-          "site": "anibt",
-          "id": "571895"
-        },
-        {
-          "site": "dmhy",
-          "id": "開始 邊境領主大人"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789738200
-        }
-      ]
-    },
-    {
       "anilistId": 196356,
       "bgmId": 572613,
       "title": "いびってこない義母と義姉",
@@ -9194,6 +9078,10 @@
         {
           "n": 8,
           "t": 1796133600
+        },
+        {
+          "n": 9,
+          "t": 1796738400
         }
       ]
     },
@@ -10042,9 +9930,9 @@
       "tags": [
         "日常",
         "治愈",
+        "旅行",
         "女主",
         "社团活动",
-        "旅行",
         "大学"
       ],
       "sites": [
@@ -10128,112 +10016,6 @@
         {
           "n": 9,
           "t": 1796310000
-        }
-      ]
-    },
-    {
-      "anilistId": 199748,
-      "bgmId": 590786,
-      "title": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。",
-      "titleCn": "『你们先走我断后』，于是10年后我成为了传说",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png",
-      "airDate": "2026-07-06",
-      "ratingScore": 6.2,
-      "popularity": 42727,
-      "totalEpisodes": 12,
-      "genres": [
-        "动作",
-        "冒险",
-        "奇幻"
-      ],
-      "tags": [
-        "动作",
-        "冒险",
-        "奇幻",
-        "剑术",
-        "恶魔",
-        "男主"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "62617"
-        },
-        {
-          "site": "anidb",
-          "id": "19635"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/302051"
-        },
-        {
-          "site": "nicovideo",
-          "id": "kokoore-anime",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0305851",
-          "begin": "2026-07-09T13:30:00.000Z",
-          "broadcast": "R/2026-07-09T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "174-38",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "mikan",
-          "id": "4028"
-        },
-        {
-          "site": "prime",
-          "id": "B0H6Z7HDP9",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00371671",
-          "begin": "2026-07-03T00:00:00.000Z",
-          "broadcast": "R/2026-07-03T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29061",
-          "begin": "2026-07-06T13:30:00.000Z",
-          "broadcast": "R/2026-07-06T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715385b56eb30ad03fd4e9"
-        },
-        {
-          "site": "acgnx",
-          "id": "你們先走我斷後"
-        },
-        {
-          "site": "anibt",
-          "id": "590786"
-        },
-        {
-          "site": "dmhy",
-          "id": "你們先走我斷後"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789738200
         }
       ]
     },
@@ -10442,6 +10224,10 @@
         {
           "n": 9,
           "t": 1796133600
+        },
+        {
+          "n": 10,
+          "t": 1796738400
         }
       ]
     },
@@ -10828,10 +10614,10 @@
       "tags": [
         "搞笑",
         "日常",
-        "治愈",
         "男主",
-        "办公室",
-        "少女向"
+        "治愈",
+        "少女向",
+        "办公室"
       ],
       "sites": [
         {
@@ -11242,130 +11028,6 @@
       ]
     },
     {
-      "anilistId": 202508,
-      "bgmId": 609175,
-      "title": "神の雫",
-      "titleCn": "神之水滴",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
-      "airDate": "2026-04-10",
-      "ratingScore": 5.8,
-      "popularity": 6148,
-      "totalEpisodes": 24,
-      "genres": [
-        "剧情",
-        "悬疑",
-        "日常"
-      ],
-      "tags": [
-        "剧情",
-        "悬疑",
-        "日常",
-        "青年向",
-        "男主",
-        "美食料理"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "62981"
-        },
-        {
-          "site": "anidb",
-          "id": "19728"
-        },
-        {
-          "site": "gamer",
-          "id": "148300",
-          "begin": "2026-04-10T15:30:00.000Z",
-          "broadcast": "R/2026-04-10T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "148300",
-          "begin": "2026-04-10T15:30:00.000Z",
-          "broadcast": "R/2026-04-10T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0284838",
-          "begin": "2026-04-15T15:30:00.000Z",
-          "broadcast": "R/2026-04-15T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "189-89",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/306121"
-        },
-        {
-          "site": "nicovideo",
-          "id": "dropsofgod-anime",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "tropics",
-          "id": "PLoGVqODys23BdDdC5fMx3A0TzRwRMYavc",
-          "begin": "2026-04-10T15:30:07.000Z",
-          "broadcast": "R/2026-04-10T15:30:07.000Z/P7D"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00371872",
-          "begin": "2026-04-10T00:00:00.000Z",
-          "broadcast": "R/2026-04-10T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "3923"
-        },
-        {
-          "site": "danime",
-          "id": "28782",
-          "begin": "2026-04-15T15:30:00.000Z",
-          "broadcast": "R/2026-04-15T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0GLQT41WR",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "69db11ad4b29be5e9e214f2c"
-        },
-        {
-          "site": "acgnx",
-          "id": "神之水滴"
-        },
-        {
-          "site": "anibt",
-          "id": "609175"
-        },
-        {
-          "site": "dmhy",
-          "id": "神之水滴"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 4,
-      "episodes": [
-        {
-          "n": 24,
-          "t": 1789741800
-        }
-      ]
-    },
-    {
       "anilistId": 202957,
       "bgmId": 611077,
       "title": "名探偵プリキュア！",
@@ -11745,10 +11407,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 12,
-          "t": 1789743600
-        },
         {
           "n": 13,
           "t": 1790953200
@@ -13425,8 +13083,8 @@
         "限制级",
         "恋爱",
         "超自然",
-        "校园",
-        "男主"
+        "男主",
+        "校园"
       ],
       "sites": [
         {
@@ -13663,6 +13321,10 @@
         {
           "n": 9,
           "t": 1796127960
+        },
+        {
+          "n": 10,
+          "t": 1796732760
         }
       ]
     },
@@ -14032,10 +13694,10 @@
         "搞笑",
         "奇幻",
         "日常",
-        "拟似家庭",
         "都市奇幻",
-        "搞笑滑稽",
-        "男主"
+        "拟似家庭",
+        "男主",
+        "搞笑滑稽"
       ],
       "sites": [
         {
@@ -14106,121 +13768,10 @@
         {
           "n": 9,
           "t": 1796137200
-        }
-      ]
-    },
-    {
-      "anilistId": 207674,
-      "bgmId": 627136,
-      "title": "うしろの正面カムイさん",
-      "titleCn": "正后方的神威",
-      "countryOfOrigin": "JP",
-      "format": "TV_SHORT",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg",
-      "airDate": "2026-07-03",
-      "ratingScore": 5.9,
-      "popularity": 21630,
-      "totalEpisodes": 12,
-      "genres": [
-        "搞笑",
-        "限制级",
-        "超自然"
-      ],
-      "tags": [
-        "搞笑",
-        "限制级",
-        "超自然",
-        "妖怪",
-        "幽灵",
-        "男主",
-        "女主"
-      ],
-      "sites": [
-        {
-          "site": "nicovideo",
-          "id": "kamuisan",
-          "begin": "",
-          "broadcast": ""
         },
         {
-          "site": "abema",
-          "id": "643-22",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "gamer",
-          "id": "149857",
-          "begin": "2026-07-03T16:30:00.000Z",
-          "broadcast": "R/2026-07-03T16:30:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "149857",
-          "begin": "2026-07-03T16:30:00.000Z",
-          "broadcast": "R/2026-07-03T16:30:00.000Z/P7D"
-        },
-        {
-          "site": "mal",
-          "id": "63468"
-        },
-        {
-          "site": "anidb",
-          "id": "19889"
-        },
-        {
-          "site": "mikan",
-          "id": "4042"
-        },
-        {
-          "site": "danime",
-          "id": "29101",
-          "begin": "2026-07-03T16:30:00.000Z",
-          "broadcast": "R/2026-07-03T16:30:00.000Z/P7D",
-          "comment": "デレギュラ版, オンエア版: 29099, ミニアニメ劇場: 29100"
-        },
-        {
-          "site": "unext",
-          "id": "SID0305860",
-          "begin": "2026-07-06T16:30:00.000Z",
-          "broadcast": "R/2026-07-06T16:30:00.000Z/P7D",
-          "comment": "ミニアニメ劇場: SID0308478"
-        },
-        {
-          "site": "prime",
-          "id": "B0H6QX2LTK",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/325052"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715390b56eb30ad03fd535"
-        },
-        {
-          "site": "acgnx",
-          "id": "從後面 神威先生"
-        },
-        {
-          "site": "anibt",
-          "id": "627136"
-        },
-        {
-          "site": "dmhy",
-          "id": "從後面 神威先生"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789749000
+          "n": 10,
+          "t": 1796742000
         }
       ]
     },
@@ -14250,8 +13801,8 @@
         "剧情",
         "奇幻",
         "恋爱",
-        "少女向",
         "女主",
+        "少女向",
         "时间回溯",
         "历史",
         "异世界",
@@ -14368,6 +13919,10 @@
         {
           "n": 22,
           "t": 1796142900
+        },
+        {
+          "n": 23,
+          "t": 1796747700
         }
       ]
     },
@@ -14616,7 +14171,7 @@
       "titleCn": "决斗大师 LOST ～断罪的少年～",
       "countryOfOrigin": "JP",
       "format": "ONA",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208367-qWKRaOpokGoG.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 0,
@@ -14736,11 +14291,11 @@
       "tags": [
         "魔法少女",
         "音乐",
-        "少儿向",
-        "青春成长",
-        "都市奇幻",
         "女主",
         "校园",
+        "少儿向",
+        "都市奇幻",
+        "青春成长",
         "偶像",
         "外星人"
       ],
@@ -15252,6 +14807,10 @@
         {
           "n": 9,
           "t": 1796130000
+        },
+        {
+          "n": 10,
+          "t": 1796734800
         }
       ]
     },
@@ -15634,8 +15193,8 @@
         "恋爱",
         "武术格斗",
         "三角恋",
-        "同居",
-        "校园"
+        "校园",
+        "同居"
       ],
       "sites": [
         {
@@ -15852,10 +15411,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 12,
-          "t": 1789747200
-        },
         {
           "n": 13,
           "t": 1790352000

@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-10-09T11:13:51.803Z",
+  "generatedAt": "2026-10-09T16:45:29.271Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -1191,7 +1191,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129195-9BT4wE1QTLj2.jpg",
       "airDate": "2025-10-04",
       "ratingScore": 6.5,
-      "popularity": 51268,
+      "popularity": 51293,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -6802,8 +6802,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132776-uZLvjGAa4qup.jpg",
       "airDate": "2025-12-04",
-      "ratingScore": 6.6,
-      "popularity": 2257,
+      "ratingScore": 6.7,
+      "popularity": 2258,
       "totalEpisodes": 0,
       "genres": [
         "剧情"

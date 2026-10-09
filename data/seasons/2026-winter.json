@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-10-09T11:14:02.098Z",
+  "generatedAt": "2026-10-09T16:45:39.293Z",
   "total": 123,
   "mappedTotal": 123,
   "items": [
@@ -6157,7 +6157,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113971-GIit95PnSGvt.jpg",
       "airDate": "2026-01-30",
       "ratingScore": 8,
-      "popularity": 9521,
+      "popularity": 9536,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -7456,7 +7456,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1f/91/250224_7ZUS7.jpg",
       "airDate": "2026-03-02",
       "ratingScore": 7.3,
-      "popularity": 1940,
+      "popularity": 1941,
       "totalEpisodes": 8,
       "genres": [
         "国产动画"
@@ -7489,6 +7489,55 @@
         "6",
         "魔法",
         "非续作"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 507819,
+      "title": "一人之下 第6季",
+      "titleCn": "一人之下 第六季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/ee/ae/507819_OD5zd.jpg",
+      "airDate": "2026-01-02",
+      "ratingScore": 6.5,
+      "popularity": 1756,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "漫画改",
+        "一人之下",
+        "奇幻",
+        "热血",
+        "2026",
+        "2026年1月",
+        "WEB",
+        "国漫",
+        "漫改",
+        "国产动画",
+        "2D",
+        "TV",
+        "启缘映画",
+        "未定档",
+        "玄幻",
+        "一魁夺动漫",
+        "武侠",
+        "续作",
+        "良心作",
+        "2026冬",
+        "表番",
+        "#6",
+        "中国动画",
+        "B4",
+        "东方",
+        "都市"
       ],
       "sites": [],
       "episodes": []
@@ -7578,55 +7627,6 @@
           "id": "524128"
         }
       ],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 507819,
-      "title": "一人之下 第6季",
-      "titleCn": "一人之下 第六季",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/ee/ae/507819_OD5zd.jpg",
-      "airDate": "2026-01-02",
-      "ratingScore": 6.5,
-      "popularity": 1754,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "战斗",
-        "漫画改",
-        "一人之下",
-        "奇幻",
-        "热血",
-        "2026",
-        "2026年1月",
-        "WEB",
-        "国漫",
-        "漫改",
-        "国产动画",
-        "2D",
-        "TV",
-        "启缘映画",
-        "未定档",
-        "玄幻",
-        "一魁夺动漫",
-        "武侠",
-        "续作",
-        "#6",
-        "良心作",
-        "2026冬",
-        "中国动画",
-        "都市",
-        "C2",
-        "B4",
-        "东方"
-      ],
-      "sites": [],
       "episodes": []
     },
     {
@@ -7839,7 +7839,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/6c/84/423036_H88sl.jpg",
       "airDate": "2026-01-01",
       "ratingScore": 6.2,
-      "popularity": 1253,
+      "popularity": 1254,
       "totalEpisodes": 9,
       "genres": [
         "国产动画"
@@ -7870,8 +7870,8 @@
         "动画剧集",
         "续作",
         "中国动画",
-        "2026冬",
-        "陈廖宇"
+        "原评分3",
+        "上美影"
       ],
       "sites": [],
       "episodes": []

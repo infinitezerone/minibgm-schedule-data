@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-10-09T11:12:30.649Z",
+  "generatedAt": "2026-10-09T16:44:12.194Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -5240,15 +5240,15 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/b7/383308_COQIc.jpg",
       "airDate": "2025-01-29",
       "ratingScore": 6.4,
-      "popularity": 6867,
+      "popularity": 6870,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "剧场版",
-        "战斗",
         "原创",
+        "战斗",
         "2025",
         "奇幻",
         "动画电影",
@@ -7262,7 +7262,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/a0/78/458978_fXORn.jpg",
       "airDate": "2025-01-08",
       "ratingScore": 4.1,
-      "popularity": 251,
+      "popularity": 252,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -7701,28 +7701,28 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/99/a2/497978_2seOE.jpg",
       "airDate": "2025-01-10",
-      "ratingScore": 6.1,
-      "popularity": 74,
+      "ratingScore": 6,
+      "popularity": 75,
       "totalEpisodes": 10,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "泡面番",
-        "原创",
         "搞笑",
+        "原创",
         "红小豆",
-        "WEB",
         "萌",
-        "可爱",
+        "WEB",
         "TV",
-        "国产动画",
-        "2D",
-        "国创",
+        "可爱",
+        "中7",
         "2025年1月",
         "2025",
-        "中7",
-        "九五年动画"
+        "九五年动画",
+        "2D",
+        "国创",
+        "国产动画"
       ],
       "sites": [],
       "episodes": []
