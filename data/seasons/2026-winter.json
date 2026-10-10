@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-10-10T10:33:50.760Z",
-  "total": 123,
-  "mappedTotal": 123,
+  "generatedAt": "2026-10-10T15:41:26.082Z",
+  "total": 122,
+  "mappedTotal": 122,
   "items": [
     {
       "anilistId": 172463,
@@ -6157,7 +6157,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113971-GIit95PnSGvt.jpg",
       "airDate": "2026-01-30",
       "ratingScore": 8,
-      "popularity": 9536,
+      "popularity": 9547,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -6852,57 +6852,6 @@
       "episodes": []
     },
     {
-      "anilistId": 188034,
-      "bgmId": 544626,
-      "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！",
-      "titleCn": "少女与战车 lovelove大作战！ 第2幕",
-      "countryOfOrigin": "JP",
-      "format": "MOVIE",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
-      "airDate": "2026-01-29",
-      "ratingScore": 7.7,
-      "popularity": 3835,
-      "totalEpisodes": 4,
-      "genres": [
-        "搞笑"
-      ],
-      "tags": [
-        "搞笑",
-        "女主",
-        "恶搞/梗番",
-        "校园",
-        "群像",
-        "社团活动"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "61227"
-        },
-        {
-          "site": "anidb",
-          "id": "19220"
-        },
-        {
-          "site": "tmdb",
-          "id": "movie/1609620"
-        },
-        {
-          "site": "anibt",
-          "id": "544626"
-        },
-        {
-          "site": "nicovideo",
-          "id": "gup-mottolovelove-tv",
-          "begin": "",
-          "broadcast": ""
-        }
-      ],
-      "episodes": []
-    },
-    {
       "anilistId": 189258,
       "bgmId": 548558,
       "title": "青のミブロ 芹沢暗殺編",
@@ -7456,14 +7405,14 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1f/91/250224_7ZUS7.jpg",
       "airDate": "2026-03-02",
       "ratingScore": 7.3,
-      "popularity": 1946,
+      "popularity": 1948,
       "totalEpisodes": 8,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "穿越",
         "奇幻",
+        "穿越",
         "异世界",
         "小说改",
         "网文改",
@@ -7478,17 +7427,17 @@
         "孙猛",
         "后宫",
         "轻小说改",
-        "中世纪",
-        "剧情",
         "2026年",
         "放开那个女巫",
+        "剧情",
         "人设",
-        "2026.4.27",
-        "科幻",
-        "国产动画",
-        "西幻",
-        "好看",
-        "热血"
+        "中世纪",
+        "6",
+        "非续作",
+        "魔法",
+        "漫画改",
+        "剧集",
+        "2020s"
       ],
       "sites": [],
       "episodes": []
@@ -7505,7 +7454,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ee/ae/507819_OD5zd.jpg",
       "airDate": "2026-01-02",
       "ratingScore": 6.5,
-      "popularity": 1758,
+      "popularity": 1761,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -7522,22 +7471,22 @@
         "国漫",
         "漫改",
         "国产动画",
-        "TV",
         "2D",
+        "TV",
         "启缘映画",
         "未定档",
         "玄幻",
-        "续作",
         "一魁夺动漫",
         "武侠",
-        "7",
-        "2026补",
-        "动画片国漫",
-        "2026春",
-        "热血或战斗",
+        "续作",
+        "中国动画",
+        "#6",
         "良心作",
-        "2026冬",
-        "表番"
+        "都市",
+        "东方",
+        "2020-2029",
+        "C2",
+        "B4"
       ],
       "sites": [],
       "episodes": []
@@ -8654,7 +8603,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/af/9c/526975_quBRr.jpg",
       "airDate": "2026-01-31",
       "ratingScore": 5.7,
-      "popularity": 232,
+      "popularity": 233,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8692,7 +8641,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2c/493777_G0G0p.jpg",
       "airDate": "2026-01-16",
       "ratingScore": 5.7,
-      "popularity": 203,
+      "popularity": 204,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"

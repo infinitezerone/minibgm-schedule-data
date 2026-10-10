@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-10-10T10:29:44.965Z",
+  "generatedAt": "2026-10-10T15:39:59.486Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -3543,7 +3543,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136381-t6c5rfKjnqqd.jpg",
       "airDate": "2025-03-18",
       "ratingScore": 7.9,
-      "popularity": 24421,
+      "popularity": 24426,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -4544,7 +4544,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145740-KtUZ6O59DaDq.jpg",
       "airDate": "2025-01-01",
       "ratingScore": 6.3,
-      "popularity": 13496,
+      "popularity": 13501,
       "totalEpisodes": 13,
       "genres": [
         "动作"
@@ -4826,7 +4826,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154392-I35rrWRu9KlY.jpg",
       "airDate": "2025-01-30",
       "ratingScore": 6.1,
-      "popularity": 11707,
+      "popularity": 11713,
       "totalEpisodes": 1,
       "genres": [
         "冒险",
@@ -4878,7 +4878,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154064-qYnRF4BQsuM6.png",
       "airDate": "2025-01-30",
       "ratingScore": 6.3,
-      "popularity": 10652,
+      "popularity": 10655,
       "totalEpisodes": 1,
       "genres": [
         "恋爱",
@@ -6649,7 +6649,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/66/c5/435075_iiB6k.jpg",
       "airDate": "2025-03-27",
       "ratingScore": 5.2,
-      "popularity": 972,
+      "popularity": 973,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -6675,13 +6675,13 @@
         "玄幻",
         "画江湖之不良人",
         "冒险",
-        "续作",
         "奇幻",
         "2024",
         "中国动画",
-        "7.9分",
-        "长剧集",
-        "6分"
+        "续作",
+        "腾讯",
+        "2025年",
+        "动作"
       ],
       "sites": [],
       "episodes": []
@@ -7031,7 +7031,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/8e/da/456163_B5C63.jpg",
       "airDate": "2025-01-16",
       "ratingScore": 7.5,
-      "popularity": 619,
+      "popularity": 620,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -7050,20 +7050,20 @@
         "TV",
         "2024",
         "灵樨文化",
-        "原创",
         "智斗",
+        "原创",
         "国漫",
         "热血",
-        "战争",
         "2025年",
-        "权谋",
-        "悬疑",
-        "歷史",
-        "国创",
+        "战争",
+        "古风",
         "4分",
         "7",
-        "國漫",
-        "1月"
+        "季番",
+        "新番",
+        "续作",
+        "中国动画",
+        "戰鬥"
       ],
       "sites": [],
       "episodes": []

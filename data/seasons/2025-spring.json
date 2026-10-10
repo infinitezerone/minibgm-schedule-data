@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-10-10T10:30:13.478Z",
+  "generatedAt": "2026-10-10T15:40:22.936Z",
   "total": 131,
   "mappedTotal": 131,
   "items": [
@@ -18,7 +18,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149118-AOQb0xuTssGl.jpg",
       "airDate": "2025-04-04",
       "ratingScore": 7.8,
-      "popularity": 132092,
+      "popularity": 132161,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -986,7 +986,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153554-hHYe9aV6Gvlv.jpg",
       "airDate": "2025-04-04",
       "ratingScore": 6.4,
-      "popularity": 68507,
+      "popularity": 68554,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -1328,7 +1328,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143598-FCvAhQJLllSP.png",
       "airDate": "2025-03-31",
       "ratingScore": 7.1,
-      "popularity": 56813,
+      "popularity": 56830,
       "totalEpisodes": 24,
       "genres": [
         "动作",
@@ -1574,7 +1574,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143337-2uPE0ywVcz9X.jpg",
       "airDate": "2025-04-05",
       "ratingScore": 6.7,
-      "popularity": 49794,
+      "popularity": 49821,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -2334,7 +2334,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143200-42OaDCS6VEy3.png",
       "airDate": "2025-04-07",
       "ratingScore": 7.1,
-      "popularity": 37709,
+      "popularity": 37725,
       "totalEpisodes": 26,
       "genres": [
         "剧情",
@@ -3765,6 +3765,59 @@
       "episodes": []
     },
     {
+      "anilistId": 150654,
+      "bgmId": 386728,
+      "title": "ムーンライズ",
+      "titleCn": "月出之战",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150654-pgima1BrY7N0.jpg",
+      "airDate": "2025-04-09",
+      "ratingScore": 6.4,
+      "popularity": 24400,
+      "totalEpisodes": 18,
+      "genres": [
+        "动作",
+        "冒险",
+        "科幻"
+      ],
+      "tags": [
+        "动作",
+        "冒险",
+        "科幻",
+        "太空",
+        "反乌托邦",
+        "都市奇幻",
+        "悲剧",
+        "男主",
+        "战争",
+        "军事"
+      ],
+      "sites": [
+        {
+          "site": "netflix",
+          "id": "81251383",
+          "begin": "2025-04-09T16:00:00.000Z",
+          "broadcast": "R/2025-04-09T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/203740"
+        },
+        {
+          "site": "mal",
+          "id": "38903"
+        },
+        {
+          "site": "anidb",
+          "id": "14561"
+        }
+      ],
+      "episodes": []
+    },
+    {
       "anilistId": 181182,
       "bgmId": 513018,
       "title": "小市民シリーズ 第2期",
@@ -3854,59 +3907,6 @@
         {
           "site": "acgnx",
           "id": "小市民"
-        }
-      ],
-      "episodes": []
-    },
-    {
-      "anilistId": 150654,
-      "bgmId": 386728,
-      "title": "ムーンライズ",
-      "titleCn": "月出之战",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150654-pgima1BrY7N0.jpg",
-      "airDate": "2025-04-09",
-      "ratingScore": 6.4,
-      "popularity": 24396,
-      "totalEpisodes": 18,
-      "genres": [
-        "动作",
-        "冒险",
-        "科幻"
-      ],
-      "tags": [
-        "动作",
-        "冒险",
-        "科幻",
-        "太空",
-        "反乌托邦",
-        "都市奇幻",
-        "悲剧",
-        "男主",
-        "战争",
-        "军事"
-      ],
-      "sites": [
-        {
-          "site": "netflix",
-          "id": "81251383",
-          "begin": "2025-04-09T16:00:00.000Z",
-          "broadcast": "R/2025-04-09T16:00:00.000Z/P7D"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/203740"
-        },
-        {
-          "site": "mal",
-          "id": "38903"
-        },
-        {
-          "site": "anidb",
-          "id": "14561"
         }
       ],
       "episodes": []
@@ -5528,7 +5528,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158287-4RDt0M820Ays.jpg",
       "airDate": "2025-04-07",
       "ratingScore": 5.1,
-      "popularity": 4645,
+      "popularity": 4646,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -5638,7 +5638,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/9a/37/405212_2LgDe.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 5.7,
-      "popularity": 4471,
+      "popularity": 4472,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"
@@ -5661,17 +5661,16 @@
         "国产动画",
         "国漫",
         "热血",
+        "bilibili",
         "群像",
         "超能力",
-        "bilibili",
         "无法预测命运之舞台",
         "搞笑",
         "泽野弘之",
+        "科幻",
         "纸飞机动画",
         "2025年",
-        "科幻",
-        "凸变英雄",
-        "3D"
+        "凸变英雄"
       ],
       "sites": [
         {
@@ -6383,7 +6382,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ed/4a/345824_VXxo5.jpg",
       "airDate": "2025-06-28",
       "ratingScore": 6.7,
-      "popularity": 2608,
+      "popularity": 2609,
       "totalEpisodes": 13,
       "genres": [
         "国产动画"
@@ -6407,15 +6406,15 @@
         "战斗",
         "轻小说改",
         "诡秘之主",
+        "视美影业",
         "国创",
         "未定档",
-        "视美影业",
         "克苏鲁",
-        "2025年",
         "熊可",
-        "视美动画",
         "剧集",
-        "蒸汽朋克"
+        "蒸汽朋克",
+        "视美动画",
+        "2025年"
       ],
       "sites": [],
       "episodes": []
@@ -7424,7 +7423,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/73/ec/440173_8VywX.jpg",
       "airDate": "2025-05-01",
       "ratingScore": 5.6,
-      "popularity": 713,
+      "popularity": 714,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8503,7 +8502,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/b8/466762_9Cs2a.jpg",
       "airDate": "2025-04-01",
       "ratingScore": 5.5,
-      "popularity": 138,
+      "popularity": 139,
       "totalEpisodes": 48,
       "genres": [
         "国产动画"
@@ -8955,7 +8954,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f2/a8/434814_XHiRK.jpg",
       "airDate": "2025-06-12",
       "ratingScore": 5.8,
-      "popularity": 59,
+      "popularity": 60,
       "totalEpisodes": 15,
       "genres": [
         "国产动画"
@@ -8970,10 +8969,10 @@
         "2025年6月",
         "2025",
         "WEB",
-        "5",
+        "原创",
         "打发时间",
-        "下饭",
-        "原创"
+        "5",
+        "下饭"
       ],
       "sites": [],
       "episodes": []

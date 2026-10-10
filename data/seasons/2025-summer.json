@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "summer",
-  "generatedAt": "2026-10-10T10:30:56.712Z",
+  "generatedAt": "2026-10-10T15:40:47.389Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -583,7 +583,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154768-DHHvNd4MjV1p.jpg",
       "airDate": "2025-07-05",
       "ratingScore": 8.2,
-      "popularity": 195416,
+      "popularity": 195577,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -3127,7 +3127,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151799-igwbH3AffgHc.jpg",
       "airDate": "2025-07-09",
       "ratingScore": 7.9,
-      "popularity": 39119,
+      "popularity": 39142,
       "totalEpisodes": 13,
       "genres": [
         "动作",
@@ -3204,6 +3204,100 @@
         {
           "site": "dmhy",
           "id": "吊帶襪天使"
+        }
+      ],
+      "episodes": []
+    },
+    {
+      "anilistId": 155838,
+      "bgmId": 404909,
+      "title": "強くてニューサーガ",
+      "titleCn": "强者的新传说",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155838-0zx6MTeoo5sk.jpg",
+      "airDate": "2025-07-02",
+      "ratingScore": 6.5,
+      "popularity": 38372,
+      "totalEpisodes": 12,
+      "genres": [
+        "冒险",
+        "奇幻"
+      ],
+      "tags": [
+        "冒险",
+        "奇幻",
+        "时间回溯",
+        "男主",
+        "剑术",
+        "恶魔",
+        "精灵",
+        "旅行"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "tsuyosaga-anime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0200172",
+          "begin": "2025-07-04T17:45:00.000Z",
+          "broadcast": "R/2025-07-04T17:45:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28020",
+          "begin": "2025-07-02T17:45:00.000Z",
+          "broadcast": "R/2025-07-02T17:45:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GVDHX859Q",
+          "begin": "2025-07-02T17:15:00.000Z",
+          "broadcast": "R/2025-07-02T17:15:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3682"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6862b06bdffbea3b3f911b3b"
+        },
+        {
+          "site": "prime",
+          "id": "B0F83SLCXC",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/212766"
+        },
+        {
+          "site": "mal",
+          "id": "53397"
+        },
+        {
+          "site": "anidb",
+          "id": "17672"
+        },
+        {
+          "site": "acgnx",
+          "id": "強者的新傳說"
+        },
+        {
+          "site": "anibt",
+          "id": "404909"
+        },
+        {
+          "site": "dmhy",
+          "id": "強者的新傳說"
         }
       ],
       "episodes": []
@@ -3314,100 +3408,6 @@
         {
           "site": "dmhy",
           "id": "租借|出租 女友"
-        }
-      ],
-      "episodes": []
-    },
-    {
-      "anilistId": 155838,
-      "bgmId": 404909,
-      "title": "強くてニューサーガ",
-      "titleCn": "强者的新传说",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155838-0zx6MTeoo5sk.jpg",
-      "airDate": "2025-07-02",
-      "ratingScore": 6.5,
-      "popularity": 38335,
-      "totalEpisodes": 12,
-      "genres": [
-        "冒险",
-        "奇幻"
-      ],
-      "tags": [
-        "冒险",
-        "奇幻",
-        "时间回溯",
-        "男主",
-        "剑术",
-        "恶魔",
-        "精灵",
-        "旅行"
-      ],
-      "sites": [
-        {
-          "site": "nicovideo",
-          "id": "tsuyosaga-anime",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0200172",
-          "begin": "2025-07-04T17:45:00.000Z",
-          "broadcast": "R/2025-07-04T17:45:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "28020",
-          "begin": "2025-07-02T17:45:00.000Z",
-          "broadcast": "R/2025-07-02T17:45:00.000Z/P7D"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GVDHX859Q",
-          "begin": "2025-07-02T17:15:00.000Z",
-          "broadcast": "R/2025-07-02T17:15:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "3682"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6862b06bdffbea3b3f911b3b"
-        },
-        {
-          "site": "prime",
-          "id": "B0F83SLCXC",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/212766"
-        },
-        {
-          "site": "mal",
-          "id": "53397"
-        },
-        {
-          "site": "anidb",
-          "id": "17672"
-        },
-        {
-          "site": "acgnx",
-          "id": "強者的新傳說"
-        },
-        {
-          "site": "anibt",
-          "id": "404909"
-        },
-        {
-          "site": "dmhy",
-          "id": "強者的新傳說"
         }
       ],
       "episodes": []
@@ -5546,7 +5546,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156395-LW98bhT54IuM.png",
       "airDate": "2025-07-04",
       "ratingScore": 7,
-      "popularity": 13326,
+      "popularity": 13333,
       "totalEpisodes": 13,
       "genres": [
         "搞笑",
@@ -6002,7 +6002,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159483-nQKJ2EEqoo8x.jpg",
       "airDate": "2025-07-08",
       "ratingScore": 6.3,
-      "popularity": 10996,
+      "popularity": 11001,
       "totalEpisodes": 12,
       "genres": [
         "冒险",
@@ -6795,7 +6795,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157960-IrnEWE1pvoT3.jpg",
       "airDate": "2025-07-15",
       "ratingScore": 6,
-      "popularity": 7830,
+      "popularity": 7831,
       "totalEpisodes": 12,
       "genres": [
         "冒险",
@@ -6976,7 +6976,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
       "airDate": "2025-07-18",
       "ratingScore": 7.7,
-      "popularity": 6881,
+      "popularity": 6882,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7006,10 +7006,10 @@
         "搞笑",
         "萌",
         "热血",
-        "好猫配贱人",
+        "打拳",
+        "国创",
         "弃养",
-        "中国动画",
-        "院线"
+        "好猫配贱人"
       ],
       "sites": [
         {
@@ -7581,7 +7581,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/93/79/440095_HJh7H.jpg",
       "airDate": "2025-08-02",
       "ratingScore": 7.1,
-      "popularity": 3754,
+      "popularity": 3755,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7607,13 +7607,13 @@
         "国产动画",
         "2025年8月",
         "热血",
-        "上美",
         "治愈",
+        "上美",
         "2020s",
-        "西游",
         "中国动画",
-        "2025年7月",
-        "国创"
+        "西游",
+        "国创",
+        "玄幻"
       ],
       "sites": [],
       "episodes": []
@@ -7976,7 +7976,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/17/42/408897_BnCHp.jpg",
       "airDate": "2025-07-18",
       "ratingScore": 4.3,
-      "popularity": 1550,
+      "popularity": 1551,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"
@@ -7996,19 +7996,19 @@
         "国内番剧",
         "合作",
         "王昕",
-        "轻小说改",
         "国产动画",
-        "2D",
-        "架空",
+        "轻小说改",
+        "中国动画",
+        "恋爱",
+        "电视动画",
+        "大塚剛央",
+        "6",
+        "热血",
         "本渡楓",
-        "热血或战斗",
-        "朝韩",
-        "村瀬歩",
-        "村濑步",
-        "2025秋",
-        "冒险",
-        "2025夏",
-        "半架空"
+        "小说改编",
+        "网文改",
+        "国创",
+        "."
       ],
       "sites": [
         {
@@ -9099,7 +9099,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bd/44/424656_r2614.jpg",
       "airDate": "2025-07-12",
       "ratingScore": 6.3,
-      "popularity": 354,
+      "popularity": 355,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -9193,7 +9193,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/cd/f1/432932_tFsI8.jpg",
       "airDate": "2025-09-30",
       "ratingScore": 6.5,
-      "popularity": 326,
+      "popularity": 327,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -9205,8 +9205,8 @@
         "喜剧",
         "国漫",
         "2025",
-        "国产动画",
         "WEB",
+        "国产动画",
         "BL",
         "TV",
         "两点十分",
@@ -9214,18 +9214,18 @@
         "漫改",
         "两点十分动漫",
         "2D",
-        "国产或合作动画",
-        "历史",
         "墨飞",
         "大陆",
-        "7",
-        "2025年9月",
-        "腾讯视频",
         "5",
         "大清",
-        "腾讯",
+        "2025年9月",
+        "快看",
+        "国产或合作动画",
         "恋爱",
-        "2020s"
+        "腾讯视频",
+        "2020s",
+        "7",
+        "历史"
       ],
       "sites": [],
       "episodes": []
@@ -9546,7 +9546,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f9/3a/456171_DllLV.jpg",
       "airDate": "2025-07-29",
       "ratingScore": 5.7,
-      "popularity": 140,
+      "popularity": 142,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"

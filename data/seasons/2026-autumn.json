@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-10T10:34:47.289Z",
-  "total": 110,
-  "mappedTotal": 110,
+  "generatedAt": "2026-10-10T15:42:23.211Z",
+  "total": 111,
+  "mappedTotal": 111,
   "items": [
     {
       "anilistId": 195516,
@@ -320,7 +320,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143103-vvsaIpZPpIuE.png",
       "airDate": "2026-11-20",
       "ratingScore": 0,
-      "popularity": 41017,
+      "popularity": 41189,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -757,8 +757,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
       "airDate": "2026-10-07",
-      "ratingScore": 7.6,
-      "popularity": 23677,
+      "ratingScore": 7.5,
+      "popularity": 23924,
       "totalEpisodes": 13,
       "genres": [
         "搞笑",
@@ -1191,8 +1191,8 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "转生",
         "异世界",
+        "转生",
         "男主"
       ],
       "sites": [
@@ -2803,13 +2803,40 @@
       "episodes": []
     },
     {
+      "anilistId": 157330,
+      "bgmId": 477456,
+      "title": "楽園追放 心のレゾナンス",
+      "titleCn": "乐园追放 心之共鸣",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "NOT_YET_RELEASED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157330-Ow09pWu8lqCT.jpg",
+      "airDate": "2026-11-13",
+      "ratingScore": 0,
+      "popularity": 4154,
+      "totalEpisodes": 1,
+      "genres": [
+        "动作",
+        "机战",
+        "科幻"
+      ],
+      "tags": [
+        "动作",
+        "机战",
+        "科幻"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 203473,
       "bgmId": 613256,
       "title": "恐怖コレクター",
       "titleCn": "恐怖收集者",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg",
       "airDate": "2026-10-10",
@@ -2825,33 +2852,6 @@
         "恐怖",
         "悬疑",
         "超自然"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": 157330,
-      "bgmId": 477456,
-      "title": "楽園追放 心のレゾナンス",
-      "titleCn": "乐园追放 心之共鸣",
-      "countryOfOrigin": "JP",
-      "format": "MOVIE",
-      "status": "NOT_YET_RELEASED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157330-Ow09pWu8lqCT.jpg",
-      "airDate": "2026-11-13",
-      "ratingScore": 0,
-      "popularity": 4144,
-      "totalEpisodes": 1,
-      "genres": [
-        "动作",
-        "机战",
-        "科幻"
-      ],
-      "tags": [
-        "动作",
-        "机战",
-        "科幻"
       ],
       "sites": [],
       "episodes": []
@@ -2940,6 +2940,57 @@
         {
           "site": "bangumi_moe",
           "id": "6abdf91198d9339c5c7431d4"
+        }
+      ],
+      "episodes": []
+    },
+    {
+      "anilistId": 188034,
+      "bgmId": 544626,
+      "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！",
+      "titleCn": "少女与战车 lovelove大作战！ 第2幕",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "RELEASING",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
+      "airDate": "2026-01-29",
+      "ratingScore": 7.7,
+      "popularity": 3835,
+      "totalEpisodes": 12,
+      "genres": [
+        "搞笑"
+      ],
+      "tags": [
+        "搞笑",
+        "女主",
+        "恶搞/梗番",
+        "校园",
+        "群像",
+        "社团活动"
+      ],
+      "sites": [
+        {
+          "site": "mal",
+          "id": "61227"
+        },
+        {
+          "site": "anidb",
+          "id": "19220"
+        },
+        {
+          "site": "tmdb",
+          "id": "movie/1609620"
+        },
+        {
+          "site": "anibt",
+          "id": "544626"
+        },
+        {
+          "site": "nicovideo",
+          "id": "gup-mottolovelove-tv",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "episodes": []
@@ -3402,7 +3453,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.7,
-      "popularity": 394,
+      "popularity": 396,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -3421,14 +3472,14 @@
         "续集",
         "未定档",
         "寒木春华",
-        "奇幻",
         "◆TV◆",
-        "萌",
-        "11",
-        "续作",
-        "国产动画",
         "3",
-        "泡面"
+        "11",
+        "国产动画",
+        "萌",
+        "续作",
+        "泡面",
+        "奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -3445,38 +3496,38 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7.7,
-      "popularity": 276,
+      "popularity": 279,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "漫画改",
-        "奇幻",
         "TV",
         "搞笑",
-        "2026",
+        "奇幻",
         "WEB",
-        "战斗",
         "国漫",
-        "未上映",
+        "2026",
+        "战斗",
         "武侠",
-        "腾讯",
-        "推理",
+        "未上映",
         "国产或合作动画",
+        "腾讯",
         "历史",
         "2025",
-        "未定档",
+        "推理",
+        "中国动画",
+        "3",
+        "漫改",
         "古风",
+        "国内番剧",
+        "大理寺日志",
+        "未定档",
+        "动作",
         "好传动画",
         "好船动画",
-        "漫改",
-        "动作",
-        "中国动画",
-        "大理寺日志",
-        "2020-2029",
-        "国内番剧",
-        "3"
+        "2020-2029"
       ],
       "sites": [],
       "episodes": []
@@ -3538,10 +3589,10 @@
       "format": "WEB",
       "status": "",
       "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_X6DS6.jpg",
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 209,
+      "popularity": 211,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -3557,16 +3608,16 @@
         "网文改",
         "玄幻",
         "厕纸",
+        "奇幻",
         "喜欢！",
         "2026补",
         "coocaa",
+        "TV",
         "国产动画",
-        "奇幻",
-        "2026",
         "表番",
         "2D",
         "未上映",
-        "TV"
+        "2026"
       ],
       "sites": [],
       "episodes": []
@@ -3606,7 +3657,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 169,
+      "popularity": 170,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
@@ -3706,7 +3757,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 151,
+      "popularity": 152,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -4030,7 +4081,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
       "airDate": "2026-10-05",
       "ratingScore": 3.5,
-      "popularity": 28,
+      "popularity": 29,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
@@ -4038,10 +4089,10 @@
       "tags": [
         "WEB",
         "乐子",
-        "WEBA",
-        "2026",
+        "国产动画",
         "原创",
-        "国产动画"
+        "2026",
+        "WEBA"
       ],
       "sites": [],
       "episodes": []
@@ -4055,7 +4106,7 @@
       "format": "WEB",
       "status": "",
       "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_nqMmz.jpg",
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_f7d1l.jpg",
       "airDate": "2026-10-08",
       "ratingScore": 0,
       "popularity": 8,

@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-10-10T10:33:40.866Z",
+  "generatedAt": "2026-10-10T15:41:16.079Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -18,7 +18,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153800-8SpzdHOaZCoU.jpg",
       "airDate": "2025-10-12",
       "ratingScore": 5,
-      "popularity": 154004,
+      "popularity": 154089,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -1191,7 +1191,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129195-9BT4wE1QTLj2.jpg",
       "airDate": "2025-10-04",
       "ratingScore": 6.5,
-      "popularity": 51293,
+      "popularity": 51331,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -3553,7 +3553,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140291-RAwYjwC9vWDR.png",
       "airDate": "2025-10-28",
       "ratingScore": 6.8,
-      "popularity": 23848,
+      "popularity": 23871,
       "totalEpisodes": 8,
       "genres": [
         "冒险",
@@ -4380,7 +4380,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140337-8EtbiPurofcC.jpg",
       "airDate": "2025-10-23",
       "ratingScore": 8.2,
-      "popularity": 19008,
+      "popularity": 19019,
       "totalEpisodes": 1,
       "genres": [
         "搞笑",
@@ -7746,29 +7746,6 @@
       "episodes": []
     },
     {
-      "anilistId": 198344,
-      "bgmId": 584818,
-      "title": "牝を狩る村",
-      "titleCn": "狩猎雌性的村庄",
-      "countryOfOrigin": "JP",
-      "format": "OVA",
-      "status": "FINISHED",
-      "isAdult": true,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198344-LVBMXsAdeHU5.png",
-      "airDate": "2025-11-14",
-      "ratingScore": 5.6,
-      "popularity": 545,
-      "totalEpisodes": 2,
-      "genres": [
-        "里番"
-      ],
-      "tags": [
-        "里番"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": null,
       "bgmId": 458926,
       "title": "光阴之外",
@@ -7780,7 +7757,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/f6/458926_0qw05.jpg",
       "airDate": "2025-12-28",
       "ratingScore": 6.9,
-      "popularity": 545,
+      "popularity": 548,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -7809,6 +7786,29 @@
         "漫画改",
         "2026年1月",
         "7"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 198344,
+      "bgmId": 584818,
+      "title": "牝を狩る村",
+      "titleCn": "狩猎雌性的村庄",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "FINISHED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198344-LVBMXsAdeHU5.png",
+      "airDate": "2025-11-14",
+      "ratingScore": 5.6,
+      "popularity": 545,
+      "totalEpisodes": 2,
+      "genres": [
+        "里番"
+      ],
+      "tags": [
+        "里番"
       ],
       "sites": [],
       "episodes": []
@@ -8032,7 +8032,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/85/58/395223_Mf6La.jpg",
       "airDate": "2025-12-30",
       "ratingScore": 5.7,
-      "popularity": 215,
+      "popularity": 216,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8536,7 +8536,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/aa/fa/491587_AK1pz.jpg",
       "airDate": "2025-12-02",
       "ratingScore": 6.3,
-      "popularity": 76,
+      "popularity": 77,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8678,7 +8678,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7d/1c/345759_Lrqh7.jpg",
       "airDate": "2025-11-02",
       "ratingScore": 6.1,
-      "popularity": 57,
+      "popularity": 58,
       "totalEpisodes": 9,
       "genres": [
         "国产动画"
@@ -8714,7 +8714,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/19/0c/345792_USYYL.jpg",
       "airDate": "2025-11-05",
       "ratingScore": 6.5,
-      "popularity": 56,
+      "popularity": 57,
       "totalEpisodes": 8,
       "genres": [
         "国产动画"
@@ -8730,10 +8730,10 @@
         "国产或合作动画",
         "3D",
         "2025",
-        "2025年11月",
-        "5",
         "TV",
-        "WEB"
+        "WEB",
+        "5",
+        "2025年11月"
       ],
       "sites": [],
       "episodes": []
