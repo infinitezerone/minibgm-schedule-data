@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-10-09T16:44:12.194Z",
+  "generatedAt": "2026-10-10T01:27:44.106Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -5240,15 +5240,15 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/b7/383308_COQIc.jpg",
       "airDate": "2025-01-29",
       "ratingScore": 6.4,
-      "popularity": 6870,
+      "popularity": 6872,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "剧场版",
-        "原创",
         "战斗",
+        "原创",
         "2025",
         "奇幻",
         "动画电影",
@@ -7212,7 +7212,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/0d/50/504386_AR67Y.jpg",
       "airDate": "2025-01-29",
       "ratingScore": 5.8,
-      "popularity": 259,
+      "popularity": 260,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7278,17 +7278,18 @@
         "热血",
         "WEB",
         "少年歌行",
-        "周木楠",
-        "2025年1月",
-        "TV",
         "网文改",
-        "玄幻",
+        "TV",
+        "2025年1月",
+        "周木楠",
+        "5",
+        "奇幻",
+        "大陆",
+        "续作",
         "4",
         "单女主",
-        "群像",
-        "大陆",
-        "5",
-        "续作"
+        "玄幻",
+        "群像"
       ],
       "sites": [],
       "episodes": []

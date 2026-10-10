@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-09T16:43:53.904Z",
+  "generatedAt": "2026-10-10T01:27:27.570Z",
   "window": {
-    "from": 1789749728,
-    "to": 1796748128
+    "from": 1789781148,
+    "to": 1796779548
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
       "airDate": "2026-04-05",
       "ratingScore": 8.7,
-      "popularity": 758017,
+      "popularity": 758271,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -131,7 +131,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 80466,
+      "popularity": 80491,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -314,7 +314,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20158,
+      "popularity": 20167,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -482,7 +482,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
       "airDate": "1969-10-05",
       "ratingScore": 5.7,
-      "popularity": 2539,
+      "popularity": 2543,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -604,7 +604,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 7950,
+      "popularity": 7957,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -3190,13 +3190,13 @@
         "转生",
         "时间回溯",
         "家庭",
-        "婚姻",
         "青春成长",
+        "婚姻",
         "剑术",
-        "精灵",
         "神明",
-        "年龄差",
+        "精灵",
         "恶魔",
+        "年龄差",
         "三角恋"
       ],
       "sites": [
@@ -3521,6 +3521,10 @@
         {
           "n": 8,
           "t": 1796143500
+        },
+        {
+          "n": 9,
+          "t": 1796748300
         }
       ]
     },
@@ -3718,7 +3722,8 @@
         "冒险",
         "剧情",
         "奇幻",
-        "女主"
+        "女主",
+        "少年向"
       ],
       "sites": [
         {
@@ -4156,10 +4161,6 @@
       "startYear": 2026,
       "startMonth": 4,
       "episodes": [
-        {
-          "n": 25,
-          "t": 1789777560
-        },
         {
           "n": 26,
           "t": 1790987160
@@ -4855,8 +4856,7 @@
       ],
       "tags": [
         "冒险",
-        "奇幻",
-        "异世界"
+        "奇幻"
       ],
       "sites": [
         {
@@ -10614,10 +10614,10 @@
       "tags": [
         "搞笑",
         "日常",
-        "男主",
         "治愈",
-        "少女向",
-        "办公室"
+        "男主",
+        "办公室",
+        "少女向"
       ],
       "sites": [
         {
@@ -12189,6 +12189,10 @@
         {
           "n": 48,
           "t": 1796166000
+        },
+        {
+          "n": 49,
+          "t": 1796770800
         }
       ]
     },
@@ -12448,7 +12452,7 @@
       "airDate": "2026-10-09",
       "ratingScore": 7.2,
       "popularity": 23716,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "genres": [
         "剧情",
         "恋爱"
@@ -13164,8 +13168,8 @@
         "科幻",
         "武术格斗",
         "神明",
-        "少年向",
-        "男主"
+        "男主",
+        "少年向"
       ],
       "sites": [
         {
@@ -13950,10 +13954,10 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "女主",
-        "男主",
         "搞笑滑稽",
+        "女主",
         "魔物娘",
+        "男主",
         "恶魔"
       ],
       "sites": [
@@ -14291,13 +14295,13 @@
       "tags": [
         "魔法少女",
         "音乐",
-        "女主",
-        "校园",
-        "少儿向",
         "都市奇幻",
+        "女主",
         "青春成长",
-        "偶像",
-        "外星人"
+        "少儿向",
+        "校园",
+        "外星人",
+        "偶像"
       ],
       "sites": [
         {
@@ -16098,10 +16102,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 12,
-          "t": 1789774200
-        },
-        {
           "n": 13,
           "t": 1790379000
         },
@@ -17758,10 +17758,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1789772400
-        },
         {
           "n": 4,
           "t": 1790377200

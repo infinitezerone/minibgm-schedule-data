@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-10-09T16:46:02.997Z",
+  "generatedAt": "2026-10-10T01:29:26.692Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -8650,7 +8650,7 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b9/99/577226_CLc9Z.jpg",
       "airDate": "2026-06-20",
-      "ratingScore": 6.9,
+      "ratingScore": 6.8,
       "popularity": 337,
       "totalEpisodes": 3,
       "genres": [
@@ -8834,7 +8834,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/36/ae/456303_fV9xR.jpg",
       "airDate": "2026-04-24",
       "ratingScore": 6,
-      "popularity": 284,
+      "popularity": 285,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8852,18 +8852,18 @@
         "异世界",
         "2D",
         "搞笑",
-        "国创",
-        "倪佳菲",
         "TV",
-        "国漫",
         "战斗",
+        "倪佳菲",
+        "国创",
         "国产动画",
-        "2026年",
+        "国漫",
         "魔族",
-        "5",
-        "佳菲",
         "冒险",
-        "八号流"
+        "2026年",
+        "八号流",
+        "佳菲",
+        "5"
       ],
       "sites": [],
       "episodes": []
@@ -8886,8 +8886,8 @@
         "国产动画"
       ],
       "tags": [
-        "2026",
         "武侠",
+        "2026",
         "战斗",
         "漫画改",
         "腾讯",
@@ -8897,20 +8897,19 @@
         "TV",
         "历史",
         "隋朝",
-        "彩色铅笔动画",
-        "2D",
         "国产或合作动画",
+        "彩色铅笔动画",
         "漫改",
-        "动作",
-        "未上映",
-        "史涓生",
-        "7",
-        "彩色铅笔",
+        "2D",
+        "2026年4月",
         "中国动画",
         "邓志巍",
-        "2026年4月",
         "2026夏",
-        "4分"
+        "动作",
+        "4分",
+        "彩色铅笔",
+        "史涓生",
+        "7"
       ],
       "sites": [],
       "episodes": []
@@ -9504,8 +9503,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/0f/6a/491576_vRrJZ.jpg",
       "airDate": "2026-06-09",
-      "ratingScore": 5.4,
-      "popularity": 39,
+      "ratingScore": 5.5,
+      "popularity": 40,
       "totalEpisodes": 14,
       "genres": [
         "国产动画"
@@ -9514,14 +9513,14 @@
         "搞笑",
         "WEB",
         "2D",
-        "2026",
-        "周二",
-        "奇幻",
         "玄幻",
+        "奇幻",
+        "周二",
+        "2026",
         "战斗",
-        "一二工作室",
         "原创",
-        "9:00"
+        "9:00",
+        "一二工作室"
       ],
       "sites": [],
       "episodes": []

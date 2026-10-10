@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-09T16:46:37.998Z",
+  "generatedAt": "2026-10-10T01:29:59.187Z",
   "total": 110,
   "mappedTotal": 110,
   "items": [
@@ -681,7 +681,7 @@
       "airDate": "2026-10-09",
       "ratingScore": 7.2,
       "popularity": 23716,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "genres": [
         "剧情",
         "恋爱"
@@ -798,8 +798,7 @@
       ],
       "tags": [
         "冒险",
-        "奇幻",
-        "异世界"
+        "奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -1838,7 +1837,8 @@
         "冒险",
         "剧情",
         "奇幻",
-        "女主"
+        "女主",
+        "少年向"
       ],
       "sites": [
         {
@@ -3402,7 +3402,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 6.5,
-      "popularity": 383,
+      "popularity": 386,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -3415,20 +3415,20 @@
         "TV",
         "治愈",
         "国漫",
-        "罗小黑战记",
         "2026年10月",
+        "罗小黑战记",
         "玄幻",
         "续集",
         "未定档",
         "寒木春华",
-        "11",
         "◆TV◆",
-        "奇幻",
-        "泡面",
-        "国产动画",
         "3",
+        "11",
+        "国产动画",
+        "萌",
         "续作",
-        "萌"
+        "泡面",
+        "奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -3445,7 +3445,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7.7,
-      "popularity": 272,
+      "popularity": 273,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -3541,7 +3541,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.6,
-      "popularity": 200,
+      "popularity": 203,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -3605,19 +3605,23 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 168,
+      "popularity": 169,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "镇魂街",
-        "国创",
-        "艾尔平方",
-        "未定档",
         "战斗",
+        "国产动画",
+        "WEB",
+        "TV",
         "国漫",
-        "WEB"
+        "国创",
+        "漫改",
+        "表番",
+        "未定档",
+        "艾尔平方"
       ],
       "sites": [],
       "episodes": []
@@ -3700,26 +3704,26 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
-      "ratingScore": 5.9,
-      "popularity": 148,
+      "ratingScore": 6,
+      "popularity": 150,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "战斗",
         "2026",
+        "战斗",
         "网文改",
         "国漫",
         "WEB",
-        "3D",
         "小说改",
         "玄幻",
-        "轻小说改",
-        "剧场版",
-        "厕纸",
+        "3D",
         "动画电影",
-        "6"
+        "轻小说改",
+        "6",
+        "厕纸",
+        "剧场版"
       ],
       "sites": [],
       "episodes": []
