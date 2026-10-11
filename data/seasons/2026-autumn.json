@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-11T10:43:51.455Z",
+  "generatedAt": "2026-10-11T16:08:29.894Z",
   "total": 111,
   "mappedTotal": 111,
   "items": [
@@ -169,7 +169,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
       "airDate": "2026-10-01",
       "ratingScore": 7.6,
-      "popularity": 48129,
+      "popularity": 48458,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -281,7 +281,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160275-cBOWJpcCGeMq.jpg",
       "airDate": "2026-10-23",
       "ratingScore": 0,
-      "popularity": 42839,
+      "popularity": 42986,
       "totalEpisodes": 1,
       "genres": [
         "冒险",
@@ -321,7 +321,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143103-vvsaIpZPpIuE.png",
       "airDate": "2026-11-20",
       "ratingScore": 0,
-      "popularity": 41189,
+      "popularity": 41354,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -793,7 +793,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
       "airDate": "2026-10-07",
       "ratingScore": 7.5,
-      "popularity": 23924,
+      "popularity": 24089,
       "totalEpisodes": 13,
       "genres": [
         "搞笑",
@@ -1619,7 +1619,7 @@
       "titleCn": "龙珠超 比鲁斯",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg",
       "airDate": "2026-10-11",
@@ -2346,8 +2346,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
       "airDate": "2026-10-05",
-      "ratingScore": 6.7,
-      "popularity": 6624,
+      "ratingScore": 6.6,
+      "popularity": 6689,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -2579,7 +2579,7 @@
       "titleCn": "和没有信徒的女神大人一起攻略异世界",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg",
       "airDate": "2026-10-11",
@@ -2847,7 +2847,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157330-Ow09pWu8lqCT.jpg",
       "airDate": "2026-11-13",
       "ratingScore": 0,
-      "popularity": 4154,
+      "popularity": 4167,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -3459,7 +3459,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.7,
-      "popularity": 407,
+      "popularity": 413,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -3478,14 +3478,14 @@
         "续集",
         "未定档",
         "寒木春华",
+        "奇幻",
         "◆TV◆",
-        "3",
-        "11",
-        "国产动画",
         "萌",
+        "11",
         "续作",
-        "泡面",
-        "奇幻"
+        "国产动画",
+        "3",
+        "泡面"
       ],
       "sites": [],
       "episodes": []
@@ -3502,38 +3502,38 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7.7,
-      "popularity": 283,
+      "popularity": 288,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "漫画改",
-        "搞笑",
         "奇幻",
         "TV",
-        "WEB",
-        "国漫",
-        "2026",
+        "搞笑",
         "战斗",
-        "武侠",
+        "2026",
+        "国漫",
+        "WEB",
         "未上映",
-        "国产或合作动画",
-        "腾讯",
-        "历史",
-        "2025",
+        "武侠",
         "推理",
-        "3",
-        "国内番剧",
-        "漫改",
-        "2020-2029",
-        "中国动画",
-        "好船动画",
-        "古风",
+        "2025",
+        "腾讯",
+        "国产或合作动画",
+        "历史",
         "未定档",
-        "动作",
+        "古风",
         "好传动画",
-        "大理寺日志"
+        "好船动画",
+        "漫改",
+        "动作",
+        "中国动画",
+        "大理寺日志",
+        "2020-2029",
+        "国内番剧",
+        "3"
       ],
       "sites": [],
       "episodes": []
@@ -3598,32 +3598,32 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 215,
+      "popularity": 219,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "小说改",
-        "大火鸟文化",
         "WEB",
+        "大火鸟文化",
         "异能",
         "2026年10月",
         "搞笑",
         "战斗",
         "网文改",
-        "玄幻",
         "厕纸",
-        "奇幻",
+        "玄幻",
         "喜欢！",
         "2026补",
         "coocaa",
-        "TV",
         "国产动画",
+        "奇幻",
+        "2026",
         "表番",
         "2D",
         "未上映",
-        "2026"
+        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -3652,6 +3652,39 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 516076,
+      "title": "镇魂街 第五季",
+      "titleCn": "镇魂街 王国纷争篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
+      "airDate": "2026-12-11",
+      "ratingScore": 5.8,
+      "popularity": 172,
+      "totalEpisodes": 30,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "镇魂街",
+        "战斗",
+        "国产动画",
+        "WEB",
+        "TV",
+        "国漫",
+        "国创",
+        "漫改",
+        "表番",
+        "未定档",
+        "艾尔平方"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 216926,
       "bgmId": 702122,
       "title": "お隣の贄",
@@ -3670,39 +3703,6 @@
       ],
       "tags": [
         "里番"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 516076,
-      "title": "镇魂街 第五季",
-      "titleCn": "镇魂街 王国纷争篇",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
-      "airDate": "2026-12-11",
-      "ratingScore": 5.8,
-      "popularity": 171,
-      "totalEpisodes": 30,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "镇魂街",
-        "战斗",
-        "国产动画",
-        "WEB",
-        "TV",
-        "国漫",
-        "国创",
-        "漫改",
-        "表番",
-        "未定档",
-        "艾尔平方"
       ],
       "sites": [],
       "episodes": []
@@ -3763,7 +3763,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 153,
+      "popularity": 154,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -4086,8 +4086,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
       "airDate": "2026-10-05",
-      "ratingScore": 3.5,
-      "popularity": 30,
+      "ratingScore": 3.8,
+      "popularity": 32,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
@@ -4095,8 +4095,10 @@
       "tags": [
         "WEB",
         "乐子",
-        "WEBA",
         "原创",
+        "猫已巴",
+        "蜡笔小嘉",
+        "WEBA",
         "国产动画",
         "2026"
       ],
@@ -4115,7 +4117,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_f7d1l.jpg",
       "airDate": "2026-10-08",
       "ratingScore": 0,
-      "popularity": 9,
+      "popularity": 10,
       "totalEpisodes": 14,
       "genres": [
         "国产动画"

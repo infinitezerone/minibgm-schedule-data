@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-11T10:41:12.102Z",
+  "generatedAt": "2026-10-11T16:04:54.525Z",
   "window": {
-    "from": 1789900768,
-    "to": 1796899168
+    "from": 1789920193,
+    "to": 1796918593
   },
   "items": [
     {
@@ -106,10 +106,6 @@
       "startYear": 1999,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1179,
-          "t": 1789913760
-        },
         {
           "n": 1180,
           "t": 1790518560
@@ -788,10 +784,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 12,
-          "t": 1789912800
-        },
-        {
           "n": 13,
           "t": 1790517600
         }
@@ -808,7 +800,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8044,
+      "popularity": 8052,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -909,7 +901,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112936-MOPqLdKu7dgJ.jpg",
       "airDate": "2020-01-01",
       "ratingScore": 7.1,
-      "popularity": 4968,
+      "popularity": 4971,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -943,7 +935,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
       "airDate": "2019-05-04",
       "ratingScore": 7.9,
-      "popularity": 14799,
+      "popularity": 14800,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -1052,7 +1044,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
       "airDate": "2026-07-07",
       "ratingScore": 7.5,
-      "popularity": 29816,
+      "popularity": 29876,
       "totalEpisodes": 12,
       "genres": [
         "剧情"
@@ -1167,7 +1159,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
       "airDate": "2026-07-08",
       "ratingScore": 8,
-      "popularity": 97240,
+      "popularity": 97385,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -1296,7 +1288,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
       "airDate": "2022-04-03",
       "ratingScore": 8.5,
-      "popularity": 12105,
+      "popularity": 12140,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -1422,7 +1414,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
       "airDate": "2026-10-07",
       "ratingScore": 7.5,
-      "popularity": 23924,
+      "popularity": 24089,
       "totalEpisodes": 13,
       "genres": [
         "搞笑",
@@ -1550,7 +1542,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
       "airDate": "2023-04-14",
       "ratingScore": 7.3,
-      "popularity": 24665,
+      "popularity": 24676,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -1687,7 +1679,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
       "airDate": "2026-10-07",
       "ratingScore": 7.6,
-      "popularity": 48129,
+      "popularity": 48458,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -1814,7 +1806,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg",
       "airDate": "2026-07-08",
       "ratingScore": 7,
-      "popularity": 57632,
+      "popularity": 57792,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -1931,8 +1923,8 @@
       "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
       "airDate": "2026-10-05",
-      "ratingScore": 6.7,
-      "popularity": 6624,
+      "ratingScore": 6.6,
+      "popularity": 6689,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -2033,6 +2025,39 @@
       ]
     },
     {
+      "anilistId": 161680,
+      "bgmId": 421743,
+      "title": "1LDK＋J系 いきなり同居？密着！？初エッチ！！？",
+      "titleCn": "1LDK＋JK 突然间展开同居？极度贴近！？初体验！！？",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161680-NjggzN5hw0UL.jpg",
+      "airDate": "2023-07-01",
+      "ratingScore": 6.9,
+      "popularity": 2067,
+      "totalEpisodes": 0,
+      "genres": [
+        "里番",
+        "恋爱"
+      ],
+      "tags": [
+        "里番",
+        "恋爱",
+        "年龄差"
+      ],
+      "sites": [],
+      "isAdult": true,
+      "startYear": 2023,
+      "startMonth": 7,
+      "episodes": [
+        {
+          "n": 9,
+          "t": 1796914800
+        }
+      ]
+    },
+    {
       "anilistId": 165159,
       "bgmId": 418599,
       "title": "BEYBLADE X",
@@ -2129,114 +2154,6 @@
         {
           "n": 138,
           "t": 1795168800
-        }
-      ]
-    },
-    {
-      "anilistId": 169080,
-      "bgmId": 454083,
-      "title": "アズールレーン びそくぜんしんっ！にっ！！",
-      "titleCn": "碧蓝航线：微速前行！第二季",
-      "countryOfOrigin": "JP",
-      "format": "TV_SHORT",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169080-el4sMLlqMxeI.png",
-      "airDate": "2026-07-05",
-      "ratingScore": 6.7,
-      "popularity": 4199,
-      "totalEpisodes": 12,
-      "genres": [
-        "限制级",
-        "日常"
-      ],
-      "tags": [
-        "限制级",
-        "日常",
-        "军事"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "56613"
-        },
-        {
-          "site": "anidb",
-          "id": "18188"
-        },
-        {
-          "site": "nicovideo",
-          "id": "azurlane-bisoku2",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "gamer",
-          "id": "135454",
-          "begin": "2026-07-05T16:45:00.000Z",
-          "broadcast": "R/2026-07-05T16:45:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "135454",
-          "begin": "2026-07-05T16:45:00.000Z",
-          "broadcast": "R/2026-07-05T16:45:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0305842",
-          "begin": "2026-07-05T16:15:00.000Z",
-          "broadcast": "R/2026-07-05T16:15:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29097",
-          "begin": "2026-07-05T16:15:00.000Z",
-          "broadcast": "R/2026-07-05T16:15:00.000Z/P7D"
-        },
-        {
-          "site": "tropics",
-          "id": "PLoGVqODys23BfDRQP4UbadKXkqdmZbboo",
-          "begin": "2026-07-05T16:45:06.000Z",
-          "broadcast": "R/2026-07-05T16:45:06.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "4033"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/109805/season/2"
-        },
-        {
-          "site": "prime",
-          "id": "B0H4Z8G1S4",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715383b56eb30ad03fd4e1"
-        },
-        {
-          "site": "acgnx",
-          "id": "碧藍航線"
-        },
-        {
-          "site": "anibt",
-          "id": "454083"
-        },
-        {
-          "site": "dmhy",
-          "id": "碧藍航線"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789920000
         }
       ]
     },
@@ -2940,128 +2857,6 @@
       ]
     },
     {
-      "anilistId": 177637,
-      "bgmId": 495291,
-      "title": "さよならララ",
-      "titleCn": "再见，拉拉",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-8onaQWqKW1C3.jpg",
-      "airDate": "2026-07-05",
-      "ratingScore": 7.6,
-      "popularity": 35700,
-      "totalEpisodes": 12,
-      "genres": [
-        "剧情",
-        "奇幻",
-        "恋爱"
-      ],
-      "tags": [
-        "剧情",
-        "奇幻",
-        "恋爱",
-        "女主",
-        "都市奇幻",
-        "青春成长",
-        "转生",
-        "百合",
-        "悲剧",
-        "魔女"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "58878"
-        },
-        {
-          "site": "anidb",
-          "id": "18643"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/295071"
-        },
-        {
-          "site": "nicovideo",
-          "id": "goodbyelara",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "gamer",
-          "id": "139434",
-          "begin": "2026-07-05T15:30:00.000Z",
-          "broadcast": "R/2026-07-05T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "139434",
-          "begin": "2026-07-05T15:30:00.000Z",
-          "broadcast": "R/2026-07-05T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "25-327",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0305805",
-          "begin": "2026-07-05T15:30:00.000Z",
-          "broadcast": "R/2026-07-05T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29090",
-          "begin": "2026-07-05T15:30:00.000Z",
-          "broadcast": "R/2026-07-05T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00378059",
-          "begin": "2026-07-05T00:00:00.000Z",
-          "broadcast": "R/2026-07-05T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "4015"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715383b56eb30ad03fd4dd"
-        },
-        {
-          "site": "prime",
-          "id": "B0H76XTKRR",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "acgnx",
-          "id": "再見菈菈"
-        },
-        {
-          "site": "anibt",
-          "id": "495291"
-        },
-        {
-          "site": "dmhy",
-          "id": "再見菈菈"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789918200
-        }
-      ]
-    },
-    {
       "anilistId": 178083,
       "bgmId": 499474,
       "title": "東京リベンジャーズ 三天戦争編",
@@ -3296,10 +3091,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 13,
-          "t": 1789916400
-        },
         {
           "n": 14,
           "t": 1790521200
@@ -3693,6 +3484,10 @@
         {
           "n": 23,
           "t": 1796311560
+        },
+        {
+          "n": 24,
+          "t": 1796916360
         }
       ]
     },
@@ -4223,8 +4018,8 @@
         "奇幻",
         "反英雄",
         "男主",
-        "时间回溯",
         "都市奇幻",
+        "时间回溯",
         "恶魔",
         "神明",
         "地下城",
@@ -6003,129 +5798,10 @@
         {
           "n": 9,
           "t": 1796308200
-        }
-      ]
-    },
-    {
-      "anilistId": 188139,
-      "bgmId": 545008,
-      "title": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~",
-      "titleCn": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188139-1qIJfWxym8FX.jpg",
-      "airDate": "2026-07-12",
-      "ratingScore": 8.1,
-      "popularity": 48907,
-      "totalEpisodes": 11,
-      "genres": [
-        "剧情",
-        "奇幻",
-        "恋爱"
-      ],
-      "tags": [
-        "剧情",
-        "奇幻",
-        "恋爱",
-        "女主",
-        "历史"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "61240"
         },
         {
-          "site": "anidb",
-          "id": "19226"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/286345"
-        },
-        {
-          "site": "unext",
-          "id": "SID0305826",
-          "begin": "2026-07-12T15:15:00.000Z",
-          "broadcast": "R/2026-07-12T15:15:00.000Z/P7D"
-        },
-        {
-          "site": "nicovideo",
-          "id": "futsutsuka",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "19-294",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "gamer",
-          "id": "144318",
-          "begin": "2026-07-12T15:45:00.000Z",
-          "broadcast": "R/2026-07-12T15:45:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "144318",
-          "begin": "2026-07-12T15:45:00.000Z",
-          "broadcast": "R/2026-07-12T15:45:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29128",
-          "begin": "2026-07-12T15:15:00.000Z",
-          "broadcast": "R/2026-07-12T15:15:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0H5KGTB1V",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00371881",
-          "begin": "2026-07-12T00:00:00.000Z",
-          "broadcast": "R/2026-07-12T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "netflix",
-          "id": "82931553",
-          "begin": "2026-07-11T16:00:00.000Z",
-          "broadcast": "R/2026-07-11T16:00:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "4012"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715382b56eb30ad03fd4d9"
-        },
-        {
-          "site": "acgnx",
-          "id": "惡女 不才 請多關照"
-        },
-        {
-          "site": "anibt",
-          "id": "545008"
-        },
-        {
-          "site": "dmhy",
-          "id": "惡女 不才 請多關照"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 11,
-          "t": 1789915560
+          "n": 10,
+          "t": 1796913000
         }
       ]
     },
@@ -6909,8 +6585,8 @@
       "tags": [
         "运动",
         "足球",
-        "青年向",
-        "男主"
+        "男主",
+        "青年向"
       ],
       "sites": [
         {
@@ -7102,8 +6778,8 @@
         "冒险",
         "搞笑",
         "奇幻",
-        "剑术",
-        "男主"
+        "男主",
+        "剑术"
       ],
       "sites": [
         {
@@ -7310,8 +6986,8 @@
         "动作",
         "剧情",
         "科幻",
-        "半机械人",
         "赛博朋克",
+        "半机械人",
         "反乌托邦",
         "猎奇/血腥"
       ],
@@ -8223,138 +7899,6 @@
       ]
     },
     {
-      "anilistId": 196974,
-      "bgmId": 576351,
-      "title": "黒猫と魔女の教室",
-      "titleCn": "黑猫与魔女的教室",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
-      "airDate": "2026-04-12",
-      "ratingScore": 6.7,
-      "popularity": 25210,
-      "totalEpisodes": 24,
-      "genres": [
-        "动作",
-        "搞笑",
-        "奇幻"
-      ],
-      "tags": [
-        "动作",
-        "搞笑",
-        "奇幻",
-        "女主",
-        "魔女",
-        "青春成长",
-        "少年向",
-        "傲娇"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "62171"
-        },
-        {
-          "site": "anidb",
-          "id": "19516"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/297557"
-        },
-        {
-          "site": "gamer",
-          "id": "146600",
-          "begin": "2026-04-12T15:00:00.000Z",
-          "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "146600",
-          "begin": "2026-04-12T15:00:00.000Z",
-          "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0290092",
-          "begin": "2026-04-12T15:00:00.000Z",
-          "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "nicovideo",
-          "id": "witch-classroom",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "ani_one",
-          "id": "PLC18xlbCdwtRA_zHD1Pifp0PZmw9psdU2",
-          "begin": "2026-04-12T15:00:00.000Z",
-          "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "ani_one_asia",
-          "id": "PLxSscENEp7Jh2Aq9dnBrcdmlUPfq5VQtL",
-          "begin": "2026-04-12T15:00:00.000Z",
-          "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "345-6",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00374357",
-          "begin": "2026-04-12T00:00:00.000Z",
-          "broadcast": "R/2026-04-12T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "28819",
-          "begin": "2026-04-12T15:00:00.000Z",
-          "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0GWCMYF8L",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "mikan",
-          "id": "3928"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "69db11a14b29be5e9e214edc"
-        },
-        {
-          "site": "acgnx",
-          "id": "黑貓 魔女 教室"
-        },
-        {
-          "site": "anibt",
-          "id": "576351"
-        },
-        {
-          "site": "dmhy",
-          "id": "黑貓 魔女 教室"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 4,
-      "episodes": [
-        {
-          "n": 24,
-          "t": 1789914600
-        }
-      ]
-    },
-    {
       "anilistId": 197754,
       "bgmId": 580133,
       "title": "LIAR GAME",
@@ -8461,117 +8005,6 @@
         {
           "n": 26,
           "t": 1790607600
-        }
-      ]
-    },
-    {
-      "anilistId": 198409,
-      "bgmId": 583862,
-      "title": "世界最強の後衛 ～迷宮国の新人探索者～",
-      "titleCn": "世界最强的后卫 ～迷宫国的新人探索者～",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198409-EiWJXfYnvfu4.png",
-      "airDate": "2026-07-05",
-      "ratingScore": 5.7,
-      "popularity": 29992,
-      "totalEpisodes": 12,
-      "genres": [
-        "动作",
-        "冒险",
-        "奇幻"
-      ],
-      "tags": [
-        "动作",
-        "冒险",
-        "奇幻",
-        "异世界"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "62435"
-        },
-        {
-          "site": "anidb",
-          "id": "19569"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/300267"
-        },
-        {
-          "site": "gamer",
-          "id": "147147",
-          "begin": "2026-07-05T13:00:00.000Z",
-          "broadcast": "R/2026-07-05T13:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "147147",
-          "begin": "2026-07-05T13:00:00.000Z",
-          "broadcast": "R/2026-07-05T13:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "115-132",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "muse_tw",
-          "id": "PLGgBQovNZmBU",
-          "url": "https://www.youtube.com/show/VLPLGgBQovNZmBU?sbp=KgtMS3BBdXU4dkRJY0AB",
-          "begin": "2026-07-05T13:00:06.000Z",
-          "broadcast": "R/2026-07-05T13:00:06.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29063",
-          "begin": "2026-07-05T13:00:00.000Z",
-          "broadcast": "R/2026-07-05T13:00:00.000Z/P7D"
-        },
-        {
-          "site": "viu",
-          "id": "3199359",
-          "begin": "2026-07-05T13:00:07.000Z",
-          "broadcast": "R/2026-07-05T13:00:07.000Z/P7D"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00378122",
-          "begin": "2026-07-05T00:00:00.000Z",
-          "broadcast": "R/2026-07-05T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "4004"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715381b56eb30ad03fd4d3"
-        },
-        {
-          "site": "acgnx",
-          "id": "世界 最強 後衛 迷宮 新人 探索者"
-        },
-        {
-          "site": "anibt",
-          "id": "583862"
-        },
-        {
-          "site": "dmhy",
-          "id": "世界 最強 後衛 迷宮 新人 探索者"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789909200
         }
       ]
     },
@@ -9673,6 +9106,10 @@
         {
           "n": 9,
           "t": 1796310000
+        },
+        {
+          "n": 10,
+          "t": 1796914800
         }
       ]
     },
@@ -9910,9 +9347,9 @@
         "搞笑",
         "奇幻",
         "恋爱",
-        "转生",
-        "异世界",
         "女主",
+        "异世界",
+        "转生",
         "少女向"
       ],
       "sites": [
@@ -10002,144 +9439,6 @@
       ]
     },
     {
-      "anilistId": 200637,
-      "bgmId": 598058,
-      "title": "君のことが大大大大大好きな100人の彼女 第3期",
-      "titleCn": "超超超超超喜欢你的100个女朋友 第三季",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200637-QLR5uv9SbQ69.jpg",
-      "airDate": "2026-07-05",
-      "ratingScore": 8,
-      "popularity": 42871,
-      "totalEpisodes": 12,
-      "genres": [
-        "搞笑",
-        "限制级",
-        "恋爱"
-      ],
-      "tags": [
-        "搞笑",
-        "限制级",
-        "恋爱",
-        "搞笑滑稽",
-        "恶搞/梗番",
-        "拟似家庭",
-        "校园",
-        "群像",
-        "男主",
-        "傲娇",
-        "无口/三无",
-        "百合"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "62811"
-        },
-        {
-          "site": "abema",
-          "id": "420-60",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "nicovideo",
-          "id": "hyakkano3",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "gamer",
-          "id": "130911",
-          "begin": "2026-07-05T14:00:00.000Z",
-          "broadcast": "R/2026-07-05T14:00:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0305845",
-          "begin": "2026-07-08T14:00:00.000Z",
-          "broadcast": "R/2026-07-08T14:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29114",
-          "begin": "2026-07-05T14:00:00.000Z",
-          "broadcast": "R/2026-07-05T14:00:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "3997"
-        },
-        {
-          "site": "prime",
-          "id": "B0H4CR3CTD",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "muse_tw",
-          "id": "PLN1GNNGfSwtw",
-          "url": "https://www.youtube.com/show/VLPLN1GNNGfSwtw?season=3&sbp=CgEzGgAqCzRBMnVHdGx2d1NBQAFKDVBTVDRRNnp5bUx1Y00%253D",
-          "begin": "2026-07-05T14:00:19.000Z",
-          "broadcast": "R/2026-07-05T14:00:19.000Z/P7D"
-        },
-        {
-          "site": "viu",
-          "id": "3199884",
-          "begin": "2026-07-05T14:00:19.000Z",
-          "broadcast": "R/2026-07-05T14:00:19.000Z/P7D"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GNVHKN933",
-          "begin": "2023-10-08T00:00:00.000Z",
-          "broadcast": "R/2023-10-08T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/223564/season/1/episode/25"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715381b56eb30ad03fd4d5"
-        },
-        {
-          "site": "anidb",
-          "id": "62811"
-        },
-        {
-          "site": "acgnx",
-          "id": "超 喜歡你 個 女朋友"
-        },
-        {
-          "site": "anibt",
-          "id": "598058"
-        },
-        {
-          "site": "dmhy",
-          "id": "超 喜歡你 個 女朋友"
-        },
-        {
-          "site": "muse_hk",
-          "id": "PLZG68aJG70_E",
-          "url": "https://www.youtube.com/show/VLPLZG68aJG70_E?sbp=Kgt5VmxHZzNIbkphb0AB",
-          "begin": "2026-07-05T14:00:19.000Z",
-          "broadcast": "R/2026-07-05T14:00:19.000Z/P7D"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789911000
-        }
-      ]
-    },
-    {
       "anilistId": 202079,
       "bgmId": 605533,
       "title": "おじさんはカワイイものがお好き。",
@@ -10161,8 +9460,8 @@
         "日常",
         "治愈",
         "男主",
-        "办公室",
-        "少女向"
+        "少女向",
+        "办公室"
       ],
       "sites": [
         {
@@ -11564,59 +10863,6 @@
       ]
     },
     {
-      "anilistId": 205116,
-      "bgmId": 619052,
-      "title": "あはれ！名作くん (2026)",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "TV_SHORT",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205116-160t0jWDkIdK.png",
-      "airDate": "2026-07-05",
-      "ratingScore": 4.1,
-      "popularity": 98,
-      "totalEpisodes": 12,
-      "genres": [
-        "搞笑"
-      ],
-      "tags": [
-        "搞笑"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "63219"
-        },
-        {
-          "site": "unext",
-          "id": "SID0308078",
-          "begin": "2026-07-06T03:00:00.000Z",
-          "broadcast": "R/2026-07-06T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29126",
-          "begin": "2026-07-06T03:00:00.000Z",
-          "broadcast": "R/2026-07-06T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0H7BM31NP",
-          "begin": "",
-          "broadcast": ""
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789919100
-        }
-      ]
-    },
-    {
       "anilistId": 205772,
       "bgmId": 621449,
       "title": "キャンディーカリエス",
@@ -11723,7 +10969,7 @@
       "titleCn": "和没有信徒的女神大人一起攻略异世界",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg",
       "airDate": "2026-10-11",
       "ratingScore": 0,
@@ -12059,6 +11305,10 @@
         {
           "n": 10,
           "t": 1796301000
+        },
+        {
+          "n": 11,
+          "t": 1796905800
         }
       ]
     },
@@ -12335,8 +11585,8 @@
         "限制级",
         "恋爱",
         "超自然",
-        "男主",
-        "校园"
+        "校园",
+        "男主"
       ],
       "sites": [
         {
@@ -12399,7 +11649,7 @@
       "titleCn": "龙珠超 比鲁斯",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg",
       "airDate": "2026-10-11",
       "ratingScore": 0,
@@ -13145,10 +12395,10 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "搞笑滑稽",
-        "女主",
-        "男主",
         "魔物娘",
+        "搞笑滑稽",
+        "男主",
+        "女主",
         "恶魔"
       ],
       "sites": [
@@ -13374,11 +12624,11 @@
       "tags": [
         "魔法少女",
         "音乐",
-        "校园",
         "都市奇幻",
         "女主",
         "青春成长",
         "少儿向",
+        "校园",
         "外星人",
         "偶像"
       ],
@@ -14276,8 +13526,8 @@
         "恋爱",
         "武术格斗",
         "三角恋",
-        "校园",
-        "同居"
+        "同居",
+        "校园"
       ],
       "sites": [
         {
@@ -14843,9 +14093,9 @@
         "动作",
         "搞笑",
         "奇幻",
-        "旅行",
-        "虚拟世界",
         "女主",
+        "虚拟世界",
+        "旅行",
         "恶搞/梗番"
       ],
       "sites": [
@@ -15145,6 +14395,10 @@
         {
           "n": 10,
           "t": 1796310000
+        },
+        {
+          "n": 11,
+          "t": 1796914800
         }
       ]
     },
@@ -16045,111 +15299,6 @@
       ]
     },
     {
-      "anilistId": 213506,
-      "bgmId": 637339,
-      "title": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
-      "titleCn": "北斗神拳 拳王军杂兵们的挽歌 第二季",
-      "countryOfOrigin": "JP",
-      "format": "TV_SHORT",
-      "status": "RELEASING",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213506-vr9kwJjMvXV8.jpg",
-      "airDate": "2026-07-06",
-      "ratingScore": 6,
-      "popularity": 343,
-      "totalEpisodes": 0,
-      "genres": [
-        "搞笑"
-      ],
-      "tags": [
-        "搞笑"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "64378"
-        },
-        {
-          "site": "ani_one",
-          "id": "PLOXvq1E702ZQ",
-          "begin": "2026-07-06T11:05:06.000Z",
-          "broadcast": "R/2026-07-06T11:05:06.000Z/P7D"
-        },
-        {
-          "site": "ani_one_asia",
-          "id": "PLcPnuVJ3jm6A",
-          "begin": "2026-07-06T11:05:06.000Z",
-          "broadcast": "R/2026-07-06T11:05:06.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "4010"
-        },
-        {
-          "site": "prime",
-          "id": "B0GCLNZM7Z",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0251557",
-          "begin": "2026-07-06T11:05:06.000Z",
-          "broadcast": "R/2026-07-06T11:05:06.000Z/P7D"
-        },
-        {
-          "site": "nicovideo",
-          "id": "zakoban",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "117-42",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "danime",
-          "id": "28593",
-          "begin": "2026-07-06T11:05:06.000Z",
-          "broadcast": "R/2026-07-06T11:05:06.000Z/P7D"
-        },
-        {
-          "site": "gamer",
-          "id": "148359",
-          "begin": "2026-07-06T11:05:00.000Z",
-          "broadcast": "R/2026-07-06T11:05:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "148359",
-          "begin": "2026-07-06T11:05:00.000Z",
-          "broadcast": "R/2026-07-06T11:05:00.000Z/P7D"
-        },
-        {
-          "site": "acgnx",
-          "id": "北斗神拳"
-        },
-        {
-          "site": "anibt",
-          "id": "637339"
-        },
-        {
-          "site": "dmhy",
-          "id": "北斗神拳"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1789916400
-        }
-      ]
-    },
-    {
       "anilistId": 213658,
       "bgmId": 664395,
       "title": "ダイヤのA actⅡ -Second Season- 第2クール",
@@ -16602,6 +15751,10 @@
         {
           "n": 10,
           "t": 1796309760
+        },
+        {
+          "n": 11,
+          "t": 1796914560
         }
       ]
     },
@@ -16798,6 +15951,10 @@
         {
           "n": 19,
           "t": 1796608800
+        },
+        {
+          "n": 20,
+          "t": 1796914800
         }
       ]
     },
@@ -17274,8 +16431,8 @@
       "tags": [
         "冒险",
         "奇幻",
-        "男主",
-        "美食料理"
+        "美食料理",
+        "男主"
       ],
       "sites": [
         {
@@ -17568,6 +16725,36 @@
         {
           "n": 10,
           "t": 1796518800
+        }
+      ]
+    },
+    {
+      "anilistId": 217941,
+      "bgmId": 710854,
+      "title": "人妻と寝取られ旅行",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217941-olQB62EBXrqS.png",
+      "airDate": "2026-12-01",
+      "ratingScore": 0,
+      "popularity": 50,
+      "totalEpisodes": 0,
+      "genres": [
+        "里番"
+      ],
+      "tags": [
+        "里番"
+      ],
+      "sites": [],
+      "isAdult": true,
+      "startYear": 2026,
+      "startMonth": 12,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1796914800
         }
       ]
     }

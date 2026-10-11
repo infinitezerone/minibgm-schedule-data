@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-10-11T10:41:52.738Z",
+  "generatedAt": "2026-10-11T16:05:33.454Z",
   "total": 131,
   "mappedTotal": 131,
   "items": [
@@ -18,7 +18,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149118-AOQb0xuTssGl.jpg",
       "airDate": "2025-04-04",
       "ratingScore": 7.8,
-      "popularity": 132161,
+      "popularity": 132249,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -986,7 +986,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153554-hHYe9aV6Gvlv.jpg",
       "airDate": "2025-04-04",
       "ratingScore": 6.4,
-      "popularity": 68554,
+      "popularity": 68603,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -1328,7 +1328,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143598-FCvAhQJLllSP.png",
       "airDate": "2025-03-31",
       "ratingScore": 7.1,
-      "popularity": 56830,
+      "popularity": 56844,
       "totalEpisodes": 24,
       "genres": [
         "动作",
@@ -1574,7 +1574,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143337-2uPE0ywVcz9X.jpg",
       "airDate": "2025-04-05",
       "ratingScore": 6.7,
-      "popularity": 49821,
+      "popularity": 49856,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -2334,7 +2334,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143200-42OaDCS6VEy3.png",
       "airDate": "2025-04-07",
       "ratingScore": 7.1,
-      "popularity": 37725,
+      "popularity": 37740,
       "totalEpisodes": 26,
       "genres": [
         "剧情",
@@ -3776,7 +3776,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150654-pgima1BrY7N0.jpg",
       "airDate": "2025-04-09",
       "ratingScore": 6.4,
-      "popularity": 24400,
+      "popularity": 24408,
       "totalEpisodes": 18,
       "genres": [
         "动作",
@@ -4488,8 +4488,7 @@
         "女主",
         "治愈",
         "青年向",
-        "绘画/创作",
-        "百合"
+        "绘画/创作"
       ],
       "sites": [
         {
@@ -5528,7 +5527,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158287-4RDt0M820Ays.jpg",
       "airDate": "2025-04-07",
       "ratingScore": 5.1,
-      "popularity": 4646,
+      "popularity": 4649,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -5638,7 +5637,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/9a/37/405212_2LgDe.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 5.7,
-      "popularity": 4474,
+      "popularity": 4476,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"
@@ -5789,7 +5788,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bf/ca/336268_ltiod.jpg",
       "airDate": "2025-05-23",
       "ratingScore": 7,
-      "popularity": 3813,
+      "popularity": 3815,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8503,7 +8502,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/b8/466762_9Cs2a.jpg",
       "airDate": "2025-04-01",
       "ratingScore": 5.5,
-      "popularity": 139,
+      "popularity": 140,
       "totalEpisodes": 48,
       "genres": [
         "国产动画"
@@ -8529,6 +8528,48 @@
         "龙傲天",
         "无脑爽",
         "2025"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 403747,
+      "title": "克金玩家",
+      "titleCn": "克金玩家",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/6e/32/403747_Fz3Sx.jpg",
+      "airDate": "2025-06-10",
+      "ratingScore": 4.3,
+      "popularity": 134,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "国漫",
+        "3D",
+        "漫画改",
+        "晴祥文化",
+        "WEB",
+        "2025年6月",
+        "2025",
+        "网游",
+        "国产连载动画",
+        "网文改",
+        "2025年7月",
+        "2025年",
+        "抽象",
+        "youku",
+        "梗",
+        "土",
+        "4",
+        "奇幻",
+        "战斗",
+        "打发时间"
       ],
       "sites": [],
       "episodes": []
@@ -8568,48 +8609,6 @@
         "凡人修仙传",
         "忘语",
         "6"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 403747,
-      "title": "克金玩家",
-      "titleCn": "克金玩家",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/6e/32/403747_Fz3Sx.jpg",
-      "airDate": "2025-06-10",
-      "ratingScore": 4.3,
-      "popularity": 133,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "国漫",
-        "3D",
-        "漫画改",
-        "晴祥文化",
-        "WEB",
-        "2025年6月",
-        "2025",
-        "网游",
-        "国产连载动画",
-        "网文改",
-        "2025年7月",
-        "2025年",
-        "抽象",
-        "youku",
-        "梗",
-        "土",
-        "4",
-        "奇幻",
-        "战斗",
-        "打发时间"
       ],
       "sites": [],
       "episodes": []

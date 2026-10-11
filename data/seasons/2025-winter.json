@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-10-11T10:41:29.580Z",
+  "generatedAt": "2026-10-11T16:05:11.283Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -3543,7 +3543,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136381-t6c5rfKjnqqd.jpg",
       "airDate": "2025-03-18",
       "ratingScore": 7.9,
-      "popularity": 24426,
+      "popularity": 24435,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -4544,7 +4544,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145740-KtUZ6O59DaDq.jpg",
       "airDate": "2025-01-01",
       "ratingScore": 6.3,
-      "popularity": 13501,
+      "popularity": 13502,
       "totalEpisodes": 13,
       "genres": [
         "动作"
@@ -4826,7 +4826,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154392-I35rrWRu9KlY.jpg",
       "airDate": "2025-01-30",
       "ratingScore": 6.1,
-      "popularity": 11713,
+      "popularity": 11718,
       "totalEpisodes": 1,
       "genres": [
         "冒险",
@@ -4877,8 +4877,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154064-qYnRF4BQsuM6.png",
       "airDate": "2025-01-30",
-      "ratingScore": 6.3,
-      "popularity": 10655,
+      "ratingScore": 6.2,
+      "popularity": 10656,
       "totalEpisodes": 1,
       "genres": [
         "恋爱",
@@ -5240,15 +5240,15 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/b7/383308_COQIc.jpg",
       "airDate": "2025-01-29",
       "ratingScore": 6.4,
-      "popularity": 6873,
+      "popularity": 6875,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "剧场版",
-        "原创",
         "战斗",
+        "原创",
         "2025",
         "奇幻",
         "动画电影",
@@ -7212,7 +7212,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/0d/50/504386_AR67Y.jpg",
       "airDate": "2025-01-29",
       "ratingScore": 5.8,
-      "popularity": 260,
+      "popularity": 261,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7230,22 +7230,21 @@
         "方特动漫",
         "3D",
         "林永长",
-        "国漫",
         "广东省",
+        "国漫",
+        "童年",
+        "2020-2029",
+        "现代国产动画剧场版",
+        "末世",
         "电影",
         "方特",
-        "徐芸",
-        "影动备字〔2024〕第079号",
-        "动画电影",
-        "大陆",
-        "末世",
-        "现代国产动画剧场版",
-        "战斗",
-        "异世界",
         "穿越",
-        "2020-2029",
-        "童年",
-        "灾难"
+        "战斗",
+        "动画片",
+        "大陆院线",
+        "灾难",
+        "异世界",
+        "刘圳杰"
       ],
       "sites": [],
       "episodes": []
