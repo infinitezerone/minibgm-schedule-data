@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-10T15:42:23.211Z",
+  "generatedAt": "2026-10-11T00:41:08.970Z",
   "total": 111,
   "mappedTotal": 111,
   "items": [
@@ -63,7 +63,8 @@
         "男主",
         "少年向",
         "恶魔",
-        "战争"
+        "战争",
+        "时间回溯"
       ],
       "sites": [
         {
@@ -550,7 +551,8 @@
         "搞笑滑稽",
         "校园",
         "女主",
-        "男主"
+        "男主",
+        "少年向"
       ],
       "sites": [
         {
@@ -2259,7 +2261,9 @@
       "tags": [
         "动作",
         "剧情",
-        "超自然"
+        "超自然",
+        "青年向",
+        "男主"
       ],
       "sites": [
         {
@@ -2851,7 +2855,9 @@
       "tags": [
         "恐怖",
         "悬疑",
-        "超自然"
+        "超自然",
+        "妖怪",
+        "都市奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -3040,9 +3046,9 @@
       ],
       "tags": [
         "日常",
-        "治愈",
         "女主",
         "社团活动",
+        "治愈",
         "旅行",
         "大学"
       ],
@@ -3453,7 +3459,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.7,
-      "popularity": 396,
+      "popularity": 399,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -3472,14 +3478,14 @@
         "续集",
         "未定档",
         "寒木春华",
+        "奇幻",
         "◆TV◆",
-        "3",
-        "11",
-        "国产动画",
         "萌",
+        "11",
         "续作",
-        "泡面",
-        "奇幻"
+        "国产动画",
+        "3",
+        "泡面"
       ],
       "sites": [],
       "episodes": []
@@ -3496,7 +3502,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7.7,
-      "popularity": 279,
+      "popularity": 280,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -3592,7 +3598,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 211,
+      "popularity": 213,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -3657,7 +3663,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 170,
+      "popularity": 171,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"

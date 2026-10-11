@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-10-10T15:40:22.936Z",
+  "generatedAt": "2026-10-11T00:39:18.223Z",
   "total": 131,
   "mappedTotal": 131,
   "items": [
@@ -5638,7 +5638,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/9a/37/405212_2LgDe.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 5.7,
-      "popularity": 4472,
+      "popularity": 4474,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"
@@ -5670,7 +5670,8 @@
         "科幻",
         "纸飞机动画",
         "2025年",
-        "凸变英雄"
+        "凸变英雄",
+        "3D"
       ],
       "sites": [
         {
@@ -5788,7 +5789,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bf/ca/336268_ltiod.jpg",
       "airDate": "2025-05-23",
       "ratingScore": 7,
-      "popularity": 3811,
+      "popularity": 3812,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -5810,17 +5811,17 @@
         "TV",
         "2025年4月",
         "2024",
-        "国产动画",
         "2025年",
-        "剧情",
         "未定档",
+        "国产动画",
+        "剧情",
         "修仙",
         "国创",
-        "2025年5月",
-        "2023",
-        "续集",
         "续作",
-        "冒险"
+        "好看",
+        "2023",
+        "冒险",
+        "2025年5月"
       ],
       "sites": [],
       "episodes": []
@@ -6382,7 +6383,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ed/4a/345824_VXxo5.jpg",
       "airDate": "2025-06-28",
       "ratingScore": 6.7,
-      "popularity": 2609,
+      "popularity": 2610,
       "totalEpisodes": 13,
       "genres": [
         "国产动画"

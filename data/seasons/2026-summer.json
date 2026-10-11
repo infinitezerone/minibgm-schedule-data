@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-10T15:42:07.143Z",
+  "generatedAt": "2026-10-11T00:40:54.219Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -598,6 +598,7 @@
         "少年向",
         "妖怪",
         "男主",
+        "神话",
         "都市奇幻",
         "群像"
       ],
@@ -7263,7 +7264,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 2817,
+      "popularity": 2821,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7291,11 +7292,11 @@
         "2026年",
         "国创",
         "记忆管理局",
+        "剧集",
+        "Web动画",
         "架空",
-        "治愈",
-        "2026夏",
-        "中国动画",
-        "作画"
+        "作画",
+        "治愈"
       ],
       "sites": [],
       "episodes": []
@@ -7634,31 +7635,6 @@
       "episodes": []
     },
     {
-      "anilistId": 213961,
-      "bgmId": 658254,
-      "title": "ようじょしぇんき2",
-      "titleCn": "迷你幼女战记2",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
-      "airDate": "2026-07-09",
-      "ratingScore": 6.5,
-      "popularity": 978,
-      "totalEpisodes": 12,
-      "genres": [
-        "搞笑",
-        "奇幻"
-      ],
-      "tags": [
-        "搞笑",
-        "奇幻"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": null,
       "bgmId": 492481,
       "title": "八仙！",
@@ -7670,7 +7646,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 977,
+      "popularity": 980,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7696,13 +7672,38 @@
         "2026年7月",
         "小说改",
         "国产动画",
+        "8分",
         "8",
         "国产动画电影",
         "玄幻",
-        "8分",
-        "高8",
-        "现代国产动画剧场版",
-        "6分"
+        "Pearl",
+        "架空世界",
+        "影动备字〔2024〕第043号"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 213961,
+      "bgmId": 658254,
+      "title": "ようじょしぇんき2",
+      "titleCn": "迷你幼女战记2",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
+      "airDate": "2026-07-09",
+      "ratingScore": 6.5,
+      "popularity": 978,
+      "totalEpisodes": 12,
+      "genres": [
+        "搞笑",
+        "奇幻"
+      ],
+      "tags": [
+        "搞笑",
+        "奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -8187,7 +8188,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
       "ratingScore": 6.6,
-      "popularity": 455,
+      "popularity": 456,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8227,8 +8228,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
-      "ratingScore": 5,
-      "popularity": 451,
+      "ratingScore": 4.9,
+      "popularity": 453,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8241,24 +8242,24 @@
         "奇幻",
         "李豪凌",
         "WEB",
-        "国漫",
         "时光代理人",
-        "推理",
+        "国漫",
         "绘梦",
+        "推理",
         "TV",
         "续作",
         "腐",
         "国创",
+        "Media",
+        "漫画改",
+        "番",
+        "2026年",
+        "CMC",
+        "重庆后生动画电影有限公司",
         "国产动画",
         "2026年8月",
-        "重庆后生动画电影有限公司",
-        "番",
         "异能",
-        "Media",
-        "2分",
-        "2026年",
-        "漫画改",
-        "CMC"
+        "2分"
       ],
       "sites": [],
       "episodes": []
@@ -8826,7 +8827,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
       "airDate": "2026-07-08",
       "ratingScore": 5.8,
-      "popularity": 119,
+      "popularity": 120,
       "totalEpisodes": 9,
       "genres": [
         "国产动画"
@@ -8931,10 +8932,10 @@
       "tags": [
         "中日合拍",
         "2026",
-        "WEB",
         "2026年7月",
-        "奇幻",
+        "WEB",
         "国产或合作动画",
+        "奇幻",
         "奇幻战斗",
         "子供",
         "腾讯",
