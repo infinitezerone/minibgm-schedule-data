@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-11T16:08:29.894Z",
+  "generatedAt": "2026-10-12T00:58:04.111Z",
   "total": 111,
   "mappedTotal": 111,
   "items": [
@@ -216,8 +216,8 @@
         "日常",
         "运动",
         "校园",
-        "治愈",
         "男主",
+        "治愈",
         "青春成长",
         "社团活动",
         "篮球",
@@ -372,8 +372,8 @@
         "悬疑",
         "超自然",
         "男主",
-        "旅行",
-        "BL"
+        "BL",
+        "旅行"
       ],
       "sites": [
         {
@@ -1399,6 +1399,7 @@
         "搞笑",
         "恋爱",
         "武术格斗",
+        "搞笑滑稽",
         "三角恋",
         "校园",
         "同居"
@@ -2265,7 +2266,8 @@
         "生存",
         "旅行",
         "女主",
-        "少年向"
+        "少年向",
+        "悲剧"
       ],
       "sites": [
         {
@@ -3340,7 +3342,7 @@
       "format": "TV",
       "status": "RELEASING",
       "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209032-MD8TDzYtFoL0.png",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209032-R0gP5IFdk7Vd.jpg",
       "airDate": "2026-10-04",
       "ratingScore": 6.9,
       "popularity": 1333,
@@ -3459,7 +3461,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.7,
-      "popularity": 413,
+      "popularity": 415,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -3478,14 +3480,14 @@
         "续集",
         "未定档",
         "寒木春华",
+        "11",
+        "国产动画",
         "奇幻",
         "◆TV◆",
-        "萌",
-        "11",
-        "续作",
-        "国产动画",
+        "泡面",
         "3",
-        "泡面"
+        "续作",
+        "萌"
       ],
       "sites": [],
       "episodes": []
@@ -3502,7 +3504,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7.7,
-      "popularity": 288,
+      "popularity": 289,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -3564,6 +3566,48 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 507820,
+      "title": "大王饶命 第三季",
+      "titleCn": "大王饶命 第三季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
+      "airDate": "2026-10-03",
+      "ratingScore": 7.1,
+      "popularity": 220,
+      "totalEpisodes": 16,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB",
+        "大火鸟文化",
+        "小说改",
+        "异能",
+        "2026年10月",
+        "搞笑",
+        "战斗",
+        "网文改",
+        "玄幻",
+        "厕纸",
+        "喜欢！",
+        "2026补",
+        "coocaa",
+        "国产动画",
+        "奇幻",
+        "2026",
+        "表番",
+        "2D",
+        "未上映",
+        "TV"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 216171,
       "bgmId": 698620,
       "title": "真面目なキミにハマるカラダ THE ANIMATION",
@@ -3582,48 +3626,6 @@
       ],
       "tags": [
         "里番"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 507820,
-      "title": "大王饶命 第三季",
-      "titleCn": "大王饶命 第三季",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
-      "airDate": "2026-10-03",
-      "ratingScore": 7.1,
-      "popularity": 219,
-      "totalEpisodes": 16,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "小说改",
-        "WEB",
-        "大火鸟文化",
-        "异能",
-        "2026年10月",
-        "搞笑",
-        "战斗",
-        "网文改",
-        "厕纸",
-        "玄幻",
-        "喜欢！",
-        "2026补",
-        "coocaa",
-        "国产动画",
-        "奇幻",
-        "2026",
-        "表番",
-        "2D",
-        "未上映",
-        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -3763,7 +3765,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 154,
+      "popularity": 157,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -4087,7 +4089,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
       "airDate": "2026-10-05",
       "ratingScore": 3.8,
-      "popularity": 32,
+      "popularity": 33,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
@@ -4096,11 +4098,11 @@
         "WEB",
         "乐子",
         "原创",
-        "猫已巴",
-        "蜡笔小嘉",
-        "WEBA",
         "国产动画",
-        "2026"
+        "2026",
+        "WEBA",
+        "猫已巴",
+        "蜡笔小嘉"
       ],
       "sites": [],
       "episodes": []
