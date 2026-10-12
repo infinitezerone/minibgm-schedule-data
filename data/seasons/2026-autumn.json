@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-12T11:47:46.902Z",
+  "generatedAt": "2026-10-12T19:34:39.913Z",
   "total": 112,
   "mappedTotal": 112,
   "items": [
@@ -1148,7 +1148,7 @@
       "airDate": "2026-10-04",
       "ratingScore": 7,
       "popularity": 20220,
-      "totalEpisodes": 0,
+      "totalEpisodes": 13,
       "genres": [
         "动作",
         "搞笑",
@@ -1341,7 +1341,8 @@
         "异世界",
         "转生",
         "搞笑滑稽",
-        "男主"
+        "男主",
+        "同居"
       ],
       "sites": [
         {
@@ -3810,8 +3811,8 @@
         "日常",
         "女主",
         "社团活动",
-        "治愈",
         "旅行",
+        "治愈",
         "大学"
       ],
       "sites": [
@@ -4263,7 +4264,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.7,
-      "popularity": 421,
+      "popularity": 425,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -4282,14 +4283,14 @@
         "续集",
         "未定档",
         "寒木春华",
-        "◆TV◆",
-        "3",
-        "11",
-        "国产动画",
-        "萌",
-        "续作",
         "泡面",
-        "奇幻"
+        "奇幻",
+        "续作",
+        "萌",
+        "国产动画",
+        "11",
+        "◆TV◆",
+        "3"
       ],
       "sites": [],
       "episodes": []
@@ -4313,31 +4314,31 @@
       ],
       "tags": [
         "漫画改",
+        "搞笑",
         "奇幻",
         "TV",
-        "搞笑",
-        "战斗",
-        "2026",
-        "国漫",
         "WEB",
+        "国漫",
+        "2026",
+        "战斗",
         "武侠",
         "未上映",
-        "2025",
-        "历史",
-        "推理",
-        "腾讯",
         "国产或合作动画",
-        "好船动画",
-        "好传动画",
-        "2020-2029",
-        "国内番剧",
-        "动作",
-        "大理寺日志",
-        "古风",
+        "腾讯",
+        "历史",
+        "2025",
+        "推理",
         "3",
-        "中国动画",
+        "国内番剧",
         "漫改",
-        "未定档"
+        "2020-2029",
+        "中国动画",
+        "好船动画",
+        "古风",
+        "未定档",
+        "动作",
+        "好传动画",
+        "大理寺日志"
       ],
       "sites": [],
       "episodes": []
@@ -4368,6 +4369,48 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 507820,
+      "title": "大王饶命 第三季",
+      "titleCn": "大王饶命 第三季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
+      "airDate": "2026-10-03",
+      "ratingScore": 7.1,
+      "popularity": 227,
+      "totalEpisodes": 16,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "小说改",
+        "WEB",
+        "大火鸟文化",
+        "异能",
+        "2026年10月",
+        "搞笑",
+        "网文改",
+        "战斗",
+        "厕纸",
+        "玄幻",
+        "国产动画",
+        "表番",
+        "2D",
+        "未上映",
+        "coocaa",
+        "喜欢！",
+        "2026",
+        "TV",
+        "奇幻",
+        "2026补"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 216171,
       "bgmId": 698620,
       "title": "真面目なキミにハマるカラダ THE ANIMATION",
@@ -4386,48 +4429,6 @@
       ],
       "tags": [
         "里番"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 507820,
-      "title": "大王饶命 第三季",
-      "titleCn": "大王饶命 第三季",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
-      "airDate": "2026-10-03",
-      "ratingScore": 7.1,
-      "popularity": 223,
-      "totalEpisodes": 16,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "小说改",
-        "WEB",
-        "大火鸟文化",
-        "异能",
-        "2026年10月",
-        "搞笑",
-        "网文改",
-        "战斗",
-        "厕纸",
-        "玄幻",
-        "2D",
-        "未上映",
-        "2026",
-        "表番",
-        "coocaa",
-        "TV",
-        "奇幻",
-        "喜欢！",
-        "2026补",
-        "国产动画"
       ],
       "sites": [],
       "episodes": []
@@ -4567,7 +4568,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 159,
+      "popularity": 160,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -4890,8 +4891,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1c/b4/390200_Z9jPp.jpg",
       "airDate": "2026-10-05",
-      "ratingScore": 3.8,
-      "popularity": 34,
+      "ratingScore": 3.3,
+      "popularity": 35,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
@@ -4957,6 +4958,33 @@
         "原创",
         "奇幻",
         "TV"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 712000,
+      "title": "牧神记 伍",
+      "titleCn": "牧神记5",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+      "airDate": "2026-10-18",
+      "ratingScore": 0,
+      "popularity": 7,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "厕纸",
+        "WEB",
+        "玄幻",
+        "战斗",
+        "小说改"
       ],
       "sites": [],
       "episodes": []
@@ -5083,32 +5111,6 @@
       "tags": [
         "英国",
         "剧场版"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 712000,
-      "title": "牧神记 伍",
-      "titleCn": "牧神记5",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-      "airDate": "2026-10-18",
-      "ratingScore": 0,
-      "popularity": 2,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB",
-        "小说改",
-        "玄幻",
-        "战斗"
       ],
       "sites": [],
       "episodes": []

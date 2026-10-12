@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-10-12T11:47:15.071Z",
+  "generatedAt": "2026-10-12T19:34:04.204Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -7700,7 +7700,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113555-2V56Q1SZ3zpU.jpg",
       "airDate": "2026-05-22",
       "ratingScore": 6.8,
-      "popularity": 3487,
+      "popularity": 3490,
       "totalEpisodes": 3,
       "genres": [
         "机战"
@@ -8669,7 +8669,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b9/99/577226_CLc9Z.jpg",
       "airDate": "2026-06-20",
       "ratingScore": 6.8,
-      "popularity": 340,
+      "popularity": 341,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
@@ -8718,7 +8718,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/12/ec/406488_YUXzx.jpg",
       "airDate": "2026-04-23",
       "ratingScore": 6.4,
-      "popularity": 312,
+      "popularity": 313,
       "totalEpisodes": 19,
       "genres": [
         "国产动画"
@@ -8740,12 +8740,12 @@
         "TV",
         "万维猫",
         "bilibili",
-        "王裕仁",
-        "奇幻",
-        "7",
-        "，",
         "复仇",
-        "一般"
+        "，",
+        "一般",
+        "奇幻",
+        "王裕仁",
+        "7"
       ],
       "sites": [],
       "episodes": []
@@ -8762,7 +8762,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/06/9c/520299_IS833.jpg",
       "airDate": "2026-06-25",
       "ratingScore": 6.1,
-      "popularity": 299,
+      "popularity": 300,
       "totalEpisodes": 15,
       "genres": [
         "国产动画"
@@ -8970,7 +8970,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/2f/577199_YH31g.jpg",
       "airDate": "2026-05-01",
       "ratingScore": 6.7,
-      "popularity": 192,
+      "popularity": 193,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -9006,7 +9006,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/49/11/453309_597ky.jpg",
       "airDate": "2026-05-05",
       "ratingScore": 6.8,
-      "popularity": 189,
+      "popularity": 191,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"

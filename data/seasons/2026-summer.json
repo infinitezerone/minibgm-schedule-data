@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-12T11:47:31.931Z",
+  "generatedAt": "2026-10-12T19:34:22.522Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -966,7 +966,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 61779,
+      "popularity": 61888,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -6255,7 +6255,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8052,
+      "popularity": 8056,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7290,7 +7290,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 2846,
+      "popularity": 2857,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7318,11 +7318,11 @@
         "2026年",
         "国创",
         "记忆管理局",
-        "治愈",
-        "剧集",
-        "作画",
-        "记忆",
-        "架空"
+        "中国动画",
+        "2026夏",
+        "日本",
+        "Web动画",
+        "7月"
       ],
       "sites": [],
       "episodes": []
@@ -7672,7 +7672,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 993,
+      "popularity": 994,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -8214,7 +8214,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
       "ratingScore": 6.6,
-      "popularity": 461,
+      "popularity": 463,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8224,21 +8224,21 @@
         "恋爱",
         "漫画改",
         "国漫",
-        "奇幻",
         "搞笑",
+        "奇幻",
         "WEB",
         "2025",
         "TV",
         "漫改",
-        "2026",
         "国产动画",
-        "非常好看",
-        "可爱",
-        "国创",
-        "补",
+        "2026",
         "玄幻",
+        "补",
+        "可爱",
+        "绘梦",
         "腾讯",
-        "绘梦"
+        "国创",
+        "非常好看"
       ],
       "sites": [],
       "episodes": []
@@ -8255,7 +8255,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 4.9,
-      "popularity": 456,
+      "popularity": 457,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8729,8 +8729,8 @@
       ],
       "tags": [
         "原创",
-        "国漫",
         "神漫文化",
+        "国漫",
         "3D",
         "WEB",
         "喜剧",
@@ -8739,11 +8739,11 @@
         "2026",
         "2026年7月",
         "神漫",
-        "二",
-        "欢乐向",
-        "平板观看",
+        "粗口有点多，还打马赛克不过有点意思，有看点能看看的",
         "搞笑",
-        "粗口有点多，还打马赛克不过有点意思，有看点能看看的"
+        "欢乐向",
+        "二",
+        "平板观看"
       ],
       "sites": [],
       "episodes": []
@@ -8760,7 +8760,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/2f/491578_whDt3.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 6.2,
-      "popularity": 143,
+      "popularity": 144,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
@@ -9140,8 +9140,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/07/2d/552778_I4uFv.jpg",
       "airDate": "2026-08-16",
-      "ratingScore": 4.8,
-      "popularity": 53,
+      "ratingScore": 4.7,
+      "popularity": 54,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -9151,8 +9151,8 @@
         "小说改",
         "中影年年",
         "WEB",
-        "2026",
         "国漫",
+        "2026",
         "2026年8月",
         "异闻",
         "民俗",
@@ -9206,7 +9206,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/26/2c/507780_i0FZ0.jpg",
       "airDate": "2026-08-07",
       "ratingScore": 5.1,
-      "popularity": 28,
+      "popularity": 29,
       "totalEpisodes": 5,
       "genres": [
         "国产动画"
@@ -9217,13 +9217,13 @@
         "奇幻",
         "寇司猫",
         "WEB",
-        "中国风",
         "国创",
+        "中国风",
         "治愈",
-        "意识流",
         "2D",
-        "5",
-        "治郁"
+        "治郁",
+        "意识流",
+        "5"
       ],
       "sites": [],
       "episodes": []
