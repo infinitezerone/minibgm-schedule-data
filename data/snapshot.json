@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-13T11:31:21.405Z",
+  "generatedAt": "2026-10-13T17:16:39.662Z",
   "window": {
-    "from": 1790076575,
-    "to": 1797074975
+    "from": 1790097252,
+    "to": 1797095652
   },
   "items": [
     {
@@ -729,7 +729,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 61888,
+      "popularity": 61997,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -808,7 +808,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8056,
+      "popularity": 8055,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -908,8 +908,8 @@
       "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112936-MOPqLdKu7dgJ.jpg",
       "airDate": "2020-01-01",
-      "ratingScore": 7.1,
-      "popularity": 4976,
+      "ratingScore": 7,
+      "popularity": 4978,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -943,7 +943,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
       "airDate": "2019-05-04",
       "ratingScore": 7.9,
-      "popularity": 14803,
+      "popularity": 14809,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -1038,121 +1038,6 @@
         {
           "n": 395,
           "t": 1796547600
-        }
-      ]
-    },
-    {
-      "anilistId": 128757,
-      "bgmId": 325767,
-      "title": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
-      "titleCn": "感谢对战。 ～大小姐才不玩格斗游戏～",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
-      "airDate": "2026-07-07",
-      "ratingScore": 7.5,
-      "popularity": 29957,
-      "totalEpisodes": 12,
-      "genres": [
-        "剧情"
-      ],
-      "tags": [
-        "剧情",
-        "游戏",
-        "女主",
-        "百合",
-        "御宅文化"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "46488"
-        },
-        {
-          "site": "anidb",
-          "id": "16000"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/117120"
-        },
-        {
-          "site": "unext",
-          "id": "SID0305806",
-          "begin": "2026-07-07T12:30:00.000Z",
-          "broadcast": "R/2026-07-07T12:30:00.000Z/P7D"
-        },
-        {
-          "site": "gamer",
-          "id": "115472",
-          "begin": "2026-07-07T11:30:00.000Z",
-          "broadcast": "R/2026-07-07T11:30:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "115472",
-          "begin": "2026-07-07T11:30:00.000Z",
-          "broadcast": "R/2026-07-07T11:30:00.000Z/P7D"
-        },
-        {
-          "site": "nicovideo",
-          "id": "taiari-anime",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "danime",
-          "id": "29089",
-          "begin": "2026-07-07T12:30:00.000Z",
-          "broadcast": "R/2026-07-07T12:30:00.000Z/P7D"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00362362",
-          "begin": "2026-07-07T15:00:00.000Z",
-          "broadcast": "R/2026-07-07T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "4035"
-        },
-        {
-          "site": "prime",
-          "id": "B0H85T3XB3",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "25-328",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715387b56eb30ad03fd4f5"
-        },
-        {
-          "site": "acgnx",
-          "id": "感謝對戰 格鬥遊戲"
-        },
-        {
-          "site": "anibt",
-          "id": "325767"
-        },
-        {
-          "site": "dmhy",
-          "id": "感謝對戰 格鬥遊戲"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1790076600
         }
       ]
     },
@@ -2395,6 +2280,10 @@
         {
           "n": 11,
           "t": 1796482800
+        },
+        {
+          "n": 12,
+          "t": 1797087600
         }
       ]
     },
@@ -3243,7 +3132,7 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179876-Wg62CAzp5WQ1.jpg",
       "airDate": "2026-10-13",
       "ratingScore": 0,
@@ -3645,6 +3534,10 @@
         {
           "n": 10,
           "t": 1796472000
+        },
+        {
+          "n": 11,
+          "t": 1797076800
         }
       ]
     },
@@ -4074,10 +3967,10 @@
         "奇幻",
         "反英雄",
         "男主",
+        "神明",
         "恶魔",
         "时间回溯",
         "都市奇幻",
-        "神明",
         "地下城",
         "旅行"
       ],
@@ -5301,10 +5194,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 12,
-          "t": 1790080200
-        },
-        {
           "n": 13,
           "t": 1790685000
         }
@@ -5625,6 +5514,10 @@
         {
           "n": 11,
           "t": 1796475600
+        },
+        {
+          "n": 12,
+          "t": 1797080400
         }
       ]
     },
@@ -6677,6 +6570,10 @@
         {
           "n": 10,
           "t": 1796484600
+        },
+        {
+          "n": 11,
+          "t": 1797089400
         }
       ]
     },
@@ -7192,8 +7089,8 @@
         "动作",
         "剧情",
         "科幻",
-        "赛博朋克",
         "半机械人",
+        "赛博朋克",
         "反乌托邦",
         "猎奇/血腥"
       ],
@@ -7562,6 +7459,10 @@
         {
           "n": 10,
           "t": 1796479200
+        },
+        {
+          "n": 11,
+          "t": 1797084000
         }
       ]
     },
@@ -7941,8 +7842,8 @@
         "女主",
         "治愈",
         "校园",
-        "女性向",
         "恶搞/梗番",
+        "女性向",
         "历史",
         "百合"
       ],
@@ -8185,7 +8086,7 @@
       "titleCn": "弹珠汽水瓶里的千岁同学",
       "countryOfOrigin": "JP",
       "format": "TV",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg",
       "airDate": "2025-10-07",
       "ratingScore": 0,
@@ -8621,6 +8522,10 @@
         {
           "n": 10,
           "t": 1796481000
+        },
+        {
+          "n": 11,
+          "t": 1797085800
         }
       ]
     },
@@ -9793,6 +9698,10 @@
         {
           "n": 10,
           "t": 1796488200
+        },
+        {
+          "n": 11,
+          "t": 1797093000
         }
       ]
     },
@@ -10087,6 +9996,10 @@
         {
           "n": 9,
           "t": 1796481900
+        },
+        {
+          "n": 10,
+          "t": 1797086700
         }
       ]
     },
@@ -10709,6 +10622,10 @@
         {
           "n": 11,
           "t": 1796477400
+        },
+        {
+          "n": 12,
+          "t": 1797082200
         }
       ]
     },
@@ -12304,8 +12221,8 @@
         "搞笑",
         "奇幻",
         "日常",
-        "都市奇幻",
         "拟似家庭",
+        "都市奇幻",
         "搞笑滑稽",
         "男主"
       ],
@@ -12547,10 +12464,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 12,
-          "t": 1790094900
-        },
-        {
           "n": 13,
           "t": 1790699700
         },
@@ -12731,12 +12644,12 @@
       "titleCn": "尼古喵喵 迷你动画",
       "countryOfOrigin": "JP",
       "format": "ONA",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
       "airDate": "2026-02-01",
       "ratingScore": 6.4,
       "popularity": 1004,
-      "totalEpisodes": 0,
+      "totalEpisodes": 21,
       "genres": [
         "搞笑"
       ],
@@ -13719,103 +13632,10 @@
         {
           "n": 10,
           "t": 1796481000
-        }
-      ]
-    },
-    {
-      "anilistId": 209800,
-      "bgmId": 612697,
-      "title": "鎧真伝サムライトルーパー 第2クール",
-      "titleCn": "铠真传 武士军团 第2部分",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg",
-      "airDate": "2026-07-07",
-      "ratingScore": 5.9,
-      "popularity": 1818,
-      "totalEpisodes": 12,
-      "genres": [
-        "动作",
-        "冒险",
-        "科幻"
-      ],
-      "tags": [
-        "动作",
-        "冒险",
-        "科幻"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "63047"
         },
         {
-          "site": "mikan",
-          "id": "3987"
-        },
-        {
-          "site": "nicovideo",
-          "id": "samurai-trooper",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0251577",
-          "begin": "2026-07-07T14:30:00.000Z",
-          "broadcast": "R/2026-07-07T14:30:00.000Z/P7D"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00367517",
-          "begin": "2026-07-07T14:30:00.000Z",
-          "broadcast": "R/2026-07-07T14:30:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "13-203",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "prime",
-          "id": "B0GF7RBK59",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/293629/season/1/episode/13"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715388b56eb30ad03fd4fd"
-        },
-        {
-          "site": "anidb",
-          "id": "19816"
-        },
-        {
-          "site": "acgnx",
-          "id": "鎧真傳"
-        },
-        {
-          "site": "anibt",
-          "id": "612697"
-        },
-        {
-          "site": "dmhy",
-          "id": "鎧真傳"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1790087400
+          "n": 11,
+          "t": 1797085800
         }
       ]
     },
@@ -13922,6 +13742,10 @@
         {
           "n": 10,
           "t": 1796486160
+        },
+        {
+          "n": 11,
+          "t": 1797090960
         }
       ]
     },
@@ -15975,115 +15799,6 @@
       ]
     },
     {
-      "anilistId": 213665,
-      "bgmId": 638995,
-      "title": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした",
-      "titleCn": "拯救替身千金的是冷酷无情冰之王子的爱",
-      "countryOfOrigin": "JP",
-      "format": "TV_SHORT",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png",
-      "airDate": "2026-07-06",
-      "ratingScore": 5.7,
-      "popularity": 3269,
-      "totalEpisodes": 12,
-      "genres": [
-        "奇幻",
-        "恋爱"
-      ],
-      "tags": [
-        "奇幻",
-        "恋爱"
-      ],
-      "sites": [
-        {
-          "site": "nicovideo",
-          "id": "migawari",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0305858",
-          "begin": "2026-07-11T03:00:00.000Z",
-          "broadcast": "R/2026-07-11T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer",
-          "id": "151618",
-          "begin": "2026-07-07T13:00:00.000Z",
-          "broadcast": "R/2026-07-07T13:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "151618",
-          "begin": "2026-07-07T13:00:00.000Z",
-          "broadcast": "R/2026-07-07T13:00:00.000Z/P7D"
-        },
-        {
-          "site": "mal",
-          "id": "63878"
-        },
-        {
-          "site": "danime",
-          "id": "29077",
-          "begin": "2026-07-07T13:00:00.000Z",
-          "broadcast": "R/2026-07-07T13:00:00.000Z/P7D"
-        },
-        {
-          "site": "ani_one",
-          "id": "PLU8XxacdkS0U",
-          "begin": "2026-07-07T13:00:06.000Z",
-          "broadcast": "R/2026-07-07T13:00:06.000Z/P7D"
-        },
-        {
-          "site": "ani_one_asia",
-          "id": "PLf6uu4mFo2tQ",
-          "begin": "2026-07-07T13:00:06.000Z",
-          "broadcast": "R/2026-07-07T13:00:06.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "4041"
-        },
-        {
-          "site": "prime",
-          "id": "B0H6Q52SHK",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "anidb",
-          "id": "20180"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/326191"
-        },
-        {
-          "site": "acgnx",
-          "id": "替身 千金 王子"
-        },
-        {
-          "site": "anibt",
-          "id": "638995"
-        },
-        {
-          "site": "dmhy",
-          "id": "替身 千金 王子"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1790081700
-        }
-      ]
-    },
-    {
       "anilistId": 213666,
       "bgmId": 630164,
       "title": "パーフェクトアディクション",
@@ -17137,8 +16852,8 @@
       "tags": [
         "冒险",
         "奇幻",
-        "美食料理",
-        "男主"
+        "男主",
+        "美食料理"
       ],
       "sites": [
         {

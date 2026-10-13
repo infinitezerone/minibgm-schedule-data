@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-13T11:33:47.988Z",
+  "generatedAt": "2026-10-13T17:19:34.458Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -966,7 +966,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 61888,
+      "popularity": 61997,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -5245,8 +5245,8 @@
         "女主",
         "治愈",
         "校园",
-        "女性向",
         "恶搞/梗番",
+        "女性向",
         "历史",
         "百合"
       ],
@@ -6255,7 +6255,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8056,
+      "popularity": 8055,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7290,7 +7290,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 2864,
+      "popularity": 2868,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7316,13 +7316,13 @@
         "青春",
         "2026年8月",
         "2026年",
-        "记忆管理局",
         "国创",
-        "Web动画",
-        "日本",
+        "记忆管理局",
         "治愈",
-        "架空",
-        "剧集"
+        "剧集",
+        "作画",
+        "记忆",
+        "架空"
       ],
       "sites": [],
       "episodes": []
@@ -8176,33 +8176,6 @@
       "episodes": []
     },
     {
-      "anilistId": 215761,
-      "bgmId": 513788,
-      "title": "POKÉTOON (2026)",
-      "titleCn": "POKÉTOON动画系列2024",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215761-uWLyrwumMTb4.png",
-      "airDate": "2026-08-12",
-      "ratingScore": 6.9,
-      "popularity": 464,
-      "totalEpisodes": 2,
-      "genres": [
-        "冒险",
-        "奇幻",
-        "日常"
-      ],
-      "tags": [
-        "冒险",
-        "奇幻",
-        "日常"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": null,
       "bgmId": 506836,
       "title": "狐妖小红娘 黄风岭篇",
@@ -8214,7 +8187,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
       "ratingScore": 6.6,
-      "popularity": 464,
+      "popularity": 466,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8244,6 +8217,33 @@
       "episodes": []
     },
     {
+      "anilistId": 215761,
+      "bgmId": 513788,
+      "title": "POKÉTOON (2026)",
+      "titleCn": "POKÉTOON动画系列2024",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215761-uWLyrwumMTb4.png",
+      "airDate": "2026-08-12",
+      "ratingScore": 6.9,
+      "popularity": 464,
+      "totalEpisodes": 2,
+      "genres": [
+        "冒险",
+        "奇幻",
+        "日常"
+      ],
+      "tags": [
+        "冒险",
+        "奇幻",
+        "日常"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": null,
       "bgmId": 555710,
       "title": "时光代理人Ⅲ Part One",
@@ -8255,7 +8255,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 5,
-      "popularity": 457,
+      "popularity": 459,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8722,7 +8722,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6.2,
-      "popularity": 173,
+      "popularity": 174,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -9272,17 +9272,17 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7f/76/560379_cRwr5.jpg",
       "airDate": "2026-08-22",
-      "ratingScore": 4.9,
-      "popularity": 21,
+      "ratingScore": 5,
+      "popularity": 22,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "剧场版",
-        "奇幻",
-        "冒险",
         "喜剧",
+        "冒险",
+        "奇幻",
         "原创",
         "2026年8月",
         "4分",
