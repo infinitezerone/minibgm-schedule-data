@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-13T17:19:53.392Z",
+  "generatedAt": "2026-10-14T00:52:32.261Z",
   "total": 112,
   "mappedTotal": 112,
   "items": [
@@ -2100,8 +2100,8 @@
         "魔法少女",
         "都市奇幻",
         "男主",
-        "异世界",
-        "病娇"
+        "病娇",
+        "异世界"
       ],
       "sites": [
         {
@@ -3303,7 +3303,7 @@
       "airDate": "2026-10-06",
       "ratingScore": 6.8,
       "popularity": 5863,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "genres": [
         "搞笑",
         "日常"
@@ -4082,7 +4082,8 @@
       ],
       "tags": [
         "机战",
-        "科幻"
+        "科幻",
+        "游戏"
       ],
       "sites": [],
       "episodes": []
@@ -4309,7 +4310,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7.7,
-      "popularity": 293,
+      "popularity": 294,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -4382,32 +4383,32 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 231,
+      "popularity": 232,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
+        "大火鸟文化",
         "小说改",
         "WEB",
-        "大火鸟文化",
         "异能",
         "2026年10月",
         "搞笑",
         "战斗",
         "网文改",
-        "厕纸",
         "玄幻",
+        "厕纸",
+        "喜欢！",
+        "2026补",
         "coocaa",
         "国产动画",
+        "奇幻",
+        "2026",
         "表番",
         "2D",
-        "2026补",
-        "奇幻",
         "未上映",
-        "2026",
-        "TV",
-        "喜欢！"
+        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -4951,7 +4952,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_f7d1l.jpg",
       "airDate": "2026-10-08",
       "ratingScore": 0,
-      "popularity": 10,
+      "popularity": 11,
       "totalEpisodes": 14,
       "genres": [
         "国产动画"
