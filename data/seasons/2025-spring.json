@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-10-15T00:16:26.773Z",
+  "generatedAt": "2026-10-15T08:59:29.440Z",
   "total": 131,
   "mappedTotal": 131,
   "items": [
@@ -5637,7 +5637,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/9a/37/405212_2LgDe.jpg",
       "airDate": "2025-04-06",
       "ratingScore": 5.7,
-      "popularity": 4482,
+      "popularity": 4483,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"
@@ -5663,14 +5663,14 @@
         "bilibili",
         "超能力",
         "群像",
-        "搞笑",
-        "科幻",
-        "泽野弘之",
         "无法预测命运之舞台",
+        "泽野弘之",
+        "科幻",
+        "搞笑",
         "纸飞机动画",
         "2025年",
-        "3D",
-        "日本"
+        "凸变英雄",
+        "3D"
       ],
       "sites": [
         {
@@ -5788,7 +5788,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bf/ca/336268_ltiod.jpg",
       "airDate": "2025-05-23",
       "ratingScore": 7,
-      "popularity": 3824,
+      "popularity": 3826,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -5810,17 +5810,17 @@
         "TV",
         "2025年4月",
         "2024",
-        "2025年",
-        "未定档",
-        "国产动画",
         "剧情",
+        "国产动画",
+        "未定档",
+        "2025年",
         "修仙",
         "国创",
-        "好看",
         "2025年5月",
-        "冒险",
+        "2023",
         "续集",
-        "2023"
+        "续作",
+        "冒险"
       ],
       "sites": [],
       "episodes": []
