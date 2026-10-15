@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-14T14:51:07.624Z",
+  "generatedAt": "2026-10-15T00:18:29.161Z",
   "total": 112,
   "mappedTotal": 112,
   "items": [
@@ -1073,10 +1073,11 @@
         "动作",
         "冒险",
         "科幻",
+        "少年向",
         "武术格斗",
         "神明",
-        "少年向",
-        "男主"
+        "男主",
+        "外星人"
       ],
       "sites": [],
       "episodes": []
@@ -3005,7 +3006,8 @@
         "女主",
         "无口/三无",
         "大逃杀",
-        "猎奇/血腥"
+        "猎奇/血腥",
+        "虚拟世界"
       ],
       "sites": [
         {
@@ -4269,7 +4271,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 439,
+      "popularity": 441,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -4280,22 +4282,22 @@
         "战斗",
         "治愈",
         "WEB",
-        "TV",
         "国漫",
-        "罗小黑战记",
+        "TV",
         "2026年10月",
+        "罗小黑战记",
         "玄幻",
         "续集",
         "未定档",
         "寒木春华",
-        "奇幻",
-        "◆TV◆",
-        "萌",
-        "11",
-        "续作",
-        "国产动画",
         "3",
-        "泡面"
+        "泡面",
+        "国产动画",
+        "续作",
+        "11",
+        "萌",
+        "奇幻",
+        "◆TV◆"
       ],
       "sites": [],
       "episodes": []
@@ -4927,7 +4929,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 8,
-      "popularity": 24,
+      "popularity": 25,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"

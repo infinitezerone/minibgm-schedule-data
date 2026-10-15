@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-10-14T14:48:40.790Z",
+  "generatedAt": "2026-10-15T00:16:02.812Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -5240,7 +5240,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/b7/383308_COQIc.jpg",
       "airDate": "2025-01-29",
       "ratingScore": 6.4,
-      "popularity": 6882,
+      "popularity": 6883,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7453,13 +7453,13 @@
         "2025年",
         "2025",
         "科幻",
-        "热血",
         "搞笑",
         "前传或续集番外",
-        "2025年4月",
+        "热血",
         "国创",
         "重复",
-        "国漫"
+        "国漫",
+        "2025年4月"
       ],
       "sites": [],
       "episodes": []
