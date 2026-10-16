@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-15T14:37:06.212Z",
+  "generatedAt": "2026-10-16T00:04:50.127Z",
   "total": 113,
   "mappedTotal": 113,
   "items": [
@@ -159,7 +159,7 @@
       "format": "ONA",
       "status": "NOT_YET_RELEASED",
       "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-jaarfaxv6K0Z.jpg",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-EOEEmUJ2IzEx.jpg",
       "airDate": "2026-10-20",
       "ratingScore": 0,
       "popularity": 78381,
@@ -808,8 +808,8 @@
         "日常",
         "校园",
         "少女向",
-        "三角恋",
         "青春成长",
+        "三角恋",
         "女主",
         "群像",
         "男主"
@@ -824,7 +824,7 @@
       "titleCn": "青春猪头少年不会梦到亲爱好朋友",
       "countryOfOrigin": "JP",
       "format": "MOVIE",
-      "status": "NOT_YET_RELEASED",
+      "status": "FINISHED",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199340-YQlmzvmcJzyt.jpg",
       "airDate": "2026-10-16",
@@ -3114,7 +3114,8 @@
         "动作",
         "冒险",
         "奇幻",
-        "战争"
+        "战争",
+        "少年向"
       ],
       "sites": [
         {
@@ -3752,7 +3753,8 @@
         "恶搞/梗番",
         "校园",
         "群像",
-        "社团活动"
+        "社团活动",
+        "百合"
       ],
       "sites": [
         {
@@ -4273,7 +4275,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 447,
+      "popularity": 448,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -4286,20 +4288,20 @@
         "WEB",
         "TV",
         "国漫",
-        "罗小黑战记",
         "2026年10月",
+        "罗小黑战记",
         "玄幻",
         "续集",
         "未定档",
         "寒木春华",
-        "泡面",
         "奇幻",
-        "续作",
-        "萌",
-        "国产动画",
-        "11",
         "◆TV◆",
-        "3"
+        "萌",
+        "11",
+        "续作",
+        "国产动画",
+        "3",
+        "泡面"
       ],
       "sites": [],
       "episodes": []
@@ -4316,7 +4318,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7.7,
-      "popularity": 304,
+      "popularity": 306,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -4389,32 +4391,32 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 236,
+      "popularity": 237,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
+        "WEB",
         "大火鸟文化",
         "小说改",
-        "WEB",
-        "异能",
         "2026年10月",
+        "异能",
         "搞笑",
         "战斗",
         "网文改",
-        "玄幻",
         "厕纸",
+        "玄幻",
+        "TV",
+        "奇幻",
         "喜欢！",
         "2026补",
+        "2026",
+        "未上映",
         "coocaa",
         "国产动画",
-        "奇幻",
-        "2026",
         "表番",
-        "2D",
-        "未上映",
-        "TV"
+        "2D"
       ],
       "sites": [],
       "episodes": []
@@ -4576,8 +4578,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
-      "ratingScore": 6,
-      "popularity": 166,
+      "ratingScore": 5.9,
+      "popularity": 167,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -4587,15 +4589,15 @@
         "战斗",
         "网文改",
         "玄幻",
-        "WEB",
         "国漫",
-        "剧场版",
         "3D",
+        "WEB",
         "小说改",
-        "6",
-        "厕纸",
+        "剧场版",
+        "动画电影",
         "轻小说改",
-        "动画电影"
+        "6",
+        "厕纸"
       ],
       "sites": [],
       "episodes": []
@@ -4930,8 +4932,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
-      "ratingScore": 7.5,
-      "popularity": 30,
+      "ratingScore": 7.3,
+      "popularity": 31,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"

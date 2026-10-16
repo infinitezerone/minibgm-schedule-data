@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-15T14:34:16.908Z",
+  "generatedAt": "2026-10-16T00:02:09.103Z",
   "window": {
-    "from": 1790260354,
-    "to": 1797258754
+    "from": 1790294428,
+    "to": 1797292828
   },
   "items": [
     {
@@ -596,7 +596,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 7989,
+      "popularity": 7991,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -733,7 +733,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 62126,
+      "popularity": 62237,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -802,40 +802,6 @@
       ]
     },
     {
-      "anilistId": 112936,
-      "bgmId": 294669,
-      "title": "○○交配",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "OVA",
-      "status": "RELEASING",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112936-MOPqLdKu7dgJ.jpg",
-      "airDate": "2020-01-01",
-      "ratingScore": 7.1,
-      "popularity": 4983,
-      "totalEpisodes": 0,
-      "genres": [
-        "里番"
-      ],
-      "tags": [
-        "里番",
-        "男主",
-        "校园",
-        "精灵",
-        "都市奇幻"
-      ],
-      "sites": [],
-      "isAdult": true,
-      "startYear": 2020,
-      "startMonth": 1,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1790262000
-        }
-      ]
-    },
-    {
       "anilistId": 118123,
       "bgmId": 282233,
       "title": "ホロのぐらふぃてぃ",
@@ -864,9 +830,9 @@
         "游戏",
         "乐队",
         "兽耳",
+        "剑术",
         "魔女",
-        "钓鱼",
-        "剑术"
+        "钓鱼"
       ],
       "sites": [
         {
@@ -1061,10 +1027,6 @@
       "startYear": 2022,
       "startMonth": 4,
       "episodes": [
-        {
-          "n": 381,
-          "t": 1790289600
-        },
         {
           "n": 382,
           "t": 1790635200
@@ -1644,6 +1606,10 @@
         {
           "n": 10,
           "t": 1796662800
+        },
+        {
+          "n": 11,
+          "t": 1797267600
         }
       ]
     },
@@ -3033,10 +2999,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 13,
-          "t": 1790263560
-        },
-        {
           "n": 14,
           "t": 1790868360
         },
@@ -3629,9 +3591,9 @@
         "奇幻",
         "反英雄",
         "男主",
+        "都市奇幻",
         "时间回溯",
         "恶魔",
-        "都市奇幻",
         "神明",
         "地下城",
         "旅行"
@@ -3773,8 +3735,8 @@
         "恶魔",
         "男主",
         "异世界",
-        "魔物娘",
         "拟似家庭",
+        "魔物娘",
         "群像",
         "乐队"
       ],
@@ -4891,7 +4853,8 @@
         "动作",
         "冒险",
         "奇幻",
-        "战争"
+        "战争",
+        "少年向"
       ],
       "sites": [
         {
@@ -5342,10 +5305,11 @@
       "tags": [
         "搞笑",
         "女主",
-        "社团活动",
-        "群像",
+        "恶搞/梗番",
         "校园",
-        "恶搞/梗番"
+        "群像",
+        "社团活动",
+        "百合"
       ],
       "sites": [
         {
@@ -6186,8 +6150,8 @@
       "tags": [
         "运动",
         "足球",
-        "青年向",
-        "男主"
+        "男主",
+        "青年向"
       ],
       "sites": [
         {
@@ -6592,7 +6556,7 @@
       "countryOfOrigin": "JP",
       "format": "ONA",
       "status": "NOT_YET_RELEASED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-jaarfaxv6K0Z.jpg",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-EOEEmUJ2IzEx.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 0,
       "popularity": 78381,
@@ -6606,8 +6570,8 @@
         "动作",
         "剧情",
         "科幻",
-        "赛博朋克",
         "半机械人",
+        "赛博朋克",
         "反乌托邦",
         "猎奇/血腥"
       ],
@@ -7233,109 +7197,6 @@
       ]
     },
     {
-      "anilistId": 196187,
-      "bgmId": 571784,
-      "title": "スーパーの裏でヤニ吸うふたり",
-      "titleCn": "在超市后门吸烟的二人",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg",
-      "airDate": "2026-07-09",
-      "ratingScore": 8.1,
-      "popularity": 132531,
-      "totalEpisodes": 12,
-      "genres": [
-        "搞笑",
-        "恋爱",
-        "日常"
-      ],
-      "tags": [
-        "搞笑",
-        "恋爱",
-        "日常",
-        "青年向",
-        "年龄差",
-        "治愈",
-        "男主",
-        "女主",
-        "办公室"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "62076"
-        },
-        {
-          "site": "anidb",
-          "id": "19479"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/296286"
-        },
-        {
-          "site": "abema",
-          "id": "169-152",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "mikan",
-          "id": "3970"
-        },
-        {
-          "site": "netflix",
-          "id": "82757039",
-          "begin": "2026-07-08T16:00:00.000Z",
-          "broadcast": "R/2026-07-08T16:00:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0305839",
-          "begin": "2026-07-15T15:30:00.000Z",
-          "broadcast": "R/2026-07-15T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29057",
-          "begin": "2026-07-15T15:30:00.000Z",
-          "broadcast": "R/2026-07-15T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0GKYVY8ZN",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a71538eb56eb30ad03fd523"
-        },
-        {
-          "site": "acgnx",
-          "id": "超市 後門 吸煙 二人"
-        },
-        {
-          "site": "anibt",
-          "id": "571784"
-        },
-        {
-          "site": "dmhy",
-          "id": "超市 後門 吸煙 二人"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1790261760
-        }
-      ]
-    },
-    {
       "anilistId": 196356,
       "bgmId": 572613,
       "title": "いびってこない義母と義姉",
@@ -7358,11 +7219,10 @@
         "家庭",
         "女主",
         "治愈",
-        "校园",
         "恶搞/梗番",
+        "校园",
         "女性向",
-        "历史",
-        "百合"
+        "历史"
       ],
       "sites": [
         {
@@ -8871,9 +8731,9 @@
         "搞笑",
         "奇幻",
         "恋爱",
-        "女主",
-        "异世界",
         "转生",
+        "异世界",
+        "女主",
         "少女向"
       ],
       "sites": [
@@ -9713,8 +9573,8 @@
         "冒险",
         "科幻",
         "异世界",
-        "反乌托邦",
-        "少年向"
+        "少年向",
+        "反乌托邦"
       ],
       "sites": [
         {
@@ -11245,116 +11105,6 @@
       ]
     },
     {
-      "anilistId": 207141,
-      "bgmId": 622206,
-      "title": "ヤニねこ",
-      "titleCn": "尼古喵喵",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207141-h5q5KJPd6vaX.jpg",
-      "airDate": "2026-07-02",
-      "ratingScore": 7.1,
-      "popularity": 81352,
-      "totalEpisodes": 12,
-      "genres": [
-        "搞笑",
-        "限制级",
-        "日常"
-      ],
-      "tags": [
-        "搞笑",
-        "限制级",
-        "日常",
-        "女主",
-        "兽耳",
-        "青年向",
-        "都市奇幻",
-        "讽刺",
-        "生存",
-        "不良少年"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "63403"
-        },
-        {
-          "site": "anidb",
-          "id": "19873"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/312949"
-        },
-        {
-          "site": "nicovideo",
-          "id": "yanineko-anime",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0305811",
-          "begin": "2026-06-23T02:11:00.000Z",
-          "broadcast": "R/2026-06-23T02:11:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29040",
-          "begin": "2026-07-02T16:00:00.000Z",
-          "broadcast": "R/2026-07-02T16:00:00.000Z/P7D"
-        },
-        {
-          "site": "netflix",
-          "id": "82760630",
-          "begin": "2026-07-01T16:00:00.000Z",
-          "broadcast": "R/2026-07-01T16:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "632-8",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "mikan",
-          "id": "3992"
-        },
-        {
-          "site": "prime",
-          "id": "B0GVJPDF21",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a71538eb56eb30ad03fd527"
-        },
-        {
-          "site": "acgnx",
-          "id": "尼古喵喵"
-        },
-        {
-          "site": "anibt",
-          "id": "622206"
-        },
-        {
-          "site": "dmhy",
-          "id": "尼古喵喵"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 12,
-          "t": 1790263800
-        }
-      ]
-    },
-    {
       "anilistId": 207191,
       "bgmId": 624923,
       "title": "どうも、好きな人に惚れ薬を依頼された魔女です。",
@@ -11903,10 +11653,10 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "魔物娘",
+        "女主",
         "男主",
         "搞笑滑稽",
-        "女主",
+        "魔物娘",
         "恶魔"
       ],
       "sites": [
@@ -12164,13 +11914,13 @@
       "tags": [
         "魔法少女",
         "音乐",
-        "青春成长",
-        "都市奇幻",
         "女主",
+        "都市奇幻",
+        "青春成长",
         "少儿向",
         "校园",
-        "偶像",
-        "外星人"
+        "外星人",
+        "偶像"
       ],
       "sites": [
         {
@@ -13136,36 +12886,6 @@
         {
           "n": 11,
           "t": 1797090960
-        }
-      ]
-    },
-    {
-      "anilistId": 209873,
-      "bgmId": 637402,
-      "title": "ハメハラ",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "OVA",
-      "status": "RELEASING",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209873-bKlttpEcD4oL.png",
-      "airDate": "2026-06-01",
-      "ratingScore": 6.2,
-      "popularity": 401,
-      "totalEpisodes": 0,
-      "genres": [
-        "里番"
-      ],
-      "tags": [
-        "里番"
-      ],
-      "sites": [],
-      "isAdult": true,
-      "startYear": 2026,
-      "startMonth": 6,
-      "episodes": [
-        {
-          "n": 2,
-          "t": 1790262000
         }
       ]
     },
@@ -14422,8 +14142,8 @@
         "奇幻",
         "恋爱",
         "女性向",
-        "男主",
-        "群像"
+        "群像",
+        "男主"
       ],
       "sites": [
         {
@@ -14698,7 +14418,7 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "OVA",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213067-KYqjKEUZ6tBM.png",
       "airDate": "2026-09-01",
       "ratingScore": 6.7,
@@ -15108,8 +14828,8 @@
       "tags": [
         "运动",
         "棒球",
-        "男主",
         "社团活动",
+        "男主",
         "少年向"
       ],
       "sites": [
@@ -15229,10 +14949,6 @@
       "startMonth": 9,
       "episodes": [
         {
-          "n": 1,
-          "t": 1790262000
-        },
-        {
           "n": 2,
           "t": 1795705200
         }
@@ -15262,14 +14978,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1790262000
-        },
-        {
-          "n": 2,
-          "t": 1790262000
-        },
         {
           "n": 3,
           "t": 1793286000
@@ -15302,8 +15010,8 @@
         "日常",
         "校园",
         "少女向",
-        "三角恋",
         "青春成长",
+        "三角恋",
         "女主",
         "群像",
         "男主"
@@ -15433,36 +15141,6 @@
         {
           "n": 1,
           "t": 1793286000
-        }
-      ]
-    },
-    {
-      "anilistId": 214551,
-      "bgmId": 697655,
-      "title": "桜春女学院の男優",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "RELEASING",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214551-uDaf7UPVxN2v.jpg",
-      "airDate": "2026-09-01",
-      "ratingScore": 5.7,
-      "popularity": 225,
-      "totalEpisodes": 0,
-      "genres": [
-        "里番"
-      ],
-      "tags": [
-        "里番"
-      ],
-      "sites": [],
-      "isAdult": true,
-      "startYear": 2026,
-      "startMonth": 9,
-      "episodes": [
-        {
-          "n": 1,
-          "t": 1790272800
         }
       ]
     },
@@ -16037,8 +15715,8 @@
       ],
       "tags": [
         "日常",
-        "校园",
-        "少儿向"
+        "少儿向",
+        "校园"
       ],
       "sites": [
         {

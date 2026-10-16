@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-15T14:36:48.841Z",
+  "generatedAt": "2026-10-16T00:04:33.401Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -966,7 +966,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 62126,
+      "popularity": 62237,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -5246,11 +5246,10 @@
         "家庭",
         "女主",
         "治愈",
-        "校园",
         "恶搞/梗番",
+        "校园",
         "女性向",
-        "历史",
-        "百合"
+        "历史"
       ],
       "sites": [
         {
@@ -7292,7 +7291,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 2880,
+      "popularity": 2886,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7307,8 +7306,8 @@
         "WEB",
         "摔跤社",
         "2026年7月",
-        "李书宇",
         "TV",
+        "李书宇",
         "有生之年",
         "刘文钰",
         "意识流",
@@ -7320,11 +7319,11 @@
         "2026年",
         "国创",
         "记忆管理局",
-        "架空",
-        "剧集",
-        "作画",
-        "记忆",
-        "治愈"
+        "中国动画",
+        "2026夏",
+        "Web动画",
+        "日本",
+        "7月"
       ],
       "sites": [],
       "episodes": []
@@ -7674,7 +7673,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 998,
+      "popularity": 999,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7700,13 +7699,13 @@
         "2026年7月",
         "小说改",
         "国产动画",
+        "8分",
         "8",
         "国产动画电影",
         "玄幻",
-        "8分",
-        "高8",
-        "现代国产动画剧场版",
-        "6分"
+        "架空世界",
+        "7",
+        "四川省"
       ],
       "sites": [],
       "episodes": []
@@ -8189,7 +8188,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
       "ratingScore": 6.6,
-      "popularity": 469,
+      "popularity": 470,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8257,7 +8256,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 4.9,
-      "popularity": 462,
+      "popularity": 463,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8323,7 +8322,7 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "OVA",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "isAdult": true,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213067-KYqjKEUZ6tBM.png",
       "airDate": "2026-09-18",
@@ -8943,6 +8942,39 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 449354,
+      "title": "花仙子之魔法香对论",
+      "titleCn": "花仙子之魔法香对论",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/45/0b/449354_gs8Rj.jpg",
+      "airDate": "2026-07-04",
+      "ratingScore": 5.4,
+      "popularity": 102,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "中日合拍",
+        "2026",
+        "2026年7月",
+        "WEB",
+        "国产或合作动画",
+        "奇幻",
+        "奇幻战斗",
+        "子供",
+        "子供向",
+        "腾讯",
+        "战斗"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 205116,
       "bgmId": 619052,
       "title": "あはれ！名作くん (2026)",
@@ -8986,39 +9018,6 @@
           "broadcast": ""
         }
       ],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 449354,
-      "title": "花仙子之魔法香对论",
-      "titleCn": "花仙子之魔法香对论",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/45/0b/449354_gs8Rj.jpg",
-      "airDate": "2026-07-04",
-      "ratingScore": 5.4,
-      "popularity": 101,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "中日合拍",
-        "2026",
-        "2026年7月",
-        "WEB",
-        "国产或合作动画",
-        "奇幻战斗",
-        "奇幻",
-        "子供",
-        "腾讯",
-        "子供向",
-        "战斗"
-      ],
-      "sites": [],
       "episodes": []
     },
     {

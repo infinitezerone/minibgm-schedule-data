@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-10-15T14:36:07.256Z",
+  "generatedAt": "2026-10-16T00:03:52.773Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -7409,7 +7409,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1f/91/250224_7ZUS7.jpg",
       "airDate": "2026-03-02",
       "ratingScore": 7.3,
-      "popularity": 1972,
+      "popularity": 1973,
       "totalEpisodes": 8,
       "genres": [
         "国产动画"
@@ -7757,30 +7757,6 @@
       "episodes": []
     },
     {
-      "anilistId": 204432,
-      "bgmId": 617004,
-      "title": "CHOPPER's",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "TV_SHORT",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204432-h8U4bVnSU6bM.png",
-      "airDate": "2026-01-05",
-      "ratingScore": 6.2,
-      "popularity": 1259,
-      "totalEpisodes": 12,
-      "genres": [
-        "日常"
-      ],
-      "tags": [
-        "日常",
-        "旅行"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": null,
       "bgmId": 423036,
       "title": "中国奇谭 第二季",
@@ -7792,7 +7768,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/6c/84/423036_H88sl.jpg",
       "airDate": "2026-01-01",
       "ratingScore": 6.2,
-      "popularity": 1259,
+      "popularity": 1261,
       "totalEpisodes": 9,
       "genres": [
         "国产动画"
@@ -7812,19 +7788,43 @@
         "玄幻",
         "国创",
         "怪谈",
-        "刘旷",
         "欧阳仲泓",
         "动画剧集",
-        "2026年",
-        "顾杨",
         "中国动画",
-        "续作",
-        "5分",
         "杜鹏鹏",
-        "胡睿",
+        "续作",
+        "2026年",
         "陈莲华",
-        "2020s",
-        "魔幻"
+        "胡睿",
+        "5分",
+        "顾杨",
+        "刘旷",
+        "华语",
+        "合集"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 204432,
+      "bgmId": 617004,
+      "title": "CHOPPER's",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204432-h8U4bVnSU6bM.png",
+      "airDate": "2026-01-05",
+      "ratingScore": 6.2,
+      "popularity": 1259,
+      "totalEpisodes": 12,
+      "genres": [
+        "日常"
+      ],
+      "tags": [
+        "日常",
+        "旅行"
       ],
       "sites": [],
       "episodes": []
@@ -8829,7 +8829,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b6/b5/549506_J9OGG.jpg",
       "airDate": "2026-02-20",
       "ratingScore": 7.1,
-      "popularity": 103,
+      "popularity": 104,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8841,19 +8841,19 @@
         "分子互动",
         "WEB",
         "7钓到发光皮皮",
-        "1片尾钓激光笔",
-        "新片头埋刀新片尾四不相钓鱼",
-        "2钓刍狗头",
-        "3钓互换菇",
-        "2026年1月",
-        "4钓龟",
-        "6钓金银角",
-        "5钓狗仔鸟",
-        "短片",
-        "8钓靴下猫腰子",
-        "9钓飞船",
         "2026",
-        "福瑞"
+        "9钓飞船",
+        "福瑞",
+        "2026年1月",
+        "新片头埋刀新片尾四不相钓鱼",
+        "8钓靴下猫腰子",
+        "1片尾钓激光笔",
+        "3钓互换菇",
+        "2钓刍狗头",
+        "4钓龟",
+        "短片",
+        "5钓狗仔鸟",
+        "6钓金银角"
       ],
       "sites": [],
       "episodes": []
