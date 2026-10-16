@@ -27,7 +27,7 @@ const UA = { "User-Agent": "minibgm-schedule-data/1.0 (github.com/infinitezerone
 const SCAN_PER_PAGE = 50;
 const SCAN_DELAY_MS = 2200;      // AniList 未认证限速 30 req/min，留足余量
 const SEARCH_DELAY_MS = 900;     // bgm.tv 老搜索接口礼貌间隔
-const LOOKBACK_DAYS = 90;        // 名单回看：覆盖整季 13 周，确保当季新番在播期间集数完整不被滚动裁剪
+const LOOKBACK_DAYS = 21;        // 名单回看：覆盖跨周边界的刚开播/刚完结
 const LOOKAHEAD_DAYS = 60;       // 前瞻：覆盖已公布的未来话
 const ALIAS_CHUNK = 40;
 
