@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-16T00:02:09.103Z",
+  "generatedAt": "2026-10-16T08:50:46.759Z",
   "window": {
-    "from": 1790294428,
-    "to": 1797292828
+    "from": 1790326145,
+    "to": 1797324545
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
       "airDate": "2026-04-05",
       "ratingScore": 8.7,
-      "popularity": 759916,
+      "popularity": 760264,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -127,7 +127,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 80660,
+      "popularity": 80695,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -306,7 +306,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20208,
+      "popularity": 20213,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -5305,9 +5305,9 @@
       "tags": [
         "搞笑",
         "女主",
+        "群像",
         "恶搞/梗番",
         "校园",
-        "群像",
         "社团活动",
         "百合"
       ],
@@ -6556,7 +6556,7 @@
       "countryOfOrigin": "JP",
       "format": "ONA",
       "status": "NOT_YET_RELEASED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-EOEEmUJ2IzEx.jpg",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 0,
       "popularity": 78381,
@@ -6582,43 +6582,43 @@
       "episodes": [
         {
           "n": 1,
-          "t": 1792479600
+          "t": 1792479900
         },
         {
           "n": 2,
-          "t": 1792479600
+          "t": 1792479900
         },
         {
           "n": 3,
-          "t": 1792479600
+          "t": 1792479900
         },
         {
           "n": 4,
-          "t": 1792479600
+          "t": 1792479900
         },
         {
           "n": 5,
-          "t": 1792479600
+          "t": 1792479900
         },
         {
           "n": 6,
-          "t": 1792479600
+          "t": 1792479900
         },
         {
           "n": 7,
-          "t": 1792479600
+          "t": 1792479900
         },
         {
           "n": 8,
-          "t": 1792479600
+          "t": 1792479900
         },
         {
           "n": 9,
-          "t": 1792479600
+          "t": 1792479900
         },
         {
           "n": 10,
-          "t": 1792479600
+          "t": 1792479900
         }
       ]
     },
@@ -11087,8 +11087,8 @@
         "超自然",
         "惊悚",
         "女主",
-        "都市奇幻",
         "魔物娘",
+        "都市奇幻",
         "神话",
         "家庭",
         "悲剧"
@@ -11653,10 +11653,10 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "女主",
-        "男主",
-        "搞笑滑稽",
         "魔物娘",
+        "搞笑滑稽",
+        "男主",
+        "女主",
         "恶魔"
       ],
       "sites": [
@@ -13175,9 +13175,9 @@
         "剧情",
         "悬疑",
         "超自然",
+        "旅行",
         "男主",
-        "BL",
-        "旅行"
+        "BL"
       ],
       "sites": [
         {
@@ -13215,10 +13215,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1790323200
-        },
         {
           "n": 2,
           "t": 1790928000
@@ -15393,8 +15389,8 @@
       "tags": [
         "搞笑",
         "日常",
-        "女主",
         "兽耳",
+        "女主",
         "偶像",
         "美食料理"
       ],

@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-16T00:04:33.401Z",
+  "generatedAt": "2026-10-16T08:53:10.139Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -3055,7 +3055,7 @@
       "format": "TV",
       "status": "FINISHED",
       "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-8onaQWqKW1C3.jpg",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-dZ8hF93HzstV.jpg",
       "airDate": "2026-07-05",
       "ratingScore": 7.6,
       "popularity": 35948,
@@ -7291,7 +7291,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 2886,
+      "popularity": 2889,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7300,14 +7300,14 @@
         "原创",
         "战斗",
         "奇幻",
-        "科幻",
         "2026",
+        "科幻",
         "火药方糖",
         "WEB",
         "摔跤社",
         "2026年7月",
-        "TV",
         "李书宇",
+        "TV",
         "有生之年",
         "刘文钰",
         "意识流",
@@ -8256,7 +8256,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 4.9,
-      "popularity": 463,
+      "popularity": 464,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8270,13 +8270,13 @@
         "李豪凌",
         "WEB",
         "国漫",
-        "时光代理人",
         "绘梦",
         "推理",
+        "腐",
+        "时光代理人",
         "TV",
         "续作",
         "国创",
-        "腐",
         "国产动画",
         "CMC",
         "2026年8月",
@@ -8724,7 +8724,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6.2,
-      "popularity": 179,
+      "popularity": 181,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8741,11 +8741,11 @@
         "2026",
         "2026年7月",
         "神漫",
-        "二",
-        "欢乐向",
-        "平板观看",
+        "粗口有点多，还打马赛克不过有点意思，有看点能看看的",
         "搞笑",
-        "粗口有点多，还打马赛克不过有点意思，有看点能看看的"
+        "欢乐向",
+        "二",
+        "平板观看"
       ],
       "sites": [],
       "episodes": []
