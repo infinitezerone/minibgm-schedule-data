@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "summer",
-  "generatedAt": "2026-10-16T14:26:57.236Z",
+  "generatedAt": "2026-10-17T00:08:25.545Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -6971,7 +6971,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
       "airDate": "2025-07-18",
       "ratingScore": 7.7,
-      "popularity": 6924,
+      "popularity": 6926,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7001,10 +7001,10 @@
         "玄幻",
         "热血",
         "萌",
-        "打拳",
         "国创",
-        "弃养",
-        "好猫配贱人"
+        "好猫配贱人",
+        "院线",
+        "弃养"
       ],
       "sites": [
         {
@@ -7598,17 +7598,17 @@
         "西游记",
         "电影",
         "2025年",
-        "冒险",
         "国产动画",
+        "冒险",
         "2025年8月",
         "热血",
-        "治愈",
         "上美",
+        "治愈",
         "2020s",
-        "西游",
         "中国动画",
-        "国创",
-        "玄幻"
+        "西游",
+        "2D",
+        "刘佳"
       ],
       "sites": [],
       "episodes": []
@@ -7971,7 +7971,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/17/42/408897_BnCHp.jpg",
       "airDate": "2025-07-18",
       "ratingScore": 4.3,
-      "popularity": 1560,
+      "popularity": 1561,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"
@@ -9000,7 +9000,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/95/33/405233_2a9kc.jpg",
       "airDate": "2025-07-09",
       "ratingScore": 6.7,
-      "popularity": 399,
+      "popularity": 400,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
