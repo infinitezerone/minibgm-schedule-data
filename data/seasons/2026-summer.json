@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-17T00:09:40.524Z",
+  "generatedAt": "2026-10-17T08:23:19.373Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -2291,6 +2291,7 @@
         "冒险",
         "奇幻",
         "转生",
+        "校园",
         "异世界",
         "男主",
         "精灵"
@@ -7292,7 +7293,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 2895,
+      "popularity": 2901,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7320,11 +7321,11 @@
         "2026年",
         "国创",
         "记忆管理局",
-        "中国动画",
-        "2026夏",
-        "Web动画",
-        "日本",
-        "7月"
+        "架空",
+        "剧集",
+        "作画",
+        "记忆",
+        "治愈"
       ],
       "sites": [],
       "episodes": []
@@ -7674,7 +7675,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1000,
+      "popularity": 1003,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7682,8 +7683,8 @@
       "tags": [
         "剧场版",
         "奇幻",
-        "喜剧",
         "2026",
+        "喜剧",
         "战斗",
         "原创",
         "神话",
@@ -7700,13 +7701,13 @@
         "2026年7月",
         "小说改",
         "国产动画",
-        "8",
-        "国产动画电影",
         "玄幻",
         "8分",
-        "高8",
-        "现代国产动画剧场版",
-        "6分"
+        "8",
+        "国产动画电影",
+        "动作",
+        "画梦成帧文化传媒",
+        "成都画梦成帧文化传媒有限公司"
       ],
       "sites": [],
       "episodes": []
@@ -8257,7 +8258,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 4.9,
-      "popularity": 467,
+      "popularity": 468,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8278,17 +8279,18 @@
         "TV",
         "续作",
         "国创",
-        "2026年8月",
-        "异能",
-        "2分",
-        "国产动画",
-        "重庆后生动画电影有限公司",
-        "番",
-        "2026年",
-        "Media",
         "一坨狗屎",
         "漫画改",
-        "CMC"
+        "CMC",
+        "国产动画",
+        "Media",
+        "番",
+        "2分",
+        "2026年8月",
+        "异能",
+        "重庆后生动画电影有限公司",
+        "非常拉了",
+        "2026年"
       ],
       "sites": [],
       "episodes": []
@@ -9268,6 +9270,36 @@
     },
     {
       "anilistId": null,
+      "bgmId": 466756,
+      "title": "大夏守墓人",
+      "titleCn": "大夏守墓人",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/13/57/466756_xd3AT.jpg",
+      "airDate": "2026-09-30",
+      "ratingScore": 3.5,
+      "popularity": 22,
+      "totalEpisodes": 59,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "四",
+        "索以文化",
+        "2026年9月",
+        "WEB",
+        "小说改",
+        "玄幻",
+        "三",
+        "国漫"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 560379,
       "title": "大唐妖探",
       "titleCn": "大唐妖探",
@@ -9293,36 +9325,6 @@
         "4分",
         "动画电影",
         "国漫"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 466756,
-      "title": "大夏守墓人",
-      "titleCn": "大夏守墓人",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/13/57/466756_xd3AT.jpg",
-      "airDate": "2026-09-30",
-      "ratingScore": 3.5,
-      "popularity": 21,
-      "totalEpisodes": 59,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB",
-        "四",
-        "索以文化",
-        "国漫",
-        "三",
-        "2026年9月",
-        "玄幻",
-        "小说改"
       ],
       "sites": [],
       "episodes": []

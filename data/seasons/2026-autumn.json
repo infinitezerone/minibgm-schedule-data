@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-17T00:09:56.764Z",
+  "generatedAt": "2026-10-17T08:23:35.695Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -386,8 +386,8 @@
         "剧情",
         "悬疑",
         "超自然",
-        "旅行",
         "男主",
+        "旅行",
         "BL"
       ],
       "sites": [
@@ -1889,7 +1889,9 @@
         "恋爱",
         "武术格斗",
         "搞笑滑稽",
+        "傲娇",
         "三角恋",
+        "少年向",
         "校园",
         "同居"
       ],
@@ -4317,39 +4319,39 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
-      "ratingScore": 7.7,
-      "popularity": 313,
+      "ratingScore": 8.5,
+      "popularity": 314,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "漫画改",
+        "奇幻",
         "TV",
         "搞笑",
-        "奇幻",
-        "WEB",
-        "国漫",
-        "2026",
         "战斗",
+        "2026",
+        "国漫",
+        "WEB",
         "武侠",
         "未上映",
-        "国产或合作动画",
-        "腾讯",
-        "历史",
         "2025",
+        "历史",
         "推理",
-        "中国动画",
-        "3",
-        "漫改",
-        "古风",
-        "国内番剧",
-        "大理寺日志",
-        "未定档",
-        "动作",
+        "腾讯",
+        "国产或合作动画",
         "好传动画",
+        "动作",
+        "大理寺日志",
+        "2020-2029",
+        "未定档",
         "好船动画",
-        "2020-2029"
+        "漫改",
+        "国内番剧",
+        "3",
+        "中国动画",
+        "古风"
       ],
       "sites": [],
       "episodes": []
@@ -4391,7 +4393,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 241,
+      "popularity": 245,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -4579,14 +4581,14 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 5.9,
-      "popularity": 168,
+      "popularity": 167,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "2026",
         "战斗",
+        "2026",
         "网文改",
         "玄幻",
         "WEB",
@@ -4594,8 +4596,8 @@
         "3D",
         "小说改",
         "剧场版",
-        "动画电影",
         "轻小说改",
+        "动画电影",
         "6",
         "厕纸"
       ],
@@ -4933,7 +4935,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 7.3,
-      "popularity": 33,
+      "popularity": 34,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -4942,10 +4944,10 @@
         "小说改",
         "玄幻",
         "战斗",
-        "厕纸",
-        "日",
         "网文改",
-        "WEB"
+        "WEB",
+        "日",
+        "厕纸"
       ],
       "sites": [],
       "episodes": []
