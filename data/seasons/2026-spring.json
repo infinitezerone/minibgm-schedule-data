@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-10-17T23:45:03.686Z",
+  "generatedAt": "2026-10-18T08:43:21.278Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -8813,7 +8813,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/a2/4a/575244_8OmeD.jpg",
       "airDate": "2026-04-03",
       "ratingScore": 5.8,
-      "popularity": 297,
+      "popularity": 298,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
@@ -8831,13 +8831,13 @@
         "续集",
         "小说改",
         "我吃西红柿",
-        "THE",
-        "五",
         "2027年03月05日",
-        "妖怪",
+        "THE",
+        "Demon",
         "热血",
-        "Hunter",
-        "Demon"
+        "五",
+        "妖怪",
+        "Hunter"
       ],
       "sites": [],
       "episodes": []
@@ -8963,6 +8963,41 @@
     },
     {
       "anilistId": null,
+      "bgmId": 453309,
+      "title": "非人哉 第三季 Part.2",
+      "titleCn": "非人哉 第三季 13-24集",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/49/11/453309_597ky.jpg",
+      "airDate": "2026-05-05",
+      "ratingScore": 6.8,
+      "popularity": 193,
+      "totalEpisodes": 12,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "漫画改",
+        "日常",
+        "搞笑",
+        "WEB",
+        "2026",
+        "泡面番",
+        "未定档",
+        "8+",
+        "分子互动",
+        "动画片",
+        "TV",
+        "2026年5月",
+        "奇幻"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 577199,
       "title": "吞噬星空剧场版 决战原始星",
       "titleCn": "吞噬星空剧场版 决战原始星",
@@ -8993,41 +9028,6 @@
         "7",
         "1",
         "爽"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 453309,
-      "title": "非人哉 第三季 Part.2",
-      "titleCn": "非人哉 第三季 13-24集",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/49/11/453309_597ky.jpg",
-      "airDate": "2026-05-05",
-      "ratingScore": 6.8,
-      "popularity": 192,
-      "totalEpisodes": 12,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "漫画改",
-        "日常",
-        "搞笑",
-        "WEB",
-        "2026",
-        "泡面番",
-        "未定档",
-        "8+",
-        "分子互动",
-        "动画片",
-        "TV",
-        "2026年5月",
-        "奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -9526,7 +9526,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/0f/6a/491576_vRrJZ.jpg",
       "airDate": "2026-06-09",
       "ratingScore": 5.5,
-      "popularity": 41,
+      "popularity": 42,
       "totalEpisodes": 14,
       "genres": [
         "国产动画"

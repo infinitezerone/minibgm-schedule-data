@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-17T23:45:37.078Z",
+  "generatedAt": "2026-10-18T08:43:57.040Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -877,8 +877,8 @@
         "日常",
         "都市奇幻",
         "拟似家庭",
-        "男主",
-        "搞笑滑稽"
+        "搞笑滑稽",
+        "男主"
       ],
       "sites": [],
       "episodes": []
@@ -2244,8 +2244,8 @@
         "剧情",
         "奇幻",
         "女主",
-        "少年向",
-        "军事"
+        "军事",
+        "少年向"
       ],
       "sites": [
         {
@@ -2460,7 +2460,8 @@
       ],
       "tags": [
         "冒险",
-        "奇幻"
+        "奇幻",
+        "异世界"
       ],
       "sites": [],
       "episodes": []
@@ -4279,7 +4280,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 457,
+      "popularity": 464,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -4288,24 +4289,24 @@
         "原创",
         "2026",
         "战斗",
-        "治愈",
         "WEB",
-        "TV",
+        "治愈",
         "国漫",
-        "罗小黑战记",
+        "TV",
         "2026年10月",
+        "罗小黑战记",
         "玄幻",
         "续集",
         "未定档",
         "寒木春华",
-        "泡面",
-        "奇幻",
-        "续作",
-        "萌",
-        "国产动画",
-        "11",
         "◆TV◆",
-        "3"
+        "3",
+        "11",
+        "国产动画",
+        "萌",
+        "续作",
+        "泡面",
+        "奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -4321,39 +4322,39 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
-      "ratingScore": 8.5,
-      "popularity": 318,
+      "ratingScore": 6,
+      "popularity": 320,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "漫画改",
+        "搞笑",
         "奇幻",
         "TV",
-        "搞笑",
-        "国漫",
         "WEB",
         "战斗",
+        "国漫",
         "武侠",
         "2026",
         "未上映",
-        "历史",
         "国产或合作动画",
+        "腾讯",
+        "历史",
         "2025",
         "推理",
-        "腾讯",
+        "2020-2029",
         "大理寺日志",
+        "3",
+        "中国动画",
         "好船动画",
         "国内番剧",
-        "3",
-        "好传动画",
-        "2020-2029",
-        "未定档",
-        "中国动画",
+        "动作",
         "漫改",
         "古风",
-        "动作"
+        "未定档",
+        "好传动画"
       ],
       "sites": [],
       "episodes": []
@@ -4395,32 +4396,32 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 248,
+      "popularity": 250,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "小说改",
         "WEB",
         "大火鸟文化",
-        "异能",
+        "小说改",
         "2026年10月",
+        "异能",
         "搞笑",
         "战斗",
         "网文改",
-        "厕纸",
         "玄幻",
+        "厕纸",
+        "喜欢！",
         "2026补",
         "coocaa",
         "国产动画",
+        "奇幻",
+        "2026",
         "表番",
-        "喜欢！",
-        "TV",
         "2D",
         "未上映",
-        "2026",
-        "奇幻"
+        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -4550,7 +4551,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 176,
+      "popularity": 177,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
@@ -4583,7 +4584,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 168,
+      "popularity": 170,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -4737,7 +4738,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/a5/4a/461585_xZJ2J.jpg",
       "airDate": "2026-12-17",
       "ratingScore": 0,
-      "popularity": 85,
+      "popularity": 86,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -4827,6 +4828,38 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 712000,
+      "title": "牧神记 伍",
+      "titleCn": "牧神记5",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+      "airDate": "2026-10-18",
+      "ratingScore": 7,
+      "popularity": 49,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "玄幻",
+        "网文改",
+        "小说改",
+        "战斗",
+        "玄机",
+        "2026",
+        "厕纸",
+        "热血",
+        "WEB",
+        "日"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 217577,
       "bgmId": 701779,
       "title": "マゼンチュ",
@@ -4891,35 +4924,6 @@
       ],
       "tags": [
         "搞笑"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 712000,
-      "title": "牧神记 伍",
-      "titleCn": "牧神记5",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-      "airDate": "2026-10-18",
-      "ratingScore": 7.3,
-      "popularity": 37,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "小说改",
-        "玄幻",
-        "战斗",
-        "网文改",
-        "厕纸",
-        "WEB",
-        "日"
       ],
       "sites": [],
       "episodes": []
@@ -5101,9 +5105,9 @@
       ],
       "tags": [
         "剧场版",
+        "央视动漫",
         "抄袭",
-        "动画片",
-        "央视动漫"
+        "动画片"
       ],
       "sites": [],
       "episodes": []
@@ -5160,6 +5164,29 @@
     },
     {
       "anilistId": null,
+      "bgmId": 712500,
+      "title": "万圣街 特别篇 古堡的秘密",
+      "titleCn": "万圣街 特别篇 古堡的秘密",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
+      "airDate": "2026-10-31",
+      "ratingScore": 0,
+      "popularity": 2,
+      "totalEpisodes": 3,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 712926,
       "title": "都市古医仙2",
       "titleCn": "都市古医仙2",
@@ -5179,27 +5206,6 @@
         "日",
         "三"
       ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 712500,
-      "title": "万圣街 特别篇 古堡的秘密",
-      "titleCn": "万圣街 特别篇 古堡的秘密",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
-      "airDate": "2026-10-31",
-      "ratingScore": 0,
-      "popularity": 1,
-      "totalEpisodes": 3,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [],
       "sites": [],
       "episodes": []
     }
