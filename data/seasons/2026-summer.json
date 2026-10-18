@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-18T13:44:25.916Z",
+  "generatedAt": "2026-10-18T23:54:51.458Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -966,7 +966,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 62417,
+      "popularity": 62527,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -6260,7 +6260,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8084,
+      "popularity": 8093,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7295,7 +7295,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 2918,
+      "popularity": 2924,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7304,8 +7304,8 @@
         "原创",
         "战斗",
         "奇幻",
-        "科幻",
         "2026",
+        "科幻",
         "火药方糖",
         "WEB",
         "摔跤社",
@@ -7317,17 +7317,17 @@
         "意识流",
         "国漫",
         "电波",
-        "国产动画",
         "青春",
+        "国产动画",
         "2026年8月",
         "2026年",
         "国创",
         "记忆管理局",
-        "7月",
         "中国动画",
+        "2026夏",
+        "Web动画",
         "日本",
-        "剧集",
-        "Web动画"
+        "7月"
       ],
       "sites": [],
       "episodes": []
@@ -7677,7 +7677,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1014,
+      "popularity": 1015,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7685,8 +7685,8 @@
       "tags": [
         "剧场版",
         "奇幻",
-        "2026",
         "喜剧",
+        "2026",
         "战斗",
         "原创",
         "神话",
@@ -7703,13 +7703,13 @@
         "2026年7月",
         "小说改",
         "国产动画",
-        "玄幻",
         "8分",
         "8",
         "国产动画电影",
-        "画梦成帧文化传媒",
-        "TV",
-        "七分值得一见"
+        "玄幻",
+        "Pearl",
+        "架空世界",
+        "影动备字〔2024〕第043号"
       ],
       "sites": [],
       "episodes": []
@@ -8599,7 +8599,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/d1/2c/478223_8SSP1.jpg",
       "airDate": "2026-07-10",
       "ratingScore": 6.8,
-      "popularity": 264,
+      "popularity": 265,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -8621,17 +8621,17 @@
         "谢君伟",
         "原创",
         "影动备字2024第009号",
-        "国产动画电影",
-        "战争",
-        "现代国产动画剧场版",
-        "电影",
-        "三国",
-        "2020-2029",
-        "5分",
+        "追光动画文化传播（北京）有限公司",
         "2026观",
         "鱼焦",
+        "现代国产动画剧场版",
         "动画片",
-        "2026年"
+        "2020-2029",
+        "三国",
+        "国产动画电影",
+        "战争",
+        "华语",
+        "电影"
       ],
       "sites": [],
       "episodes": []
@@ -8850,6 +8850,40 @@
     },
     {
       "anilistId": null,
+      "bgmId": 507530,
+      "title": "灵境行者",
+      "titleCn": "灵境行者",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/9b/2a/507530_yWUYo.jpg",
+      "airDate": "2026-09-03",
+      "ratingScore": 6,
+      "popularity": 122,
+      "totalEpisodes": 24,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "小说改",
+        "奇幻",
+        "国漫",
+        "3D",
+        "战斗",
+        "网文改",
+        "2026",
+        "WEB",
+        "2026年9月",
+        "幻维数码",
+        "四",
+        "平板观看"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 500458,
       "title": "胶囊计划·奇迹",
       "titleCn": "胶囊计划 奇迹",
@@ -8883,40 +8917,6 @@
         "奇幻",
         "合集",
         "6"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 507530,
-      "title": "灵境行者",
-      "titleCn": "灵境行者",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/9b/2a/507530_yWUYo.jpg",
-      "airDate": "2026-09-03",
-      "ratingScore": 6,
-      "popularity": 121,
-      "totalEpisodes": 24,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "小说改",
-        "奇幻",
-        "国漫",
-        "3D",
-        "战斗",
-        "网文改",
-        "2026",
-        "WEB",
-        "2026年9月",
-        "幻维数码",
-        "四",
-        "平板观看"
       ],
       "sites": [],
       "episodes": []
@@ -9181,7 +9181,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/4d/434813_HKhzh.jpg",
       "airDate": "2026-08-03",
       "ratingScore": 5.8,
-      "popularity": 44,
+      "popularity": 45,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -9194,11 +9194,11 @@
         "校园",
         "2026",
         "快看漫画",
-        "2026年8月",
-        "2026年7月",
         "空",
+        "2026年8月",
         "漫改",
-        "2D"
+        "2D",
+        "2026年7月"
       ],
       "sites": [],
       "episodes": []
