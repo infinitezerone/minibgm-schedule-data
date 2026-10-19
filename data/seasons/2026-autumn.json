@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-19T09:46:44.531Z",
+  "generatedAt": "2026-10-19T16:46:16.261Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -193,7 +193,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
       "airDate": "2026-10-01",
       "ratingScore": 7.6,
-      "popularity": 50668,
+      "popularity": 50873,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -396,7 +396,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160275-cBOWJpcCGeMq.jpg",
       "airDate": "2026-10-23",
       "ratingScore": 0,
-      "popularity": 43813,
+      "popularity": 43916,
       "totalEpisodes": 1,
       "genres": [
         "冒险",
@@ -472,7 +472,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143103-vvsaIpZPpIuE.png",
       "airDate": "2026-11-20",
       "ratingScore": 0,
-      "popularity": 42068,
+      "popularity": 42164,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -724,7 +724,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
       "airDate": "2026-10-02",
       "ratingScore": 7.8,
-      "popularity": 35321,
+      "popularity": 35553,
       "totalEpisodes": 13,
       "genres": [
         "动作",
@@ -896,7 +896,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
       "airDate": "2026-10-08",
       "ratingScore": 7.1,
-      "popularity": 30396,
+      "popularity": 30599,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -937,6 +937,38 @@
       "episodes": []
     },
     {
+      "anilistId": 152677,
+      "bgmId": 393010,
+      "title": "探偵はもう、死んでいる。Season2",
+      "titleCn": "侦探已经死了。 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "RELEASING",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
+      "airDate": "2026-10-07",
+      "ratingScore": 7.4,
+      "popularity": 25179,
+      "totalEpisodes": 13,
+      "genres": [
+        "搞笑",
+        "剧情",
+        "悬疑",
+        "恋爱",
+        "超自然"
+      ],
+      "tags": [
+        "搞笑",
+        "剧情",
+        "悬疑",
+        "恋爱",
+        "超自然",
+        "侦探"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 206814,
       "bgmId": 623249,
       "title": "ドラゴンボール超 ビルス",
@@ -964,38 +996,6 @@
         "男主",
         "神明",
         "外星人"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": 152677,
-      "bgmId": 393010,
-      "title": "探偵はもう、死んでいる。Season2",
-      "titleCn": "侦探已经死了。 第二季",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "RELEASING",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
-      "airDate": "2026-10-07",
-      "ratingScore": 7.4,
-      "popularity": 25101,
-      "totalEpisodes": 13,
-      "genres": [
-        "搞笑",
-        "剧情",
-        "悬疑",
-        "恋爱",
-        "超自然"
-      ],
-      "tags": [
-        "搞笑",
-        "剧情",
-        "悬疑",
-        "恋爱",
-        "超自然",
-        "侦探"
       ],
       "sites": [],
       "episodes": []
@@ -1426,7 +1426,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png",
       "airDate": "2026-10-03",
       "ratingScore": 6.9,
-      "popularity": 20664,
+      "popularity": 21207,
       "totalEpisodes": 13,
       "genres": [
         "动作",
@@ -2086,8 +2086,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png",
       "airDate": "2026-10-05",
-      "ratingScore": 7.2,
-      "popularity": 14418,
+      "ratingScore": 7.1,
+      "popularity": 14760,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -2188,8 +2188,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
       "airDate": "2026-10-07",
-      "ratingScore": 7.2,
-      "popularity": 14104,
+      "ratingScore": 7.1,
+      "popularity": 14187,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -2326,7 +2326,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178972-THp4trZ9uR9b.jpg",
       "airDate": "2026-11-06",
       "ratingScore": 0,
-      "popularity": 13946,
+      "popularity": 14043,
       "totalEpisodes": 3,
       "genres": [
         "动作",
@@ -2615,6 +2615,7 @@
         "限制级",
         "恋爱",
         "女主",
+        "三角恋",
         "青年向"
       ],
       "sites": [
@@ -2720,7 +2721,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
       "airDate": "2026-10-07",
       "ratingScore": 7.1,
-      "popularity": 10952,
+      "popularity": 11024,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -3000,7 +3001,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
       "airDate": "2026-10-05",
       "ratingScore": 6.4,
-      "popularity": 7053,
+      "popularity": 7085,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -3699,7 +3700,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157330-Ow09pWu8lqCT.jpg",
       "airDate": "2026-11-13",
       "ratingScore": 0,
-      "popularity": 4248,
+      "popularity": 4261,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -4040,7 +4041,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179876-Wg62CAzp5WQ1.jpg",
       "airDate": "2026-10-14",
       "ratingScore": 5.8,
-      "popularity": 2559,
+      "popularity": 2583,
       "totalEpisodes": 11,
       "genres": [
         "机战",
@@ -4285,7 +4286,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 472,
+      "popularity": 477,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -4298,20 +4299,20 @@
         "WEB",
         "国漫",
         "TV",
-        "2026年10月",
         "罗小黑战记",
+        "2026年10月",
         "玄幻",
         "续集",
         "未定档",
         "寒木春华",
+        "续作",
+        "萌",
         "3",
         "泡面",
-        "国产动画",
-        "续作",
-        "11",
-        "萌",
+        "◆TV◆",
         "奇幻",
-        "◆TV◆"
+        "11",
+        "国产动画"
       ],
       "sites": [],
       "episodes": []
@@ -4328,7 +4329,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 6.2,
-      "popularity": 326,
+      "popularity": 327,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -4344,23 +4345,22 @@
         "推理",
         "武侠",
         "未上映",
-        "2026",
         "国产或合作动画",
         "腾讯",
         "历史",
         "2025",
+        "2026",
+        "好船动画",
+        "动作",
         "2020-2029",
         "国内番剧",
-        "中国动画",
-        "漫改",
-        "大理寺日志",
         "好传动画",
+        "大理寺日志",
+        "2D",
+        "漫改",
         "古风",
         "悬疑",
-        "2D",
-        "未定档",
-        "动作",
-        "好船动画"
+        "未定档"
       ],
       "sites": [],
       "episodes": []
@@ -4402,32 +4402,32 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 6.9,
-      "popularity": 258,
+      "popularity": 262,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "小说改",
         "WEB",
         "大火鸟文化",
-        "异能",
+        "小说改",
         "2026年10月",
+        "异能",
         "搞笑",
         "战斗",
         "网文改",
-        "玄幻",
         "厕纸",
+        "玄幻",
+        "TV",
+        "奇幻",
         "喜欢！",
         "2026补",
+        "2026",
+        "未上映",
         "coocaa",
         "国产动画",
-        "奇幻",
-        "2026",
         "表番",
-        "2D",
-        "未上映",
-        "TV"
+        "2D"
       ],
       "sites": [],
       "episodes": []
@@ -4590,20 +4590,20 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 173,
+      "popularity": 174,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "战斗",
         "网文改",
+        "战斗",
         "2026",
-        "玄幻",
         "剧场版",
         "WEB",
-        "3D",
+        "玄幻",
         "国漫",
+        "3D",
         "小说改",
         "动画电影",
         "轻小说改",
@@ -4821,23 +4821,24 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6.7,
-      "popularity": 60,
+      "popularity": 63,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "玄幻",
-        "网文改",
         "战斗",
-        "玄机",
+        "网文改",
         "2026",
-        "小说改",
-        "厕纸",
+        "玄机",
         "3D",
-        "热血",
+        "厕纸",
+        "小说改",
+        "日",
         "WEB",
-        "日"
+        "国创",
+        "热血"
       ],
       "sites": [],
       "episodes": []
@@ -5075,6 +5076,32 @@
     },
     {
       "anilistId": null,
+      "bgmId": 625517,
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "titleCn": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/17/c9/625517_EOEKN.jpg",
+      "airDate": "2026-10-01",
+      "ratingScore": 1,
+      "popularity": 5,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "央视动漫",
+        "抄袭",
+        "动画片"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 564202,
       "title": "闽都侠仙传之靖姑",
       "titleCn": "闽都侠仙传之靖姑",
@@ -5095,32 +5122,6 @@
         "福建",
         "WEB",
         "武侠",
-        "动画片"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 625517,
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "titleCn": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "countryOfOrigin": "CN",
-      "format": "剧场版",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/17/c9/625517_EOEKN.jpg",
-      "airDate": "2026-10-01",
-      "ratingScore": 1,
-      "popularity": 4,
-      "totalEpisodes": 0,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "剧场版",
-        "央视动漫",
-        "抄袭",
         "动画片"
       ],
       "sites": [],
@@ -5154,30 +5155,6 @@
     },
     {
       "anilistId": null,
-      "bgmId": 708225,
-      "title": "小猪佩奇·完美假期",
-      "titleCn": "小猪佩奇·完美假期",
-      "countryOfOrigin": "CN",
-      "format": "剧场版",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c0/79/708225_Y86R8.jpg",
-      "airDate": "2026-10-01",
-      "ratingScore": 0,
-      "popularity": 2,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "英国",
-        "剧场版"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
       "bgmId": 712500,
       "title": "万圣街 特别篇 古堡的秘密",
       "titleCn": "万圣街 特别篇 古堡的秘密",
@@ -5188,7 +5165,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
       "airDate": "2026-10-31",
       "ratingScore": 0,
-      "popularity": 2,
+      "popularity": 3,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
@@ -5211,14 +5188,40 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
       "airDate": "2026-10-14",
       "ratingScore": 0,
-      "popularity": 2,
+      "popularity": 3,
       "totalEpisodes": 40,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "日",
+        "WEB",
+        "小说改",
         "三"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 708225,
+      "title": "小猪佩奇·完美假期",
+      "titleCn": "小猪佩奇·完美假期",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c0/79/708225_Y86R8.jpg",
+      "airDate": "2026-10-01",
+      "ratingScore": 0,
+      "popularity": 2,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "英国",
+        "剧场版"
       ],
       "sites": [],
       "episodes": []
