@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-20T00:53:38.257Z",
+  "generatedAt": "2026-10-20T09:16:43.175Z",
   "window": {
-    "from": 1790643121,
-    "to": 1797641521
+    "from": 1790673300,
+    "to": 1797671700
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 80776,
+      "popularity": 80801,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -192,7 +192,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20245,
+      "popularity": 20250,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -342,6 +342,10 @@
         {
           "n": 1365,
           "t": 1797060600
+        },
+        {
+          "n": 1366,
+          "t": 1797665400
         }
       ]
     },
@@ -356,7 +360,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
       "airDate": "1969-10-05",
       "ratingScore": 5.7,
-      "popularity": 2556,
+      "popularity": 2557,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -474,7 +478,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8004,
+      "popularity": 8010,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -593,6 +597,10 @@
         {
           "n": 945,
           "t": 1797062400
+        },
+        {
+          "n": 946,
+          "t": 1797667200
         }
       ]
     },
@@ -3415,8 +3423,8 @@
         "冒险",
         "超自然",
         "少年向",
-        "男主",
         "神明",
+        "男主",
         "群像",
         "剑术",
         "战争",
@@ -4508,10 +4516,10 @@
       "tags": [
         "搞笑",
         "女主",
+        "社团活动",
         "恶搞/梗番",
         "校园",
         "群像",
-        "社团活动",
         "百合"
       ],
       "sites": [
@@ -5121,8 +5129,8 @@
       "tags": [
         "运动",
         "足球",
-        "青年向",
-        "男主"
+        "男主",
+        "青年向"
       ],
       "sites": [
         {
@@ -5534,8 +5542,8 @@
       "titleCn": "赛博朋克：边缘行者 2",
       "countryOfOrigin": "JP",
       "format": "ONA",
-      "status": "NOT_YET_RELEASED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-4LdfmKIHzuxr.png",
       "airDate": "2026-10-01",
       "ratingScore": 0,
       "popularity": 80208,
@@ -5561,43 +5569,43 @@
       "episodes": [
         {
           "n": 1,
-          "t": 1792479900
+          "t": 1792479600
         },
         {
           "n": 2,
-          "t": 1792479900
+          "t": 1792479600
         },
         {
           "n": 3,
-          "t": 1792479900
+          "t": 1792479600
         },
         {
           "n": 4,
-          "t": 1792479900
+          "t": 1792479600
         },
         {
           "n": 5,
-          "t": 1792479900
+          "t": 1792479600
         },
         {
           "n": 6,
-          "t": 1792479900
+          "t": 1792479600
         },
         {
           "n": 7,
-          "t": 1792479900
+          "t": 1792479600
         },
         {
           "n": 8,
-          "t": 1792479900
+          "t": 1792479600
         },
         {
           "n": 9,
-          "t": 1792479900
+          "t": 1792479600
         },
         {
           "n": 10,
-          "t": 1792479900
+          "t": 1792479600
         }
       ]
     },
@@ -5761,6 +5769,10 @@
         {
           "n": 10,
           "t": 1797064200
+        },
+        {
+          "n": 11,
+          "t": 1797669000
         }
       ]
     },
@@ -6290,8 +6302,8 @@
         "超自然",
         "丧尸",
         "末日废土",
-        "旅行",
         "生存",
+        "旅行",
         "女主",
         "少年向",
         "悲剧"
@@ -8750,7 +8762,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png",
       "airDate": "2026-10-01",
       "ratingScore": 6.9,
-      "popularity": 16859,
+      "popularity": 16996,
       "totalEpisodes": 12,
       "genres": [
         "剧情",
@@ -9042,7 +9054,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206774-gXVdrySlLY6y.jpg",
       "airDate": "2026-10-04",
       "ratingScore": 5.2,
-      "popularity": 6663,
+      "popularity": 6836,
       "totalEpisodes": 8,
       "genres": [
         "限制级",
@@ -9136,8 +9148,8 @@
       "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg",
       "airDate": "2026-10-11",
-      "ratingScore": 8.2,
-      "popularity": 25110,
+      "ratingScore": 8.3,
+      "popularity": 25839,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -9241,7 +9253,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png",
       "airDate": "2026-10-06",
       "ratingScore": 7.7,
-      "popularity": 23247,
+      "popularity": 23524,
       "totalEpisodes": 25,
       "genres": [
         "动作",
@@ -9384,7 +9396,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207084-5ERIoIDjU76C.jpg",
       "airDate": "2026-01-01",
       "ratingScore": 7.6,
-      "popularity": 1806,
+      "popularity": 1816,
       "totalEpisodes": 3,
       "genres": [
         "悬疑",
@@ -9399,8 +9411,8 @@
         "惊悚",
         "女主",
         "神话",
-        "都市奇幻",
         "魔物娘",
+        "都市奇幻",
         "家庭",
         "悲剧"
       ],
@@ -9426,7 +9438,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg",
       "airDate": "2026-10-05",
       "ratingScore": 7.2,
-      "popularity": 24169,
+      "popularity": 25071,
       "totalEpisodes": 12,
       "genres": [
         "奇幻",
@@ -9564,7 +9576,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207254-StcuNpmZTDCL.jpg",
       "airDate": "2026-07-08",
       "ratingScore": 5.3,
-      "popularity": 2217,
+      "popularity": 2224,
       "totalEpisodes": 12,
       "genres": [
         "冒险",
@@ -9639,7 +9651,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
       "airDate": "2026-10-06",
       "ratingScore": 7.5,
-      "popularity": 34491,
+      "popularity": 35001,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -9804,7 +9816,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
       "airDate": "2026-07-07",
       "ratingScore": 6.2,
-      "popularity": 11618,
+      "popularity": 11636,
       "totalEpisodes": 24,
       "genres": [
         "动作",
@@ -9955,7 +9967,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg",
       "airDate": "2026-10-04",
       "ratingScore": 6.9,
-      "popularity": 23715,
+      "popularity": 24474,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -10088,7 +10100,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208367-qWKRaOpokGoG.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6.2,
-      "popularity": 312,
+      "popularity": 314,
       "totalEpisodes": 4,
       "genres": [
         "冒险",
@@ -10132,7 +10144,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209032-R0gP5IFdk7Vd.jpg",
       "airDate": "2026-10-04",
       "ratingScore": 6.9,
-      "popularity": 1403,
+      "popularity": 1409,
       "totalEpisodes": 0,
       "genres": [
         "魔法少女",
@@ -10278,8 +10290,8 @@
       "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg",
       "airDate": "2026-10-05",
-      "ratingScore": 6.8,
-      "popularity": 18248,
+      "ratingScore": 6.7,
+      "popularity": 18915,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -10460,7 +10472,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209463-Yxk2q10RXgg8.jpg",
       "airDate": "2026-10-04",
       "ratingScore": 6.8,
-      "popularity": 5565,
+      "popularity": 5638,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -10604,7 +10616,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209499-S0sWFrCpft85.jpg",
       "airDate": "2026-10-04",
       "ratingScore": 6.3,
-      "popularity": 8122,
+      "popularity": 8258,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -10723,7 +10735,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg",
       "airDate": "2026-10-06",
       "ratingScore": 6.9,
-      "popularity": 18749,
+      "popularity": 18911,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -10870,7 +10882,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209562-kQQbTKDuql9p.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 5.7,
-      "popularity": 4562,
+      "popularity": 4587,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -11021,7 +11033,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209872-RBeVPqwejHFp.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.9,
-      "popularity": 16668,
+      "popularity": 16777,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -11033,8 +11045,8 @@
         "搞笑",
         "恋爱",
         "武术格斗",
-        "搞笑滑稽",
         "傲娇",
+        "搞笑滑稽",
         "三角恋",
         "少年向",
         "校园",
@@ -11132,8 +11144,8 @@
       "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
       "airDate": "2026-07-05",
-      "ratingScore": 8.4,
-      "popularity": 68193,
+      "ratingScore": 8.5,
+      "popularity": 68375,
       "totalEpisodes": 13,
       "genres": [
         "搞笑",
@@ -11270,7 +11282,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg",
       "airDate": "2026-09-24",
       "ratingScore": 8.6,
-      "popularity": 44284,
+      "popularity": 44590,
       "totalEpisodes": 11,
       "genres": [
         "动作",
@@ -11378,7 +11390,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg",
       "airDate": "2026-04-01",
       "ratingScore": 7.5,
-      "popularity": 3125,
+      "popularity": 3131,
       "totalEpisodes": 19,
       "genres": [
         "冒险",
@@ -11412,7 +11424,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211338-If49uIjNKPgt.png",
       "airDate": "2026-07-01",
       "ratingScore": 5.8,
-      "popularity": 618,
+      "popularity": 619,
       "totalEpisodes": 1,
       "genres": [
         "里番"
@@ -11442,7 +11454,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg",
       "airDate": "2026-10-07",
       "ratingScore": 7.1,
-      "popularity": 15068,
+      "popularity": 15238,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -11453,9 +11465,9 @@
         "动作",
         "搞笑",
         "奇幻",
-        "旅行",
-        "虚拟世界",
         "女主",
+        "虚拟世界",
+        "旅行",
         "恶搞/梗番"
       ],
       "sites": [
@@ -11595,7 +11607,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211877-yWQ2r7XmWvG6.jpg",
       "airDate": "2026-10-04",
       "ratingScore": 5,
-      "popularity": 11881,
+      "popularity": 12157,
       "totalEpisodes": 12,
       "genres": [
         "剧情",
@@ -11729,7 +11741,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6.6,
-      "popularity": 2130,
+      "popularity": 2135,
       "totalEpisodes": 0,
       "genres": [
         "奇幻",
@@ -11878,7 +11890,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg",
       "airDate": "2026-07-03",
       "ratingScore": 5.5,
-      "popularity": 254,
+      "popularity": 256,
       "totalEpisodes": 0,
       "genres": [
         "搞笑"
@@ -11960,7 +11972,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg",
       "airDate": "2026-10-08",
       "ratingScore": 6.9,
-      "popularity": 19018,
+      "popularity": 19168,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -12112,7 +12124,7 @@
       "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212575-92x6aBTN9JCL.png",
       "airDate": "2026-08-01",
-      "ratingScore": 6.6,
+      "ratingScore": 6.5,
       "popularity": 335,
       "totalEpisodes": 0,
       "genres": [
@@ -12143,7 +12155,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212667-8g5ktyrx34Yl.jpg",
       "airDate": "2026-10-06",
       "ratingScore": 6.8,
-      "popularity": 4976,
+      "popularity": 5210,
       "totalEpisodes": 0,
       "genres": [
         "里番",
@@ -12245,7 +12257,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212799-n7WDdic7IL1z.png",
       "airDate": "2026-10-03",
       "ratingScore": 6.7,
-      "popularity": 6581,
+      "popularity": 6631,
       "totalEpisodes": 20,
       "genres": [
         "搞笑",
@@ -12351,7 +12363,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg",
       "airDate": "2026-10-02",
       "ratingScore": 7.6,
-      "popularity": 42861,
+      "popularity": 44198,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -12499,7 +12511,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213066-6gYdsenxcjWx.png",
       "airDate": "2026-09-01",
       "ratingScore": 7.4,
-      "popularity": 536,
+      "popularity": 546,
       "totalEpisodes": 3,
       "genres": [
         "里番"
@@ -12533,7 +12545,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213067-KYqjKEUZ6tBM.png",
       "airDate": "2026-09-01",
       "ratingScore": 6.7,
-      "popularity": 430,
+      "popularity": 431,
       "totalEpisodes": 2,
       "genres": [
         "里番"
@@ -12563,7 +12575,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png",
       "airDate": "2026-10-07",
       "ratingScore": 5.3,
-      "popularity": 2719,
+      "popularity": 2736,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -12697,7 +12709,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213298-ymB1Sw0yDZ0Y.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 5.8,
-      "popularity": 179,
+      "popularity": 181,
       "totalEpisodes": 0,
       "genres": [],
       "tags": [
@@ -12855,7 +12867,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213457-gN5p1GZjK3zi.jpg",
       "airDate": "2026-11-01",
       "ratingScore": 0,
-      "popularity": 23638,
+      "popularity": 23756,
       "totalEpisodes": 0,
       "genres": [
         "剧情",
@@ -12904,7 +12916,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213658-D3BPJaqawLxS.png",
       "airDate": "2026-10-11",
       "ratingScore": 8.4,
-      "popularity": 3858,
+      "popularity": 3898,
       "totalEpisodes": 0,
       "genres": [
         "运动"
@@ -13019,7 +13031,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213686-HMUnc0zUKiTw.png",
       "airDate": "2026-09-01",
       "ratingScore": 5,
-      "popularity": 299,
+      "popularity": 300,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -13049,7 +13061,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213732-pPypc7kubQJ3.png",
       "airDate": "2026-09-01",
       "ratingScore": 7.9,
-      "popularity": 456,
+      "popularity": 466,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -13079,7 +13091,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png",
       "airDate": "2026-10-01",
       "ratingScore": 8.2,
-      "popularity": 34915,
+      "popularity": 35163,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -13213,7 +13225,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214443-0xrurj3XnjFD.png",
       "airDate": "2026-10-01",
       "ratingScore": 0,
-      "popularity": 149,
+      "popularity": 148,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -13243,7 +13255,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214551-uDaf7UPVxN2v.jpg",
       "airDate": "2026-09-01",
       "ratingScore": 5.8,
-      "popularity": 237,
+      "popularity": 238,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -13273,7 +13285,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
       "airDate": "2026-10-05",
       "ratingScore": 4.9,
-      "popularity": 127,
+      "popularity": 129,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -13410,7 +13422,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214703-iXoaVH6UkiZd.png",
       "airDate": "2026-09-04",
       "ratingScore": 6,
-      "popularity": 1547,
+      "popularity": 1560,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -13502,7 +13514,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215835-B0seSw93V5qM.png",
       "airDate": "2026-09-27",
       "ratingScore": 7.4,
-      "popularity": 2741,
+      "popularity": 2748,
       "totalEpisodes": 26,
       "genres": [
         "搞笑",
@@ -13589,7 +13601,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215989-jXzvgQ6QVAhj.png",
       "airDate": "2026-11-01",
       "ratingScore": 0,
-      "popularity": 160,
+      "popularity": 162,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -13619,7 +13631,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216171-IhhbG5GAio2C.png",
       "airDate": "2026-11-01",
       "ratingScore": 0,
-      "popularity": 241,
+      "popularity": 242,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -13648,8 +13660,8 @@
       "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-b72dAqbVEDO7.jpg",
       "airDate": "2026-10-03",
-      "ratingScore": 6.5,
-      "popularity": 1789,
+      "ratingScore": 6.4,
+      "popularity": 1802,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -13826,7 +13838,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216860-ghfSopHbPVNa.png",
       "airDate": "2026-10-04",
       "ratingScore": 4.7,
-      "popularity": 55,
+      "popularity": 57,
       "totalEpisodes": 0,
       "genres": [
         "日常"
@@ -13919,7 +13931,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg",
       "airDate": "2026-10-02",
       "ratingScore": 6,
-      "popularity": 2487,
+      "popularity": 2521,
       "totalEpisodes": 12,
       "genres": [
         "冒险",
@@ -14036,7 +14048,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216926-Bs1OpKtHYY9a.png",
       "airDate": "2026-11-01",
       "ratingScore": 0,
-      "popularity": 188,
+      "popularity": 191,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -14070,7 +14082,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217009-jcuGzZxbNDQo.png",
       "airDate": "2026-12-01",
       "ratingScore": 0,
-      "popularity": 181,
+      "popularity": 183,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -14162,7 +14174,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 4.4,
-      "popularity": 48,
+      "popularity": 49,
       "totalEpisodes": 0,
       "genres": [
         "日常"
@@ -14236,7 +14248,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 4.8,
-      "popularity": 49,
+      "popularity": 51,
       "totalEpisodes": 0,
       "genres": [
         "日常"
@@ -14325,7 +14337,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217941-olQB62EBXrqS.png",
       "airDate": "2026-12-01",
       "ratingScore": 0,
-      "popularity": 85,
+      "popularity": 87,
       "totalEpisodes": 0,
       "genres": [
         "里番"
