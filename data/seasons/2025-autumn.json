@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-10-19T16:45:07.070Z",
+  "generatedAt": "2026-10-20T00:55:07.944Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -7725,7 +7725,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/f6/458926_0qw05.jpg",
       "airDate": "2025-12-28",
       "ratingScore": 6.9,
-      "popularity": 566,
+      "popularity": 567,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -7744,16 +7744,16 @@
         "国漫",
         "飞鱼映画",
         "原创",
-        "奇幻",
-        "正番",
-        "优酷",
-        "末世",
-        "youku",
-        "7",
-        "漫画改",
-        "2026年1月",
         "优酷动漫",
-        "平板观看"
+        "2026年1月",
+        "平板观看",
+        "漫画改",
+        "7",
+        "youku",
+        "末世",
+        "正番",
+        "奇幻",
+        "优酷"
       ],
       "sites": [],
       "episodes": []

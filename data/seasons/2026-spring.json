@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-10-19T16:45:39.041Z",
+  "generatedAt": "2026-10-20T00:55:39.025Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -8671,7 +8671,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b9/99/577226_CLc9Z.jpg",
       "airDate": "2026-06-20",
       "ratingScore": 6.8,
-      "popularity": 346,
+      "popularity": 347,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
@@ -8854,7 +8854,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/36/ae/456303_fV9xR.jpg",
       "airDate": "2026-04-24",
       "ratingScore": 6,
-      "popularity": 289,
+      "popularity": 290,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8872,18 +8872,18 @@
         "异世界",
         "2D",
         "搞笑",
-        "战斗",
         "佳菲",
-        "TV",
-        "倪佳菲",
-        "国创",
         "国产动画",
+        "倪佳菲",
+        "战斗",
+        "TV",
         "国漫",
-        "冒险",
-        "魔族",
+        "国创",
         "八号流",
+        "冒险",
         "5",
-        "2026年"
+        "2026年",
+        "魔族"
       ],
       "sites": [],
       "episodes": []
@@ -8973,7 +8973,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/49/11/453309_597ky.jpg",
       "airDate": "2026-05-05",
       "ratingScore": 6.8,
-      "popularity": 193,
+      "popularity": 194,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8986,12 +8986,12 @@
         "2026",
         "泡面番",
         "未定档",
-        "8+",
+        "TV",
+        "奇幻",
         "分子互动",
         "动画片",
-        "TV",
-        "2026年5月",
-        "奇幻"
+        "8+",
+        "2026年5月"
       ],
       "sites": [],
       "episodes": []
@@ -9346,7 +9346,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/88/e4/507822_q52CC.jpg",
       "airDate": "2026-05-13",
       "ratingScore": 5.2,
-      "popularity": 117,
+      "popularity": 118,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -9354,13 +9354,13 @@
       "tags": [
         "2026",
         "奇幻",
-        "WEB",
-        "网文改",
         "2026年4月",
+        "网文改",
+        "WEB",
         "小说改",
-        "4",
+        "未上映",
         "中国动画",
-        "未上映"
+        "4"
       ],
       "sites": [],
       "episodes": []
