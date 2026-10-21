@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-10-21T00:22:13.060Z",
+  "generatedAt": "2026-10-21T09:15:11.051Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -6761,7 +6761,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210234-MZaMjdbBzEHz.jpg",
       "airDate": "2026-04-02",
       "ratingScore": 4.9,
-      "popularity": 9430,
+      "popularity": 9436,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -6957,7 +6957,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208352-KUuXI4sVbtYV.jpg",
       "airDate": "2026-04-15",
       "ratingScore": 7.1,
-      "popularity": 8870,
+      "popularity": 8874,
       "totalEpisodes": 7,
       "genres": [
         "动作",
@@ -7016,7 +7016,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210032-EOvyzhh2ATNs.jpg",
       "airDate": "2026-06-18",
       "ratingScore": 7.4,
-      "popularity": 8518,
+      "popularity": 8533,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7468,7 +7468,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210375-Nfj4cciZ35un.jpg",
       "airDate": "2026-04-01",
       "ratingScore": 4.5,
-      "popularity": 4617,
+      "popularity": 4622,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7786,7 +7786,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg",
       "airDate": "2026-04-08",
       "ratingScore": 7.5,
-      "popularity": 3131,
+      "popularity": 3137,
       "totalEpisodes": 19,
       "genres": [
         "冒险",
@@ -7952,7 +7952,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212323-Ik8905FHBSLY.jpg",
       "airDate": "2026-05-15",
       "ratingScore": 8.2,
-      "popularity": 1498,
+      "popularity": 1499,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -8085,7 +8085,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208314-Lw3CFRCPkprM.png",
       "airDate": "2026-04-30",
       "ratingScore": 7.6,
-      "popularity": 1305,
+      "popularity": 1306,
       "totalEpisodes": 2,
       "genres": [
         "里番"
@@ -8177,7 +8177,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209981-rXlkRNX1unMb.png",
       "airDate": "2026-05-29",
       "ratingScore": 7.4,
-      "popularity": 1061,
+      "popularity": 1064,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -8399,7 +8399,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png",
       "airDate": "2026-06-26",
       "ratingScore": 7.2,
-      "popularity": 755,
+      "popularity": 757,
       "totalEpisodes": 2,
       "genres": [
         "里番"
@@ -8578,8 +8578,8 @@
       "isAdult": true,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208361-4uMcLF44TJmM.png",
       "airDate": "2026-05-29",
-      "ratingScore": 6,
-      "popularity": 520,
+      "ratingScore": 6.1,
+      "popularity": 523,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -8602,7 +8602,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210116-CRuoaXeZO5qU.png",
       "airDate": "2026-06-26",
       "ratingScore": 5.9,
-      "popularity": 517,
+      "popularity": 518,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -8624,8 +8624,8 @@
       "isAdult": true,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209873-bKlttpEcD4oL.png",
       "airDate": "2026-06-26",
-      "ratingScore": 6,
-      "popularity": 406,
+      "ratingScore": 6.1,
+      "popularity": 410,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -8826,18 +8826,19 @@
         "神漫文化",
         "沧元图",
         "3D",
+        "小说改",
         "WEB",
         "2026",
-        "小说改",
-        "续集",
         "我吃西红柿",
+        "续集",
+        "妖怪",
         "THE",
-        "2027年03月05日",
         "Hunter",
+        "热血",
+        "2027年03月05日",
         "Demon",
         "五",
-        "妖怪",
-        "热血"
+        "TV"
       ],
       "sites": [],
       "episodes": []
