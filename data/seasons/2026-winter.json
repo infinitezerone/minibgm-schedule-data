@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-10-20T14:37:24.762Z",
+  "generatedAt": "2026-10-21T00:21:49.372Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -7409,7 +7409,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1f/91/250224_7ZUS7.jpg",
       "airDate": "2026-03-02",
       "ratingScore": 7.3,
-      "popularity": 1999,
+      "popularity": 2001,
       "totalEpisodes": 8,
       "genres": [
         "国产动画"
@@ -7493,7 +7493,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ee/ae/507819_OD5zd.jpg",
       "airDate": "2026-01-02",
       "ratingScore": 6.5,
-      "popularity": 1805,
+      "popularity": 1807,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -7518,14 +7518,14 @@
         "一魁夺动漫",
         "武侠",
         "续作",
-        "中国动画",
-        "#6",
-        "良心作",
-        "都市",
         "东方",
-        "2020-2029",
+        "都市",
+        "中国动画",
+        "B4",
         "C2",
-        "B4"
+        "A3",
+        "国漫之光",
+        "2020-2029"
       ],
       "sites": [],
       "episodes": []
@@ -7788,19 +7788,19 @@
         "玄幻",
         "国创",
         "怪谈",
-        "陈莲华",
-        "5分",
         "刘旷",
-        "顾杨",
-        "胡睿",
         "欧阳仲泓",
-        "2026年",
-        "杜鹏鹏",
         "动画剧集",
-        "续作",
+        "2026年",
+        "顾杨",
         "中国动画",
-        "国产垃圾",
-        "5"
+        "续作",
+        "5分",
+        "杜鹏鹏",
+        "胡睿",
+        "陈莲华",
+        "大蛙动画",
+        "2025"
       ],
       "sites": [],
       "episodes": []
@@ -8751,7 +8751,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/11/9f/456169_8zzyK.jpg",
       "airDate": "2026-02-26",
       "ratingScore": 6.2,
-      "popularity": 150,
+      "popularity": 149,
       "totalEpisodes": 18,
       "genres": [
         "国产动画"
@@ -9043,7 +9043,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/65/96/467711_YYLt2.jpg",
       "airDate": "2026-02-04",
       "ratingScore": 6.6,
-      "popularity": 32,
+      "popularity": 33,
       "totalEpisodes": 10,
       "genres": [
         "国产动画"
@@ -9052,8 +9052,8 @@
         "日常",
         "原创",
         "奇幻",
-        "萌系",
         "治愈",
+        "萌系",
         "WEB",
         "泡面番",
         "2026",

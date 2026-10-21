@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-20T14:38:25.101Z",
+  "generatedAt": "2026-10-21T00:22:51.305Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -175,8 +175,9 @@
         "科幻",
         "赛博朋克",
         "半机械人",
+        "猎奇/血腥",
         "反乌托邦",
-        "猎奇/血腥"
+        "悲剧"
       ],
       "sites": [],
       "episodes": []
@@ -1311,7 +1312,8 @@
         "动作",
         "奇幻",
         "女主",
-        "转生"
+        "转生",
+        "武术格斗"
       ],
       "sites": [
         {
@@ -4287,7 +4289,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 485,
+      "popularity": 488,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -4298,23 +4300,23 @@
         "战斗",
         "WEB",
         "治愈",
-        "国漫",
         "TV",
+        "国漫",
         "2026年10月",
         "罗小黑战记",
         "玄幻",
         "续集",
         "寒木春华",
         "未定档",
-        "续作",
-        "泡面",
-        "3",
-        "萌",
-        "11",
-        "奇幻",
         "动作",
         "◆TV◆",
-        "国产动画"
+        "奇幻",
+        "11",
+        "续作",
+        "国产动画",
+        "3",
+        "萌",
+        "泡面"
       ],
       "sites": [],
       "episodes": []
@@ -4330,8 +4332,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
-      "ratingScore": 6.2,
-      "popularity": 330,
+      "ratingScore": 6.8,
+      "popularity": 333,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -4341,28 +4343,28 @@
         "搞笑",
         "TV",
         "奇幻",
-        "国漫",
         "战斗",
-        "WEB",
+        "国漫",
         "推理",
-        "未上映",
+        "WEB",
         "武侠",
-        "腾讯",
-        "国产或合作动画",
+        "未上映",
         "历史",
         "2026",
-        "古风",
-        "2D",
-        "未定档",
-        "漫改",
-        "悬疑",
-        "2020-2029",
-        "动作",
-        "好传动画",
+        "腾讯",
+        "国产或合作动画",
         "好船动画",
         "2025",
+        "2020-2029",
+        "国内番剧",
+        "动作",
         "大理寺日志",
-        "国内番剧"
+        "未定档",
+        "漫改",
+        "古风",
+        "悬疑",
+        "2D",
+        "好传动画"
       ],
       "sites": [],
       "episodes": []
@@ -4404,32 +4406,32 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 6.9,
-      "popularity": 267,
+      "popularity": 268,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "大火鸟文化",
-        "2026年10月",
-        "WEB",
         "小说改",
+        "WEB",
+        "2026年10月",
         "异能",
         "搞笑",
-        "战斗",
         "网文改",
         "玄幻",
+        "战斗",
         "厕纸",
-        "喜欢！",
         "2026补",
         "coocaa",
         "国产动画",
-        "奇幻",
-        "2026",
         "表番",
-        "2D",
+        "喜欢！",
+        "奇幻",
         "未上映",
-        "TV"
+        "2026",
+        "TV",
+        "2D"
       ],
       "sites": [],
       "episodes": []
@@ -4559,7 +4561,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 178,
+      "popularity": 179,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
@@ -4592,7 +4594,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 174,
+      "popularity": 175,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -4736,6 +4738,36 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 461585,
+      "title": "第一序列2",
+      "titleCn": "第一序列 第二季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/a5/4a/461585_xZJ2J.jpg",
+      "airDate": "2026-12-17",
+      "ratingScore": 0,
+      "popularity": 89,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "奇幻",
+        "未上映",
+        "小说改",
+        "WEB",
+        "末世",
+        "科幻",
+        "3D",
+        "异能"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 217459,
       "bgmId": 707288,
       "title": "姉モネ",
@@ -4754,36 +4786,6 @@
       ],
       "tags": [
         "里番"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 461585,
-      "title": "第一序列2",
-      "titleCn": "第一序列 第二季",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/a5/4a/461585_xZJ2J.jpg",
-      "airDate": "2026-12-17",
-      "ratingScore": 0,
-      "popularity": 88,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "奇幻",
-        "未上映",
-        "小说改",
-        "WEB",
-        "末世",
-        "科幻",
-        "3D",
-        "异能"
       ],
       "sites": [],
       "episodes": []
@@ -4823,24 +4825,24 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6.7,
-      "popularity": 67,
+      "popularity": 68,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "玄幻",
-        "网文改",
         "战斗",
+        "网文改",
         "玄机",
         "2026",
         "厕纸",
         "3D",
         "国创",
         "小说改",
+        "日",
         "热血",
-        "WEB",
-        "日"
+        "WEB"
       ],
       "sites": [],
       "episodes": []
@@ -4917,6 +4919,39 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 390200,
+      "title": "列女战纪：女娲石记",
+      "titleCn": "列女战纪：女娲石记",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/1c/b4/390200_Z9jPp.jpg",
+      "airDate": "2026-10-05",
+      "ratingScore": 3.6,
+      "popularity": 41,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB",
+        "原创",
+        "乐子",
+        "神话",
+        "玄幻",
+        "国产动画",
+        "2026",
+        "2D",
+        "WEBA",
+        "猫已巴",
+        "蜡笔小嘉"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 217282,
       "bgmId": 709475,
       "title": "ゲルぴよ 2",
@@ -4941,39 +4976,6 @@
     },
     {
       "anilistId": null,
-      "bgmId": 390200,
-      "title": "列女战纪：女娲石记",
-      "titleCn": "列女战纪：女娲石记",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/1c/b4/390200_Z9jPp.jpg",
-      "airDate": "2026-10-05",
-      "ratingScore": 3.6,
-      "popularity": 40,
-      "totalEpisodes": 0,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB",
-        "原创",
-        "乐子",
-        "神话",
-        "玄幻",
-        "国产动画",
-        "2026",
-        "2D",
-        "WEBA",
-        "猫已巴",
-        "蜡笔小嘉"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
       "bgmId": 576783,
       "title": "狂王2",
       "titleCn": "狂王 第2季",
@@ -4984,7 +4986,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_f7d1l.jpg",
       "airDate": "2026-10-08",
       "ratingScore": 6,
-      "popularity": 14,
+      "popularity": 15,
       "totalEpisodes": 14,
       "genres": [
         "国产动画"
@@ -5013,7 +5015,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 12,
+      "popularity": 13,
       "totalEpisodes": 52,
       "genres": [
         "国产动画"
@@ -5039,7 +5041,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
       "airDate": "2026-10-04",
       "ratingScore": 6,
-      "popularity": 7,
+      "popularity": 8,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -5131,32 +5133,6 @@
     },
     {
       "anilistId": null,
-      "bgmId": 708145,
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "titleCn": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "countryOfOrigin": "CN",
-      "format": "剧场版",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/f3/708145_U4P57.jpg",
-      "airDate": "2026-10-01",
-      "ratingScore": 5,
-      "popularity": 3,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "剧场版",
-        "2026",
-        "科幻",
-        "子供向"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
       "bgmId": 712500,
       "title": "万圣街 特别篇 古堡的秘密",
       "titleCn": "万圣街 特别篇 古堡的秘密",
@@ -5167,7 +5143,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
       "airDate": "2026-10-31",
       "ratingScore": 0,
-      "popularity": 3,
+      "popularity": 4,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
@@ -5190,7 +5166,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
       "airDate": "2026-10-14",
       "ratingScore": 0,
-      "popularity": 3,
+      "popularity": 4,
       "totalEpisodes": 40,
       "genres": [
         "国产动画"
@@ -5200,6 +5176,32 @@
         "WEB",
         "小说改",
         "三"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 708145,
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "titleCn": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/f3/708145_U4P57.jpg",
+      "airDate": "2026-10-01",
+      "ratingScore": 5,
+      "popularity": 3,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "2026",
+        "科幻",
+        "子供向"
       ],
       "sites": [],
       "episodes": []
