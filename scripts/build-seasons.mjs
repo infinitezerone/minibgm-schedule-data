@@ -109,7 +109,17 @@ async function loadBridge() {
           airDate: it.begin ? it.begin.substring(0, 10) : null,
           sites: (it.sites ?? []).filter((s) => s.site !== "aniList" && s.site !== "bangumi"),
         };
-        if (al) bridge.set(Number(al.id), entry);
+        if (al) {
+          const alId = Number(al.id);
+          if (bridge.has(alId) && bridge.get(alId).bgmId !== bgmId) {
+            const existing = bridge.get(alId);
+            console.warn(`[bridge] 检测到拆分冲突: AniList ${alId} 同时关联 bgmId:${existing.bgmId} 与 bgmId:${bgmId}，置空避免错绑`);
+            existing.bgmId = null;
+            if (!existing.titleCn && entry.titleCn) existing.titleCn = entry.titleCn;
+          } else if (!bridge.has(alId)) {
+            bridge.set(alId, entry);
+          }
+        }
         if (bgmId) bridgeByBgm.set(bgmId, entry);
       }
       console.log(`[bridge] 成功加载 bangumi-data 桥 (${bridge.size} 条)`);
@@ -119,6 +129,47 @@ async function loadBridge() {
     }
   }
   return { bridge: new Map(), bridgeByBgm: new Map() };
+}
+
+
+function detectSiblingCluster(list) {
+  if (!list || list.length < 2) return null;
+  const strip = (s) => s.replace(/^[\s『【「“"']+|[\s』】」”"']+$/g, "").trim();
+  const cleaned = list.map(c => ({ name: strip(c.name || ""), raw: c }));
+  const prefixes = [];
+  for (let i = 0; i < cleaned.length; i++) {
+    for (let j = i + 1; j < cleaned.length; j++) {
+      const a = cleaned[i].name, b = cleaned[j].name;
+      let p = "";
+      for (let k = 0; k < Math.min(a.length, b.length); k++) {
+        if (a[k] === b[k]) p += a[k];
+        else break;
+      }
+      p = p.trim();
+      if (p.length >= 4) prefixes.push(p);
+    }
+  }
+  if (prefixes.length === 0) return null;
+  const counts = new Map();
+  for (const p of prefixes) counts.set(p, (counts.get(p) || 0) + 1);
+  let bestPrefix = "", maxCount = 0;
+  for (const [p, count] of counts) {
+    if (count > maxCount || (count === maxCount && p.length > bestPrefix.length)) {
+      bestPrefix = p;
+      maxCount = count;
+    }
+  }
+  const seqRegex = /(?:第?\s*([0-9一二三四五六七八九十]+)\s*[幕章卷]|part\s*(\d+))/i;
+  const cluster = [];
+  for (const c of cleaned) {
+    if (c.name.startsWith(bestPrefix)) {
+      const suffix = c.name.slice(bestPrefix.length).trim();
+      if (seqRegex.test(suffix)) {
+        cluster.push(c.raw);
+      }
+    }
+  }
+  return cluster.length >= 2 ? cluster : null;
 }
 
 async function searchBgmForMedia(m) {
@@ -139,6 +190,12 @@ async function searchBgmForMedia(m) {
     const j = await res.json();
     const list = j.list ?? [];
     if (list.length === 0) return null;
+
+    const cluster = detectSiblingCluster(list);
+    if (cluster) {
+      console.warn(`[search] 检测到拆分集群(${cluster.length}项)，放弃单条目强绑: ${cluster.map(c => c.name).join(" | ")}`);
+      return null;
+    }
 
     const cands = list.filter((c) => {
       if (canonical(c.name) === qTarget.base || canonical(c.name_cn) === qTarget.base) return true;
