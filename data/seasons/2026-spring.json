@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-10-23T06:03:39.756Z",
+  "generatedAt": "2026-10-23T09:14:23.100Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -4679,7 +4679,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg",
       "airDate": "2026-04-07",
       "ratingScore": 7.1,
-      "popularity": 21920,
+      "popularity": 21953,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -6632,7 +6632,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210234-MZaMjdbBzEHz.jpg",
       "airDate": "2026-04-02",
       "ratingScore": 4.9,
-      "popularity": 9437,
+      "popularity": 9448,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -6828,7 +6828,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208352-KUuXI4sVbtYV.jpg",
       "airDate": "2026-04-15",
       "ratingScore": 7.1,
-      "popularity": 8877,
+      "popularity": 8884,
       "totalEpisodes": 7,
       "genres": [
         "动作",
@@ -6887,7 +6887,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210032-EOvyzhh2ATNs.jpg",
       "airDate": "2026-06-18",
       "ratingScore": 7.4,
-      "popularity": 8540,
+      "popularity": 8566,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7339,7 +7339,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210375-Nfj4cciZ35un.jpg",
       "airDate": "2026-04-01",
       "ratingScore": 4.5,
-      "popularity": 4622,
+      "popularity": 4629,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7657,7 +7657,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg",
       "airDate": "2026-04-08",
       "ratingScore": 7.5,
-      "popularity": 3137,
+      "popularity": 3145,
       "totalEpisodes": 19,
       "genres": [
         "冒险",
@@ -7823,7 +7823,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212323-Ik8905FHBSLY.jpg",
       "airDate": "2026-05-15",
       "ratingScore": 8.2,
-      "popularity": 1499,
+      "popularity": 1500,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -7852,7 +7852,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png",
       "airDate": "2026-04-08",
       "ratingScore": 4.9,
-      "popularity": 1375,
+      "popularity": 1377,
       "totalEpisodes": 12,
       "genres": [
         "恐怖",
@@ -7956,7 +7956,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208314-Lw3CFRCPkprM.png",
       "airDate": "2026-04-30",
       "ratingScore": 7.6,
-      "popularity": 1308,
+      "popularity": 1310,
       "totalEpisodes": 2,
       "genres": [
         "里番"
@@ -7979,7 +7979,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209940-AmmMcfBXmB3c.jpg",
       "airDate": "2026-04-02",
       "ratingScore": 3.7,
-      "popularity": 1097,
+      "popularity": 1099,
       "totalEpisodes": 12,
       "genres": [
         "搞笑"
@@ -8048,7 +8048,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209981-rXlkRNX1unMb.png",
       "airDate": "2026-05-29",
       "ratingScore": 7.4,
-      "popularity": 1065,
+      "popularity": 1068,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -8259,6 +8259,29 @@
       "episodes": []
     },
     {
+      "anilistId": 211557,
+      "bgmId": 645350,
+      "title": "フラチ",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "RELEASING",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png",
+      "airDate": "2026-06-26",
+      "ratingScore": 7.2,
+      "popularity": 760,
+      "totalEpisodes": 2,
+      "genres": [
+        "里番"
+      ],
+      "tags": [
+        "里番"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 202895,
       "bgmId": 646127,
       "title": "オタクの僕が一軍ギャルと付き合えるまでの話",
@@ -8278,29 +8301,6 @@
       "tags": [
         "里番",
         "男主"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": 211557,
-      "bgmId": 645350,
-      "title": "フラチ",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "OVA",
-      "status": "RELEASING",
-      "isAdult": true,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211557-PN1R4dpTOekY.png",
-      "airDate": "2026-06-26",
-      "ratingScore": 7.2,
-      "popularity": 758,
-      "totalEpisodes": 2,
-      "genres": [
-        "里番"
-      ],
-      "tags": [
-        "里番"
       ],
       "sites": [],
       "episodes": []
@@ -8449,8 +8449,8 @@
       "isAdult": true,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208361-4uMcLF44TJmM.png",
       "airDate": "2026-05-29",
-      "ratingScore": 6.1,
-      "popularity": 523,
+      "ratingScore": 6,
+      "popularity": 529,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -8496,7 +8496,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209873-bKlttpEcD4oL.png",
       "airDate": "2026-06-26",
       "ratingScore": 6.1,
-      "popularity": 411,
+      "popularity": 414,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -8519,7 +8519,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208264-suCmiuMBZfBy.png",
       "airDate": "2026-05-29",
       "ratingScore": 5,
-      "popularity": 396,
+      "popularity": 397,
       "totalEpisodes": 0,
       "genres": [
         "里番"
