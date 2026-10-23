@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-10-23T02:28:28.755Z",
+  "generatedAt": "2026-10-23T06:03:08.057Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -6269,63 +6269,6 @@
       "episodes": []
     },
     {
-      "anilistId": 186714,
-      "bgmId": 512792,
-      "title": "ガールズバンドクライ 青春狂走曲",
-      "titleCn": "剧场版总集篇 GIRLS BAND CRY 青春狂走曲",
-      "countryOfOrigin": "JP",
-      "format": "MOVIE",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186714-tQVs0CUEoM6Y.jpg",
-      "airDate": "2025-10-02",
-      "ratingScore": 8.2,
-      "popularity": 4920,
-      "totalEpisodes": 1,
-      "genres": [
-        "剧情",
-        "音乐",
-        "日常"
-      ],
-      "tags": [
-        "剧情",
-        "音乐",
-        "日常",
-        "女主",
-        "乐队",
-        "百合"
-      ],
-      "sites": [
-        {
-          "site": "unext",
-          "id": "SID0264927",
-          "begin": "2026-02-10T03:00:00.000Z",
-          "broadcast": "R/2026-02-10T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "mal",
-          "id": "59817"
-        },
-        {
-          "site": "anidb",
-          "id": "19607"
-        },
-        {
-          "site": "tmdb",
-          "id": "movie/1431083"
-        },
-        {
-          "site": "mikan",
-          "id": "3965"
-        },
-        {
-          "site": "anibt",
-          "id": "512792"
-        }
-      ],
-      "episodes": []
-    },
-    {
       "anilistId": 198312,
       "bgmId": 582324,
       "title": "陛下わたしを忘れてください",
@@ -6483,6 +6426,33 @@
           "id": "581598"
         }
       ],
+      "episodes": []
+    },
+    {
+      "anilistId": 177686,
+      "bgmId": 496081,
+      "title": "ホウセンカ",
+      "titleCn": "凤仙花",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177686-btWf3qEqFkRp.jpg",
+      "airDate": "2025-10-10",
+      "ratingScore": 7.7,
+      "popularity": 3271,
+      "totalEpisodes": 1,
+      "genres": [
+        "剧情"
+      ],
+      "tags": [
+        "剧情",
+        "监狱",
+        "男主",
+        "悲剧",
+        "拟似家庭"
+      ],
+      "sites": [],
       "episodes": []
     },
     {

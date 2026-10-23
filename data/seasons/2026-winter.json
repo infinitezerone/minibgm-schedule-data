@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-10-23T02:28:38.520Z",
-  "total": 122,
-  "mappedTotal": 122,
+  "generatedAt": "2026-10-23T06:03:17.572Z",
+  "total": 121,
+  "mappedTotal": 121,
   "items": [
     {
       "anilistId": 172463,
@@ -962,82 +962,6 @@
         {
           "site": "anidb",
           "id": "18093"
-        }
-      ],
-      "episodes": []
-    },
-    {
-      "anilistId": 190327,
-      "bgmId": 551918,
-      "title": "ジョジョの奇妙な冒険 スティール・ボール・ラン 1st STAGE",
-      "titleCn": "飙马野郎 JOJO的奇妙冒险 第一赛段",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190327-riJNCFL7w9y4.jpg",
-      "airDate": "2026-03-18",
-      "ratingScore": 8.7,
-      "popularity": 83759,
-      "totalEpisodes": 1,
-      "genres": [
-        "动作",
-        "冒险",
-        "剧情",
-        "悬疑",
-        "运动",
-        "超自然"
-      ],
-      "tags": [
-        "动作",
-        "冒险",
-        "剧情",
-        "悬疑",
-        "运动",
-        "超自然",
-        "旅行",
-        "青春成长",
-        "男主",
-        "青年向",
-        "历史",
-        "悲剧",
-        "猎奇/血腥",
-        "都市奇幻"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "61469"
-        },
-        {
-          "site": "anidb",
-          "id": "19287"
-        },
-        {
-          "site": "netflix",
-          "id": "82116553",
-          "begin": "2026-03-18T16:00:00.000Z",
-          "broadcast": "R/2026-03-18T16:00:00.000Z/P7D"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/45790/season/6"
-        },
-        {
-          "site": "mikan",
-          "id": "3887"
-        },
-        {
-          "site": "acgnx",
-          "id": "jojo 馬"
-        },
-        {
-          "site": "anibt",
-          "id": "551918"
-        },
-        {
-          "site": "dmhy",
-          "id": "jojo 馬"
         }
       ],
       "episodes": []
@@ -7377,7 +7301,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1f/91/250224_7ZUS7.jpg",
       "airDate": "2026-03-02",
       "ratingScore": 7.3,
-      "popularity": 2007,
+      "popularity": 2008,
       "totalEpisodes": 8,
       "genres": [
         "国产动画"

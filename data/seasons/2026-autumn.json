@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-23T02:29:39.758Z",
-  "total": 114,
-  "mappedTotal": 114,
+  "generatedAt": "2026-10-23T06:04:13.097Z",
+  "total": 118,
+  "mappedTotal": 118,
   "items": [
     {
       "anilistId": 195516,
@@ -175,8 +175,8 @@
         "科幻",
         "赛博朋克",
         "半机械人",
-        "反乌托邦",
         "悲剧",
+        "反乌托邦",
         "猎奇/血腥",
         "群像"
       ],
@@ -4248,7 +4248,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 505,
+      "popularity": 507,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -4260,22 +4260,22 @@
         "WEB",
         "治愈",
         "2026年10月",
-        "国漫",
-        "TV",
         "罗小黑战记",
+        "TV",
+        "国漫",
         "玄幻",
         "续集",
         "寒木春华",
         "未定档",
-        "泡面",
-        "动作",
         "萌",
         "奇幻",
-        "国产动画",
-        "11",
+        "续作",
+        "泡面",
         "◆TV◆",
-        "3",
-        "续作"
+        "动作",
+        "11",
+        "国产动画",
+        "3"
       ],
       "sites": [],
       "episodes": []
@@ -4330,6 +4330,25 @@
       "episodes": []
     },
     {
+      "anilistId": 209709,
+      "bgmId": 637206,
+      "title": "しろたん",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "RELEASING",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png",
+      "airDate": "2026-10-03",
+      "ratingScore": 5.9,
+      "popularity": 329,
+      "totalEpisodes": 0,
+      "genres": [],
+      "tags": [],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 208367,
       "bgmId": 632061,
       "title": "Duel Masters LOST ～断罪の少年～",
@@ -4350,6 +4369,29 @@
       "tags": [
         "冒险",
         "超自然"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 218532,
+      "bgmId": 707667,
+      "title": "猫猫のひとりごと 第3期",
+      "titleCn": "猫猫的呢喃 第三季",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "RELEASING",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218532-I1GCprJrJ5sm.png",
+      "airDate": "2026-10-05",
+      "ratingScore": 6.6,
+      "popularity": 275,
+      "totalEpisodes": 0,
+      "genres": [
+        "搞笑"
+      ],
+      "tags": [
+        "搞笑"
       ],
       "sites": [],
       "episodes": []
@@ -4668,6 +4710,29 @@
       "tags": [
         "搞笑",
         "日常"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 218011,
+      "bgmId": 638081,
+      "title": "タヌキとキツネ",
+      "titleCn": "小狸猫与小狐狸",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218011-dPgr1MlfSuhH.jpg",
+      "airDate": "2026-10-04",
+      "ratingScore": 4.2,
+      "popularity": 108,
+      "totalEpisodes": 0,
+      "genres": [
+        "搞笑"
+      ],
+      "tags": [
+        "搞笑"
       ],
       "sites": [],
       "episodes": []
@@ -5194,6 +5259,27 @@
         "子供向",
         "原创"
       ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 715233,
+      "title": "那年那兔那些事儿 长征番外篇",
+      "titleCn": "那年那兔那些事儿 长征番外篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/5d/715233_E9Z2Z.jpg",
+      "airDate": "2026-10-27",
+      "ratingScore": 0,
+      "popularity": 0,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [],
       "sites": [],
       "episodes": []
     }
