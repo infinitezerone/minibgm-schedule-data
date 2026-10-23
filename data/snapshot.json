@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-23T02:22:43.380Z",
+  "generatedAt": "2026-10-23T05:56:36.946Z",
   "window": {
-    "from": 1790907641,
-    "to": 1797906041
+    "from": 1790920482,
+    "to": 1797918882
   },
   "items": [
     {
@@ -1487,8 +1487,8 @@
         "奇幻",
         "恋爱",
         "异世界",
-        "搞笑滑稽",
         "转生",
+        "搞笑滑稽",
         "男主",
         "同居"
       ],
@@ -6392,9 +6392,9 @@
         "搞笑",
         "奇幻",
         "恋爱",
-        "女主",
-        "异世界",
         "转生",
+        "异世界",
+        "女主",
         "少女向"
       ],
       "sites": [
@@ -7274,8 +7274,8 @@
         "冒险",
         "科幻",
         "异世界",
-        "男主",
-        "少年向"
+        "少年向",
+        "男主"
       ],
       "sites": [
         {
@@ -9195,8 +9195,8 @@
         "剧情",
         "奇幻",
         "恋爱",
-        "少女向",
         "女主",
+        "少女向",
         "时间回溯",
         "历史",
         "异世界",
@@ -10407,6 +10407,103 @@
         {
           "n": 12,
           "t": 1797690600
+        }
+      ]
+    },
+    {
+      "anilistId": 209709,
+      "bgmId": 637206,
+      "title": "しろたん",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png",
+      "airDate": "2026-10-03",
+      "ratingScore": 5.9,
+      "popularity": 329,
+      "totalEpisodes": 0,
+      "genres": [],
+      "tags": [],
+      "sites": [
+        {
+          "site": "danime",
+          "id": "29274",
+          "begin": "2026-10-03T07:30:00.000Z",
+          "broadcast": "R/2026-10-03T07:30:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0316411",
+          "begin": "2026-10-03T07:30:00.000Z",
+          "broadcast": "R/2026-10-03T07:30:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "12-33",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "anibt",
+          "id": "637206"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/337195"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791012540
+        },
+        {
+          "n": 2,
+          "t": 1791617340
+        },
+        {
+          "n": 3,
+          "t": 1792222140
+        },
+        {
+          "n": 4,
+          "t": 1792826940
+        },
+        {
+          "n": 5,
+          "t": 1793431740
+        },
+        {
+          "n": 6,
+          "t": 1794036540
+        },
+        {
+          "n": 7,
+          "t": 1794641340
+        },
+        {
+          "n": 8,
+          "t": 1795246140
+        },
+        {
+          "n": 9,
+          "t": 1795850940
+        },
+        {
+          "n": 10,
+          "t": 1796455740
+        },
+        {
+          "n": 11,
+          "t": 1797060540
+        },
+        {
+          "n": 12,
+          "t": 1797665340
         }
       ]
     },
@@ -13780,6 +13877,199 @@
         {
           "n": 1,
           "t": 1796914800
+        }
+      ]
+    },
+    {
+      "anilistId": 218011,
+      "bgmId": 638081,
+      "title": "タヌキとキツネ",
+      "titleCn": "小狸猫与小狐狸",
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218011-dPgr1MlfSuhH.jpg",
+      "airDate": "2026-10-03",
+      "ratingScore": 4.2,
+      "popularity": 108,
+      "totalEpisodes": 0,
+      "genres": [
+        "搞笑"
+      ],
+      "tags": [
+        "搞笑"
+      ],
+      "sites": [
+        {
+          "site": "gamer_hk",
+          "id": "153870",
+          "begin": "2026-10-04T00:30:00.000Z",
+          "broadcast": "R/2026-10-04T00:30:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0319536",
+          "begin": "2026-10-03T22:30:00.000Z",
+          "broadcast": "R/2026-10-03T22:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "153870",
+          "begin": "2026-10-04T00:30:00.000Z",
+          "broadcast": "R/2026-10-04T00:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6abdf90098d9339c5c74315a"
+        },
+        {
+          "site": "danime",
+          "id": "29307",
+          "begin": "2026-10-10T22:30:00.000Z",
+          "broadcast": "R/2026-10-10T22:30:00.000Z/P7D"
+        },
+        {
+          "site": "anibt",
+          "id": "638081"
+        },
+        {
+          "site": "acgnx",
+          "id": "小 狸貓 狐狸"
+        },
+        {
+          "site": "dmhy",
+          "id": "小 狸貓 狐狸"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/337290"
+        }
+      ],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791064800
+        },
+        {
+          "n": 2,
+          "t": 1791669600
+        },
+        {
+          "n": 3,
+          "t": 1792274400
+        },
+        {
+          "n": 4,
+          "t": 1792879200
+        },
+        {
+          "n": 5,
+          "t": 1793484000
+        },
+        {
+          "n": 6,
+          "t": 1794088800
+        },
+        {
+          "n": 7,
+          "t": 1794693600
+        },
+        {
+          "n": 8,
+          "t": 1795298400
+        },
+        {
+          "n": 9,
+          "t": 1795903200
+        },
+        {
+          "n": 10,
+          "t": 1796508000
+        },
+        {
+          "n": 11,
+          "t": 1797112800
+        },
+        {
+          "n": 12,
+          "t": 1797717600
+        }
+      ]
+    },
+    {
+      "anilistId": 218532,
+      "bgmId": 707667,
+      "title": "猫猫のひとりごと 第3期",
+      "titleCn": "猫猫的呢喃 第三季",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "RELEASING",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218532-I1GCprJrJ5sm.png",
+      "airDate": "2026-10-01",
+      "ratingScore": 6.6,
+      "popularity": 275,
+      "totalEpisodes": 0,
+      "genres": [
+        "搞笑"
+      ],
+      "tags": [
+        "搞笑"
+      ],
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 10,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1791169200
+        },
+        {
+          "n": 2,
+          "t": 1791774000
+        },
+        {
+          "n": 3,
+          "t": 1792378800
+        },
+        {
+          "n": 4,
+          "t": 1792983600
+        },
+        {
+          "n": 5,
+          "t": 1793588400
+        },
+        {
+          "n": 6,
+          "t": 1794193200
+        },
+        {
+          "n": 7,
+          "t": 1794798000
+        },
+        {
+          "n": 8,
+          "t": 1795402800
+        },
+        {
+          "n": 9,
+          "t": 1796007600
+        },
+        {
+          "n": 10,
+          "t": 1796612400
+        },
+        {
+          "n": 11,
+          "t": 1797217200
+        },
+        {
+          "n": 12,
+          "t": 1797822000
         }
       ]
     }

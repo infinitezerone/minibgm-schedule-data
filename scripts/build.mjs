@@ -94,7 +94,7 @@ async function scanEvents() {
       `query { Page(page: ${page}, perPage: ${SCAN_PER_PAGE}) { pageInfo { hasNextPage }
         airingSchedules(airingAt_greater: ${from}, airingAt_lesser: ${to}) {
           episode airingAt
-          media { id countryOfOrigin format status isAdult
+          media { id idMal countryOfOrigin format status isAdult
             coverImage { large } startDate { year month }
             title { native romaji }
             genres tags { name rank } meanScore popularity episodes }
@@ -166,9 +166,11 @@ async function loadBridge() {
       if (!res.ok) continue;
       const j = await res.json();
       const bridge = new Map();
+      const bridgeByMal = new Map();
       const bridgeByBgm = new Map();
       for (const it of j.items) {
         const al = it.sites?.find((s) => s.site === "aniList");
+        const mal = it.sites?.find((s) => s.site === "mal");
         const bgm = it.sites?.find((s) => s.site === "bangumi");
         const bgmId = Number(bgm?.id) || null;
         const entry = {
@@ -181,17 +183,28 @@ async function loadBridge() {
           const alId = Number(al.id);
           if (bridge.has(alId) && bridge.get(alId).bgmId !== bgmId) {
             const existing = bridge.get(alId);
-            console.warn(`[bridge] 检测到拆分冲突: AniList ${alId} 同时关联 bgmId:${existing.bgmId} 与 bgmId:${bgmId}，置空避免错绑`);
+            console.warn(`[bridge] 检测到 AniList 拆分冲突: AniList ${alId} 同时关联 bgmId:${existing.bgmId} 与 bgmId:${bgmId}，置空避免错绑`);
             existing.bgmId = null;
             if (!existing.titleCn && entry.titleCn) existing.titleCn = entry.titleCn;
           } else if (!bridge.has(alId)) {
             bridge.set(alId, entry);
           }
         }
+        if (mal) {
+          const malId = Number(mal.id);
+          if (bridgeByMal.has(malId) && bridgeByMal.get(malId).bgmId !== bgmId) {
+            const existing = bridgeByMal.get(malId);
+            console.warn(`[bridge] 检测到 MAL 拆分冲突: MAL ${malId} 同时关联 bgmId:${existing.bgmId} 与 bgmId:${bgmId}，置空避免错绑`);
+            existing.bgmId = null;
+            if (!existing.titleCn && entry.titleCn) existing.titleCn = entry.titleCn;
+          } else if (!bridgeByMal.has(malId)) {
+            bridgeByMal.set(malId, entry);
+          }
+        }
         if (bgmId) bridgeByBgm.set(bgmId, entry);
       }
-      console.error(`[map] bangumi-data 桥 ${bridge.size} 条（${url}）`);
-      return { bridge, bridgeByBgm };
+      console.error(`[map] bangumi-data 桥 AniList:${bridge.size} 条, MAL:${bridgeByMal.size} 条（${url}）`);
+      return { bridge, bridgeByMal, bridgeByBgm };
     } catch (e) {
       console.error(`  ${url} 失败: ${e.message}`);
     }
@@ -268,14 +281,14 @@ function detectSiblingCluster(list) {
   return cluster.length >= 2 ? cluster : null;
 }
 
-async function searchBgmQuery(keywordStr, qTarget) {
+async function searchBgmQuery(keywordStr, qTarget, targetYear = null) {
   await sleep(SEARCH_DELAY_MS);
   // 老搜索接口对 "/" 会失效，对 "-" 会被当作 NOT 排除关键字（如 PSYREN -サイレン-），统一换成空格
   const keyword = keywordStr.replace(/[\/\-－]/g, " ").trim();
   if (!keyword || !qTarget.base) return null;
   try {
     const res = await fetch(
-      `https://api.bgm.tv/search/subject/${encodeURIComponent(keyword)}?type=2&max_results=20&responseGroup=medium`,
+      `https://api.bgm.tv/search/subject/${encodeURIComponent(keyword)}?type=2&max_results=20&responseGroup=large`,
       { headers: UA },
     );
     if (!res.ok) return null;
@@ -290,6 +303,12 @@ async function searchBgmQuery(keywordStr, qTarget) {
     }
 
     const cands = list.filter((c) => {
+      if (targetYear && c.air_date) {
+        const candYear = parseInt(c.air_date.slice(0, 4), 10);
+        if (candYear > 1900 && Math.abs(candYear - targetYear) > 2) {
+          return false;
+        }
+      }
       if (canonical(c.name) === qTarget.base || canonical(c.name_cn) === qTarget.base) return true;
       const p = seasonParts(c.name);
       const pn = seasonParts(c.name_cn);
@@ -315,6 +334,7 @@ async function searchBgmForMedia(m) {
   const native = m.title.native?.trim() || "";
   const romaji = m.title.romaji?.trim() || "";
   const primarySeason = seasonParts(native || romaji).season;
+  const targetYear = m.startDate?.year ?? null;
 
   const attempts = [];
   if (native) {
@@ -337,14 +357,14 @@ async function searchBgmForMedia(m) {
   }
 
   for (const { query, target } of attempts) {
-    const res = await searchBgmQuery(query, target);
+    const res = await searchBgmQuery(query, target, targetYear);
     if (res != null) return res;
   }
   return null;
 }
 
-async function resolveMappings(roster, { bridge, bridgeByBgm }, mappings) {
-  let byOverride = 0, byBridge = 0, bySearch = 0, unresolved = [];
+async function resolveMappings(roster, { bridge, bridgeByMal, bridgeByBgm }, mappings) {
+  let byOverride = 0, byBridge = 0, byMal = 0, bySearch = 0, unresolved = [];
   const out = new Map();
   for (const m of roster) {
     let bgmId = null, titleCn = null, sites = [], airDate = null;
@@ -356,23 +376,33 @@ async function resolveMappings(roster, { bridge, bridgeByBgm }, mappings) {
       if (!titleCn && bridge.has(m.id)) {
         titleCn = bridge.get(m.id).titleCn;
       }
+      if (!titleCn && m.idMal && bridgeByMal?.has(m.idMal)) {
+        titleCn = bridgeByMal.get(m.idMal).titleCn;
+      }
       // 2. 如果是旧纯数字格式且依然缺少 titleCn，尝试通过 bgmId 补全一次
       if (!titleCn && bgmId != null && mapped.isLegacy) {
         const sub = await fetchBgmSubject(bgmId);
         if (sub?.titleCn) titleCn = sub.titleCn;
       }
-      sites = bridge.get(m.id)?.sites ?? (bgmId ? bridgeByBgm.get(bgmId)?.sites : null) ?? [];
-      airDate = bridge.get(m.id)?.airDate ?? (bgmId ? bridgeByBgm.get(bgmId)?.airDate : null) ?? null;
+      sites = bridge.get(m.id)?.sites ?? (m.idMal ? bridgeByMal?.get(m.idMal)?.sites : null) ?? (bgmId ? bridgeByBgm.get(bgmId)?.sites : null) ?? [];
+      airDate = bridge.get(m.id)?.airDate ?? (m.idMal ? bridgeByMal?.get(m.idMal)?.airDate : null) ?? (bgmId ? bridgeByBgm.get(bgmId)?.airDate : null) ?? null;
       // 沉淀/升级持久映射
       mappings[m.id] = { bgmId, titleCn };
       byOverride++;
-    } else if (bridge.has(m.id)) {
+    } else if (bridge.has(m.id) && bridge.get(m.id).bgmId) {
       const b = bridge.get(m.id);
       bgmId = b.bgmId;
       titleCn = b.titleCn;
       sites = b.sites ?? [];
       airDate = b.airDate ?? null;
       byBridge++;
+    } else if (m.idMal && bridgeByMal?.has(m.idMal) && bridgeByMal.get(m.idMal).bgmId) {
+      const b = bridgeByMal.get(m.idMal);
+      bgmId = b.bgmId;
+      titleCn = b.titleCn;
+      sites = b.sites ?? [];
+      airDate = b.airDate ?? null;
+      byMal++;
     } else {
       const s = await searchBgmForMedia(m);
       if (s != null) {
@@ -389,9 +419,9 @@ async function resolveMappings(roster, { bridge, bridgeByBgm }, mappings) {
     }
     out.set(m.id, { bgmId, titleCn, sites, airDate });
   }
-  console.error(`[map] 持久映射 ${byOverride} | data.json 桥 ${byBridge} | 搜索兜底 ${bySearch} | 未映射 ${unresolved.length}`);
+  console.error(`[map] 持久映射 ${byOverride} | data.json(AL) ${byBridge} | data.json(MAL) ${byMal} | 搜索兜底 ${bySearch} | 未映射 ${unresolved.length}`);
   for (const u of unresolved) console.error(`  未映射: [${u.id}] ${u.title}`);
-  return { out, byOverride, byBridge, bySearch, unresolved };
+  return { out, byOverride, byBridge, byMal, bySearch, unresolved };
 }
 
 // ---------- 5. 组装快照 ----------

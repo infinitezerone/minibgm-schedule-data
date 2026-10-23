@@ -97,9 +97,11 @@ async function loadBridge() {
       if (!res.ok) continue;
       const j = await res.json();
       const bridge = new Map();
+      const bridgeByMal = new Map();
       const bridgeByBgm = new Map();
       for (const it of j.items) {
         const al = it.sites?.find((s) => s.site === "aniList");
+        const mal = it.sites?.find((s) => s.site === "mal");
         const bgm = it.sites?.find((s) => s.site === "bangumi");
         const bgmId = Number(bgm?.id) || null;
         const entry = {
@@ -113,22 +115,33 @@ async function loadBridge() {
           const alId = Number(al.id);
           if (bridge.has(alId) && bridge.get(alId).bgmId !== bgmId) {
             const existing = bridge.get(alId);
-            console.warn(`[bridge] 检测到拆分冲突: AniList ${alId} 同时关联 bgmId:${existing.bgmId} 与 bgmId:${bgmId}，置空避免错绑`);
+            console.warn(`[bridge] 检测到 AniList 拆分冲突: AniList ${alId} 同时关联 bgmId:${existing.bgmId} 与 bgmId:${bgmId}，置空避免错绑`);
             existing.bgmId = null;
             if (!existing.titleCn && entry.titleCn) existing.titleCn = entry.titleCn;
           } else if (!bridge.has(alId)) {
             bridge.set(alId, entry);
           }
         }
+        if (mal) {
+          const malId = Number(mal.id);
+          if (bridgeByMal.has(malId) && bridgeByMal.get(malId).bgmId !== bgmId) {
+            const existing = bridgeByMal.get(malId);
+            console.warn(`[bridge] 检测到 MAL 拆分冲突: MAL ${malId} 同时关联 bgmId:${existing.bgmId} 与 bgmId:${bgmId}，置空避免错绑`);
+            existing.bgmId = null;
+            if (!existing.titleCn && entry.titleCn) existing.titleCn = entry.titleCn;
+          } else if (!bridgeByMal.has(malId)) {
+            bridgeByMal.set(malId, entry);
+          }
+        }
         if (bgmId) bridgeByBgm.set(bgmId, entry);
       }
-      console.log(`[bridge] 成功加载 bangumi-data 桥 (${bridge.size} 条)`);
-      return { bridge, bridgeByBgm };
+      console.log(`[bridge] 成功加载 bangumi-data 桥 AniList:${bridge.size} 条, MAL:${bridgeByMal.size} 条`);
+      return { bridge, bridgeByMal, bridgeByBgm };
     } catch (e) {
       console.error(`  加载 ${url} 失败: ${e.message}`);
     }
   }
-  return { bridge: new Map(), bridgeByBgm: new Map() };
+  return { bridge: new Map(), bridgeByMal: new Map(), bridgeByBgm: new Map() };
 }
 
 
@@ -172,18 +185,19 @@ function detectSiblingCluster(list) {
   return cluster.length >= 2 ? cluster : null;
 }
 
-async function searchBgmForMedia(m) {
+async function searchBgmForMedia(m, year = null) {
   await sleep(SEARCH_DELAY_MS);
   const native = m.title.native?.trim() || "";
   const romaji = m.title.romaji?.trim() || "";
   const targetTitle = native || romaji;
   if (!targetTitle) return null;
   const qTarget = seasonParts(targetTitle);
+  const targetYear = m.startDate?.year ?? year ?? null;
 
   const keyword = targetTitle.replace(/[\/\-－]/g, " ").trim();
   try {
     const res = await fetch(
-      `https://api.bgm.tv/search/subject/${encodeURIComponent(keyword)}?type=2&max_results=10&responseGroup=medium`,
+      `https://api.bgm.tv/search/subject/${encodeURIComponent(keyword)}?type=2&max_results=10&responseGroup=large`,
       { headers: UA }
     );
     if (!res.ok) return null;
@@ -198,6 +212,12 @@ async function searchBgmForMedia(m) {
     }
 
     const cands = list.filter((c) => {
+      if (targetYear && c.air_date) {
+        const candYear = parseInt(c.air_date.slice(0, 4), 10);
+        if (candYear > 1900 && Math.abs(candYear - targetYear) > 2) {
+          return false;
+        }
+      }
       if (canonical(c.name) === qTarget.base || canonical(c.name_cn) === qTarget.base) return true;
       const p = seasonParts(c.name);
       const pn = seasonParts(c.name_cn);
@@ -225,6 +245,7 @@ async function fetchSeasonMedias(seasonAnilist, year, isAdult) {
           pageInfo { hasNextPage }
           media(season: $season, seasonYear: $year, isAdult: $isAdult, type: ANIME) {
             id
+            idMal
             title { native romaji english }
             countryOfOrigin
             format
@@ -303,7 +324,7 @@ async function fetchChineseAnime(year, seasonKey) {
   return results;
 }
 
-export async function buildSeason(year, seasonObj, { bridge, bridgeByBgm }, mappings) {
+export async function buildSeason(year, seasonObj, { bridge, bridgeByMal, bridgeByBgm }, mappings) {
   const { anilist: seasonAnilist, key: seasonKey } = seasonObj;
   console.log(`\n=== 正在处理季度：${year} ${seasonKey.toUpperCase()} (${seasonAnilist}) ===`);
 
@@ -340,14 +361,22 @@ export async function buildSeason(year, seasonObj, { bridge, bridgeByBgm }, mapp
 
     if (bridge.has(m.id)) {
       const b = bridge.get(m.id);
-      if (!bgmId) bgmId = b.bgmId;
+      if (!bgmId && b.bgmId) bgmId = b.bgmId;
       if (!titleCn) titleCn = b.titleCn;
       sites = b.sites ?? [];
       if (!airDate) airDate = b.airDate;
     }
 
+    if (!bgmId && m.idMal && bridgeByMal?.has(m.idMal)) {
+      const b = bridgeByMal.get(m.idMal);
+      if (b.bgmId) bgmId = b.bgmId;
+      if (!titleCn) titleCn = b.titleCn;
+      if (sites.length === 0) sites = b.sites ?? [];
+      if (!airDate) airDate = b.airDate;
+    }
+
     if (!bgmId && !titleCn) {
-      const searched = await searchBgmForMedia(m);
+      const searched = await searchBgmForMedia(m, year);
       if (searched != null) {
         bgmId = searched.bgmId;
         titleCn = searched.titleCn;
