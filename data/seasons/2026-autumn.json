@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-23T00:23:56.843Z",
-  "total": 115,
-  "mappedTotal": 115,
+  "generatedAt": "2026-10-23T02:29:39.758Z",
+  "total": 114,
+  "mappedTotal": 114,
   "items": [
     {
       "anilistId": 195516,
@@ -429,7 +429,7 @@
       "titleCn": "来自深渊 觉醒的神秘",
       "countryOfOrigin": "JP",
       "format": "MOVIE",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160275-cBOWJpcCGeMq.jpg",
       "airDate": "2026-10-23",
@@ -3774,76 +3774,6 @@
       "episodes": []
     },
     {
-      "anilistId": 188034,
-      "bgmId": 544626,
-      "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！",
-      "titleCn": "少女与战车 lovelove大作战！ 第2幕",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "RELEASING",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
-      "airDate": "2026-01-29",
-      "ratingScore": 7.7,
-      "popularity": 3993,
-      "totalEpisodes": 12,
-      "genres": [
-        "搞笑"
-      ],
-      "tags": [
-        "搞笑",
-        "女主",
-        "恶搞/梗番",
-        "校园",
-        "群像",
-        "社团活动",
-        "百合"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "61227"
-        },
-        {
-          "site": "anidb",
-          "id": "19220"
-        },
-        {
-          "site": "tmdb",
-          "id": "movie/1609620"
-        },
-        {
-          "site": "anibt",
-          "id": "544626"
-        },
-        {
-          "site": "nicovideo",
-          "id": "gup-mottolovelove-tv",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "13-222",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0319538",
-          "begin": "2026-10-08T15:00:00.000Z",
-          "broadcast": "R/2026-10-08T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "29194",
-          "begin": "2026-10-08T15:00:00.000Z",
-          "broadcast": "R/2026-10-08T15:00:00.000Z/P7D"
-        }
-      ],
-      "episodes": []
-    },
-    {
       "anilistId": 199594,
       "bgmId": 590553,
       "title": "てつりょー！meet with 鉄道むすめ",
@@ -3863,8 +3793,8 @@
       "tags": [
         "日常",
         "女主",
-        "社团活动",
         "旅行",
+        "社团活动",
         "治愈",
         "大学"
       ],

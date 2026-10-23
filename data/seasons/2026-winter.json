@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-10-23T00:22:59.512Z",
+  "generatedAt": "2026-10-23T02:28:38.520Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -896,7 +896,7 @@
       "status": "FINISHED",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166617-34fpC9y47tTx.png",
-      "airDate": "2026-01-03",
+      "airDate": "2024-12-31",
       "ratingScore": 8.3,
       "popularity": 84383,
       "totalEpisodes": 13,
@@ -946,30 +946,12 @@
           "broadcast": "R/2024-12-31T14:00:00.000Z/P7D"
         },
         {
-          "site": "nicovideo",
-          "id": "fate-strange-fake",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "danime",
-          "id": "28628",
-          "begin": "2026-01-03T15:30:00.000Z",
-          "broadcast": "R/2026-01-03T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "disneyplus",
-          "id": "2cn5BM3JcOVY",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "tmdb",
           "id": "tv/229858"
         },
         {
-          "site": "prime",
-          "id": "B0FTZ45B2Z",
+          "site": "nicovideo",
+          "id": "fate-strange-fake",
           "begin": "",
           "broadcast": ""
         },
@@ -980,20 +962,6 @@
         {
           "site": "anidb",
           "id": "18093"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "G4PH0WJQZ",
-          "begin": "2024-12-31T00:00:00.000Z",
-          "broadcast": "R/2024-12-31T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "acgnx",
-          "id": "Fate|命運 strange|奇異 Fake|贗品"
-        },
-        {
-          "site": "dmhy",
-          "id": "Fate|命運 strange|奇異 Fake|贗品"
         }
       ],
       "episodes": []
