@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-24T13:47:36.361Z",
-  "total": 118,
-  "mappedTotal": 118,
+  "generatedAt": "2026-10-24T23:59:12.288Z",
+  "total": 119,
+  "mappedTotal": 119,
   "items": [
     {
       "anilistId": 195516,
@@ -1158,8 +1158,9 @@
         "超自然",
         "男主",
         "女主",
+        "青春成长",
         "大学",
-        "青春成长"
+        "都市奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -5212,7 +5213,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 513,
+      "popularity": 516,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5225,21 +5226,23 @@
         "治愈",
         "2026年10月",
         "罗小黑战记",
-        "TV",
         "国漫",
+        "TV",
         "玄幻",
         "续集",
-        "寒木春华",
         "未定档",
-        "续作",
-        "泡面",
-        "3",
-        "萌",
+        "寒木春华",
         "11",
-        "奇幻",
-        "动作",
         "◆TV◆",
-        "国产动画"
+        "国产动画",
+        "3",
+        "2026年",
+        "电视动画",
+        "续作",
+        "萌",
+        "泡面",
+        "奇幻",
+        "动作"
       ],
       "sites": [],
       "episodes": []
@@ -5256,7 +5259,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7,
-      "popularity": 344,
+      "popularity": 345,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5371,8 +5374,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
-      "ratingScore": 6.9,
-      "popularity": 278,
+      "ratingScore": 7.1,
+      "popularity": 280,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5388,16 +5391,16 @@
         "玄幻",
         "战斗",
         "厕纸",
+        "喜欢！",
+        "2026补",
         "coocaa",
         "国产动画",
-        "表番",
-        "2D",
-        "2026补",
-        "喜欢！",
-        "2026",
-        "TV",
         "奇幻",
-        "未上映"
+        "TV",
+        "2D",
+        "未上映",
+        "2026",
+        "表番"
       ],
       "sites": [],
       "episodes": []
@@ -5814,7 +5817,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 81,
+      "popularity": 82,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -5827,13 +5830,13 @@
         "2026",
         "厕纸",
         "3D",
+        "热血",
         "国创",
         "WEB",
         "小说改",
-        "热血",
-        "沈乐平",
         "2026年10月",
-        "日"
+        "日",
+        "沈乐平"
       ],
       "sites": [],
       "episodes": []
@@ -5974,7 +5977,7 @@
       "format": "WEB",
       "status": "",
       "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_f7d1l.jpg",
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
       "airDate": "2026-10-08",
       "ratingScore": 6,
       "popularity": 15,
@@ -6238,7 +6241,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/5d/715233_E9Z2Z.jpg",
       "airDate": "2026-10-27",
       "ratingScore": 0,
-      "popularity": 1,
+      "popularity": 2,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
@@ -6247,6 +6250,31 @@
         "WEB",
         "历史",
         "萌系"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 715907,
+      "title": "罗德岛学院",
+      "titleCn": "罗德岛学院",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+      "airDate": "2026-10-25",
+      "ratingScore": 0,
+      "popularity": 1,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB",
+        "游戏改",
+        "校园"
       ],
       "sites": [],
       "episodes": []
