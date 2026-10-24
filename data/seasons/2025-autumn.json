@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-10-24T00:13:28.417Z",
+  "generatedAt": "2026-10-24T08:46:23.186Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -7711,7 +7711,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/f6/458926_0qw05.jpg",
       "airDate": "2025-12-28",
       "ratingScore": 6.9,
-      "popularity": 573,
+      "popularity": 574,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8249,7 +8249,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f6/dc/219760_7FG73.jpg",
       "airDate": "2025-12-06",
       "ratingScore": 2.7,
-      "popularity": 141,
+      "popularity": 140,
       "totalEpisodes": 52,
       "genres": [
         "国产动画"
@@ -8258,18 +8258,18 @@
         "变形金刚",
         "国产动画",
         "哪吒",
-        "TV",
         "异世界",
+        "TV",
         "穿越",
         "萝卜",
         "机战",
         "中美联动",
         "2025",
-        "猎奇",
-        "原创",
         "里番",
+        "猎奇",
         "神作",
-        "R18"
+        "R18",
+        "原创"
       ],
       "sites": [],
       "episodes": []
