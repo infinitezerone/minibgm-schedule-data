@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-24T23:59:12.288Z",
+  "generatedAt": "2026-10-25T09:03:55.889Z",
   "total": 119,
   "mappedTotal": 119,
   "items": [
@@ -549,8 +549,7 @@
         "悬疑",
         "超自然",
         "旅行",
-        "男主",
-        "BL"
+        "男主"
       ],
       "sites": [
         {
@@ -4864,7 +4863,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215835-B0seSw93V5qM.png",
       "airDate": "2026-09-27",
       "ratingScore": 7.5,
-      "popularity": 2775,
+      "popularity": 2782,
       "totalEpisodes": 26,
       "genres": [
         "搞笑",
@@ -4918,8 +4917,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg",
       "airDate": "2026-10-02",
-      "ratingScore": 5.9,
-      "popularity": 2614,
+      "ratingScore": 5.8,
+      "popularity": 2642,
       "totalEpisodes": 12,
       "genres": [
         "冒险",
@@ -4971,7 +4970,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-b72dAqbVEDO7.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 6.4,
-      "popularity": 1841,
+      "popularity": 1853,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -5213,7 +5212,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 516,
+      "popularity": 519,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5225,9 +5224,9 @@
         "WEB",
         "治愈",
         "2026年10月",
-        "罗小黑战记",
         "国漫",
         "TV",
+        "罗小黑战记",
         "玄幻",
         "续集",
         "未定档",
@@ -5259,7 +5258,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7,
-      "popularity": 345,
+      "popularity": 347,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5292,6 +5291,29 @@
         "悬疑",
         "2D",
         "未定档"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 218532,
+      "bgmId": 707667,
+      "title": "猫猫のひとりごと 第3期",
+      "titleCn": "猫猫的呢喃 第三季",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "RELEASING",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218532-I1GCprJrJ5sm.png",
+      "airDate": "2026-10-05",
+      "ratingScore": 6.9,
+      "popularity": 340,
+      "totalEpisodes": 0,
+      "genres": [
+        "搞笑"
+      ],
+      "tags": [
+        "搞笑"
       ],
       "sites": [],
       "episodes": []
@@ -5341,29 +5363,6 @@
       "episodes": []
     },
     {
-      "anilistId": 218532,
-      "bgmId": 707667,
-      "title": "猫猫のひとりごと 第3期",
-      "titleCn": "猫猫的呢喃 第三季",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "RELEASING",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218532-I1GCprJrJ5sm.png",
-      "airDate": "2026-10-05",
-      "ratingScore": 6.9,
-      "popularity": 317,
-      "totalEpisodes": 0,
-      "genres": [
-        "搞笑"
-      ],
-      "tags": [
-        "搞笑"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": null,
       "bgmId": 507820,
       "title": "大王饶命 第三季",
@@ -5375,7 +5374,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 280,
+      "popularity": 283,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5417,7 +5416,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216171-IhhbG5GAio2C.png",
       "airDate": "2026-11-27",
       "ratingScore": 0,
-      "popularity": 251,
+      "popularity": 250,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -5460,7 +5459,7 @@
       "format": "OVA",
       "status": "NOT_YET_RELEASED",
       "isAdult": true,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216926-Bs1OpKtHYY9a.png",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216926-FDFaH12RueCw.png",
       "airDate": "2026-11-27",
       "ratingScore": 0,
       "popularity": 200,
@@ -5486,7 +5485,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217009-jcuGzZxbNDQo.png",
       "airDate": "2026-12-18",
       "ratingScore": 0,
-      "popularity": 198,
+      "popularity": 197,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -5508,8 +5507,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
-      "ratingScore": 5.9,
-      "popularity": 182,
+      "ratingScore": 6,
+      "popularity": 183,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -5518,17 +5517,50 @@
         "网文改",
         "战斗",
         "2026",
+        "剧场版",
         "WEB",
         "玄幻",
-        "剧场版",
-        "国漫",
         "3D",
+        "国漫",
         "小说改",
-        "动画电影",
         "轻小说改",
+        "动画电影",
+        "铸梦动画",
         "厕纸",
-        "6",
-        "铸梦动画"
+        "6"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 516076,
+      "title": "镇魂街 第五季",
+      "titleCn": "镇魂街 王国纷争篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
+      "airDate": "2026-12-11",
+      "ratingScore": 5.8,
+      "popularity": 181,
+      "totalEpisodes": 30,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "镇魂街",
+        "表番",
+        "未定档",
+        "艾尔平方",
+        "漫改",
+        "国创",
+        "国产动画",
+        "TV",
+        "战斗",
+        "国漫",
+        "WEB"
       ],
       "sites": [],
       "episodes": []
@@ -5555,39 +5587,6 @@
       "episodes": []
     },
     {
-      "anilistId": null,
-      "bgmId": 516076,
-      "title": "镇魂街 第五季",
-      "titleCn": "镇魂街 王国纷争篇",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
-      "airDate": "2026-12-11",
-      "ratingScore": 5.8,
-      "popularity": 180,
-      "totalEpisodes": 30,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "镇魂街",
-        "表番",
-        "未定档",
-        "艾尔平方",
-        "漫改",
-        "国创",
-        "国产动画",
-        "TV",
-        "战斗",
-        "国漫",
-        "WEB"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": 215989,
       "bgmId": 697598,
       "title": "堕ちるパート妻 年下男との情事に溺れた果てに…",
@@ -5599,7 +5598,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215989-jXzvgQ6QVAhj.png",
       "airDate": "2026-11-27",
       "ratingScore": 0,
-      "popularity": 169,
+      "popularity": 168,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -5622,7 +5621,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216617-EfEXreUg9Zn4.png",
       "airDate": "2026-12-04",
       "ratingScore": 0,
-      "popularity": 165,
+      "popularity": 164,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -5693,7 +5692,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218011-dPgr1MlfSuhH.jpg",
       "airDate": "2026-10-04",
       "ratingScore": 3.9,
-      "popularity": 110,
+      "popularity": 112,
       "totalEpisodes": 0,
       "genres": [
         "搞笑"
@@ -5716,7 +5715,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217458-4UzRLv5prn2x.png",
       "airDate": "2026-12-25",
       "ratingScore": 0,
-      "popularity": 103,
+      "popularity": 102,
       "totalEpisodes": 0,
       "genres": [
         "奇幻",
@@ -5741,7 +5740,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217941-olQB62EBXrqS.png",
       "airDate": "2026-12-11",
       "ratingScore": 0,
-      "popularity": 95,
+      "popularity": 94,
       "totalEpisodes": 0,
       "genres": [
         "里番"
@@ -5817,7 +5816,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 82,
+      "popularity": 83,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -5878,7 +5877,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg",
       "airDate": "2026-10-02",
       "ratingScore": 4.4,
-      "popularity": 52,
+      "popularity": 53,
       "totalEpisodes": 0,
       "genres": [
         "日常"
@@ -5993,6 +5992,34 @@
         "国漫",
         "漫画改",
         "WEB"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 715907,
+      "title": "罗德岛学院",
+      "titleCn": "罗德岛学院",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+      "airDate": "2026-10-25",
+      "ratingScore": 6.7,
+      "popularity": 15,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "游改",
+        "2026",
+        "泡面",
+        "WEB",
+        "游戏改",
+        "校园"
       ],
       "sites": [],
       "episodes": []
@@ -6202,6 +6229,31 @@
     },
     {
       "anilistId": null,
+      "bgmId": 715233,
+      "title": "那年那兔那些事儿 长征篇",
+      "titleCn": "那年那兔那些事儿 长征篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/5d/715233_E9Z2Z.jpg",
+      "airDate": "2026-10-27",
+      "ratingScore": 0,
+      "popularity": 3,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB",
+        "历史",
+        "萌系"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 708225,
       "title": "小猪佩奇·完美假期",
       "titleCn": "小猪佩奇·完美假期",
@@ -6225,56 +6277,6 @@
         "萌系",
         "子供向",
         "原创"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 715233,
-      "title": "那年那兔那些事儿 长征篇",
-      "titleCn": "那年那兔那些事儿 长征篇",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/5d/715233_E9Z2Z.jpg",
-      "airDate": "2026-10-27",
-      "ratingScore": 0,
-      "popularity": 2,
-      "totalEpisodes": 0,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB",
-        "历史",
-        "萌系"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 715907,
-      "title": "罗德岛学院",
-      "titleCn": "罗德岛学院",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-      "airDate": "2026-10-25",
-      "ratingScore": 0,
-      "popularity": 1,
-      "totalEpisodes": 0,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB",
-        "游戏改",
-        "校园"
       ],
       "sites": [],
       "episodes": []

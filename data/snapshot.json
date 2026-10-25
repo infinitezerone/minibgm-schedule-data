@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-24T23:56:32.970Z",
+  "generatedAt": "2026-10-25T09:01:15.341Z",
   "window": {
-    "from": 1791071698,
-    "to": 1798070098
+    "from": 1791104380,
+    "to": 1798102780
   },
   "items": [
     {
@@ -1190,10 +1190,10 @@
         "魔法少女",
         "惊悚",
         "女主",
-        "虚拟世界",
-        "猎奇/血腥",
+        "无口/三无",
         "大逃杀",
-        "无口/三无"
+        "猎奇/血腥",
+        "虚拟世界"
       ],
       "sites": [
         {
@@ -3255,8 +3255,8 @@
         "太空",
         "异世界",
         "精灵",
-        "青年向",
-        "男主"
+        "男主",
+        "青年向"
       ],
       "sites": [
         {
@@ -4185,10 +4185,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 1,
-          "t": 1791099000
-        },
-        {
           "n": 2,
           "t": 1791703800
         },
@@ -4508,10 +4504,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1791100800
-        },
         {
           "n": 2,
           "t": 1791705600
@@ -5491,8 +5483,8 @@
         "超自然",
         "末日废土",
         "丧尸",
-        "生存",
         "旅行",
+        "生存",
         "女主",
         "少年向",
         "悲剧"
@@ -6389,8 +6381,8 @@
         "日常",
         "治愈",
         "男主",
-        "办公室",
-        "少女向"
+        "少女向",
+        "办公室"
       ],
       "sites": [
         {
@@ -6737,34 +6729,30 @@
         },
         {
           "n": 40,
-          "t": 1793489400
-        },
-        {
-          "n": 41,
           "t": 1794094200
         },
         {
-          "n": 42,
+          "n": 41,
           "t": 1794699000
         },
         {
-          "n": 43,
+          "n": 42,
           "t": 1795303800
         },
         {
-          "n": 44,
+          "n": 43,
           "t": 1795908600
         },
         {
-          "n": 45,
+          "n": 44,
           "t": 1796513400
         },
         {
-          "n": 46,
+          "n": 45,
           "t": 1797118200
         },
         {
-          "n": 47,
+          "n": 46,
           "t": 1797723000
         }
       ]
@@ -7134,8 +7122,8 @@
         "冒险",
         "科幻",
         "异世界",
-        "少年向",
-        "男主"
+        "男主",
+        "少年向"
       ],
       "sites": [
         {
@@ -7902,8 +7890,8 @@
         "猎奇/血腥",
         "历史",
         "婚姻",
-        "生存",
-        "女主"
+        "女主",
+        "生存"
       ],
       "sites": [
         {
@@ -8291,10 +8279,6 @@
       "startYear": 2026,
       "startMonth": 4,
       "episodes": [
-        {
-          "n": 27,
-          "t": 1791073800
-        },
         {
           "n": 28,
           "t": 1791678600
@@ -9137,8 +9121,8 @@
         "剧情",
         "奇幻",
         "恋爱",
-        "少女向",
         "女主",
+        "少女向",
         "时间回溯",
         "历史",
         "异世界",
@@ -9300,9 +9284,9 @@
         "限制级",
         "奇幻",
         "恋爱",
+        "男主",
         "魔物娘",
         "搞笑滑稽",
-        "男主",
         "女主",
         "恶魔",
         "傲娇"
@@ -9506,13 +9490,13 @@
       "tags": [
         "魔法少女",
         "音乐",
-        "校园",
-        "少儿向",
-        "青春成长",
         "都市奇幻",
         "女主",
-        "外星人",
-        "偶像"
+        "青春成长",
+        "少儿向",
+        "校园",
+        "偶像",
+        "外星人"
       ],
       "sites": [
         {
@@ -10521,12 +10505,12 @@
         "搞笑",
         "恋爱",
         "武术格斗",
-        "傲娇",
         "搞笑滑稽",
+        "傲娇",
         "三角恋",
         "少年向",
-        "同居",
-        "校园"
+        "校园",
+        "同居"
       ],
       "sites": [
         {
@@ -10619,144 +10603,6 @@
       ]
     },
     {
-      "anilistId": 210031,
-      "bgmId": 638497,
-      "title": "正反対な君と僕 第2期",
-      "titleCn": "相反的你和我 第二季",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
-      "airDate": "2026-07-05",
-      "ratingScore": 8.5,
-      "popularity": 69048,
-      "totalEpisodes": 13,
-      "genres": [
-        "搞笑",
-        "剧情",
-        "恋爱",
-        "日常"
-      ],
-      "tags": [
-        "搞笑",
-        "剧情",
-        "恋爱",
-        "日常",
-        "群像",
-        "青春成长",
-        "治愈",
-        "校园",
-        "男主",
-        "女主",
-        "少年向"
-      ],
-      "sites": [
-        {
-          "site": "mal",
-          "id": "63832"
-        },
-        {
-          "site": "gamer",
-          "id": "150685",
-          "begin": "2026-07-05T08:30:00.000Z",
-          "broadcast": "R/2026-07-05T08:30:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "150685",
-          "begin": "2026-07-05T08:30:00.000Z",
-          "broadcast": "R/2026-07-05T08:30:00.000Z/P7D"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/278043/season/1/episode/13"
-        },
-        {
-          "site": "crunchyroll",
-          "id": "GT00365624",
-          "begin": "2026-01-11T16:00:00.000Z",
-          "broadcast": "R/2026-01-11T16:00:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0GGLLQ2DX",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "netflix",
-          "id": "82653227",
-          "begin": "2026-07-05T08:00:00.000Z",
-          "broadcast": "R/2026-07-05T08:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "210-16",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "ani_one",
-          "id": "PLQcZ8B7Mmr7g",
-          "url": "https://www.youtube.com/show/VLPLQcZ8B7Mmr7g?season=2&sbp=CgEyGgAqC0NuWmxfbVJoZzE0QAFKDVBTZnFJVjNXZnppRUE%253D",
-          "begin": "2026-08-16T08:30:06.000Z",
-          "broadcast": "R/2026-08-16T08:30:06.000Z/P7D",
-          "comment": "ULTRA搶先看: PLIOEBDhF60yI"
-        },
-        {
-          "site": "ani_one_asia",
-          "id": "PLfEoKRfkezAM",
-          "url": "https://www.youtube.com/show/VLPLfEoKRfkezAM?season=2&sbp=CgEyGgAqC1EySmttOUdxaHpRQAFKDVBTTU9CVG9sQjRBWHc%253D",
-          "begin": "2026-08-16T08:30:06.000Z",
-          "broadcast": "R/2026-08-16T08:30:06.000Z/P7D",
-          "comment": "ULTRA搶先看: PLHr3g0ivIWN4"
-        },
-        {
-          "site": "mikan",
-          "id": "4037"
-        },
-        {
-          "site": "danime",
-          "id": "28572",
-          "begin": "2026-07-05T08:00:00.000Z",
-          "broadcast": "R/2026-07-05T08:00:00.000Z/P7D"
-        },
-        {
-          "site": "nicovideo",
-          "id": "seihantai_anime",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0252773",
-          "begin": "2026-07-05T08:00:00.000Z",
-          "broadcast": "R/2026-07-05T08:00:00.000Z/P7D"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "6a715381b56eb30ad03fd4d1"
-        },
-        {
-          "site": "anidb",
-          "id": "19983"
-        },
-        {
-          "site": "anibt",
-          "id": "638497"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 13,
-          "t": 1791100800
-        }
-      ]
-    },
-    {
       "anilistId": 210482,
       "bgmId": 639938,
       "title": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE",
@@ -10783,8 +10629,7 @@
         "悬疑",
         "超自然",
         "旅行",
-        "男主",
-        "BL"
+        "男主"
       ],
       "sites": [
         {
@@ -10912,9 +10757,9 @@
         "动作",
         "搞笑",
         "奇幻",
-        "女主",
-        "虚拟世界",
         "旅行",
+        "虚拟世界",
+        "女主",
         "恶搞/梗番"
       ],
       "sites": [
@@ -11079,8 +10924,8 @@
         "剧情",
         "限制级",
         "恋爱",
-        "女主",
         "三角恋",
+        "女主",
         "青年向"
       ],
       "sites": [
@@ -11630,9 +11475,9 @@
       "tags": [
         "里番",
         "超自然",
-        "妖怪",
+        "男主",
         "女主",
-        "男主"
+        "妖怪"
       ],
       "sites": [
         {
@@ -11739,8 +11584,8 @@
         "奇幻",
         "恋爱",
         "女性向",
-        "群像",
-        "男主"
+        "男主",
+        "群像"
       ],
       "sites": [
         {
@@ -12402,6 +12247,10 @@
         {
           "n": 4,
           "t": 1797490800
+        },
+        {
+          "n": 5,
+          "t": 1798095600
         }
       ]
     },
@@ -12613,8 +12462,8 @@
         "恋爱",
         "日常",
         "校园",
-        "青春成长",
         "少女向",
+        "青春成长",
         "三角恋",
         "女主",
         "群像",
@@ -13383,8 +13232,8 @@
       ],
       "tags": [
         "日常",
-        "少儿向",
-        "校园"
+        "校园",
+        "少儿向"
       ],
       "sites": [
         {
@@ -13412,10 +13261,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1791072960
-        },
         {
           "n": 2,
           "t": 1791677760
@@ -13593,7 +13438,7 @@
       "countryOfOrigin": "JP",
       "format": "OVA",
       "status": "NOT_YET_RELEASED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216926-Bs1OpKtHYY9a.png",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216926-FDFaH12RueCw.png",
       "airDate": "2026-11-01",
       "ratingScore": 0,
       "popularity": 200,
@@ -13837,10 +13682,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 1,
-          "t": 1791075600
-        },
-        {
           "n": 2,
           "t": 1791680400
         },
@@ -14042,7 +13883,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218532-I1GCprJrJ5sm.png",
       "airDate": "2026-10-01",
       "ratingScore": 6.9,
-      "popularity": 317,
+      "popularity": 340,
       "totalEpisodes": 0,
       "genres": [
         "搞笑"

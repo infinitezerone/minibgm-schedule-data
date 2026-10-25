@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-10-24T23:58:37.827Z",
+  "generatedAt": "2026-10-25T09:03:21.218Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -8544,7 +8544,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b9/99/577226_CLc9Z.jpg",
       "airDate": "2026-06-20",
       "ratingScore": 6.8,
-      "popularity": 354,
+      "popularity": 355,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
@@ -8593,7 +8593,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/12/ec/406488_YUXzx.jpg",
       "airDate": "2026-04-23",
       "ratingScore": 6.4,
-      "popularity": 314,
+      "popularity": 315,
       "totalEpisodes": 19,
       "genres": [
         "国产动画"
@@ -8604,8 +8604,8 @@
         "战斗",
         "万维猫动画",
         "3D",
-        "猫腻",
         "2026年4月",
+        "猫腻",
         "WEB",
         "国漫",
         "网文改",
@@ -9436,16 +9436,16 @@
         "搞笑",
         "WEB",
         "2D",
-        "奇幻",
-        "玄幻",
-        "2026",
         "周二",
+        "2026",
+        "玄幻",
+        "奇幻",
         "战斗",
-        "穿越",
-        "修炼",
-        "一二工作室",
         "9:00",
-        "原创"
+        "一二工作室",
+        "穿越",
+        "原创",
+        "修炼"
       ],
       "sites": [],
       "episodes": []

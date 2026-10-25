@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-24T23:58:55.779Z",
+  "generatedAt": "2026-10-25T09:03:39.241Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -7324,7 +7324,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3007,
+      "popularity": 3014,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7346,17 +7346,17 @@
         "意识流",
         "国漫",
         "电波",
-        "国产动画",
         "青春",
+        "国产动画",
         "2026年8月",
         "2026年",
         "国创",
         "记忆管理局",
-        "日本",
-        "Web动画",
-        "架空",
         "治愈",
-        "剧集"
+        "架空",
+        "记忆",
+        "2026夏",
+        "作画"
       ],
       "sites": [],
       "episodes": []
@@ -7741,7 +7741,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1035,
+      "popularity": 1036,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7764,16 +7764,16 @@
         "3D",
         "2026年",
         "电影",
-        "国产动画",
-        "小说改",
         "2026年7月",
+        "小说改",
+        "国产动画",
         "玄幻",
         "8分",
         "8",
         "国产动画电影",
-        "悬疑",
-        "剧情",
-        "组织"
+        "画梦成帧文化传媒",
+        "TV",
+        "七分值得一见"
       ],
       "sites": [],
       "episodes": []
@@ -7945,7 +7945,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217126-HRn0NsNpeUBb.jpg",
       "airDate": "2026-09-25",
       "ratingScore": 7.3,
-      "popularity": 810,
+      "popularity": 817,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -8269,6 +8269,47 @@
     },
     {
       "anilistId": null,
+      "bgmId": 506836,
+      "title": "狐妖小红娘 黄风岭篇",
+      "titleCn": "狐妖小红娘13 黄风岭篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
+      "airDate": "2026-09-11",
+      "ratingScore": 6.4,
+      "popularity": 492,
+      "totalEpisodes": 16,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "狐妖小红娘",
+        "恋爱",
+        "漫画改",
+        "国漫",
+        "搞笑",
+        "奇幻",
+        "WEB",
+        "漫改",
+        "2025",
+        "TV",
+        "国产动画",
+        "2026",
+        "补",
+        "腾讯",
+        "玄幻",
+        "国创",
+        "绘梦",
+        "非常好看",
+        "可爱"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 555710,
       "title": "时光代理人Ⅲ Part One",
       "titleCn": "时光代理人 第三季 Part 1",
@@ -8300,59 +8341,18 @@
         "续作",
         "腐",
         "国创",
+        "5分",
+        "重庆后生动画电影有限公司",
         "非常拉了",
         "超能力",
-        "2026年",
-        "漫画改",
-        "2分",
-        "绘梦动画",
-        "5分",
-        "2020-2029",
-        "CMC",
-        "基",
         "2026年8月",
-        "重庆后生动画电影有限公司"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 506836,
-      "title": "狐妖小红娘 黄风岭篇",
-      "titleCn": "狐妖小红娘13 黄风岭篇",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
-      "airDate": "2026-09-11",
-      "ratingScore": 6.4,
-      "popularity": 490,
-      "totalEpisodes": 16,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "狐妖小红娘",
-        "恋爱",
-        "漫画改",
-        "国漫",
-        "搞笑",
-        "奇幻",
-        "WEB",
-        "漫改",
-        "2025",
-        "TV",
+        "2分",
+        "CMC",
+        "A级",
         "国产动画",
-        "2026",
-        "补",
-        "腾讯",
-        "玄幻",
-        "国创",
-        "绘梦",
-        "非常好看",
-        "可爱"
+        "异能",
+        "2020-2029",
+        "基"
       ],
       "sites": [],
       "episodes": []
@@ -8794,7 +8794,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6.3,
-      "popularity": 200,
+      "popularity": 201,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8832,7 +8832,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/2f/491578_whDt3.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 6.3,
-      "popularity": 148,
+      "popularity": 149,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
@@ -8893,8 +8893,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/9b/2a/507530_yWUYo.jpg",
       "airDate": "2026-09-03",
-      "ratingScore": 6,
-      "popularity": 129,
+      "ratingScore": 5.8,
+      "popularity": 131,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"
@@ -8905,13 +8905,13 @@
         "国漫",
         "3D",
         "战斗",
-        "幻维数码",
-        "2026年9月",
         "2026",
+        "幻维数码",
         "网文改",
         "WEB",
-        "平板观看",
-        "四"
+        "2026年9月",
+        "四",
+        "平板观看"
       ],
       "sites": [],
       "episodes": []
@@ -8965,23 +8965,23 @@
         "国产动画"
       ],
       "tags": [
-        "短片集",
         "原创",
+        "短片集",
         "2026",
+        "2026年7月",
         "WEB",
         "短片",
-        "2026年7月",
         "科幻",
         "国创",
         "画枚动画",
         "铅元素动画",
-        "6",
-        "哔哩哔哩",
-        "合集",
-        "中7",
-        "2020-2029",
         "奇幻",
-        "战斗"
+        "战斗",
+        "中7",
+        "6",
+        "合集",
+        "哔哩哔哩",
+        "2020-2029"
       ],
       "sites": [],
       "episodes": []
@@ -9215,7 +9215,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/07/2d/552778_I4uFv.jpg",
       "airDate": "2026-08-16",
       "ratingScore": 4.7,
-      "popularity": 54,
+      "popularity": 55,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -9225,8 +9225,8 @@
         "小说改",
         "中影年年",
         "WEB",
-        "2026",
         "国漫",
+        "2026",
         "2026年8月",
         "异闻",
         "民俗",
