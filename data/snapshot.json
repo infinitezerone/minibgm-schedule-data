@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-25T14:01:43.891Z",
+  "generatedAt": "2026-10-25T23:44:02.180Z",
   "window": {
-    "from": 1791122413,
-    "to": 1798120813
+    "from": 1791157351,
+    "to": 1798155751
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 80901,
+      "popularity": 80944,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -184,7 +184,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20275,
+      "popularity": 20289,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -354,7 +354,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
       "airDate": "1969-10-05",
       "ratingScore": 5.7,
-      "popularity": 2559,
+      "popularity": 2560,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -472,7 +472,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8025,
+      "popularity": 8031,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -623,9 +623,9 @@
         "游戏",
         "乐队",
         "兽耳",
-        "魔女",
+        "剑术",
         "钓鱼",
-        "剑术"
+        "魔女"
       ],
       "sites": [
         {
@@ -2557,6 +2557,10 @@
         {
           "n": 25,
           "t": 1797521160
+        },
+        {
+          "n": 26,
+          "t": 1798125960
         }
       ]
     },
@@ -3062,10 +3066,6 @@
       "startMonth": 9,
       "episodes": [
         {
-          "n": 2,
-          "t": 1791124200
-        },
-        {
           "n": 3,
           "t": 1791729000
         },
@@ -3130,8 +3130,8 @@
         "冒险",
         "超自然",
         "少年向",
-        "神明",
         "男主",
+        "神明",
         "群像",
         "剑术",
         "战争",
@@ -4092,8 +4092,8 @@
         "运动",
         "校园",
         "男主",
-        "治愈",
         "青春成长",
+        "治愈",
         "社团活动",
         "篮球",
         "少年向"
@@ -4186,34 +4186,30 @@
         },
         {
           "n": 5,
-          "t": 1793518200
-        },
-        {
-          "n": 6,
           "t": 1794123000
         },
         {
-          "n": 7,
+          "n": 6,
           "t": 1794727800
         },
         {
-          "n": 8,
+          "n": 7,
           "t": 1795332600
         },
         {
-          "n": 9,
+          "n": 8,
           "t": 1795937400
         },
         {
-          "n": 10,
+          "n": 9,
           "t": 1796542200
         },
         {
-          "n": 11,
+          "n": 10,
           "t": 1797147000
         },
         {
-          "n": 12,
+          "n": 11,
           "t": 1797751800
         }
       ]
@@ -4389,8 +4385,8 @@
       "tags": [
         "运动",
         "足球",
-        "男主",
-        "青年向"
+        "青年向",
+        "男主"
       ],
       "sites": [
         {
@@ -5836,10 +5832,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 1,
-          "t": 1791125100
-        },
-        {
           "n": 2,
           "t": 1791729900
         },
@@ -6040,6 +6032,10 @@
         {
           "n": 11,
           "t": 1797519600
+        },
+        {
+          "n": 12,
+          "t": 1798124400
         }
       ]
     },
@@ -6226,9 +6222,9 @@
         "搞笑",
         "奇幻",
         "恋爱",
-        "女主",
-        "异世界",
         "转生",
+        "异世界",
+        "女主",
         "少女向"
       ],
       "sites": [
@@ -6298,10 +6294,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 1,
-          "t": 1791124200
-        },
-        {
           "n": 2,
           "t": 1791729000
         },
@@ -6367,8 +6359,8 @@
       "tags": [
         "搞笑",
         "日常",
-        "治愈",
         "男主",
+        "治愈",
         "少女向",
         "办公室"
       ],
@@ -7874,8 +7866,8 @@
         "猎奇/血腥",
         "历史",
         "婚姻",
-        "女主",
-        "生存"
+        "生存",
+        "女主"
       ],
       "sites": [
         {
@@ -8380,10 +8372,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1791129600
-        },
         {
           "n": 2,
           "t": 1791734400
@@ -8926,8 +8914,8 @@
         "搞笑",
         "奇幻",
         "日常",
-        "都市奇幻",
         "拟似家庭",
+        "都市奇幻",
         "搞笑滑稽",
         "男主"
       ],
@@ -9268,10 +9256,10 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "男主",
-        "魔物娘",
-        "搞笑滑稽",
         "女主",
+        "男主",
+        "搞笑滑稽",
+        "魔物娘",
         "恶魔",
         "傲娇"
       ],
@@ -9337,10 +9325,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1791130800
-        },
         {
           "n": 2,
           "t": 1791735600
@@ -9474,9 +9458,9 @@
       "tags": [
         "魔法少女",
         "音乐",
+        "青春成长",
         "都市奇幻",
         "女主",
-        "青春成长",
         "少儿向",
         "校园",
         "偶像",
@@ -9884,10 +9868,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1791126000
-        },
         {
           "n": 2,
           "t": 1791730800
@@ -10379,7 +10359,9 @@
       "popularity": 328,
       "totalEpisodes": 0,
       "genres": [],
-      "tags": [],
+      "tags": [
+        "少儿向"
+      ],
       "sites": [
         {
           "site": "danime",
@@ -10485,8 +10467,8 @@
         "傲娇",
         "三角恋",
         "少年向",
-        "校园",
-        "同居"
+        "同居",
+        "校园"
       ],
       "sites": [
         {
@@ -10902,6 +10884,7 @@
         "恋爱",
         "三角恋",
         "女主",
+        "男主",
         "青年向"
       ],
       "sites": [
@@ -10966,10 +10949,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1791129900
-        },
         {
           "n": 2,
           "t": 1791734700
@@ -11398,6 +11377,10 @@
         {
           "n": 11,
           "t": 1797524880
+        },
+        {
+          "n": 12,
+          "t": 1798129680
         }
       ]
     },
@@ -11451,9 +11434,9 @@
       "tags": [
         "里番",
         "超自然",
-        "男主",
+        "妖怪",
         "女主",
-        "妖怪"
+        "男主"
       ],
       "sites": [
         {
@@ -11503,10 +11486,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1791129900
-        },
         {
           "n": 2,
           "t": 1791734700
@@ -11560,8 +11539,8 @@
         "奇幻",
         "恋爱",
         "女性向",
-        "群像",
-        "男主"
+        "男主",
+        "群像"
       ],
       "sites": [
         {
@@ -11759,10 +11738,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 2,
-          "t": 1791124200
-        },
         {
           "n": 3,
           "t": 1791729000
@@ -12113,71 +12088,6 @@
       ]
     },
     {
-      "anilistId": 213359,
-      "bgmId": 662006,
-      "title": "闇芝居 十七期",
-      "titleCn": "暗芝居 第十七季",
-      "countryOfOrigin": "JP",
-      "format": "TV_SHORT",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213359-VDIZoZHMA0LI.jpg",
-      "airDate": "2026-07-12",
-      "ratingScore": 5.2,
-      "popularity": 526,
-      "totalEpisodes": 13,
-      "genres": [
-        "恐怖",
-        "超自然"
-      ],
-      "tags": [
-        "恐怖",
-        "超自然"
-      ],
-      "sites": [
-        {
-          "site": "danime",
-          "id": "29127",
-          "begin": "2026-07-13T03:00:00.000Z",
-          "broadcast": "R/2026-07-13T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0308079",
-          "begin": "2026-07-13T03:00:00.000Z",
-          "broadcast": "R/2026-07-13T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "mal",
-          "id": "64435"
-        },
-        {
-          "site": "mikan",
-          "id": "4047"
-        },
-        {
-          "site": "acgnx",
-          "id": "芝居"
-        },
-        {
-          "site": "anibt",
-          "id": "662006"
-        },
-        {
-          "site": "dmhy",
-          "id": "芝居"
-        }
-      ],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 7,
-      "episodes": [
-        {
-          "n": 13,
-          "t": 1791138000
-        }
-      ]
-    },
-    {
       "anilistId": 213457,
       "bgmId": 661692,
       "title": "フールナイト",
@@ -12249,8 +12159,8 @@
       "tags": [
         "运动",
         "棒球",
-        "男主",
         "社团活动",
+        "男主",
         "少年向"
       ],
       "sites": [
@@ -12438,12 +12348,12 @@
         "恋爱",
         "日常",
         "校园",
-        "青春成长",
         "少女向",
+        "青春成长",
         "三角恋",
         "女主",
-        "男主",
-        "群像"
+        "群像",
+        "男主"
       ],
       "sites": [
         {
@@ -12570,6 +12480,10 @@
         {
           "n": 1,
           "t": 1793286000
+        },
+        {
+          "n": 2,
+          "t": 1798124400
         }
       ]
     },
@@ -12763,6 +12677,10 @@
         {
           "n": 23,
           "t": 1797818400
+        },
+        {
+          "n": 24,
+          "t": 1798124400
         }
       ]
     },
@@ -12855,6 +12773,36 @@
         {
           "n": 12,
           "t": 1795215600
+        }
+      ]
+    },
+    {
+      "anilistId": 215527,
+      "bgmId": 697409,
+      "title": "夏日 The Animation",
+      "titleCn": "夏日",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215527-OggEWJJVg8pI.png",
+      "airDate": "2026-12-01",
+      "ratingScore": 0,
+      "popularity": 201,
+      "totalEpisodes": 0,
+      "genres": [
+        "里番"
+      ],
+      "tags": [
+        "里番"
+      ],
+      "sites": [],
+      "isAdult": true,
+      "startYear": 2026,
+      "startMonth": 12,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1798124400
         }
       ]
     },
@@ -13204,8 +13152,8 @@
       ],
       "tags": [
         "日常",
-        "校园",
-        "少儿向"
+        "少儿向",
+        "校园"
       ],
       "sites": [
         {
@@ -13299,8 +13247,8 @@
       "tags": [
         "冒险",
         "奇幻",
-        "美食料理",
-        "男主"
+        "男主",
+        "美食料理"
       ],
       "sites": [
         {
@@ -13529,6 +13477,68 @@
         {
           "n": 10,
           "t": 1798030440
+        }
+      ]
+    },
+    {
+      "anilistId": 217458,
+      "bgmId": 707285,
+      "title": "悪霊退散！おねが～い！色神様",
+      "titleCn": "女神的恶灵退治",
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217458-4UzRLv5prn2x.png",
+      "airDate": "2026-12-01",
+      "ratingScore": 0,
+      "popularity": 102,
+      "totalEpisodes": 0,
+      "genres": [
+        "奇幻",
+        "里番"
+      ],
+      "tags": [
+        "奇幻",
+        "里番"
+      ],
+      "sites": [],
+      "isAdult": true,
+      "startYear": 2026,
+      "startMonth": 12,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1798124400
+        }
+      ]
+    },
+    {
+      "anilistId": 217459,
+      "bgmId": 707288,
+      "title": "姉モネ",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217459-zA6NwJAqr5m7.png",
+      "airDate": "2026-12-01",
+      "ratingScore": 0,
+      "popularity": 93,
+      "totalEpisodes": 0,
+      "genres": [
+        "里番"
+      ],
+      "tags": [
+        "里番"
+      ],
+      "sites": [],
+      "isAdult": true,
+      "startYear": 2026,
+      "startMonth": 12,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1798124400
         }
       ]
     },
