@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-10-26T09:53:05.341Z",
+  "generatedAt": "2026-10-26T16:23:55.330Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -371,7 +371,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172019-3cfZbrYBmV23.jpg",
       "airDate": "2025-01-09",
       "ratingScore": 8.2,
-      "popularity": 119253,
+      "popularity": 119354,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -515,7 +515,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172258-n23TSWk54aXv.jpg",
       "airDate": "2025-01-12",
       "ratingScore": 7.9,
-      "popularity": 81550,
+      "popularity": 81635,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -850,7 +850,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167143-iY2ho0I0KnYF.jpg",
       "airDate": "2025-01-10",
       "ratingScore": 6.6,
-      "popularity": 67093,
+      "popularity": 67136,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -1314,6 +1314,112 @@
       "episodes": []
     },
     {
+      "anilistId": 169441,
+      "bgmId": 455626,
+      "title": "わたしの幸せな結婚 第二期",
+      "titleCn": "我的幸福婚姻 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169441-DHutDkhkC8EN.jpg",
+      "airDate": "2025-01-06",
+      "ratingScore": 7.5,
+      "popularity": 61475,
+      "totalEpisodes": 13,
+      "genres": [
+        "剧情",
+        "恋爱",
+        "超自然"
+      ],
+      "tags": [
+        "剧情",
+        "恋爱",
+        "超自然",
+        "女主",
+        "都市奇幻",
+        "军事",
+        "少女向",
+        "婚姻",
+        "历史",
+        "年龄差",
+        "青春成长"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "watakon-anime2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163337",
+          "begin": "2025-01-06T13:30:00.000Z",
+          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa08b2f6756712facfc52"
+        },
+        {
+          "site": "danime",
+          "id": "27621",
+          "begin": "2025-01-06T13:30:00.000Z",
+          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3540"
+        },
+        {
+          "site": "disneyplus",
+          "id": "5Ak7v8mQSOtT",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bilibili",
+          "id": "24004932",
+          "begin": "2025-01-06T13:30:00.000Z",
+          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0D7R45TFQ",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "dmhy",
+          "id": "我的幸福婚 S2|2期"
+        },
+        {
+          "site": "netflix",
+          "id": "81564905",
+          "begin": "2025-01-06T13:30:00.000Z",
+          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/196944/season/1/episode/13"
+        },
+        {
+          "site": "mal",
+          "id": "56701"
+        },
+        {
+          "site": "anidb",
+          "id": "18205"
+        },
+        {
+          "site": "acgnx",
+          "id": "幸福 婚"
+        }
+      ],
+      "episodes": []
+    },
+    {
       "anilistId": 177506,
       "bgmId": 493758,
       "title": "いずれ最強の錬金術師？",
@@ -1420,112 +1526,6 @@
         {
           "site": "acgnx",
           "id": "遲早 最強 鍊金 師"
-        }
-      ],
-      "episodes": []
-    },
-    {
-      "anilistId": 169441,
-      "bgmId": 455626,
-      "title": "わたしの幸せな結婚 第二期",
-      "titleCn": "我的幸福婚姻 第二季",
-      "countryOfOrigin": "JP",
-      "format": "TV",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169441-DHutDkhkC8EN.jpg",
-      "airDate": "2025-01-06",
-      "ratingScore": 7.5,
-      "popularity": 61391,
-      "totalEpisodes": 13,
-      "genres": [
-        "剧情",
-        "恋爱",
-        "超自然"
-      ],
-      "tags": [
-        "剧情",
-        "恋爱",
-        "超自然",
-        "女主",
-        "都市奇幻",
-        "军事",
-        "少女向",
-        "婚姻",
-        "历史",
-        "年龄差",
-        "青春成长"
-      ],
-      "sites": [
-        {
-          "site": "nicovideo",
-          "id": "watakon-anime2",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0163337",
-          "begin": "2025-01-06T13:30:00.000Z",
-          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "677aa08b2f6756712facfc52"
-        },
-        {
-          "site": "danime",
-          "id": "27621",
-          "begin": "2025-01-06T13:30:00.000Z",
-          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "3540"
-        },
-        {
-          "site": "disneyplus",
-          "id": "5Ak7v8mQSOtT",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "bilibili",
-          "id": "24004932",
-          "begin": "2025-01-06T13:30:00.000Z",
-          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0D7R45TFQ",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "dmhy",
-          "id": "我的幸福婚 S2|2期"
-        },
-        {
-          "site": "netflix",
-          "id": "81564905",
-          "begin": "2025-01-06T13:30:00.000Z",
-          "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
-        },
-        {
-          "site": "tmdb",
-          "id": "tv/196944/season/1/episode/13"
-        },
-        {
-          "site": "mal",
-          "id": "56701"
-        },
-        {
-          "site": "anidb",
-          "id": "18205"
-        },
-        {
-          "site": "acgnx",
-          "id": "幸福 婚"
         }
       ],
       "episodes": []
@@ -2087,7 +2087,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172453-7iYNTAEZpNsJ.png",
       "airDate": "2025-01-09",
       "ratingScore": 7.3,
-      "popularity": 43897,
+      "popularity": 43948,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -2217,7 +2217,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172439-sTda7baXB0Fh.jpg",
       "airDate": "2025-01-10",
       "ratingScore": 7.2,
-      "popularity": 43767,
+      "popularity": 43816,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -2335,7 +2335,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165171-an9pyRXwVxJS.jpg",
       "airDate": "2025-01-04",
       "ratingScore": 8.3,
-      "popularity": 42072,
+      "popularity": 42103,
       "totalEpisodes": 13,
       "genres": [
         "剧情",
@@ -2629,7 +2629,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170892-zhJUSsX6PaF0.jpg",
       "airDate": "2025-01-12",
       "ratingScore": 7.9,
-      "popularity": 41106,
+      "popularity": 41145,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -2983,7 +2983,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175198-AtWwEQPTjQ6N.jpg",
       "airDate": "2025-01-10",
       "ratingScore": 6.1,
-      "popularity": 32547,
+      "popularity": 32565,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -3176,7 +3176,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166699-k5hIccoA5XSW.jpg",
       "airDate": "2025-01-04",
       "ratingScore": 6.9,
-      "popularity": 31766,
+      "popularity": 31787,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -3380,7 +3380,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174654-J8OduNFjRpVY.jpg",
       "airDate": "2025-01-04",
       "ratingScore": 5.7,
-      "popularity": 28160,
+      "popularity": 28183,
       "totalEpisodes": 24,
       "genres": [
         "搞笑",
@@ -3545,7 +3545,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136381-t6c5rfKjnqqd.jpg",
       "airDate": "2025-03-18",
       "ratingScore": 7.9,
-      "popularity": 24545,
+      "popularity": 24555,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -3937,7 +3937,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169295-WxoGTeMbje4T.jpg",
       "airDate": "2025-01-02",
       "ratingScore": 8.2,
-      "popularity": 21252,
+      "popularity": 21274,
       "totalEpisodes": 13,
       "genres": [
         "剧情",
@@ -4250,7 +4250,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170650-iVQC67atMVj3.png",
       "airDate": "2025-01-05",
       "ratingScore": 5.4,
-      "popularity": 14787,
+      "popularity": 14795,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -4357,7 +4357,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170916-B6VKOdSOBccU.jpg",
       "airDate": "2025-01-06",
       "ratingScore": 5.2,
-      "popularity": 13752,
+      "popularity": 13760,
       "totalEpisodes": 12,
       "genres": [
         "奇幻"
@@ -4547,7 +4547,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145740-KtUZ6O59DaDq.jpg",
       "airDate": "2025-01-01",
       "ratingScore": 6.3,
-      "popularity": 13584,
+      "popularity": 13589,
       "totalEpisodes": 13,
       "genres": [
         "动作"
@@ -4741,7 +4741,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174596-GbgKrUtBBuIg.jpg",
       "airDate": "2025-01-03",
       "ratingScore": 7.1,
-      "popularity": 12238,
+      "popularity": 12244,
       "totalEpisodes": 12,
       "genres": [
         "日常",
@@ -4829,7 +4829,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154392-I35rrWRu9KlY.jpg",
       "airDate": "2025-01-30",
       "ratingScore": 6.1,
-      "popularity": 11801,
+      "popularity": 11811,
       "totalEpisodes": 1,
       "genres": [
         "冒险",
@@ -4881,7 +4881,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154064-qYnRF4BQsuM6.png",
       "airDate": "2025-01-30",
       "ratingScore": 6.2,
-      "popularity": 10689,
+      "popularity": 10690,
       "totalEpisodes": 1,
       "genres": [
         "恋爱",
@@ -5243,7 +5243,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/b7/383308_COQIc.jpg",
       "airDate": "2025-01-29",
       "ratingScore": 6.4,
-      "popularity": 6923,
+      "popularity": 6924,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -5562,7 +5562,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162722-w30E3QgBvG7H.jpg",
       "airDate": "2025-01-11",
       "ratingScore": 7.4,
-      "popularity": 3228,
+      "popularity": 3229,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -5675,7 +5675,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162921-ByoCP2VvLjeT.jpg",
       "airDate": "2025-01-09",
       "ratingScore": 5.2,
-      "popularity": 2696,
+      "popularity": 2698,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -6666,8 +6666,8 @@
         "3D",
         "WEB",
         "2025",
-        "北京若森数字科技有限公司",
         "续集",
+        "北京若森数字科技有限公司",
         "TV",
         "搞笑",
         "2025年4月",
@@ -6682,9 +6682,9 @@
         "续作",
         "奇幻",
         "2024",
-        "腾讯动漫",
-        "6分",
-        "7.9分"
+        "7",
+        "2024年四月",
+        "吃大份去吧"
       ],
       "sites": [],
       "episodes": []

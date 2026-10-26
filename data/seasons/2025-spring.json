@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-10-26T09:53:28.842Z",
+  "generatedAt": "2026-10-26T16:24:20.219Z",
   "total": 131,
   "mappedTotal": 131,
   "items": [
@@ -18,7 +18,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149118-AOQb0xuTssGl.jpg",
       "airDate": "2025-04-04",
       "ratingScore": 7.8,
-      "popularity": 133379,
+      "popularity": 133486,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -148,7 +148,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167336-KpGIIBie71OX.png",
       "airDate": "2025-04-06",
       "ratingScore": 7.1,
-      "popularity": 115576,
+      "popularity": 115641,
       "totalEpisodes": 13,
       "genres": [
         "动作",
@@ -986,7 +986,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153554-hHYe9aV6Gvlv.jpg",
       "airDate": "2025-04-04",
       "ratingScore": 6.4,
-      "popularity": 69322,
+      "popularity": 69399,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -1328,7 +1328,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174802-ILahIZlNWN3R.jpg",
       "airDate": "2025-04-08",
       "ratingScore": 7,
-      "popularity": 57390,
+      "popularity": 57450,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -1454,7 +1454,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143598-FCvAhQJLllSP.png",
       "airDate": "2025-03-31",
       "ratingScore": 7.1,
-      "popularity": 57197,
+      "popularity": 57227,
       "totalEpisodes": 24,
       "genres": [
         "动作",
@@ -1574,7 +1574,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143337-2uPE0ywVcz9X.jpg",
       "airDate": "2025-04-05",
       "ratingScore": 6.7,
-      "popularity": 50185,
+      "popularity": 50220,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -2335,7 +2335,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143200-42OaDCS6VEy3.png",
       "airDate": "2025-04-07",
       "ratingScore": 7.1,
-      "popularity": 37970,
+      "popularity": 37991,
       "totalEpisodes": 26,
       "genres": [
         "剧情",
@@ -3872,7 +3872,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150654-pgima1BrY7N0.jpg",
       "airDate": "2025-04-09",
       "ratingScore": 6.4,
-      "popularity": 24512,
+      "popularity": 24518,
       "totalEpisodes": 18,
       "genres": [
         "动作",
@@ -4359,7 +4359,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167142-dJwdHptpILkF.jpg",
       "airDate": "2025-04-02",
       "ratingScore": 6,
-      "popularity": 20599,
+      "popularity": 20602,
       "totalEpisodes": 13,
       "genres": [
         "动作",
@@ -4473,7 +4473,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165445-qwVP0w5NIaBW.jpg",
       "airDate": "2025-04-07",
       "ratingScore": 6.7,
-      "popularity": 18936,
+      "popularity": 18941,
       "totalEpisodes": 12,
       "genres": [
         "冒险",
@@ -5026,7 +5026,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166527-7Co2vkxgVzT8.png",
       "airDate": "2025-03-29",
       "ratingScore": 7.5,
-      "popularity": 7456,
+      "popularity": 7461,
       "totalEpisodes": 1,
       "genres": [
         "剧情"
@@ -5529,7 +5529,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158287-4RDt0M820Ays.jpg",
       "airDate": "2025-04-07",
       "ratingScore": 5.1,
-      "popularity": 4674,
+      "popularity": 4677,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -5665,14 +5665,14 @@
         "bilibili",
         "超能力",
         "群像",
-        "无法预测命运之舞台",
         "泽野弘之",
-        "科幻",
         "搞笑",
+        "无法预测命运之舞台",
+        "科幻",
         "纸飞机动画",
         "2025年",
-        "凸变英雄",
-        "3D"
+        "3D",
+        "绘梦动画"
       ],
       "sites": [
         {
@@ -5813,16 +5813,16 @@
         "2025年4月",
         "2024",
         "国产动画",
+        "2025年",
         "未定档",
         "剧情",
-        "2025年",
-        "修仙",
         "国创",
-        "2025年5月",
-        "好看",
-        "冒险",
+        "修仙",
         "续集",
-        "2023"
+        "续作",
+        "好看",
+        "2023",
+        "2025年5月"
       ],
       "sites": [],
       "episodes": []
@@ -6593,7 +6593,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166371-9YKL41d3r9RS.jpg",
       "airDate": "2025-04-09",
       "ratingScore": 5.3,
-      "popularity": 1867,
+      "popularity": 1868,
       "totalEpisodes": 12,
       "genres": [
         "音乐",

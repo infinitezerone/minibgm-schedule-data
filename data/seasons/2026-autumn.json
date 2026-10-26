@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-26T09:55:29.463Z",
-  "total": 119,
-  "mappedTotal": 119,
+  "generatedAt": "2026-10-26T16:27:15.792Z",
+  "total": 122,
+  "mappedTotal": 122,
   "items": [
     {
       "anilistId": 195539,
@@ -229,7 +229,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
       "airDate": "2026-10-07",
       "ratingScore": 7.6,
-      "popularity": 52283,
+      "popularity": 52537,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -549,7 +549,8 @@
         "悬疑",
         "超自然",
         "旅行",
-        "男主"
+        "男主",
+        "青年向"
       ],
       "sites": [
         {
@@ -722,7 +723,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160275-cBOWJpcCGeMq.jpg",
       "airDate": "2026-10-23",
       "ratingScore": 8.3,
-      "popularity": 44769,
+      "popularity": 44910,
       "totalEpisodes": 1,
       "genres": [
         "冒险",
@@ -867,7 +868,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143103-vvsaIpZPpIuE.png",
       "airDate": "2026-11-20",
       "ratingScore": 0,
-      "popularity": 42527,
+      "popularity": 42579,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -1175,8 +1176,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
       "airDate": "2026-10-08",
-      "ratingScore": 7.1,
-      "popularity": 32089,
+      "ratingScore": 7,
+      "popularity": 32291,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -1677,7 +1678,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
       "airDate": "2026-10-07",
       "ratingScore": 7.3,
-      "popularity": 25743,
+      "popularity": 25797,
       "totalEpisodes": 13,
       "genres": [
         "搞笑",
@@ -1881,7 +1882,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png",
       "airDate": "2026-10-03",
       "ratingScore": 7,
-      "popularity": 22717,
+      "popularity": 23142,
       "totalEpisodes": 13,
       "genres": [
         "动作",
@@ -3759,7 +3760,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
       "airDate": "2026-10-05",
       "ratingScore": 6.4,
-      "popularity": 7295,
+      "popularity": 7313,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -4553,7 +4554,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157330-Ow09pWu8lqCT.jpg",
       "airDate": "2026-11-13",
       "ratingScore": 0,
-      "popularity": 4290,
+      "popularity": 4296,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -5213,7 +5214,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 524,
+      "popularity": 526,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5232,17 +5233,17 @@
         "续集",
         "未定档",
         "寒木春华",
+        "动作",
+        "2026年",
+        "11",
+        "◆TV◆",
+        "电视动画",
+        "泡面",
+        "国产动画",
         "3",
         "续作",
         "萌",
-        "泡面",
-        "国产动画",
-        "11",
-        "奇幻",
-        "电视动画",
-        "动作",
-        "2026年",
-        "◆TV◆"
+        "奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -5282,7 +5283,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7.1,
-      "popularity": 350,
+      "popularity": 352,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5290,31 +5291,31 @@
       "tags": [
         "漫画改",
         "搞笑",
-        "奇幻",
         "国漫",
+        "奇幻",
         "WEB",
-        "TV",
         "战斗",
+        "TV",
         "推理",
         "2026",
-        "未上映",
         "武侠",
+        "未上映",
         "腾讯",
         "国产或合作动画",
         "历史",
+        "国内番剧",
+        "2020-2029",
+        "2026年10月",
+        "漫改",
+        "古风",
+        "大理寺日志",
+        "2025",
         "2D",
         "悬疑",
         "未定档",
         "好传动画",
-        "好船动画",
         "动作",
-        "古风",
-        "大理寺日志",
-        "2025",
-        "2020-2029",
-        "国内番剧",
-        "2026年10月",
-        "漫改"
+        "好船动画"
       ],
       "sites": [],
       "episodes": []
@@ -5377,32 +5378,32 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 289,
+      "popularity": 291,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "大火鸟文化",
-        "小说改",
         "WEB",
         "2026年10月",
+        "小说改",
         "异能",
         "搞笑",
         "网文改",
         "战斗",
         "玄幻",
-        "厕纸",
         "2026",
-        "国产动画",
-        "表番",
-        "2D",
-        "未上映",
-        "coocaa",
-        "2026补",
+        "厕纸",
         "TV",
         "奇幻",
-        "喜欢！"
+        "喜欢！",
+        "未上映",
+        "2D",
+        "coocaa",
+        "国产动画",
+        "表番",
+        "2026补"
       ],
       "sites": [],
       "episodes": []
@@ -5519,18 +5520,18 @@
       "tags": [
         "战斗",
         "网文改",
-        "剧场版",
         "2026",
         "玄幻",
+        "剧场版",
         "WEB",
         "国漫",
         "3D",
         "小说改",
         "动画电影",
         "轻小说改",
-        "铸梦动画",
+        "厕纸",
         "6",
-        "厕纸"
+        "铸梦动画"
       ],
       "sites": [],
       "episodes": []
@@ -5755,6 +5756,42 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 712000,
+      "title": "牧神记 伍",
+      "titleCn": "牧神记5",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+      "airDate": "2026-10-18",
+      "ratingScore": 6,
+      "popularity": 94,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "玄幻",
+        "战斗",
+        "网文改",
+        "2026",
+        "玄机",
+        "厕纸",
+        "3D",
+        "WEB",
+        "小说改",
+        "热血",
+        "国创",
+        "日",
+        "沈乐平",
+        "2026年10月"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 217459,
       "bgmId": 707288,
       "title": "姉モネ",
@@ -5789,7 +5826,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/a5/4a/461585_xZJ2J.jpg",
       "airDate": "2026-12-17",
       "ratingScore": 0,
-      "popularity": 92,
+      "popularity": 93,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -5803,42 +5840,6 @@
         "科幻",
         "3D",
         "异能"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 712000,
-      "title": "牧神记 伍",
-      "titleCn": "牧神记5",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-      "airDate": "2026-10-18",
-      "ratingScore": 6,
-      "popularity": 91,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "玄幻",
-        "战斗",
-        "网文改",
-        "2026",
-        "玄机",
-        "厕纸",
-        "3D",
-        "WEB",
-        "小说改",
-        "热血",
-        "国创",
-        "2026年10月",
-        "日",
-        "沈乐平"
       ],
       "sites": [],
       "episodes": []
@@ -5982,7 +5983,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
       "airDate": "2026-10-25",
       "ratingScore": 6.7,
-      "popularity": 31,
+      "popularity": 36,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
@@ -6285,6 +6286,79 @@
         "萌系",
         "子供向",
         "原创"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 218938,
+      "bgmId": 621108,
+      "title": "ホタルの嫁入り ちょいたし",
+      "titleCn": "萤火虫的出嫁",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "RELEASING",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218938-i29Q90gbQcZQ.png",
+      "airDate": "2026-10-12",
+      "ratingScore": 0,
+      "popularity": 0,
+      "totalEpisodes": 0,
+      "genres": [
+        "搞笑",
+        "恋爱"
+      ],
+      "tags": [
+        "搞笑",
+        "恋爱"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 218942,
+      "bgmId": 704737,
+      "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "RELEASING",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218942-P2vuXzw9knaY.png",
+      "airDate": "2026-10-01",
+      "ratingScore": 0,
+      "popularity": 0,
+      "totalEpisodes": 12,
+      "genres": [
+        "奇幻",
+        "日常"
+      ],
+      "tags": [
+        "奇幻",
+        "日常"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 218931,
+      "bgmId": 716482,
+      "title": "さくら裂ク 散ル花びら",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218931-m9AdKoWInuM5.png",
+      "airDate": "2026-12-25",
+      "ratingScore": 0,
+      "popularity": 0,
+      "totalEpisodes": 2,
+      "genres": [
+        "里番"
+      ],
+      "tags": [
+        "里番"
       ],
       "sites": [],
       "episodes": []
