@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-27T09:43:42.986Z",
+  "generatedAt": "2026-10-27T15:40:35.716Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -18,7 +18,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178789-hNXjKFzUq7mk.jpg",
       "airDate": "2026-07-05",
       "ratingScore": 8.6,
-      "popularity": 174246,
+      "popularity": 174482,
       "totalEpisodes": 14,
       "genres": [
         "冒险",
@@ -710,8 +710,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
       "airDate": "2026-07-02",
-      "ratingScore": 6.8,
-      "popularity": 72571,
+      "ratingScore": 6.7,
+      "popularity": 72749,
       "totalEpisodes": 26,
       "genres": [
         "动作",
@@ -1273,7 +1273,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-VHMezCGf48nM.jpg",
       "airDate": "2026-07-07",
       "ratingScore": 7.7,
-      "popularity": 56552,
+      "popularity": 56609,
       "totalEpisodes": 10,
       "genres": [
         "动作",
@@ -2518,7 +2518,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg",
       "airDate": "2026-07-06",
       "ratingScore": 6.8,
-      "popularity": 44322,
+      "popularity": 44400,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -3069,7 +3069,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-dZ8hF93HzstV.jpg",
       "airDate": "2026-07-05",
       "ratingScore": 7.6,
-      "popularity": 36498,
+      "popularity": 36550,
       "totalEpisodes": 12,
       "genres": [
         "剧情",
@@ -3713,7 +3713,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png",
       "airDate": "2026-07-06",
       "ratingScore": 6.3,
-      "popularity": 28221,
+      "popularity": 28266,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -5702,7 +5702,8 @@
         "惊悚",
         "女主",
         "生存",
-        "荒野"
+        "荒野",
+        "百合"
       ],
       "sites": [
         {
@@ -6943,8 +6944,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169080-el4sMLlqMxeI.png",
       "airDate": "2026-07-05",
-      "ratingScore": 6.7,
-      "popularity": 4264,
+      "ratingScore": 6.8,
+      "popularity": 4270,
       "totalEpisodes": 12,
       "genres": [
         "限制级",
@@ -7324,7 +7325,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3039,
+      "popularity": 3044,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7339,24 +7340,24 @@
         "WEB",
         "摔跤社",
         "2026年7月",
-        "TV",
         "李书宇",
+        "TV",
         "有生之年",
         "刘文钰",
         "意识流",
         "国漫",
         "电波",
-        "2026年8月",
         "青春",
         "国产动画",
+        "2026年8月",
         "2026年",
         "国创",
         "记忆管理局",
-        "7月",
+        "作画",
+        "治愈",
+        "2026夏",
         "中国动画",
-        "日本",
-        "剧集",
-        "Web动画"
+        "记忆"
       ],
       "sites": [],
       "episodes": []
@@ -7634,7 +7635,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176373-355WYOUefrCt.jpg",
       "airDate": "2026-08-21",
       "ratingScore": 5.9,
-      "popularity": 1742,
+      "popularity": 1743,
       "totalEpisodes": 1,
       "genres": [
         "超自然"
@@ -7741,7 +7742,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1036,
+      "popularity": 1039,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7767,13 +7768,13 @@
         "2026年7月",
         "小说改",
         "国产动画",
-        "8",
-        "国产动画电影",
         "玄幻",
         "8分",
-        "高8",
-        "现代国产动画剧场版",
-        "6分"
+        "8",
+        "国产动画电影",
+        "组织",
+        "双男主",
+        "剧情"
       ],
       "sites": [],
       "episodes": []
@@ -8279,7 +8280,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 5.1,
-      "popularity": 501,
+      "popularity": 503,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8295,24 +8296,24 @@
         "国漫",
         "时光代理人",
         "绘梦",
-        "推理",
         "TV",
+        "推理",
         "续作",
         "腐",
         "2026年",
         "国创",
-        "漫画改",
-        "7",
         "番",
         "一坨狗屎",
-        "绘梦动画",
+        "A级",
+        "异能",
         "Media",
-        "非常拉了",
-        "2026年8月",
-        "5分",
-        "重庆后生动画电影有限公司",
+        "国产动画",
+        "漫画改",
         "2分",
-        "超能力"
+        "非常拉了",
+        "超能力",
+        "绘梦动画",
+        "7"
       ],
       "sites": [],
       "episodes": []
@@ -8329,7 +8330,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
       "ratingScore": 6.4,
-      "popularity": 494,
+      "popularity": 496,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8795,7 +8796,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6.3,
-      "popularity": 207,
+      "popularity": 208,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8811,11 +8812,11 @@
         "玄幻",
         "2026",
         "2026年7月",
-        "神漫",
-        "粗口有点多，还打马赛克不过有点意思，有看点能看看的",
         "搞笑",
-        "欢乐向",
+        "神漫",
         "二",
+        "欢乐向",
+        "粗口有点多，还打马赛克不过有点意思，有看点能看看的",
         "平板观看"
       ],
       "sites": [],
@@ -9437,8 +9438,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f7/91/484026_4H6gH.jpg",
       "airDate": "2026-08-25",
-      "ratingScore": 0,
-      "popularity": 12,
+      "ratingScore": 1,
+      "popularity": 13,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -9447,10 +9448,11 @@
         "武侠",
         "小说改",
         "两点十分",
-        "TV",
-        "WEB",
         "国创",
-        "小椴"
+        "小椴",
+        "WEB",
+        "TV",
+        "国漫"
       ],
       "sites": [],
       "episodes": []

@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-27T09:43:59.099Z",
-  "total": 122,
-  "mappedTotal": 122,
+  "generatedAt": "2026-10-27T15:40:52.379Z",
+  "total": 121,
+  "mappedTotal": 121,
   "items": [
     {
       "anilistId": 195539,
@@ -1037,7 +1037,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
       "airDate": "2026-10-02",
       "ratingScore": 7.7,
-      "popularity": 36952,
+      "popularity": 37115,
       "totalEpisodes": 13,
       "genres": [
         "动作",
@@ -1177,7 +1177,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
       "airDate": "2026-10-08",
       "ratingScore": 7,
-      "popularity": 32291,
+      "popularity": 32398,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -1842,35 +1842,6 @@
       "episodes": []
     },
     {
-      "anilistId": 204389,
-      "bgmId": 616808,
-      "title": "野生のラスボスが現れた！ 第2期",
-      "titleCn": "野生的大魔王出现了！第二季",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "RELEASING",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204389-jCoFCeTthDMy.jpg",
-      "airDate": "2026-09-26",
-      "ratingScore": 7.4,
-      "popularity": 23385,
-      "totalEpisodes": 0,
-      "genres": [
-        "动作",
-        "冒险",
-        "奇幻"
-      ],
-      "tags": [
-        "动作",
-        "冒险",
-        "奇幻",
-        "异世界",
-        "女主"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": 169581,
       "bgmId": 456078,
       "title": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる",
@@ -1882,7 +1853,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png",
       "airDate": "2026-10-03",
       "ratingScore": 7,
-      "popularity": 23142,
+      "popularity": 23390,
       "totalEpisodes": 13,
       "genres": [
         "动作",
@@ -1979,6 +1950,35 @@
           "id": "魔法 探險家"
         }
       ],
+      "episodes": []
+    },
+    {
+      "anilistId": 204389,
+      "bgmId": 616808,
+      "title": "野生のラスボスが現れた！ 第2期",
+      "titleCn": "野生的大魔王出现了！第二季",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "RELEASING",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204389-jCoFCeTthDMy.jpg",
+      "airDate": "2026-09-26",
+      "ratingScore": 7.4,
+      "popularity": 23385,
+      "totalEpisodes": 0,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "异世界",
+        "女主"
+      ],
+      "sites": [],
       "episodes": []
     },
     {
@@ -2741,7 +2741,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png",
       "airDate": "2026-10-05",
       "ratingScore": 7.2,
-      "popularity": 16110,
+      "popularity": 16282,
       "totalEpisodes": 24,
       "genres": [
         "冒险",
@@ -3175,7 +3175,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
       "airDate": "2026-10-07",
       "ratingScore": 7.1,
-      "popularity": 14821,
+      "popularity": 14898,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -3291,7 +3291,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178972-THp4trZ9uR9b.jpg",
       "airDate": "2026-11-06",
       "ratingScore": 0,
-      "popularity": 14489,
+      "popularity": 14555,
       "totalEpisodes": 3,
       "genres": [
         "动作",
@@ -3476,7 +3476,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
       "airDate": "2026-10-07",
       "ratingScore": 7.1,
-      "popularity": 11526,
+      "popularity": 11561,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -4893,8 +4893,8 @@
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179876-Wg62CAzp5WQ1.jpg",
       "airDate": "2026-10-14",
-      "ratingScore": 5.5,
-      "popularity": 2783,
+      "ratingScore": 5.6,
+      "popularity": 2799,
       "totalEpisodes": 11,
       "genres": [
         "机战",
@@ -5214,7 +5214,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 528,
+      "popularity": 529,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5226,24 +5226,24 @@
         "WEB",
         "治愈",
         "2026年10月",
+        "罗小黑战记",
         "国漫",
         "TV",
-        "罗小黑战记",
         "玄幻",
         "续集",
         "未定档",
         "寒木春华",
+        "2026年",
+        "11",
+        "◆TV◆",
+        "国产动画",
+        "动作",
+        "奇幻",
         "3",
         "续作",
         "萌",
         "泡面",
-        "国产动画",
-        "11",
-        "奇幻",
-        "电视动画",
-        "动作",
-        "2026年",
-        "◆TV◆"
+        "电视动画"
       ],
       "sites": [],
       "episodes": []
@@ -5539,26 +5539,26 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 186,
+      "popularity": 187,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "战斗",
         "网文改",
+        "战斗",
         "2026",
-        "玄幻",
         "剧场版",
-        "WEB",
+        "玄幻",
         "国漫",
+        "WEB",
         "3D",
         "小说改",
-        "动画电影",
         "轻小说改",
-        "厕纸",
+        "动画电影",
+        "铸梦动画",
         "6",
-        "铸梦动画"
+        "厕纸"
       ],
       "sites": [],
       "episodes": []
@@ -5817,26 +5817,26 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 96,
+      "popularity": 98,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "玄幻",
-        "战斗",
         "网文改",
+        "战斗",
         "2026",
         "玄机",
         "厕纸",
         "3D",
+        "国创",
         "WEB",
         "小说改",
         "热血",
-        "国创",
-        "日",
         "沈乐平",
-        "2026年10月"
+        "2026年10月",
+        "日"
       ],
       "sites": [],
       "episodes": []
@@ -6009,8 +6009,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
       "airDate": "2026-10-25",
-      "ratingScore": 6.7,
-      "popularity": 36,
+      "ratingScore": 6.8,
+      "popularity": 37,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
@@ -6018,10 +6018,10 @@
       "tags": [
         "游戏改",
         "WEB",
-        "2026",
-        "2026年10月",
-        "泡面",
         "校园",
+        "泡面",
+        "2026年10月",
+        "2026",
         "鹰角网络",
         "2026观",
         "游改",
@@ -6182,31 +6182,6 @@
         "WEB",
         "小说改",
         "三"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 715233,
-      "title": "那年那兔那些事儿 长征篇",
-      "titleCn": "那年那兔那些事儿 长征篇",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/5d/715233_E9Z2Z.jpg",
-      "airDate": "2026-10-27",
-      "ratingScore": 8,
-      "popularity": 6,
-      "totalEpisodes": 0,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB",
-        "历史",
-        "萌系"
       ],
       "sites": [],
       "episodes": []
