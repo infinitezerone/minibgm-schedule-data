@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-26T16:27:15.792Z",
+  "generatedAt": "2026-10-27T01:06:22.068Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -5214,7 +5214,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 526,
+      "popularity": 527,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5378,32 +5378,32 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 291,
+      "popularity": 292,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "大火鸟文化",
+        "小说改",
         "WEB",
         "2026年10月",
-        "小说改",
         "异能",
         "搞笑",
         "网文改",
         "战斗",
         "玄幻",
-        "2026",
         "厕纸",
-        "TV",
-        "奇幻",
+        "2026",
         "喜欢！",
-        "未上映",
-        "2D",
+        "2026补",
         "coocaa",
         "国产动画",
-        "表番",
-        "2026补"
+        "奇幻",
+        "TV",
+        "2D",
+        "未上映",
+        "表番"
       ],
       "sites": [],
       "episodes": []
@@ -5569,7 +5569,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 181,
+      "popularity": 182,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
@@ -5767,7 +5767,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 94,
+      "popularity": 95,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -5792,6 +5792,36 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 461585,
+      "title": "第一序列2",
+      "titleCn": "第一序列 第二季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/a5/4a/461585_xZJ2J.jpg",
+      "airDate": "2026-12-17",
+      "ratingScore": 0,
+      "popularity": 94,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "奇幻",
+        "未上映",
+        "小说改",
+        "WEB",
+        "末世",
+        "科幻",
+        "3D",
+        "异能"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 217459,
       "bgmId": 707288,
       "title": "姉モネ",
@@ -5810,36 +5840,6 @@
       ],
       "tags": [
         "里番"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 461585,
-      "title": "第一序列2",
-      "titleCn": "第一序列 第二季",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/a5/4a/461585_xZJ2J.jpg",
-      "airDate": "2026-12-17",
-      "ratingScore": 0,
-      "popularity": 93,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "奇幻",
-        "未上映",
-        "小说改",
-        "WEB",
-        "末世",
-        "科幻",
-        "3D",
-        "异能"
       ],
       "sites": [],
       "episodes": []
@@ -6310,7 +6310,9 @@
       ],
       "tags": [
         "搞笑",
-        "恋爱"
+        "恋爱",
+        "历史",
+        "女主"
       ],
       "sites": [],
       "episodes": []
