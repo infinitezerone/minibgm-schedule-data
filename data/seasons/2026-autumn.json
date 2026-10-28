@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-27T15:40:52.379Z",
+  "generatedAt": "2026-10-28T00:56:19.618Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -5283,7 +5283,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7.1,
-      "popularity": 352,
+      "popularity": 353,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5291,31 +5291,31 @@
       "tags": [
         "漫画改",
         "搞笑",
-        "国漫",
         "奇幻",
-        "WEB",
-        "战斗",
+        "国漫",
         "TV",
+        "战斗",
+        "WEB",
         "推理",
         "2026",
-        "武侠",
         "未上映",
+        "武侠",
+        "历史",
         "腾讯",
         "国产或合作动画",
-        "历史",
-        "国内番剧",
+        "动作",
+        "好传动画",
+        "好船动画",
+        "2025",
         "2020-2029",
+        "大理寺日志",
+        "未定档",
+        "2D",
         "2026年10月",
+        "国内番剧",
         "漫改",
         "古风",
-        "大理寺日志",
-        "2025",
-        "2D",
-        "悬疑",
-        "未定档",
-        "好传动画",
-        "动作",
-        "好船动画"
+        "悬疑"
       ],
       "sites": [],
       "episodes": []
@@ -5378,7 +5378,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 293,
+      "popularity": 294,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5817,7 +5817,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 98,
+      "popularity": 99,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -5830,13 +5830,13 @@
         "玄机",
         "厕纸",
         "3D",
+        "热血",
         "国创",
         "WEB",
         "小说改",
-        "热血",
-        "沈乐平",
         "2026年10月",
-        "日"
+        "日",
+        "沈乐平"
       ],
       "sites": [],
       "episodes": []
@@ -6064,7 +6064,7 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
       "airDate": "2026-10-08",
-      "ratingScore": 6,
+      "ratingScore": 5,
       "popularity": 16,
       "totalEpisodes": 14,
       "genres": [
@@ -6072,13 +6072,15 @@
       ],
       "tags": [
         "战斗",
-        "WEB",
-        "2026",
-        "狂王罗喉",
         "国漫",
+        "狂王罗喉",
+        "TV",
+        "2026",
         "悬疑",
         "奇幻",
-        "漫画改"
+        "漫画改",
+        "4",
+        "WEB"
       ],
       "sites": [],
       "episodes": []
