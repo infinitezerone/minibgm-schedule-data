@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-28T10:28:25.243Z",
+  "generatedAt": "2026-10-29T01:31:53.209Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -257,7 +257,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
       "airDate": "2026-07-08",
       "ratingScore": 8,
-      "popularity": 99061,
+      "popularity": 99288,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -397,7 +397,8 @@
         "剑术",
         "战争",
         "时间回溯",
-        "都市奇幻"
+        "都市奇幻",
+        "幽灵"
       ],
       "sites": [
         {
@@ -973,7 +974,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 63186,
+      "popularity": 63371,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -1831,6 +1832,38 @@
       "episodes": []
     },
     {
+      "anilistId": 133007,
+      "bgmId": 334105,
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "titleCn": "剧场版 魔法少女小圆〈瓦尔普吉斯的回天〉",
+      "countryOfOrigin": "JP",
+      "format": "MOVIE",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133007-5gOUXDvzxy9S.jpg",
+      "airDate": "2026-08-28",
+      "ratingScore": 8.3,
+      "popularity": 50661,
+      "totalEpisodes": 1,
+      "genres": [
+        "魔法少女"
+      ],
+      "tags": [
+        "魔法少女",
+        "女主",
+        "悲剧",
+        "魔女",
+        "神明",
+        "百合",
+        "都市奇幻",
+        "时间回溯",
+        "无口/三无",
+        "恶魔"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 198946,
       "bgmId": 585820,
       "title": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
@@ -1952,38 +1985,6 @@
           "id": "Clevatess"
         }
       ],
-      "episodes": []
-    },
-    {
-      "anilistId": 133007,
-      "bgmId": 334105,
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "titleCn": "剧场版 魔法少女小圆〈瓦尔普吉斯的回天〉",
-      "countryOfOrigin": "JP",
-      "format": "MOVIE",
-      "status": "FINISHED",
-      "isAdult": false,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133007-5gOUXDvzxy9S.jpg",
-      "airDate": "2026-08-28",
-      "ratingScore": 8.3,
-      "popularity": 50607,
-      "totalEpisodes": 1,
-      "genres": [
-        "魔法少女"
-      ],
-      "tags": [
-        "魔法少女",
-        "女主",
-        "悲剧",
-        "魔女",
-        "神明",
-        "百合",
-        "都市奇幻",
-        "时间回溯",
-        "无口/三无",
-        "恶魔"
-      ],
-      "sites": [],
       "episodes": []
     },
     {
@@ -3388,7 +3389,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
       "airDate": "2026-07-07",
       "ratingScore": 7.5,
-      "popularity": 30470,
+      "popularity": 30535,
       "totalEpisodes": 12,
       "genres": [
         "剧情"
@@ -6288,7 +6289,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8112,
+      "popularity": 8127,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7325,7 +7326,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3053,
+      "popularity": 3060,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7340,8 +7341,8 @@
         "WEB",
         "摔跤社",
         "2026年7月",
-        "李书宇",
         "TV",
+        "李书宇",
         "有生之年",
         "刘文钰",
         "意识流",
@@ -7353,11 +7354,11 @@
         "2026年",
         "国创",
         "记忆管理局",
-        "中国动画",
+        "作画",
+        "治愈",
         "2026夏",
-        "Web动画",
-        "日本",
-        "7月"
+        "中国动画",
+        "记忆"
       ],
       "sites": [],
       "episodes": []
@@ -7742,7 +7743,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1040,
+      "popularity": 1042,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7772,9 +7773,9 @@
         "8分",
         "8",
         "国产动画电影",
+        "动作",
         "画梦成帧文化传媒",
-        "TV",
-        "七分值得一见"
+        "成都画梦成帧文化传媒有限公司"
       ],
       "sites": [],
       "episodes": []
@@ -8280,7 +8281,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 5.2,
-      "popularity": 504,
+      "popularity": 508,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8299,20 +8300,20 @@
         "推理",
         "TV",
         "续作",
-        "腐",
         "2026年",
         "国创",
-        "重庆后生动画电影有限公司",
-        "2分",
-        "超能力",
-        "绘梦动画",
-        "5分",
-        "非常拉了",
-        "基",
-        "异能",
+        "腐",
         "2020-2029",
         "CMC",
-        "2026年8月"
+        "2026年8月",
+        "异能",
+        "基",
+        "一坨狗屎",
+        "7",
+        "Media",
+        "番",
+        "国产动画",
+        "A级"
       ],
       "sites": [],
       "episodes": []
@@ -8328,8 +8329,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
-      "ratingScore": 6.4,
-      "popularity": 497,
+      "ratingScore": 6.3,
+      "popularity": 498,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8341,20 +8342,20 @@
         "国漫",
         "奇幻",
         "搞笑",
-        "WEB",
         "2026",
-        "漫改",
+        "WEB",
         "TV",
         "2025",
+        "漫改",
         "国产动画",
-        "补",
-        "6",
-        "玄幻",
-        "腾讯",
-        "非常好看",
         "绘梦",
+        "非常好看",
+        "6",
         "国创",
-        "可爱"
+        "补",
+        "可爱",
+        "玄幻",
+        "腾讯"
       ],
       "sites": [],
       "episodes": []
@@ -8688,7 +8689,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/d1/2c/478223_8SSP1.jpg",
       "airDate": "2026-07-10",
       "ratingScore": 6.8,
-      "popularity": 270,
+      "popularity": 271,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -8710,17 +8711,17 @@
         "谢君伟",
         "原创",
         "影动备字2024第009号",
-        "战争",
-        "国产动画电影",
-        "电影",
-        "2020-2029",
         "2026年",
+        "战争",
         "华语",
-        "7.7",
+        "电影",
+        "三国",
+        "国产动画电影",
+        "鱼焦",
+        "2026观",
         "动画片",
         "5分",
-        "鱼焦",
-        "三国"
+        "7.7"
       ],
       "sites": [],
       "episodes": []
@@ -8795,7 +8796,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6.3,
-      "popularity": 209,
+      "popularity": 211,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8841,21 +8842,21 @@
       "tags": [
         "玄幻",
         "冒险",
-        "中影年年",
         "小说改",
-        "3D",
+        "中影年年",
         "2026",
+        "3D",
         "战斗",
         "iqiyi",
         "爱奇艺",
         "宅猪",
-        "网文改",
-        "陈升垚",
-        "日",
+        "方翔",
         "国漫",
         "2026年7月",
-        "方翔",
-        "WEB"
+        "网文改",
+        "WEB",
+        "日",
+        "陈升垚"
       ],
       "sites": [],
       "episodes": []
@@ -8929,21 +8930,21 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f3/6e/542046_Vv111.jpg",
       "airDate": "2026-08-08",
       "ratingScore": 5.9,
-      "popularity": 130,
+      "popularity": 131,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "战斗",
         "玄幻",
+        "战斗",
         "国漫",
+        "原创",
         "厕纸",
         "WEB",
-        "原创",
-        "2026",
         "7",
-        "剧场版"
+        "剧场版",
+        "2026"
       ],
       "sites": [],
       "episodes": []
@@ -9216,7 +9217,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/07/2d/552778_I4uFv.jpg",
       "airDate": "2026-08-16",
       "ratingScore": 4.7,
-      "popularity": 55,
+      "popularity": 54,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"

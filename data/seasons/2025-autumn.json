@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-10-28T10:27:33.971Z",
+  "generatedAt": "2026-10-29T01:31:05.333Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -18,7 +18,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153800-8SpzdHOaZCoU.jpg",
       "airDate": "2025-10-12",
       "ratingScore": 5,
-      "popularity": 155557,
+      "popularity": 155764,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -1313,7 +1313,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129195-9BT4wE1QTLj2.jpg",
       "airDate": "2025-10-04",
       "ratingScore": 6.5,
-      "popularity": 51958,
+      "popularity": 52034,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -3555,7 +3555,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140291-RAwYjwC9vWDR.png",
       "airDate": "2025-10-28",
       "ratingScore": 6.8,
-      "popularity": 24106,
+      "popularity": 24128,
       "totalEpisodes": 8,
       "genres": [
         "冒险",
@@ -4383,7 +4383,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140337-8EtbiPurofcC.jpg",
       "airDate": "2025-10-23",
       "ratingScore": 8.2,
-      "popularity": 19210,
+      "popularity": 19229,
       "totalEpisodes": 1,
       "genres": [
         "搞笑",
@@ -6801,7 +6801,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132776-uZLvjGAa4qup.jpg",
       "airDate": "2025-12-04",
       "ratingScore": 6.7,
-      "popularity": 2278,
+      "popularity": 2276,
       "totalEpisodes": 0,
       "genres": [
         "剧情"
@@ -7711,7 +7711,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/f6/458926_0qw05.jpg",
       "airDate": "2025-12-28",
       "ratingScore": 6.9,
-      "popularity": 584,
+      "popularity": 585,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8250,7 +8250,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f6/dc/219760_7FG73.jpg",
       "airDate": "2025-12-06",
       "ratingScore": 2.7,
-      "popularity": 140,
+      "popularity": 141,
       "totalEpisodes": 52,
       "genres": [
         "国产动画"
@@ -8258,19 +8258,19 @@
       "tags": [
         "变形金刚",
         "国产动画",
+        "TV",
         "哪吒",
         "异世界",
-        "TV",
         "穿越",
         "萝卜",
         "机战",
         "中美联动",
+        "原创",
         "2025",
         "里番",
         "猎奇",
-        "神作",
         "R18",
-        "原创"
+        "神作"
       ],
       "sites": [],
       "episodes": []

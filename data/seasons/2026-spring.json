@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-10-28T10:28:06.857Z",
+  "generatedAt": "2026-10-29T01:31:36.315Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -18,7 +18,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg",
       "airDate": "2026-04-06",
       "ratingScore": 8.5,
-      "popularity": 235486,
+      "popularity": 236006,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -5771,9 +5771,9 @@
         "恋爱",
         "运动",
         "大学",
+        "女主",
         "男主",
         "排球",
-        "女主",
         "青年向",
         "里番"
       ],
@@ -7576,7 +7576,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113555-2V56Q1SZ3zpU.jpg",
       "airDate": "2026-05-22",
       "ratingScore": 6.8,
-      "popularity": 3517,
+      "popularity": 3520,
       "totalEpisodes": 3,
       "genres": [
         "机战"
@@ -8545,7 +8545,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b9/99/577226_CLc9Z.jpg",
       "airDate": "2026-06-20",
       "ratingScore": 6.8,
-      "popularity": 358,
+      "popularity": 359,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
@@ -8555,29 +8555,29 @@
         "奇幻",
         "2026",
         "诡秘之主",
-        "网文改",
         "WEB",
+        "网文改",
         "视美",
         "穿越",
         "国创",
         "视美影业",
         "TV",
         "OVA",
-        "国漫",
         "悬疑",
+        "国漫",
         "冒险",
         "神话",
         "蒸汽朋克",
         "视美动画",
         "异世界",
         "2D",
-        "轻小说改",
-        "8",
-        "2026.8.15",
-        "动画剧集",
         "轻改",
-        "2026年7月",
-        "2026年6月"
+        "动画剧集",
+        "2026春",
+        "8",
+        "轻小说改",
+        "4分",
+        "爱潜水的乌贼"
       ],
       "sites": [],
       "episodes": []
@@ -9248,7 +9248,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/88/e4/507822_q52CC.jpg",
       "airDate": "2026-05-13",
       "ratingScore": 5.2,
-      "popularity": 118,
+      "popularity": 119,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -9257,12 +9257,12 @@
         "2026",
         "奇幻",
         "2026年4月",
-        "网文改",
         "WEB",
+        "网文改",
         "小说改",
-        "未上映",
+        "4",
         "中国动画",
-        "4"
+        "未上映"
       ],
       "sites": [],
       "episodes": []
