@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-29T10:46:22.574Z",
+  "generatedAt": "2026-10-29T16:31:59.828Z",
   "window": {
-    "from": 1791456286,
-    "to": 1798454686
+    "from": 1791477024,
+    "to": 1798475424
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 81043,
+      "popularity": 81067,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -184,7 +184,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20307,
+      "popularity": 20312,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -480,7 +480,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8037,
+      "popularity": 8040,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -617,7 +617,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
       "airDate": "2019-05-04",
       "ratingScore": 7.9,
-      "popularity": 14854,
+      "popularity": 14855,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -635,9 +635,9 @@
         "游戏",
         "乐队",
         "兽耳",
-        "魔女",
+        "剑术",
         "钓鱼",
-        "剑术"
+        "魔女"
       ],
       "sites": [
         {
@@ -1516,8 +1516,8 @@
         "奇幻",
         "恋爱",
         "异世界",
-        "转生",
         "搞笑滑稽",
+        "转生",
         "男主",
         "同居"
       ],
@@ -2528,10 +2528,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 15,
-          "t": 1791473160
-        },
-        {
           "n": 16,
           "t": 1792077960
         },
@@ -3151,8 +3147,8 @@
         "冒险",
         "超自然",
         "少年向",
-        "男主",
         "群像",
+        "男主",
         "神明",
         "剑术",
         "战争",
@@ -3269,8 +3265,8 @@
         "太空",
         "异世界",
         "精灵",
-        "男主",
-        "青年向"
+        "青年向",
+        "男主"
       ],
       "sites": [
         {
@@ -4411,8 +4407,8 @@
       "tags": [
         "运动",
         "足球",
-        "男主",
-        "青年向"
+        "青年向",
+        "男主"
       ],
       "sites": [
         {
@@ -5501,8 +5497,8 @@
         "超自然",
         "末日废土",
         "丧尸",
-        "旅行",
         "生存",
+        "旅行",
         "女主",
         "少年向",
         "悲剧"
@@ -6023,10 +6019,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1791471600
-        },
         {
           "n": 2,
           "t": 1792076400
@@ -7243,6 +7235,10 @@
         {
           "n": 11,
           "t": 1797861600
+        },
+        {
+          "n": 12,
+          "t": 1798466400
         }
       ]
     },
@@ -8167,10 +8163,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1791462600
-        },
-        {
           "n": 3,
           "t": 1792067400
         },
@@ -8230,8 +8222,8 @@
       ],
       "tags": [
         "音乐",
-        "女主",
         "偶像",
+        "女主",
         "少儿向"
       ],
       "sites": [
@@ -9289,10 +9281,10 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "女主",
         "男主",
-        "搞笑滑稽",
+        "女主",
         "魔物娘",
+        "搞笑滑稽",
         "恶魔",
         "傲娇"
       ],
@@ -9491,13 +9483,13 @@
       "tags": [
         "魔法少女",
         "音乐",
-        "青春成长",
-        "都市奇幻",
         "女主",
+        "青春成长",
         "少儿向",
         "校园",
-        "偶像",
-        "外星人"
+        "都市奇幻",
+        "外星人",
+        "偶像"
       ],
       "sites": [
         {
@@ -10741,9 +10733,9 @@
         "动作",
         "搞笑",
         "奇幻",
-        "旅行",
         "虚拟世界",
         "女主",
+        "旅行",
         "恶搞/梗番"
       ],
       "sites": [
@@ -10904,9 +10896,9 @@
         "剧情",
         "限制级",
         "恋爱",
-        "三角恋",
         "女主",
         "男主",
+        "三角恋",
         "青年向"
       ],
       "sites": [
@@ -11120,10 +11112,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 2,
-          "t": 1791471600
-        },
         {
           "n": 3,
           "t": 1792076400
@@ -11357,10 +11345,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 1,
-          "t": 1791476880
-        },
-        {
           "n": 2,
           "t": 1792081680
         },
@@ -11456,9 +11440,9 @@
       "tags": [
         "里番",
         "超自然",
-        "妖怪",
+        "男主",
         "女主",
-        "男主"
+        "妖怪"
       ],
       "sites": [
         {
@@ -11561,8 +11545,8 @@
         "奇幻",
         "恋爱",
         "女性向",
-        "群像",
-        "男主"
+        "男主",
+        "群像"
       ],
       "sites": [
         {
@@ -11685,9 +11669,9 @@
         "虚拟世界",
         "男主",
         "游戏",
+        "婚姻",
         "搞笑滑稽",
         "少年向",
-        "婚姻",
         "剑术"
       ],
       "sites": [
@@ -11830,10 +11814,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 2,
-          "t": 1791471600
-        },
         {
           "n": 3,
           "t": 1794495600
@@ -12422,10 +12402,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1791471360
-        },
-        {
           "n": 3,
           "t": 1792076160
         },
@@ -12474,7 +12450,7 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "OVA",
-      "status": "NOT_YET_RELEASED",
+      "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214443-0xrurj3XnjFD.png",
       "airDate": "2026-10-01",
       "ratingScore": 0,
@@ -12600,10 +12576,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 2,
-          "t": 1791471600
-        },
         {
           "n": 3,
           "t": 1791770400
