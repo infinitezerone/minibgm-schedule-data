@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-10-30T10:48:28.782Z",
+  "generatedAt": "2026-10-30T16:26:31.943Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -974,7 +974,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 63453,
+      "popularity": 63522,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -3389,7 +3389,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
       "airDate": "2026-07-07",
       "ratingScore": 7.5,
-      "popularity": 30565,
+      "popularity": 30601,
       "totalEpisodes": 12,
       "genres": [
         "剧情"
@@ -6289,7 +6289,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8129,
+      "popularity": 8131,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7326,7 +7326,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3064,
+      "popularity": 3067,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7354,11 +7354,11 @@
         "2026年",
         "国创",
         "记忆管理局",
-        "治愈",
         "架空",
+        "剧集",
+        "作画",
         "记忆",
-        "2026夏",
-        "作画"
+        "治愈"
       ],
       "sites": [],
       "episodes": []
@@ -8300,20 +8300,20 @@
         "推理",
         "TV",
         "续作",
-        "腐",
         "2026年",
         "国创",
-        "绘梦动画",
-        "漫画改",
-        "Media",
-        "超能力",
-        "7",
-        "重庆后生动画电影有限公司",
+        "腐",
         "基",
         "2026年8月",
+        "重庆后生动画电影有限公司",
+        "CMC",
         "5分",
-        "2分",
-        "非常拉了"
+        "A级",
+        "番",
+        "一坨狗屎",
+        "国产动画",
+        "异能",
+        "2020-2029"
       ],
       "sites": [],
       "episodes": []
@@ -8796,7 +8796,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6.3,
-      "popularity": 212,
+      "popularity": 214,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8930,16 +8930,16 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f3/6e/542046_Vv111.jpg",
       "airDate": "2026-08-08",
       "ratingScore": 5.9,
-      "popularity": 131,
+      "popularity": 132,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "玄幻",
         "战斗",
-        "国漫",
+        "玄幻",
         "原创",
+        "国漫",
         "厕纸",
         "WEB",
         "7",
@@ -9038,11 +9038,12 @@
         "2026年7月",
         "国产或合作动画",
         "奇幻战斗",
-        "子供",
         "腾讯",
+        "子供",
         "子供向",
         "战斗",
-        "魔法少女"
+        "魔法少女",
+        "国产TV"
       ],
       "sites": [],
       "episodes": []

@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-30T10:46:04.647Z",
+  "generatedAt": "2026-10-30T16:24:01.675Z",
   "window": {
-    "from": 1791542669,
-    "to": 1798541069
+    "from": 1791562945,
+    "to": 1798561345
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 81067,
+      "popularity": 81093,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -184,7 +184,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20312,
+      "popularity": 20320,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -358,7 +358,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
       "airDate": "1969-10-05",
       "ratingScore": 5.7,
-      "popularity": 2563,
+      "popularity": 2562,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -480,7 +480,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8040,
+      "popularity": 8041,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -617,7 +617,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
       "airDate": "2019-05-04",
       "ratingScore": 7.9,
-      "popularity": 14855,
+      "popularity": 14858,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -3139,8 +3139,8 @@
         "冒险",
         "超自然",
         "少年向",
-        "群像",
         "男主",
+        "群像",
         "神明",
         "剑术",
         "战争",
@@ -3501,10 +3501,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 1,
-          "t": 1791552600
-        },
-        {
           "n": 2,
           "t": 1792157400
         },
@@ -3712,6 +3708,10 @@
         {
           "n": 12,
           "t": 1797949800
+        },
+        {
+          "n": 13,
+          "t": 1798554600
         }
       ]
     },
@@ -4399,8 +4399,8 @@
       "tags": [
         "运动",
         "足球",
-        "青年向",
-        "男主"
+        "男主",
+        "青年向"
       ],
       "sites": [
         {
@@ -4756,10 +4756,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1791554400
-        },
-        {
           "n": 3,
           "t": 1792159200
         },
@@ -4824,8 +4820,8 @@
         "剧情",
         "科幻",
         "赛博朋克",
-        "悲剧",
         "半机械人",
+        "悲剧",
         "反乌托邦",
         "猎奇/血腥",
         "群像",
@@ -7051,10 +7047,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 14,
-          "t": 1791558000
-        },
-        {
           "n": 15,
           "t": 1792162800
         },
@@ -7119,8 +7111,8 @@
         "冒险",
         "科幻",
         "异世界",
-        "少年向",
-        "男主"
+        "男主",
+        "少年向"
       ],
       "sites": [
         {
@@ -7557,10 +7549,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1791556200
-        },
-        {
           "n": 3,
           "t": 1792161000
         },
@@ -7988,10 +7976,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1791556200
-        },
         {
           "n": 2,
           "t": 1792161000
@@ -9110,8 +9094,8 @@
         "剧情",
         "奇幻",
         "恋爱",
-        "女主",
         "少女向",
+        "女主",
         "时间回溯",
         "历史",
         "异世界",
@@ -9269,10 +9253,10 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "男主",
-        "女主",
         "魔物娘",
         "搞笑滑稽",
+        "男主",
+        "女主",
         "恶魔",
         "傲娇"
       ],
@@ -9433,10 +9417,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 1,
-          "t": 1791547200
-        },
         {
           "n": 2,
           "t": 1792152000
@@ -11654,8 +11634,8 @@
         "男主",
         "游戏",
         "婚姻",
-        "搞笑滑稽",
         "少年向",
+        "搞笑滑稽",
         "剑术"
       ],
       "sites": [
@@ -13126,8 +13106,8 @@
       ],
       "tags": [
         "日常",
-        "少儿向",
-        "校园"
+        "校园",
+        "少儿向"
       ],
       "sites": [
         {
@@ -13282,10 +13262,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 2,
-          "t": 1791548760
-        },
         {
           "n": 3,
           "t": 1792153560
