@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-29T16:34:34.498Z",
+  "generatedAt": "2026-10-30T01:33:23.908Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -3308,12 +3308,11 @@
         "科幻",
         "日常",
         "超自然",
+        "拟似家庭",
         "吸血鬼",
         "外星人",
         "游戏",
-        "魔物娘",
-        "大逃杀",
-        "拟似家庭"
+        "魔物娘"
       ],
       "sites": [],
       "episodes": []
@@ -5214,7 +5213,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 539,
+      "popularity": 542,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5224,26 +5223,26 @@
         "2026",
         "战斗",
         "WEB",
-        "2026年10月",
         "治愈",
+        "2026年10月",
+        "罗小黑战记",
         "国漫",
         "TV",
-        "罗小黑战记",
         "玄幻",
         "续集",
-        "未定档",
         "寒木春华",
-        "11",
-        "◆TV◆",
-        "国产动画",
-        "3",
-        "2026年",
-        "电视动画",
-        "续作",
+        "未定档",
         "萌",
         "泡面",
         "奇幻",
-        "动作"
+        "电视动画",
+        "续作",
+        "国产动画",
+        "动作",
+        "2026年",
+        "11",
+        "◆TV◆",
+        "3"
       ],
       "sites": [],
       "episodes": []
@@ -5283,7 +5282,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7,
-      "popularity": 358,
+      "popularity": 360,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5291,31 +5290,31 @@
       "tags": [
         "漫画改",
         "搞笑",
-        "奇幻",
         "国漫",
+        "奇幻",
         "WEB",
-        "TV",
         "战斗",
+        "TV",
         "推理",
         "2026",
-        "未上映",
         "武侠",
-        "腾讯",
+        "未上映",
         "国产或合作动画",
         "历史",
-        "漫改",
-        "古风",
-        "悬疑",
-        "未定档",
-        "2D",
+        "腾讯",
+        "2025",
+        "好船动画",
+        "大理寺日志",
+        "2020-2029",
         "2026年10月",
         "国内番剧",
         "动作",
         "好传动画",
-        "好船动画",
-        "2025",
-        "大理寺日志",
-        "2020-2029"
+        "漫改",
+        "古风",
+        "悬疑",
+        "2D",
+        "未定档"
       ],
       "sites": [],
       "episodes": []
@@ -6163,6 +6162,53 @@
     },
     {
       "anilistId": null,
+      "bgmId": 712500,
+      "title": "万圣街 特别篇 古堡的秘密",
+      "titleCn": "万圣街 特别篇 古堡的秘密",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
+      "airDate": "2026-10-31",
+      "ratingScore": 0,
+      "popularity": 7,
+      "totalEpisodes": 3,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 583008,
+      "title": "三星堆：未来往事",
+      "titleCn": "三星堆：未来往事",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/e5/23/583008_yYZIG.jpg",
+      "airDate": "2026-10-23",
+      "ratingScore": 0,
+      "popularity": 6,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "动画片"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 625517,
       "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
       "titleCn": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
@@ -6189,29 +6235,6 @@
     },
     {
       "anilistId": null,
-      "bgmId": 712500,
-      "title": "万圣街 特别篇 古堡的秘密",
-      "titleCn": "万圣街 特别篇 古堡的秘密",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
-      "airDate": "2026-10-31",
-      "ratingScore": 0,
-      "popularity": 6,
-      "totalEpisodes": 3,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
       "bgmId": 712926,
       "title": "都市古医仙2",
       "titleCn": "都市古医仙2",
@@ -6232,30 +6255,6 @@
         "WEB",
         "小说改",
         "三"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 583008,
-      "title": "三星堆：未来往事",
-      "titleCn": "三星堆：未来往事",
-      "countryOfOrigin": "CN",
-      "format": "剧场版",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/e5/23/583008_yYZIG.jpg",
-      "airDate": "2026-10-23",
-      "ratingScore": 0,
-      "popularity": 5,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "动画片",
-        "剧场版"
       ],
       "sites": [],
       "episodes": []
