@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "summer",
-  "generatedAt": "2026-10-31T10:16:09.338Z",
+  "generatedAt": "2026-10-31T15:35:22.980Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -584,7 +584,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154768-DHHvNd4MjV1p.jpg",
       "airDate": "2025-07-05",
       "ratingScore": 8.2,
-      "popularity": 198789,
+      "popularity": 198950,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -3129,7 +3129,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151799-igwbH3AffgHc.jpg",
       "airDate": "2025-07-09",
       "ratingScore": 7.9,
-      "popularity": 39475,
+      "popularity": 39497,
       "totalEpisodes": 13,
       "genres": [
         "动作",
@@ -6973,7 +6973,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
       "airDate": "2025-07-18",
       "ratingScore": 7.7,
-      "popularity": 7018,
+      "popularity": 7019,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -6987,8 +6987,8 @@
         "罗小黑战记",
         "冒险",
         "治愈",
-        "喜剧",
         "萌系",
+        "喜剧",
         "寒木春华",
         "国漫",
         "国产动画",
@@ -7001,12 +7001,12 @@
         "顾杰",
         "搞笑",
         "玄幻",
+        "热血",
         "萌",
         "国创",
-        "热血",
-        "院线",
         "打拳",
-        "中国动画"
+        "弃养",
+        "好猫配贱人"
       ],
       "sites": [
         {
@@ -9010,30 +9010,30 @@
       "tags": [
         "科幻",
         "网文改",
-        "奇幻",
         "小说改",
+        "奇幻",
         "2025年7月",
         "WEB",
         "2025",
-        "中日合作",
         "远瞳",
+        "中日合作",
         "国漫",
         "TV",
         "国创",
-        "轻小说改",
-        "铅元素动画",
         "STUDIO.LAN！",
+        "铅元素动画",
+        "轻小说改",
+        "周三",
+        "2D",
         "热血",
         "Sunflowers",
+        "Sunflower",
+        "张冠群",
         "国动",
         "什么垃圾玩意",
-        "2D",
-        "Sunflower",
         "2024",
         "10:00",
-        "张冠群",
-        "6",
-        "周三"
+        "6"
       ],
       "sites": [],
       "episodes": []

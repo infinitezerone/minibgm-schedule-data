@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-10-31T10:16:37.331Z",
+  "generatedAt": "2026-10-31T15:35:50.795Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -18,7 +18,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153800-8SpzdHOaZCoU.jpg",
       "airDate": "2025-10-12",
       "ratingScore": 5,
-      "popularity": 155946,
+      "popularity": 156045,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -1313,7 +1313,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129195-9BT4wE1QTLj2.jpg",
       "airDate": "2025-10-04",
       "ratingScore": 6.5,
-      "popularity": 52106,
+      "popularity": 52143,
       "totalEpisodes": 12,
       "genres": [
         "搞笑",
@@ -3555,7 +3555,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140291-RAwYjwC9vWDR.png",
       "airDate": "2025-10-28",
       "ratingScore": 6.8,
-      "popularity": 24166,
+      "popularity": 24176,
       "totalEpisodes": 8,
       "genres": [
         "冒险",
@@ -4383,7 +4383,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140337-8EtbiPurofcC.jpg",
       "airDate": "2025-10-23",
       "ratingScore": 8.2,
-      "popularity": 19241,
+      "popularity": 19247,
       "totalEpisodes": 1,
       "genres": [
         "搞笑",
@@ -6801,7 +6801,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132776-uZLvjGAa4qup.jpg",
       "airDate": "2025-12-04",
       "ratingScore": 6.7,
-      "popularity": 2281,
+      "popularity": 2280,
       "totalEpisodes": 0,
       "genres": [
         "剧情"
@@ -8177,7 +8177,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/55/06/487201_LLBps.jpg",
       "airDate": "2025-10-01",
       "ratingScore": 4.3,
-      "popularity": 206,
+      "popularity": 207,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -8196,21 +8196,20 @@
         "国漫",
         "2025年10月",
         "海平屋脊影视文化（上海）有限公司",
+        "4分",
+        "大陆院线",
+        "檀健次",
+        "浪费时间",
+        "国创",
+        "于孟",
+        "电影院",
+        "动画片",
         "小说改",
         "2025年",
         "浙江省",
         "果麦文化传媒股份有限公司",
-        "动画片",
         "搞笑",
-        "剧情",
-        "现代国产动画剧场版",
-        "国产动画电影",
-        "影动备字2024第034号",
-        "红鲤",
-        "电影",
-        "国产动画",
-        "笑死我了",
-        "下饭"
+        "剧情"
       ],
       "sites": [],
       "episodes": []

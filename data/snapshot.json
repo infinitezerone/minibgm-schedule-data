@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-10-31T10:15:03.064Z",
+  "generatedAt": "2026-10-31T15:34:15.350Z",
   "window": {
-    "from": 1791627209,
-    "to": 1798625609
+    "from": 1791646361,
+    "to": 1798644761
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 81093,
+      "popularity": 81118,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -180,7 +180,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20320,
+      "popularity": 20323,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -472,7 +472,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8041,
+      "popularity": 8046,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -718,7 +718,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
       "airDate": "2026-10-07",
       "ratingScore": 7.2,
-      "popularity": 26219,
+      "popularity": 26285,
       "totalEpisodes": 13,
       "genres": [
         "搞笑",
@@ -870,6 +870,10 @@
         {
           "n": 12,
           "t": 1798029000
+        },
+        {
+          "n": 13,
+          "t": 1798633800
         }
       ]
     },
@@ -1496,8 +1500,8 @@
         "奇幻",
         "恋爱",
         "异世界",
-        "搞笑滑稽",
         "转生",
+        "搞笑滑稽",
         "男主",
         "同居"
       ],
@@ -1581,10 +1585,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1791644400
-        },
         {
           "n": 4,
           "t": 1792249200
@@ -2625,10 +2625,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 2,
-          "t": 1791633600
-        },
         {
           "n": 3,
           "t": 1792238400
@@ -3812,10 +3808,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 3,
-          "t": 1791637200
-        },
-        {
           "n": 4,
           "t": 1792242000
         },
@@ -4314,10 +4306,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 2,
-          "t": 1791646200
-        },
         {
           "n": 3,
           "t": 1792251000
@@ -5181,10 +5169,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1791640800
-        },
-        {
           "n": 3,
           "t": 1792245600
         },
@@ -5455,8 +5439,8 @@
         "恐怖",
         "悬疑",
         "超自然",
-        "末日废土",
         "丧尸",
+        "末日废土",
         "旅行",
         "生存",
         "女主",
@@ -5532,10 +5516,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1791642600
-        },
-        {
           "n": 3,
           "t": 1792247400
         },
@@ -5549,31 +5529,31 @@
         },
         {
           "n": 6,
-          "t": 1794061800
-        },
-        {
-          "n": 7,
           "t": 1794666600
         },
         {
-          "n": 8,
+          "n": 7,
           "t": 1795271400
         },
         {
-          "n": 9,
+          "n": 8,
           "t": 1795876200
         },
         {
-          "n": 10,
+          "n": 9,
           "t": 1796481000
         },
         {
-          "n": 11,
+          "n": 10,
           "t": 1797085800
         },
         {
-          "n": 12,
+          "n": 11,
           "t": 1797690600
+        },
+        {
+          "n": 12,
+          "t": 1798295400
         }
       ]
     },
@@ -6861,10 +6841,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 1,
-          "t": 1791643500
-        },
-        {
           "n": 2,
           "t": 1792248300
         },
@@ -7087,8 +7063,8 @@
         "冒险",
         "科幻",
         "异世界",
-        "男主",
-        "少年向"
+        "少年向",
+        "男主"
       ],
       "sites": [
         {
@@ -7386,10 +7362,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1791639000
-        },
         {
           "n": 4,
           "t": 1792243800
@@ -9229,10 +9201,10 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "魔物娘",
         "女主",
         "男主",
         "搞笑滑稽",
+        "魔物娘",
         "恶魔",
         "傲娇"
       ],
@@ -10261,10 +10233,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1791642600
-        },
-        {
           "n": 3,
           "t": 1792247400
         },
@@ -10669,8 +10637,8 @@
         "动作",
         "搞笑",
         "奇幻",
-        "虚拟世界",
         "旅行",
+        "虚拟世界",
         "女主",
         "恶搞/梗番"
       ],
@@ -10832,8 +10800,8 @@
         "剧情",
         "限制级",
         "恋爱",
-        "女主",
         "三角恋",
+        "女主",
         "男主",
         "青年向"
       ],

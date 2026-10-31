@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-10-31T10:17:44.846Z",
+  "generatedAt": "2026-10-31T15:36:58.565Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -868,7 +868,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143103-vvsaIpZPpIuE.png",
       "airDate": "2026-11-20",
       "ratingScore": 0,
-      "popularity": 42836,
+      "popularity": 42887,
       "totalEpisodes": 1,
       "genres": [
         "动作",
@@ -1704,7 +1704,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
       "airDate": "2026-10-07",
       "ratingScore": 7.2,
-      "popularity": 26219,
+      "popularity": 26285,
       "totalEpisodes": 13,
       "genres": [
         "搞笑",
@@ -3646,8 +3646,8 @@
         "恐怖",
         "悬疑",
         "超自然",
-        "末日废土",
         "丧尸",
+        "末日废土",
         "生存",
         "旅行",
         "女主",
@@ -5155,8 +5155,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
-      "ratingScore": 7.5,
-      "popularity": 666,
+      "ratingScore": 7.4,
+      "popularity": 674,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5166,30 +5166,30 @@
         "2026",
         "2026年10月",
         "战斗",
-        "治愈",
         "WEB",
+        "治愈",
         "罗小黑战记",
-        "国漫",
         "TV",
+        "国漫",
         "寒木春华",
         "玄幻",
         "续集",
         "未定档",
-        "国产动画",
-        "2026年",
-        "◆TV◆",
-        "日常",
-        "3",
-        "搞笑",
-        "动漫",
-        "11",
-        "奇幻",
-        "续作",
-        "MTJJ",
+        "动作",
         "泡面",
         "电视动画",
-        "动作",
-        "萌"
+        "11",
+        "2026年",
+        "动漫",
+        "MTJJ",
+        "奇幻",
+        "日常",
+        "◆TV◆",
+        "搞笑",
+        "3",
+        "续作",
+        "萌",
+        "国产动画"
       ],
       "sites": [],
       "episodes": []
@@ -5380,8 +5380,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
-      "ratingScore": 7.1,
-      "popularity": 304,
+      "ratingScore": 7,
+      "popularity": 307,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5392,20 +5392,20 @@
         "WEB",
         "小说改",
         "异能",
-        "搞笑",
         "网文改",
+        "搞笑",
         "玄幻",
         "战斗",
         "厕纸",
         "2026",
-        "coocaa",
-        "表番",
+        "奇幻",
         "2026补",
-        "国产动画",
-        "TV",
-        "2D",
+        "coocaa",
         "喜欢！",
-        "奇幻"
+        "国产动画",
+        "表番",
+        "2D",
+        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -5541,7 +5541,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 193,
+      "popularity": 194,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -5819,7 +5819,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 106,
+      "popularity": 107,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -6001,8 +6001,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
       "airDate": "2026-10-25",
-      "ratingScore": 6.9,
-      "popularity": 42,
+      "ratingScore": 6.6,
+      "popularity": 43,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
@@ -6010,14 +6010,14 @@
       "tags": [
         "游戏改",
         "WEB",
-        "泡面",
         "校园",
+        "泡面",
+        "鹰角网络",
         "2026年10月",
         "2026",
-        "鹰角网络",
+        "明日方舟",
         "2026观",
-        "游改",
-        "明日方舟"
+        "游改"
       ],
       "sites": [],
       "episodes": []
@@ -6175,7 +6175,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
       "airDate": "2026-10-31",
       "ratingScore": 0,
-      "popularity": 7,
+      "popularity": 8,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"

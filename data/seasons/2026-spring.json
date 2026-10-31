@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-10-31T10:17:09.563Z",
+  "generatedAt": "2026-10-31T15:36:23.147Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -18,7 +18,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg",
       "airDate": "2026-04-06",
       "ratingScore": 8.5,
-      "popularity": 236476,
+      "popularity": 236682,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -7576,7 +7576,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113555-2V56Q1SZ3zpU.jpg",
       "airDate": "2026-05-22",
       "ratingScore": 6.8,
-      "popularity": 3522,
+      "popularity": 3524,
       "totalEpisodes": 3,
       "genres": [
         "机战"
@@ -8594,7 +8594,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/06/9c/520299_IS833.jpg",
       "airDate": "2026-06-25",
       "ratingScore": 6.1,
-      "popularity": 316,
+      "popularity": 317,
       "totalEpisodes": 15,
       "genres": [
         "国产动画"
@@ -8604,8 +8604,8 @@
         "奇幻",
         "小说改",
         "玄幻",
-        "斩神之凡尘神域",
         "网文改",
+        "斩神之凡尘神域",
         "神漫文化",
         "3D",
         "2026",
@@ -8614,19 +8614,19 @@
         "热血",
         "续作",
         "都市",
-        "2026年7月",
         "现代",
         "TV",
-        "嘉豪",
-        "7",
-        "大陆",
-        "2026年6月",
-        "THE",
-        "第二季",
-        "预告",
+        "2026年7月",
         "龙傲天",
+        "预告",
+        "第二季",
         "god",
-        "厕纸"
+        "剧场版",
+        "2026年6月",
+        "嘉豪",
+        "大陆",
+        "slay",
+        "看了十五集的"
       ],
       "sites": [],
       "episodes": []
@@ -8848,7 +8848,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/2f/577199_YH31g.jpg",
       "airDate": "2026-05-01",
       "ratingScore": 6.7,
-      "popularity": 199,
+      "popularity": 200,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -8858,16 +8858,16 @@
         "战斗",
         "剧场版",
         "玄机科技",
-        "吞噬星空",
-        "2026",
-        "WEB",
         "网文改",
+        "WEB",
+        "2026",
+        "吞噬星空",
         "国漫",
         "小说改",
-        "7",
-        "1",
         "爽",
-        "未定档"
+        "1",
+        "未定档",
+        "7"
       ],
       "sites": [],
       "episodes": []
@@ -9092,7 +9092,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/cf/94/487522_tfxN1.jpg",
       "airDate": "2026-04-16",
       "ratingScore": 6.8,
-      "popularity": 156,
+      "popularity": 157,
       "totalEpisodes": 52,
       "genres": [
         "国产动画"
