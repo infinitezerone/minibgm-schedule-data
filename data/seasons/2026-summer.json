@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-01T11:09:30.797Z",
+  "generatedAt": "2026-11-01T16:34:13.545Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -974,7 +974,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 63589,
+      "popularity": 63662,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -3616,8 +3616,8 @@
         "恋爱",
         "超自然",
         "恶搞/梗番",
-        "年龄差",
         "转生",
+        "年龄差",
         "搞笑滑稽",
         "都市奇幻",
         "异世界",
@@ -6289,7 +6289,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8132,
+      "popularity": 8136,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7326,7 +7326,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3086,
+      "popularity": 3089,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7354,11 +7354,11 @@
         "2026年",
         "国创",
         "记忆管理局",
-        "中国动画",
+        "治愈",
+        "架空",
+        "记忆",
         "2026夏",
-        "Web动画",
-        "日本",
-        "7月"
+        "作画"
       ],
       "sites": [],
       "episodes": []
@@ -8300,20 +8300,20 @@
         "TV",
         "推理",
         "续作",
-        "腐",
         "2026年",
         "国创",
-        "国产动画",
+        "腐",
+        "基",
+        "2026年8月",
+        "重庆后生动画电影有限公司",
+        "CMC",
+        "5分",
         "A级",
-        "2020-2029",
+        "番",
         "一坨狗屎",
+        "国产动画",
         "异能",
-        "7",
-        "超能力",
-        "绘梦动画",
-        "漫画改",
-        "Media",
-        "番"
+        "2020-2029"
       ],
       "sites": [],
       "episodes": []
@@ -8343,19 +8343,19 @@
         "奇幻",
         "搞笑",
         "WEB",
-        "2026",
         "TV",
-        "2025",
+        "2026",
         "漫改",
+        "2025",
         "国产动画",
-        "国创",
-        "非常好看",
         "绘梦",
-        "可爱",
+        "国创",
+        "6",
         "补",
+        "非常好看",
+        "可爱",
         "玄幻",
-        "腾讯",
-        "6"
+        "腾讯"
       ],
       "sites": [],
       "episodes": []
@@ -8834,7 +8834,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/2f/491578_whDt3.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 6.3,
-      "popularity": 151,
+      "popularity": 152,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
