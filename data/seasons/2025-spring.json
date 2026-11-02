@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-11-02T12:06:40.808Z",
+  "generatedAt": "2026-11-02T19:55:43.486Z",
   "total": 131,
   "mappedTotal": 131,
   "items": [
@@ -5789,7 +5789,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bf/ca/336268_ltiod.jpg",
       "airDate": "2025-05-23",
       "ratingScore": 7,
-      "popularity": 3865,
+      "popularity": 3866,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -5812,9 +5812,9 @@
         "2025年4月",
         "2024",
         "国产动画",
+        "未定档",
         "剧情",
         "2025年",
-        "未定档",
         "修仙",
         "国创",
         "好看",
@@ -7109,8 +7109,9 @@
         "剧情",
         "音乐",
         "心理",
+        "末日废土",
         "偶像",
-        "末日废土"
+        "青春成长"
       ],
       "sites": [],
       "episodes": []

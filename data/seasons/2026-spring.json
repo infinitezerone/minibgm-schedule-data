@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-11-02T12:08:06.868Z",
+  "generatedAt": "2026-11-02T19:57:05.695Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -8897,12 +8897,12 @@
         "WEB",
         "2026",
         "未定档",
-        "TV",
-        "奇幻",
+        "8+",
         "分子互动",
         "动画片",
-        "8+",
-        "2026年5月"
+        "TV",
+        "2026年5月",
+        "奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -8919,7 +8919,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/75/3c/577190_sSD00.jpg",
       "airDate": "2026-04-04",
       "ratingScore": 6.4,
-      "popularity": 191,
+      "popularity": 192,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
