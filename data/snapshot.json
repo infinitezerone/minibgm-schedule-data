@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-11-05T11:59:11.715Z",
+  "generatedAt": "2026-11-05T17:46:58.702Z",
   "window": {
-    "from": 1792065451,
-    "to": 1799063851
+    "from": 1792086319,
+    "to": 1799084719
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 81229,
+      "popularity": 81249,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -180,7 +180,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20354,
+      "popularity": 20362,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -354,7 +354,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
       "airDate": "1969-10-05",
       "ratingScore": 5.7,
-      "popularity": 2566,
+      "popularity": 2565,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -476,7 +476,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8065,
+      "popularity": 8066,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -2479,10 +2479,6 @@
       "startMonth": 7,
       "episodes": [
         {
-          "n": 16,
-          "t": 1792077960
-        },
-        {
           "n": 17,
           "t": 1792682760
         },
@@ -3089,8 +3085,8 @@
         "冒险",
         "超自然",
         "少年向",
-        "男主",
         "群像",
+        "男主",
         "神明",
         "剑术",
         "战争",
@@ -4329,8 +4325,8 @@
       "tags": [
         "运动",
         "足球",
-        "青年向",
-        "男主"
+        "男主",
+        "青年向"
       ],
       "sites": [
         {
@@ -5909,10 +5905,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1792076400
-        },
-        {
           "n": 3,
           "t": 1792681200
         },
@@ -6129,8 +6121,8 @@
         "搞笑",
         "奇幻",
         "恋爱",
-        "女主",
         "异世界",
+        "女主",
         "转生",
         "少女向"
       ],
@@ -6262,10 +6254,10 @@
       "tags": [
         "搞笑",
         "日常",
-        "男主",
         "治愈",
-        "办公室",
-        "少女向"
+        "男主",
+        "少女向",
+        "办公室"
       ],
       "sites": [
         {
@@ -7000,8 +6992,8 @@
         "冒险",
         "科幻",
         "异世界",
-        "男主",
-        "少年向"
+        "少年向",
+        "男主"
       ],
       "sites": [
         {
@@ -8008,10 +8000,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 3,
-          "t": 1792067400
-        },
-        {
           "n": 4,
           "t": 1792672200
         },
@@ -8713,6 +8701,42 @@
       ]
     },
     {
+      "anilistId": 207251,
+      "bgmId": 625303,
+      "title": "魔入りました！入間くん if Episode of 魔フィア",
+      "titleCn": "入间同学入魔了！ if Episode of 魔手党",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207251-1opGPW7xVHQ8.jpg",
+      "airDate": "2027-01-01",
+      "ratingScore": 0,
+      "popularity": 5596,
+      "totalEpisodes": 12,
+      "genres": [
+        "动作",
+        "搞笑"
+      ],
+      "tags": [
+        "动作",
+        "搞笑",
+        "黑手党",
+        "群像",
+        "少年向",
+        "男主"
+      ],
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2027,
+      "startMonth": 1,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1799071200
+        }
+      ]
+    },
+    {
       "anilistId": 207329,
       "bgmId": 625799,
       "title": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
@@ -8738,8 +8762,8 @@
         "日常",
         "拟似家庭",
         "都市奇幻",
-        "搞笑滑稽",
         "男主",
+        "搞笑滑稽",
         "恶搞/梗番"
       ],
       "sites": [
@@ -9064,8 +9088,8 @@
         "奇幻",
         "恋爱",
         "魔物娘",
-        "女主",
         "男主",
+        "女主",
         "搞笑滑稽",
         "恶魔",
         "傲娇"
@@ -9257,13 +9281,13 @@
       "tags": [
         "魔法少女",
         "音乐",
-        "女主",
         "都市奇幻",
-        "校园",
-        "少儿向",
+        "女主",
         "青春成长",
-        "偶像",
-        "外星人"
+        "少儿向",
+        "校园",
+        "外星人",
+        "偶像"
       ],
       "sites": [
         {
@@ -10230,8 +10254,8 @@
         "搞笑",
         "恋爱",
         "武术格斗",
-        "搞笑滑稽",
         "傲娇",
+        "搞笑滑稽",
         "三角恋",
         "少年向",
         "同居",
@@ -10635,8 +10659,8 @@
         "限制级",
         "恋爱",
         "女主",
-        "男主",
         "三角恋",
+        "男主",
         "青年向"
       ],
       "sites": [
@@ -10847,10 +10871,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 3,
-          "t": 1792076400
-        },
-        {
           "n": 4,
           "t": 1792681200
         },
@@ -10984,8 +11004,8 @@
         "动作",
         "冒险",
         "奇幻",
-        "男主",
         "校园",
+        "男主",
         "剑术"
       ],
       "sites": [
@@ -11074,10 +11094,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 2,
-          "t": 1792081680
-        },
         {
           "n": 3,
           "t": 1792686480
@@ -11170,9 +11186,9 @@
       "tags": [
         "里番",
         "超自然",
-        "妖怪",
+        "男主",
         "女主",
-        "男主"
+        "妖怪"
       ],
       "sites": [
         {
@@ -11539,36 +11555,6 @@
         {
           "n": 3,
           "t": 1794495600
-        }
-      ]
-    },
-    {
-      "anilistId": 213067,
-      "bgmId": 659247,
-      "title": "寝取られた爆乳妻たち2",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "OVA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213067-KYqjKEUZ6tBM.png",
-      "airDate": "2026-09-01",
-      "ratingScore": 6.7,
-      "popularity": 494,
-      "totalEpisodes": 2,
-      "genres": [
-        "里番"
-      ],
-      "tags": [
-        "里番"
-      ],
-      "sites": [],
-      "isAdult": true,
-      "startYear": 2026,
-      "startMonth": 9,
-      "episodes": [
-        {
-          "n": 2,
-          "t": 1792076400
         }
       ]
     },
@@ -12117,10 +12103,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 3,
-          "t": 1792076160
-        },
-        {
           "n": 4,
           "t": 1792680960
         },
@@ -12291,10 +12273,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 4,
-          "t": 1792076400
-        },
         {
           "n": 5,
           "t": 1792375200
@@ -12832,6 +12810,36 @@
       ]
     },
     {
+      "anilistId": 216858,
+      "bgmId": 701566,
+      "title": "ハルとゲン ～70歳、はじめての子育て～",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV_SHORT",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216858-NzPvwHTaYzID.png",
+      "airDate": "2027-01-01",
+      "ratingScore": 0,
+      "popularity": 89,
+      "totalEpisodes": 0,
+      "genres": [
+        "日常"
+      ],
+      "tags": [
+        "日常"
+      ],
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2027,
+      "startMonth": 1,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1799067360
+        }
+      ]
+    },
+    {
       "anilistId": 216860,
       "bgmId": 646586,
       "title": "ぷにるんず ぷに４",
@@ -12948,8 +12956,8 @@
       "tags": [
         "冒险",
         "奇幻",
-        "美食料理",
-        "男主"
+        "男主",
+        "美食料理"
       ],
       "sites": [
         {

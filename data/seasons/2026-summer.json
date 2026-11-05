@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-05T12:01:40.624Z",
+  "generatedAt": "2026-11-05T17:49:27.323Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -7330,7 +7330,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3111,
+      "popularity": 3113,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7339,8 +7339,8 @@
         "原创",
         "战斗",
         "奇幻",
-        "2026",
         "科幻",
+        "2026",
         "火药方糖",
         "WEB",
         "摔跤社",
@@ -7352,17 +7352,17 @@
         "意识流",
         "国漫",
         "电波",
+        "2026年8月",
         "青春",
         "国产动画",
-        "2026年8月",
         "2026年",
-        "国创",
         "记忆管理局",
-        "治愈",
-        "架空",
-        "记忆",
-        "2026夏",
-        "作画"
+        "国创",
+        "7月",
+        "中国动画",
+        "日本",
+        "剧集",
+        "Web动画"
       ],
       "sites": [],
       "episodes": []
@@ -8285,7 +8285,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 5.2,
-      "popularity": 519,
+      "popularity": 520,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8334,7 +8334,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
       "ratingScore": 6.3,
-      "popularity": 510,
+      "popularity": 509,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8344,22 +8344,22 @@
         "恋爱",
         "漫画改",
         "国漫",
-        "奇幻",
         "搞笑",
+        "奇幻",
         "WEB",
         "TV",
         "2026",
-        "2025",
         "漫改",
+        "2025",
         "国产动画",
-        "可爱",
-        "玄幻",
-        "补",
-        "非常好看",
-        "绘梦",
         "腾讯",
         "6",
-        "国创"
+        "补",
+        "可爱",
+        "绘梦",
+        "国创",
+        "非常好看",
+        "玄幻"
       ],
       "sites": [],
       "episodes": []
@@ -9360,21 +9360,24 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/13/57/466756_xd3AT.jpg",
       "airDate": "2026-09-30",
-      "ratingScore": 3.5,
-      "popularity": 24,
+      "ratingScore": 3.6,
+      "popularity": 25,
       "totalEpisodes": 59,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "三",
-        "小说改",
-        "国漫",
-        "玄幻",
         "2026年9月",
+        "索以文化",
+        "国漫",
         "WEB",
+        "网文改",
+        "小说改",
         "四",
-        "索以文化"
+        "3D",
+        "超能力",
+        "玄幻",
+        "三"
       ],
       "sites": [],
       "episodes": []

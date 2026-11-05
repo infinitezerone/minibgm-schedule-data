@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-11-05T12:01:21.879Z",
+  "generatedAt": "2026-11-05T17:49:08.816Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -9433,7 +9433,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/0f/6a/491576_vRrJZ.jpg",
       "airDate": "2026-06-09",
       "ratingScore": 5.5,
-      "popularity": 43,
+      "popularity": 44,
       "totalEpisodes": 14,
       "genres": [
         "国产动画"
@@ -9442,17 +9442,17 @@
         "搞笑",
         "WEB",
         "2D",
-        "奇幻",
-        "2026",
         "玄幻",
+        "奇幻",
         "周二",
+        "2026",
         "战斗",
-        "9:00",
+        "修炼",
+        "穿越",
         "国漫",
         "一二工作室",
-        "穿越",
-        "原创",
-        "修炼"
+        "9:00",
+        "原创"
       ],
       "sites": [],
       "episodes": []
