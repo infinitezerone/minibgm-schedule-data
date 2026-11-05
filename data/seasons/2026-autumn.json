@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-04T17:43:42.860Z",
+  "generatedAt": "2026-11-05T02:01:03.399Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -1052,11 +1052,11 @@
         "日常",
         "校园",
         "少女向",
-        "青春成长",
         "三角恋",
+        "青春成长",
         "女主",
-        "群像",
-        "男主"
+        "男主",
+        "群像"
       ],
       "sites": [],
       "episodes": []
@@ -3310,7 +3310,12 @@
         "吸血鬼",
         "外星人",
         "游戏",
-        "魔物娘"
+        "魔物娘",
+        "大逃杀",
+        "末日废土",
+        "生存",
+        "虚拟世界",
+        "同居"
       ],
       "sites": [],
       "episodes": []
@@ -5284,7 +5289,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7,
-      "popularity": 373,
+      "popularity": 374,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5306,17 +5311,17 @@
         "国产或合作动画",
         "历史",
         "古风",
-        "2D",
-        "未定档",
-        "漫改",
         "悬疑",
-        "2020-2029",
-        "动作",
+        "未定档",
         "好传动画",
+        "2D",
+        "国内番剧",
         "好船动画",
+        "动作",
         "2025",
         "大理寺日志",
-        "国内番剧"
+        "2020-2029",
+        "漫改"
       ],
       "sites": [],
       "episodes": []
@@ -5406,7 +5411,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7,
-      "popularity": 312,
+      "popularity": 313,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5818,7 +5823,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 116,
+      "popularity": 117,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -5831,10 +5836,10 @@
         "2026",
         "厕纸",
         "3D",
+        "WEB",
+        "热血",
         "小说改",
         "国创",
-        "热血",
-        "WEB",
         "牧神记",
         "2026年10月",
         "沈乐平",
