@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-11-06T11:55:35.745Z",
+  "generatedAt": "2026-11-06T17:02:31.831Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -5243,7 +5243,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/b7/383308_COQIc.jpg",
       "airDate": "2025-01-29",
       "ratingScore": 6.4,
-      "popularity": 6948,
+      "popularity": 6949,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7555,31 +7555,31 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/d7/4f/320243_5c3cw.jpg",
       "airDate": "2025-02-23",
       "ratingScore": 6,
-      "popularity": 109,
+      "popularity": 108,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "漫画改",
-        "夏达",
         "3D",
+        "夏达",
         "2025",
         "TV",
         "漫改",
-        "武侠",
         "大千阳光",
-        "WEB",
-        "2025年1月",
-        "国创",
+        "武侠",
         "2024",
-        "历史",
-        "5",
-        "国漫",
-        "冒险",
+        "WEB",
+        "国创",
+        "2025年1月",
         "2025年2月",
         "有声漫画",
-        "恋爱"
+        "恋爱",
+        "5",
+        "冒险",
+        "历史",
+        "国漫"
       ],
       "sites": [],
       "episodes": []

@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-06T11:57:57.292Z",
+  "generatedAt": "2026-11-06T17:05:17.013Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -5159,8 +5159,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
-      "ratingScore": 7.5,
-      "popularity": 763,
+      "ratingScore": 7.6,
+      "popularity": 775,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5173,8 +5173,8 @@
         "WEB",
         "治愈",
         "罗小黑战记",
-        "TV",
         "国漫",
+        "TV",
         "寒木春华",
         "玄幻",
         "续集",
@@ -5412,7 +5412,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7,
-      "popularity": 317,
+      "popularity": 318,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5985,21 +5985,21 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
       "airDate": "2026-11-22",
       "ratingScore": 5,
-      "popularity": 53,
+      "popularity": 54,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "小说改",
         "战斗",
-        "网文改",
+        "小说改",
         "斗破苍穹",
-        "WEB",
-        "3D",
         "玄幻",
-        "未定档",
+        "WEB",
+        "网文改",
+        "3D",
         "后宫",
+        "未定档",
         "国产动画"
       ],
       "sites": [],
