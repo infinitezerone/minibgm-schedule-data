@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-11-06T17:03:52.785Z",
+  "generatedAt": "2026-11-07T01:32:39.414Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -4428,6 +4428,18 @@
         {
           "site": "anibt",
           "id": "353181"
+        },
+        {
+          "site": "nicovideo",
+          "id": "zombielandsaga-movie",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "168-85",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "episodes": []
@@ -4800,8 +4812,8 @@
         "男主",
         "群像",
         "都市奇幻",
-        "虚拟世界",
-        "少儿向"
+        "少儿向",
+        "虚拟世界"
       ],
       "sites": [
         {
@@ -8132,7 +8144,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/88/59/487853_2bCYs.jpg",
       "airDate": "2025-12-20",
       "ratingScore": 6.2,
-      "popularity": 213,
+      "popularity": 214,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"

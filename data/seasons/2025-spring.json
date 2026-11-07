@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-11-06T17:02:57.488Z",
+  "generatedAt": "2026-11-07T01:31:45.186Z",
   "total": 131,
   "mappedTotal": 131,
   "items": [
@@ -2535,6 +2535,12 @@
         {
           "site": "acgnx",
           "id": "聖女 廢除 婚約 賣 鄰國"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GP5HJ8477",
+          "begin": "2025-04-02T15:30:00.000Z",
+          "broadcast": "R/2025-04-02T15:30:00.000Z/P7D"
         }
       ],
       "episodes": []
@@ -3288,6 +3294,12 @@
         {
           "site": "tmdb",
           "id": "movie/1360829"
+        },
+        {
+          "site": "unext",
+          "id": "SID0322436",
+          "begin": "2026-11-01T03:00:00.000Z",
+          "broadcast": "R/2026-11-01T03:00:00.000Z/P7D"
         }
       ],
       "episodes": []
@@ -5009,6 +5021,12 @@
         {
           "site": "acgnx",
           "id": "前橋魔女"
+        },
+        {
+          "site": "unext",
+          "id": "SID0181257",
+          "begin": "2026-10-23T03:00:00.000Z",
+          "broadcast": "R/2026-10-23T03:00:00.000Z/P7D"
         }
       ],
       "episodes": []
@@ -5790,7 +5808,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bf/ca/336268_ltiod.jpg",
       "airDate": "2025-05-23",
       "ratingScore": 7,
-      "popularity": 3869,
+      "popularity": 3868,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -5813,16 +5831,16 @@
         "2025年4月",
         "2024",
         "国产动画",
-        "未定档",
         "剧情",
         "2025年",
+        "未定档",
         "修仙",
         "国创",
-        "续作",
-        "2025年5月",
+        "好看",
         "2023",
-        "冒险",
-        "好看"
+        "续集",
+        "续作",
+        "冒险"
       ],
       "sites": [],
       "episodes": []
@@ -6384,7 +6402,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ed/4a/345824_VXxo5.jpg",
       "airDate": "2025-06-28",
       "ratingScore": 6.7,
-      "popularity": 2642,
+      "popularity": 2643,
       "totalEpisodes": 13,
       "genres": [
         "国产动画"
@@ -7489,7 +7507,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/73/ec/440173_8VywX.jpg",
       "airDate": "2025-05-01",
       "ratingScore": 5.7,
-      "popularity": 720,
+      "popularity": 721,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -7987,6 +8005,12 @@
         {
           "site": "dmhy",
           "id": "嗚莓貓貓"
+        },
+        {
+          "site": "gamer",
+          "id": "143788",
+          "begin": "2026-11-04T04:00:00.000Z",
+          "broadcast": "R/2026-11-04T04:00:00.000Z/P7D"
         }
       ],
       "episodes": []

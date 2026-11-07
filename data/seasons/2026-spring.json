@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-11-06T17:04:32.741Z",
+  "generatedAt": "2026-11-07T01:33:11.721Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -3836,6 +3836,12 @@
           "id": "81766575",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7UchmU0Xq0Fn1D7OyBhstonX6",
+          "begin": "2026-10-24T13:30:08.000Z",
+          "broadcast": "R/2026-10-24T13:30:08.000Z/P7D"
         }
       ],
       "episodes": []
@@ -4908,6 +4914,12 @@
         {
           "site": "dmhy",
           "id": "摩绪"
+        },
+        {
+          "site": "netflix",
+          "id": "82758532",
+          "begin": "2026-11-04T16:00:00.000Z",
+          "broadcast": "R/2026-11-04T16:00:00.000Z/P7D"
         }
       ],
       "episodes": []
@@ -8544,40 +8556,40 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b9/99/577226_CLc9Z.jpg",
       "airDate": "2026-06-20",
-      "ratingScore": 6.8,
-      "popularity": 364,
+      "ratingScore": 6.9,
+      "popularity": 365,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "小说改",
         "奇幻",
+        "小说改",
         "2026",
         "诡秘之主",
         "WEB",
         "网文改",
+        "视美",
         "国创",
         "穿越",
-        "视美",
         "TV",
-        "视美影业",
         "OVA",
+        "视美影业",
         "国漫",
         "悬疑",
-        "冒险",
-        "神话",
-        "蒸汽朋克",
         "视美动画",
-        "异世界",
+        "神话",
+        "冒险",
         "2D",
-        "爱潜水的乌贼",
-        "2026春",
-        "4分",
-        "2026.8.15",
+        "蒸汽朋克",
+        "异世界",
         "2026年6月",
         "轻小说改",
-        "8"
+        "2026年7月",
+        "2026春",
+        "爱潜水的乌贼",
+        "轻改",
+        "动画剧集"
       ],
       "sites": [],
       "episodes": []
@@ -8594,7 +8606,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/06/9c/520299_IS833.jpg",
       "airDate": "2026-06-25",
       "ratingScore": 6.1,
-      "popularity": 320,
+      "popularity": 321,
       "totalEpisodes": 15,
       "genres": [
         "国产动画"
@@ -9092,7 +9104,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/cf/94/487522_tfxN1.jpg",
       "airDate": "2026-04-16",
       "ratingScore": 6.8,
-      "popularity": 157,
+      "popularity": 158,
       "totalEpisodes": 52,
       "genres": [
         "国产动画"

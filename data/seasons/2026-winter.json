@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-11-06T17:04:09.218Z",
+  "generatedAt": "2026-11-07T01:32:49.353Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -7390,7 +7390,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ee/ae/507819_OD5zd.jpg",
       "airDate": "2026-01-02",
       "ratingScore": 6.6,
-      "popularity": 1842,
+      "popularity": 1843,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -7415,14 +7415,14 @@
         "武侠",
         "一魁夺动漫",
         "续作",
-        "东方",
         "B4",
         "都市",
-        "C2",
-        "A3",
+        "中国动画",
+        "东方",
         "日漫",
         "国漫之光",
-        "2020-2029"
+        "2020-2029",
+        "C2"
       ],
       "sites": [],
       "episodes": []

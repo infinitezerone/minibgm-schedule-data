@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-06T17:05:17.013Z",
+  "generatedAt": "2026-11-07T01:33:49.463Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -30,8 +30,8 @@
         "剧情",
         "科幻",
         "赛博朋克",
-        "悲剧",
         "半机械人",
+        "悲剧",
         "反乌托邦",
         "猎奇/血腥",
         "群像",
@@ -640,6 +640,12 @@
         {
           "site": "dmhy",
           "id": "螢火蟲 出嫁"
+        },
+        {
+          "site": "prime",
+          "id": "B0HL1X1L1M",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "episodes": []
@@ -2091,6 +2097,12 @@
         {
           "site": "anidb",
           "id": "19765"
+        },
+        {
+          "site": "prime",
+          "id": "B0HKM3DX1V",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "episodes": []
@@ -2395,7 +2407,7 @@
         },
         {
           "site": "tmdb",
-          "id": "tv/253811"
+          "id": "tv/253811/season/2"
         },
         {
           "site": "mal",
@@ -2652,6 +2664,12 @@
         {
           "site": "dmhy",
           "id": "FX戰士久留美"
+        },
+        {
+          "site": "prime",
+          "id": "B0HKS3R8NH",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "episodes": []
@@ -2690,7 +2708,7 @@
       "sites": [
         {
           "site": "tmdb",
-          "id": "tv/259140"
+          "id": "tv/259140/season/1/episode/25"
         },
         {
           "site": "mal",
@@ -3477,7 +3495,7 @@
       "status": "FINISHED",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190054-8h0AuqQjwcCL.png",
-      "airDate": "2026-10-25",
+      "airDate": "2026-10-24",
       "ratingScore": 7.7,
       "popularity": 12220,
       "totalEpisodes": 3,
@@ -3496,7 +3514,48 @@
         "历史",
         "都市奇幻"
       ],
-      "sites": [],
+      "sites": [
+        {
+          "site": "unext",
+          "id": "SID0320689",
+          "begin": "2026-10-25T11:30:00.000Z",
+          "broadcast": "R/2026-10-25T11:30:00.000Z/P7D"
+        },
+        {
+          "site": "nicovideo",
+          "id": "watakon-anime-special",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "29260",
+          "begin": "2026-10-25T11:30:00.000Z",
+          "broadcast": "R/2026-10-25T11:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0HL5S4ZZ2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mal",
+          "id": "61440"
+        },
+        {
+          "site": "anidb",
+          "id": "19280"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/196944/season/0/episode/2"
+        },
+        {
+          "site": "anibt",
+          "id": "551304"
+        }
+      ],
       "episodes": []
     },
     {
@@ -4012,6 +4071,12 @@
         {
           "site": "dmhy",
           "id": "魔法少女育成計劃"
+        },
+        {
+          "site": "prime",
+          "id": "B0HHTD7D41",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "episodes": []
@@ -4348,6 +4413,10 @@
         {
           "site": "dmhy",
           "id": "來自遠方"
+        },
+        {
+          "site": "anidb",
+          "id": "19953"
         }
       ],
       "episodes": []
@@ -4541,6 +4610,12 @@
         {
           "site": "dmhy",
           "id": "至高之力"
+        },
+        {
+          "site": "prime",
+          "id": "B0HKTDXDRZ",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "episodes": []
@@ -4706,6 +4781,12 @@
         {
           "site": "dmhy",
           "id": "鐵旅"
+        },
+        {
+          "site": "prime",
+          "id": "B0HLGX9J7M",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "episodes": []
@@ -4852,6 +4933,12 @@
         {
           "site": "anidb",
           "id": "20081"
+        },
+        {
+          "site": "prime",
+          "id": "B0HLVBF5YB",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "episodes": []
@@ -4906,7 +4993,60 @@
         "美食料理",
         "男主"
       ],
-      "sites": [],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "welshshedar",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6abdf90d98d9339c5c7431b4"
+        },
+        {
+          "site": "danime",
+          "id": "29293",
+          "begin": "2026-10-02T13:00:00.000Z",
+          "broadcast": "R/2026-10-02T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0320238",
+          "begin": "2026-10-02T13:00:00.000Z",
+          "broadcast": "R/2026-10-02T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "4123"
+        },
+        {
+          "site": "anibt",
+          "id": "701782"
+        },
+        {
+          "site": "acgnx",
+          "id": "蒼藍傳承"
+        },
+        {
+          "site": "dmhy",
+          "id": "蒼藍傳承"
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/335788"
+        },
+        {
+          "site": "prime",
+          "id": "B0HLBS28H8",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mal",
+          "id": "65009"
+        }
+      ],
       "episodes": []
     },
     {
@@ -5160,7 +5300,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.6,
-      "popularity": 775,
+      "popularity": 781,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5179,21 +5319,21 @@
         "玄幻",
         "续集",
         "未定档",
-        "奇幻",
         "日常",
         "MTJJ",
-        "动漫",
-        "国创",
-        "国产动画",
-        "◆TV◆",
-        "追番",
-        "2026年",
-        "电视动画",
-        "萌",
+        "奇幻",
         "续作",
         "泡面",
+        "电视动画",
+        "11",
+        "萌",
         "动作",
-        "11"
+        "搞笑",
+        "国创",
+        "2026年",
+        "国产动画",
+        "◆TV◆",
+        "3"
       ],
       "sites": [],
       "episodes": []
@@ -5412,7 +5552,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7,
-      "popularity": 318,
+      "popularity": 320,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5672,7 +5812,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 183,
+      "popularity": 184,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
