@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-11-07T10:56:42.419Z",
+  "generatedAt": "2026-11-07T15:59:54.196Z",
   "window": {
-    "from": 1792234506,
-    "to": 1799232906
+    "from": 1792252701,
+    "to": 1799251101
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 81279,
+      "popularity": 81303,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -176,7 +176,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20370,
+      "popularity": 20376,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -346,7 +346,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
       "airDate": "1969-10-05",
       "ratingScore": 5.7,
-      "popularity": 2565,
+      "popularity": 2567,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -468,7 +468,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8070,
+      "popularity": 8077,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -601,7 +601,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
       "airDate": "2019-05-04",
       "ratingScore": 7.9,
-      "popularity": 14870,
+      "popularity": 14871,
       "totalEpisodes": 0,
       "genres": [
         "动作",
@@ -1562,10 +1562,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 4,
-          "t": 1792249200
-        },
         {
           "n": 5,
           "t": 1792854000
@@ -2584,10 +2580,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1792238400
-        },
         {
           "n": 4,
           "t": 1792843200
@@ -3756,10 +3748,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 4,
-          "t": 1792242000
-        },
-        {
           "n": 5,
           "t": 1792846800
         },
@@ -4255,10 +4243,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1792251000
-        },
         {
           "n": 4,
           "t": 1792855800
@@ -5104,10 +5088,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 3,
-          "t": 1792245600
-        },
-        {
           "n": 4,
           "t": 1792850400
         },
@@ -5372,9 +5352,9 @@
         "超自然",
         "丧尸",
         "末日废土",
-        "生存",
-        "旅行",
         "女主",
+        "旅行",
+        "生存",
         "少年向",
         "悲剧"
       ],
@@ -5446,10 +5426,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1792247400
-        },
         {
           "n": 4,
           "t": 1792852200
@@ -6754,10 +6730,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1792248300
-        },
-        {
           "n": 3,
           "t": 1792853100
         },
@@ -7273,10 +7245,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 4,
-          "t": 1792243800
-        },
         {
           "n": 5,
           "t": 1792848600
@@ -7892,8 +7860,8 @@
         "剧情",
         "日常",
         "女主",
-        "悲剧",
-        "青年向"
+        "青年向",
+        "悲剧"
       ],
       "sites": [
         {
@@ -8710,9 +8678,9 @@
       "tags": [
         "动作",
         "搞笑",
-        "少年向",
         "群像",
         "黑手党",
+        "少年向",
         "男主"
       ],
       "sites": [],
@@ -8752,8 +8720,8 @@
         "日常",
         "拟似家庭",
         "都市奇幻",
-        "男主",
         "搞笑滑稽",
+        "男主",
         "恶搞/梗番"
       ],
       "sites": [
@@ -9078,9 +9046,9 @@
         "奇幻",
         "恋爱",
         "魔物娘",
+        "搞笑滑稽",
         "男主",
         "女主",
-        "搞笑滑稽",
         "恶魔",
         "傲娇"
       ],
@@ -9189,6 +9157,36 @@
       ]
     },
     {
+      "anilistId": 208105,
+      "bgmId": 630665,
+      "title": "ヤニねこ ミニ",
+      "titleCn": "尼古喵喵 迷你动画",
+      "countryOfOrigin": "JP",
+      "format": "ONA",
+      "status": "FINISHED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
+      "airDate": "2026-02-01",
+      "ratingScore": 6.4,
+      "popularity": 1113,
+      "totalEpisodes": 22,
+      "genres": [
+        "搞笑"
+      ],
+      "tags": [
+        "搞笑"
+      ],
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2026,
+      "startMonth": 2,
+      "episodes": [
+        {
+          "n": 22,
+          "t": 1794063600
+        }
+      ]
+    },
+    {
       "anilistId": 208367,
       "bgmId": 632061,
       "title": "Duel Masters LOST ～断罪の少年～",
@@ -9267,13 +9265,13 @@
       "tags": [
         "魔法少女",
         "音乐",
+        "青春成长",
         "都市奇幻",
         "女主",
-        "青春成长",
         "少儿向",
         "校园",
-        "外星人",
-        "偶像"
+        "偶像",
+        "外星人"
       ],
       "sites": [
         {
@@ -10098,10 +10096,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 3,
-          "t": 1792247400
-        },
-        {
           "n": 4,
           "t": 1792852200
         },
@@ -10300,10 +10294,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1792252560
-        },
         {
           "n": 4,
           "t": 1792857360
@@ -11180,8 +11170,8 @@
       "tags": [
         "里番",
         "超自然",
-        "女主",
         "男主",
+        "女主",
         "妖怪"
       ],
       "sites": [
@@ -11850,8 +11840,8 @@
       "tags": [
         "运动",
         "棒球",
-        "男主",
         "社团活动",
+        "男主",
         "少年向"
       ],
       "sites": [
@@ -12845,8 +12835,8 @@
       ],
       "tags": [
         "日常",
-        "少儿向",
-        "校园"
+        "校园",
+        "少儿向"
       ],
       "sites": [
         {
@@ -12944,8 +12934,8 @@
       "tags": [
         "冒险",
         "奇幻",
-        "美食料理",
-        "男主"
+        "男主",
+        "美食料理"
       ],
       "sites": [
         {

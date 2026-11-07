@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-07T10:59:11.010Z",
+  "generatedAt": "2026-11-07T16:02:17.070Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -975,7 +975,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 64021,
+      "popularity": 64079,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -3393,7 +3393,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
       "airDate": "2026-07-07",
       "ratingScore": 7.5,
-      "popularity": 30814,
+      "popularity": 30844,
       "totalEpisodes": 12,
       "genres": [
         "剧情"
@@ -6293,7 +6293,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8151,
+      "popularity": 8154,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7330,7 +7330,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3122,
+      "popularity": 3124,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7352,17 +7352,17 @@
         "意识流",
         "国漫",
         "电波",
+        "青春",
         "国产动画",
         "2026年8月",
-        "青春",
         "2026年",
         "国创",
         "记忆管理局",
-        "剧集",
-        "日本",
         "治愈",
-        "作画",
-        "架空"
+        "架空",
+        "记忆",
+        "2026夏",
+        "作画"
       ],
       "sites": [],
       "episodes": []
@@ -7747,7 +7747,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1071,
+      "popularity": 1077,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7774,12 +7774,12 @@
         "国产动画",
         "小说改",
         "玄幻",
-        "8分",
         "8",
         "国产动画电影",
-        "高8",
-        "7",
-        "6分"
+        "8分",
+        "现代国产动画剧场版",
+        "五星",
+        "华语"
       ],
       "sites": [],
       "episodes": []
@@ -8285,7 +8285,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 5.2,
-      "popularity": 523,
+      "popularity": 524,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8693,7 +8693,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/d1/2c/478223_8SSP1.jpg",
       "airDate": "2026-07-10",
       "ratingScore": 6.8,
-      "popularity": 272,
+      "popularity": 273,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -8713,19 +8713,20 @@
         "王微",
         "北京市",
         "谢君伟",
-        "原创",
         "影动备字2024第009号",
-        "战争",
-        "国产动画电影",
-        "电影",
+        "原创",
         "2020-2029",
-        "2026年",
-        "华语",
-        "7.7",
+        "现代国产动画剧场版",
+        "2026观",
         "动画片",
-        "5分",
-        "鱼焦",
-        "三国"
+        "电影",
+        "追光动画文化传播（北京）有限公司",
+        "国产动画电影",
+        "7.7",
+        "三国",
+        "2026年",
+        "战争",
+        "华语"
       ],
       "sites": [],
       "episodes": []
@@ -8800,7 +8801,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6.3,
-      "popularity": 226,
+      "popularity": 227,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8838,7 +8839,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/2f/491578_whDt3.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 6.3,
-      "popularity": 156,
+      "popularity": 157,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"

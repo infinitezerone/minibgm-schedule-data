@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-07T10:59:30.115Z",
+  "generatedAt": "2026-11-07T16:02:35.294Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -3332,8 +3332,8 @@
         "外星人",
         "游戏",
         "魔物娘",
-        "大逃杀",
         "末日废土",
+        "大逃杀",
         "生存",
         "虚拟世界",
         "百合",
@@ -5303,7 +5303,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.6,
-      "popularity": 792,
+      "popularity": 800,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5325,18 +5325,18 @@
         "日常",
         "MTJJ",
         "奇幻",
-        "国产动画",
-        "◆TV◆",
-        "3",
-        "萌",
-        "2026年",
-        "搞笑",
-        "动漫",
-        "动作",
+        "续作",
+        "泡面",
         "电视动画",
         "11",
-        "追番",
-        "国创"
+        "萌",
+        "动作",
+        "搞笑",
+        "国创",
+        "2026年",
+        "国产动画",
+        "◆TV◆",
+        "3"
       ],
       "sites": [],
       "episodes": []
@@ -5688,7 +5688,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 198,
+      "popularity": 199,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -5933,29 +5933,6 @@
       "episodes": []
     },
     {
-      "anilistId": 217459,
-      "bgmId": 707288,
-      "title": "姉モネ",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "OVA",
-      "status": "NOT_YET_RELEASED",
-      "isAdult": true,
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217459-zA6NwJAqr5m7.png",
-      "airDate": "2026-12-25",
-      "ratingScore": 0,
-      "popularity": 120,
-      "totalEpisodes": 0,
-      "genres": [
-        "里番"
-      ],
-      "tags": [
-        "里番"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": null,
       "bgmId": 712000,
       "title": "牧神记 伍",
@@ -5967,7 +5944,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 120,
+      "popularity": 122,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -5988,6 +5965,29 @@
         "2026年10月",
         "沈乐平",
         "日"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 217459,
+      "bgmId": 707288,
+      "title": "姉モネ",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "OVA",
+      "status": "NOT_YET_RELEASED",
+      "isAdult": true,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217459-zA6NwJAqr5m7.png",
+      "airDate": "2026-12-25",
+      "ratingScore": 0,
+      "popularity": 120,
+      "totalEpisodes": 0,
+      "genres": [
+        "里番"
+      ],
+      "tags": [
+        "里番"
       ],
       "sites": [],
       "episodes": []
@@ -6128,7 +6128,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
       "airDate": "2026-11-22",
       "ratingScore": 5,
-      "popularity": 54,
+      "popularity": 55,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -6141,9 +6141,9 @@
         "WEB",
         "网文改",
         "3D",
-        "后宫",
         "未定档",
-        "国产动画"
+        "国产动画",
+        "后宫"
       ],
       "sites": [],
       "episodes": []
@@ -6160,7 +6160,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
       "airDate": "2026-10-25",
       "ratingScore": 6.8,
-      "popularity": 49,
+      "popularity": 52,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
@@ -6170,10 +6170,10 @@
         "WEB",
         "校园",
         "泡面",
-        "鹰角网络",
         "2026年10月",
-        "2026",
+        "鹰角网络",
         "明日方舟",
+        "2026",
         "2026观",
         "游改"
       ],
@@ -6369,6 +6369,32 @@
     },
     {
       "anilistId": null,
+      "bgmId": 712926,
+      "title": "都市古医仙2",
+      "titleCn": "都市古医仙2",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
+      "airDate": "2026-10-14",
+      "ratingScore": 0,
+      "popularity": 7,
+      "totalEpisodes": 40,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "日",
+        "WEB",
+        "小说改",
+        "三"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 583008,
       "title": "三星堆：未来往事",
       "titleCn": "三星堆：未来往事",
@@ -6414,32 +6440,6 @@
         "答辩",
         "抄袭",
         "动画片"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 712926,
-      "title": "都市古医仙2",
-      "titleCn": "都市古医仙2",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
-      "airDate": "2026-10-14",
-      "ratingScore": 0,
-      "popularity": 6,
-      "totalEpisodes": 40,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "日",
-        "WEB",
-        "小说改",
-        "三"
       ],
       "sites": [],
       "episodes": []
