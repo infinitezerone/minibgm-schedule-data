@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-11-08T11:08:20.744Z",
+  "generatedAt": "2026-11-08T16:29:06.302Z",
   "total": 131,
   "mappedTotal": 131,
   "items": [
@@ -5848,7 +5848,7 @@
     {
       "anilistId": 185212,
       "bgmId": 489499,
-      "title": "名探偵コナン 隻眼の残像",
+      "title": "名探偵コナン 隻眼の残像(フラッシュバック)",
       "titleCn": "名侦探柯南 独眼的残像",
       "countryOfOrigin": "JP",
       "format": "MOVIE",
@@ -6402,7 +6402,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ed/4a/345824_VXxo5.jpg",
       "airDate": "2025-06-28",
       "ratingScore": 6.7,
-      "popularity": 2647,
+      "popularity": 2648,
       "totalEpisodes": 13,
       "genres": [
         "国产动画"
@@ -6426,15 +6426,15 @@
         "诡秘之主",
         "战斗",
         "轻小说改",
-        "视美影业",
         "国创",
         "未定档",
+        "视美影业",
         "克苏鲁",
-        "剧集",
-        "视美动画",
         "2025年",
-        "蒸汽朋克",
-        "熊可"
+        "熊可",
+        "视美动画",
+        "剧集",
+        "蒸汽朋克"
       ],
       "sites": [],
       "episodes": []

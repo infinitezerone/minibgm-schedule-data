@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-08T11:10:03.425Z",
+  "generatedAt": "2026-11-08T16:30:50.243Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -975,7 +975,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 64079,
+      "popularity": 64156,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -6292,7 +6292,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8154,
+      "popularity": 8155,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7329,7 +7329,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3139,
+      "popularity": 3141,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7351,17 +7351,17 @@
         "意识流",
         "国漫",
         "电波",
-        "青春",
         "国产动画",
         "2026年8月",
+        "青春",
         "2026年",
         "国创",
         "记忆管理局",
-        "中国动画",
-        "记忆",
-        "Web动画",
+        "剧集",
         "日本",
-        "7月"
+        "治愈",
+        "作画",
+        "架空"
       ],
       "sites": [],
       "episodes": []
@@ -7746,7 +7746,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1089,
+      "popularity": 1097,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7773,12 +7773,12 @@
         "国产动画",
         "小说改",
         "玄幻",
+        "8",
         "国产动画电影",
         "8分",
-        "8",
-        "2020s",
-        "BL",
-        "轻BL"
+        "剧场版（国产）",
+        "20",
+        "未保存"
       ],
       "sites": [],
       "episodes": []
@@ -8285,7 +8285,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ff/a7/555710_aI3a3.jpg",
       "airDate": "2026-08-14",
       "ratingScore": 5.2,
-      "popularity": 526,
+      "popularity": 528,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8847,21 +8847,21 @@
       "tags": [
         "玄幻",
         "冒险",
-        "中影年年",
         "小说改",
+        "中影年年",
         "2026",
         "3D",
         "战斗",
-        "iqiyi",
         "爱奇艺",
+        "iqiyi",
         "宅猪",
-        "陈升垚",
-        "2026年7月",
+        "六",
         "网文改",
         "WEB",
         "方翔",
-        "国漫",
-        "日"
+        "陈升垚",
+        "2026年7月",
+        "国漫"
       ],
       "sites": [],
       "episodes": []
@@ -9256,7 +9256,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/4d/434813_HKhzh.jpg",
       "airDate": "2026-08-03",
       "ratingScore": 5.5,
-      "popularity": 45,
+      "popularity": 46,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -9264,19 +9264,19 @@
       "tags": [
         "恋爱",
         "漫画改",
+        "校园",
         "彩色铅笔动画",
         "2026",
         "WEB",
-        "校园",
         "快看漫画",
-        "国漫",
-        "漫改",
-        "2D",
-        "空",
-        "游戏",
+        "单女主",
         "2026年7月",
         "2026年8月",
-        "单女主"
+        "2D",
+        "漫改",
+        "空",
+        "国漫",
+        "游戏"
       ],
       "sites": [],
       "episodes": []

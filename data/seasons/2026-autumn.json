@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-08T11:10:22.666Z",
+  "generatedAt": "2026-11-08T16:31:11.092Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -575,8 +575,7 @@
         "青春成长",
         "校园",
         "治愈",
-        "篮球",
-        "女主"
+        "篮球"
       ],
       "sites": [
         {
@@ -887,10 +886,11 @@
         "奇幻",
         "日常",
         "拟似家庭",
-        "都市奇幻",
         "男主",
         "搞笑滑稽",
-        "恶搞/梗番"
+        "都市奇幻",
+        "恶搞/梗番",
+        "少年向"
       ],
       "sites": [
         {
@@ -3333,10 +3333,10 @@
         "游戏",
         "魔物娘",
         "末日废土",
+        "百合",
         "大逃杀",
         "生存",
         "虚拟世界",
-        "百合",
         "同居"
       ],
       "sites": [],
@@ -5303,7 +5303,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.6,
-      "popularity": 816,
+      "popularity": 821,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5322,21 +5322,21 @@
         "玄幻",
         "续集",
         "未定档",
-        "奇幻",
         "日常",
         "MTJJ",
+        "奇幻",
+        "续作",
+        "泡面",
         "电视动画",
         "11",
-        "动漫",
-        "国创",
-        "动作",
-        "追番",
-        "续作",
-        "◆TV◆",
-        "搞笑",
-        "3",
         "萌",
-        "泡面"
+        "动作",
+        "搞笑",
+        "国创",
+        "2026年",
+        "国产动画",
+        "◆TV◆",
+        "3"
       ],
       "sites": [],
       "episodes": []
@@ -5944,7 +5944,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 125,
+      "popularity": 126,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -6094,6 +6094,38 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 576968,
+      "title": "斗破苍穹剧场版 双帝之战",
+      "titleCn": "斗破苍穹剧场版 双帝之战",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
+      "airDate": "2026-11-22",
+      "ratingScore": 5,
+      "popularity": 59,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "小说改",
+        "斗破苍穹",
+        "玄幻",
+        "WEB",
+        "网文改",
+        "3D",
+        "后宫",
+        "未定档",
+        "国产动画"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 217577,
       "bgmId": 701779,
       "title": "マゼンチュ",
@@ -6112,70 +6144,6 @@
       ],
       "tags": [
         "日常"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 576968,
-      "title": "斗破苍穹剧场版 双帝之战",
-      "titleCn": "斗破苍穹剧场版 双帝之战",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
-      "airDate": "2026-11-22",
-      "ratingScore": 5,
-      "popularity": 58,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "战斗",
-        "小说改",
-        "斗破苍穹",
-        "玄幻",
-        "网文改",
-        "3D",
-        "WEB",
-        "后宫",
-        "未定档",
-        "国产动画"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 715907,
-      "title": "罗德岛学院",
-      "titleCn": "罗德岛学院",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-      "airDate": "2026-10-25",
-      "ratingScore": 6.8,
-      "popularity": 54,
-      "totalEpisodes": 0,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "游戏改",
-        "WEB",
-        "校园",
-        "泡面",
-        "2026年10月",
-        "鹰角网络",
-        "明日方舟",
-        "2026",
-        "2026观",
-        "游改"
       ],
       "sites": [],
       "episodes": []
@@ -6232,6 +6200,32 @@
         "玄幻",
         "国产动画",
         "2D"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 576733,
+      "title": "武动乾坤 第七季",
+      "titleCn": "武动乾坤 第7季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b8/bd/576733_Dgzds.jpg",
+      "airDate": "2026-11-29",
+      "ratingScore": 0,
+      "popularity": 35,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "小说改",
+        "WEB",
+        "玄幻",
+        "战斗"
       ],
       "sites": [],
       "episodes": []

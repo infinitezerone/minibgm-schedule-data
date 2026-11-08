@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-11-08T11:09:13.155Z",
+  "generatedAt": "2026-11-08T16:29:57.669Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -297,17 +297,19 @@
         "超自然",
         "都市奇幻",
         "武术格斗",
-        "群像",
         "家庭",
+        "群像",
         "男主",
+        "契约恋爱",
         "拟似家庭",
         "少年向",
-        "契约恋爱",
         "战争",
         "女主",
         "军事",
+        "婚姻",
         "校园",
-        "同居"
+        "同居",
+        "历史"
       ],
       "sites": [
         {
@@ -8657,7 +8659,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/d6/00/395217_YsB8q.jpg",
       "airDate": "2025-12-05",
       "ratingScore": 5.8,
-      "popularity": 66,
+      "popularity": 67,
       "totalEpisodes": 18,
       "genres": [
         "国产动画"
