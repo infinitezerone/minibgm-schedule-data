@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-11-08T16:29:57.669Z",
+  "generatedAt": "2026-11-09T01:23:46.089Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -7677,16 +7677,16 @@
         "飞鱼映画",
         "原创",
         "奇幻",
-        "优酷",
-        "youku",
         "2026年1月",
-        "正番",
         "漫画改",
-        "平板观看",
-        "7",
         "优酷动漫",
+        "优酷",
+        "7",
+        "2分",
+        "平板观看",
         "末世",
-        "2分"
+        "正番",
+        "youku"
       ],
       "sites": [],
       "episodes": []
@@ -8265,7 +8265,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f6/dc/219760_7FG73.jpg",
       "airDate": "2025-12-06",
       "ratingScore": 2.7,
-      "popularity": 144,
+      "popularity": 143,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8273,9 +8273,9 @@
       "tags": [
         "变形金刚",
         "国产动画",
-        "TV",
-        "哪吒",
         "异世界",
+        "哪吒",
+        "TV",
         "穿越",
         "萝卜",
         "机战",
@@ -8283,9 +8283,9 @@
         "中美联动",
         "2025",
         "猎奇",
-        "神作",
         "R18",
-        "里番"
+        "里番",
+        "神作"
       ],
       "sites": [],
       "episodes": []

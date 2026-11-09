@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-08T16:30:50.243Z",
+  "generatedAt": "2026-11-09T01:24:32.609Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -7746,7 +7746,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1097,
+      "popularity": 1098,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7773,12 +7773,12 @@
         "国产动画",
         "小说改",
         "玄幻",
-        "8",
         "国产动画电影",
         "8分",
-        "剧场版（国产）",
-        "20",
-        "未保存"
+        "8",
+        "2020s",
+        "BL",
+        "轻BL"
       ],
       "sites": [],
       "episodes": []
@@ -8334,7 +8334,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
       "ratingScore": 6.3,
-      "popularity": 513,
+      "popularity": 514,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8344,22 +8344,22 @@
         "恋爱",
         "漫画改",
         "国漫",
-        "奇幻",
         "搞笑",
+        "奇幻",
         "WEB",
         "TV",
         "2026",
         "漫改",
         "2025",
         "国产动画",
+        "腾讯",
+        "6",
+        "补",
+        "可爱",
         "绘梦",
         "国创",
         "非常好看",
-        "腾讯",
-        "可爱",
-        "玄幻",
-        "补",
-        "6"
+        "玄幻"
       ],
       "sites": [],
       "episodes": []
@@ -9385,6 +9385,37 @@
     },
     {
       "anilistId": null,
+      "bgmId": 560379,
+      "title": "大唐妖探",
+      "titleCn": "大唐妖探",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/7f/76/560379_cRwr5.jpg",
+      "airDate": "2026-08-22",
+      "ratingScore": 5,
+      "popularity": 23,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "奇幻",
+        "冒险",
+        "喜剧",
+        "原创",
+        "2026年8月",
+        "4分",
+        "动画电影",
+        "国漫"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 466759,
       "title": "太古神尊",
       "titleCn": "太古神尊",
@@ -9407,37 +9438,6 @@
         "3D",
         "2026年7月",
         "索以文化"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 560379,
-      "title": "大唐妖探",
-      "titleCn": "大唐妖探",
-      "countryOfOrigin": "CN",
-      "format": "剧场版",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/7f/76/560379_cRwr5.jpg",
-      "airDate": "2026-08-22",
-      "ratingScore": 5,
-      "popularity": 22,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "剧场版",
-        "奇幻",
-        "冒险",
-        "喜剧",
-        "原创",
-        "2026年8月",
-        "4分",
-        "动画电影",
-        "国漫"
       ],
       "sites": [],
       "episodes": []
