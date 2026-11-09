@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-11-09T12:38:41.467Z",
+  "generatedAt": "2026-11-09T20:17:46.889Z",
   "window": {
-    "from": 1792413432,
-    "to": 1799411832
+    "from": 1792440977,
+    "to": 1799439377
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 81355,
+      "popularity": 81390,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -176,7 +176,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20386,
+      "popularity": 20394,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -346,7 +346,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
       "airDate": "1969-10-05",
       "ratingScore": 5.7,
-      "popularity": 2568,
+      "popularity": 2569,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -464,7 +464,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8088,
+      "popularity": 8092,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -1254,10 +1254,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1792429200
-        },
         {
           "n": 4,
           "t": 1793034000
@@ -3042,15 +3038,15 @@
         "冒险",
         "超自然",
         "少年向",
-        "男主",
         "群像",
-        "神明",
+        "男主",
         "剑术",
         "战争",
+        "神明",
+        "幽灵",
         "时间回溯",
         "都市奇幻",
-        "悲剧",
-        "幽灵"
+        "猎奇/血腥"
       ],
       "sites": [
         {
@@ -3120,10 +3116,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 9,
-          "t": 1792422000
-        },
         {
           "n": 10,
           "t": 1793026800
@@ -3434,6 +3426,43 @@
         {
           "n": 12,
           "t": 1798205400
+        }
+      ]
+    },
+    {
+      "anilistId": 186822,
+      "bgmId": 538296,
+      "title": "気になってる人が男じゃなかった",
+      "titleCn": "在意的人不是他",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186822-9zsR5NtOP0yJ.jpg",
+      "airDate": "2027-01-01",
+      "ratingScore": 0,
+      "popularity": 34752,
+      "totalEpisodes": 0,
+      "genres": [
+        "音乐",
+        "恋爱"
+      ],
+      "tags": [
+        "音乐",
+        "恋爱",
+        "百合",
+        "女主",
+        "校园",
+        "女性向",
+        "治愈"
+      ],
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2027,
+      "startMonth": 1,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1799416800
         }
       ]
     },
@@ -6043,9 +6072,9 @@
         "搞笑",
         "奇幻",
         "恋爱",
+        "女主",
         "转生",
         "异世界",
-        "女主",
         "少女向"
       ],
       "sites": [
@@ -7001,10 +7030,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1792418400
-        },
         {
           "n": 4,
           "t": 1793023200
@@ -9510,10 +9535,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 4,
-          "t": 1792414800
-        },
-        {
           "n": 5,
           "t": 1793019600
         },
@@ -10623,9 +10644,9 @@
         "剧情",
         "限制级",
         "恋爱",
+        "三角恋",
         "女主",
         "男主",
-        "三角恋",
         "青年向"
       ],
       "sites": [

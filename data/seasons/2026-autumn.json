@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-09T12:41:20.519Z",
+  "generatedAt": "2026-11-09T20:20:53.420Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -5306,8 +5306,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
-      "ratingScore": 7.6,
-      "popularity": 830,
+      "ratingScore": 7.7,
+      "popularity": 835,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5326,21 +5326,21 @@
         "玄幻",
         "续集",
         "未定档",
+        "奇幻",
         "日常",
         "MTJJ",
-        "奇幻",
-        "搞笑",
-        "3",
-        "续作",
-        "泡面",
-        "◆TV◆",
-        "萌",
-        "2026年",
+        "电视动画",
         "11",
-        "追番",
         "动漫",
         "国创",
-        "国产动画"
+        "动作",
+        "追番",
+        "续作",
+        "◆TV◆",
+        "搞笑",
+        "3",
+        "萌",
+        "泡面"
       ],
       "sites": [],
       "episodes": []
@@ -5559,7 +5559,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7,
-      "popularity": 328,
+      "popularity": 330,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5573,17 +5573,17 @@
         "网文改",
         "搞笑",
         "玄幻",
-        "厕纸",
         "战斗",
+        "厕纸",
         "2026",
-        "国产动画",
-        "表番",
-        "2D",
+        "2026补",
         "coocaa",
+        "国产动画",
         "奇幻",
         "TV",
-        "喜欢！",
-        "2026补"
+        "表番",
+        "2D",
+        "喜欢！"
       ],
       "sites": [],
       "episodes": []
@@ -5914,6 +5914,43 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 712000,
+      "title": "牧神记 伍",
+      "titleCn": "牧神记5",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+      "airDate": "2026-10-18",
+      "ratingScore": 6,
+      "popularity": 130,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "玄幻",
+        "战斗",
+        "网文改",
+        "玄机",
+        "2026",
+        "厕纸",
+        "3D",
+        "国创",
+        "小说改",
+        "WEB",
+        "热血",
+        "沈乐平",
+        "日",
+        "牧神记",
+        "2026年10月"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 218011,
       "bgmId": 638081,
       "title": "タヌキとキツネ",
@@ -5932,43 +5969,6 @@
       ],
       "tags": [
         "搞笑"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 712000,
-      "title": "牧神记 伍",
-      "titleCn": "牧神记5",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-      "airDate": "2026-10-18",
-      "ratingScore": 6,
-      "popularity": 128,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "玄幻",
-        "战斗",
-        "网文改",
-        "玄机",
-        "2026",
-        "厕纸",
-        "3D",
-        "小说改",
-        "国创",
-        "热血",
-        "WEB",
-        "牧神记",
-        "2026年10月",
-        "沈乐平",
-        "日"
       ],
       "sites": [],
       "episodes": []
