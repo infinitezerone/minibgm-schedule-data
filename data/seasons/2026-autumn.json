@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-09T20:20:53.420Z",
+  "generatedAt": "2026-11-10T03:59:39.651Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -4450,8 +4450,8 @@
         "里番",
         "超自然",
         "女主",
-        "男主",
-        "妖怪"
+        "妖怪",
+        "男主"
       ],
       "sites": [],
       "episodes": []
@@ -5307,7 +5307,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.7,
-      "popularity": 835,
+      "popularity": 839,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5925,7 +5925,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 130,
+      "popularity": 131,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -5938,14 +5938,14 @@
         "2026",
         "厕纸",
         "3D",
-        "国创",
         "小说改",
-        "WEB",
+        "国创",
         "热血",
-        "沈乐平",
-        "日",
+        "WEB",
         "牧神记",
-        "2026年10月"
+        "2026年10月",
+        "沈乐平",
+        "日"
       ],
       "sites": [],
       "episodes": []
