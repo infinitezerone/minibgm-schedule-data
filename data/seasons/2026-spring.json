@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-11-10T12:20:07.827Z",
+  "generatedAt": "2026-11-10T17:26:06.342Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -8679,12 +8679,12 @@
         "TV",
         "万维猫",
         "bilibili",
-        "一般",
         "复仇",
+        "，",
+        "一般",
         "奇幻",
         "王裕仁",
-        "7",
-        "，"
+        "7"
       ],
       "sites": [],
       "episodes": []
@@ -8933,7 +8933,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/75/3c/577190_sSD00.jpg",
       "airDate": "2026-04-04",
       "ratingScore": 6.4,
-      "popularity": 195,
+      "popularity": 196,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -8953,12 +8953,12 @@
         "2026年4月观看",
         "遮天",
         "辰东",
-        "2026年4月",
         "7",
-        "单女主",
         "厕纸",
+        "2026年4月",
         "修仙",
-        "2026年"
+        "2026年",
+        "单女主"
       ],
       "sites": [],
       "episodes": []

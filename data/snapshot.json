@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-11-10T12:18:01.281Z",
+  "generatedAt": "2026-11-10T17:24:06.233Z",
   "window": {
-    "from": 1792498584,
-    "to": 1799496984
+    "from": 1792516953,
+    "to": 1799515353
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 81390,
+      "popularity": 81417,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -176,7 +176,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20394,
+      "popularity": 20396,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -350,7 +350,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
       "airDate": "1969-10-05",
       "ratingScore": 5.7,
-      "popularity": 2569,
+      "popularity": 2570,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -468,7 +468,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8092,
+      "popularity": 8093,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -2285,10 +2285,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1792514700
-        },
-        {
           "n": 3,
           "t": 1793119500
         },
@@ -3056,8 +3052,8 @@
         "战争",
         "神明",
         "幽灵",
-        "时间回溯",
         "都市奇幻",
+        "时间回溯",
         "猎奇/血腥"
       ],
       "sites": [
@@ -3598,10 +3594,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 3,
-          "t": 1792506600
-        },
-        {
           "n": 4,
           "t": 1793111400
         },
@@ -3902,10 +3894,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 3,
-          "t": 1792504800
-        },
-        {
           "n": 4,
           "t": 1793109600
         },
@@ -4031,8 +4019,8 @@
         "日常",
         "运动",
         "男主",
-        "校园",
         "青春成长",
+        "校园",
         "治愈",
         "篮球"
       ],
@@ -5186,10 +5174,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 2,
-          "t": 1792504800
-        },
-        {
           "n": 3,
           "t": 1793109600
         },
@@ -5917,10 +5901,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 3,
-          "t": 1792504800
-        },
-        {
           "n": 4,
           "t": 1793109600
         },
@@ -5980,9 +5960,9 @@
         "搞笑",
         "奇幻",
         "恋爱",
-        "转生",
-        "异世界",
         "女主",
+        "异世界",
+        "转生",
         "少女向"
       ],
       "sites": [
@@ -6109,8 +6089,8 @@
       "tags": [
         "搞笑",
         "日常",
-        "男主",
         "治愈",
+        "男主",
         "少女向",
         "办公室"
       ],
@@ -6505,7 +6485,7 @@
       "title": "デモンズ・クレスト",
       "titleCn": "恶魔纹章",
       "countryOfOrigin": "JP",
-      "format": "TV",
+      "format": "ONA",
       "status": "RELEASING",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
       "airDate": "2026-11-01",
@@ -7634,8 +7614,8 @@
         "女性向",
         "猎奇/血腥",
         "历史",
-        "婚姻",
         "女主",
+        "婚姻",
         "生存"
       ],
       "sites": [
@@ -8404,10 +8384,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 3,
-          "t": 1792499160
-        },
-        {
           "n": 4,
           "t": 1793103960
         },
@@ -8607,10 +8583,10 @@
       "tags": [
         "动作",
         "搞笑",
-        "黑手党",
-        "群像",
         "少年向",
-        "男主"
+        "男主",
+        "黑手党",
+        "群像"
       ],
       "sites": [],
       "isAdult": false,
@@ -8648,8 +8624,8 @@
         "奇幻",
         "日常",
         "拟似家庭",
-        "男主",
         "搞笑滑稽",
+        "男主",
         "都市奇幻",
         "恶搞/梗番",
         "少年向"
@@ -8760,10 +8736,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1792508400
-        },
         {
           "n": 4,
           "t": 1793113200
@@ -8913,10 +8885,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 16,
-          "t": 1792514100
-        },
         {
           "n": 17,
           "t": 1793118900
@@ -9763,9 +9731,9 @@
       "tags": [
         "搞笑",
         "恋爱",
+        "三角恋",
         "美食料理",
-        "校园",
-        "三角恋"
+        "校园"
       ],
       "sites": [
         {
@@ -9853,10 +9821,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1792501200
-        },
         {
           "n": 4,
           "t": 1793106000
@@ -10245,6 +10209,47 @@
       ]
     },
     {
+      "anilistId": 210199,
+      "bgmId": 639020,
+      "title": "ザ・ファブル 第2期",
+      "titleCn": "杀手寓言 第二季",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210199-THddm86dG5PI.jpg",
+      "airDate": "2027-01-01",
+      "ratingScore": 0,
+      "popularity": 4753,
+      "totalEpisodes": 0,
+      "genres": [
+        "动作",
+        "搞笑",
+        "剧情",
+        "恋爱",
+        "惊悚"
+      ],
+      "tags": [
+        "动作",
+        "搞笑",
+        "剧情",
+        "恋爱",
+        "惊悚",
+        "极道/黑帮",
+        "青年向",
+        "反英雄"
+      ],
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2027,
+      "startMonth": 1,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1799510160
+        }
+      ]
+    },
+    {
       "anilistId": 210482,
       "bgmId": 639938,
       "title": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE",
@@ -10393,8 +10398,8 @@
         "动作",
         "搞笑",
         "奇幻",
-        "虚拟世界",
         "女主",
+        "虚拟世界",
         "旅行",
         "恶搞/梗番"
       ],
@@ -10552,9 +10557,9 @@
         "剧情",
         "限制级",
         "恋爱",
+        "三角恋",
         "女主",
         "男主",
-        "三角恋",
         "青年向"
       ],
       "sites": [
@@ -11740,8 +11745,8 @@
       "tags": [
         "运动",
         "棒球",
-        "社团活动",
         "男主",
+        "社团活动",
         "少年向"
       ],
       "sites": [
@@ -12019,6 +12024,40 @@
         {
           "n": 12,
           "t": 1797519360
+        }
+      ]
+    },
+    {
+      "anilistId": 214049,
+      "bgmId": 668211,
+      "title": "傷口と包帯",
+      "titleCn": "伤口和绷带",
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214049-8lsk5vf0XIdu.jpg",
+      "airDate": "2027-01-01",
+      "ratingScore": 0,
+      "popularity": 1625,
+      "totalEpisodes": 0,
+      "genres": [
+        "搞笑",
+        "恋爱"
+      ],
+      "tags": [
+        "搞笑",
+        "恋爱",
+        "极道/黑帮",
+        "年龄差"
+      ],
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2027,
+      "startMonth": 1,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1799514000
         }
       ]
     },
@@ -12735,8 +12774,8 @@
       ],
       "tags": [
         "日常",
-        "少儿向",
-        "校园"
+        "校园",
+        "少儿向"
       ],
       "sites": [
         {
@@ -13524,8 +13563,8 @@
       "tags": [
         "搞笑",
         "恋爱",
-        "历史",
-        "女主"
+        "女主",
+        "历史"
       ],
       "sites": [
         {
