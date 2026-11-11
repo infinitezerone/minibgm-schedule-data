@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-10T17:26:42.403Z",
+  "generatedAt": "2026-11-11T01:42:33.209Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -350,8 +350,8 @@
         "兽耳",
         "男主",
         "异世界",
-        "悲剧",
-        "猎奇/血腥"
+        "猎奇/血腥",
+        "悲剧"
       ],
       "sites": [
         {
@@ -846,8 +846,8 @@
         "奇幻",
         "日常",
         "拟似家庭",
-        "男主",
         "搞笑滑稽",
+        "男主",
         "都市奇幻",
         "恶搞/梗番",
         "少年向"
@@ -3715,11 +3715,11 @@
         "超自然",
         "丧尸",
         "末日废土",
+        "旅行",
         "女主",
         "生存",
-        "旅行",
-        "少年向",
-        "悲剧"
+        "悲剧",
+        "少年向"
       ],
       "sites": [
         {
@@ -5079,8 +5079,8 @@
         "日常",
         "兽耳",
         "女主",
-        "偶像",
-        "美食料理"
+        "美食料理",
+        "偶像"
       ],
       "sites": [],
       "episodes": []
@@ -5308,7 +5308,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.6,
-      "popularity": 847,
+      "popularity": 848,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5331,17 +5331,17 @@
         "日常",
         "国产动画",
         "MTJJ",
-        "泡面",
-        "11",
         "动漫",
-        "动作",
+        "追番",
+        "2026年",
         "电视动画",
+        "国创",
+        "动作",
         "萌",
-        "搞笑",
-        "3",
-        "◆TV◆",
         "续作",
-        "泡面番"
+        "泡面番",
+        "泡面",
+        "11"
       ],
       "sites": [],
       "episodes": []
@@ -5560,7 +5560,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 332,
+      "popularity": 333,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -6099,38 +6099,6 @@
       "episodes": []
     },
     {
-      "anilistId": null,
-      "bgmId": 576968,
-      "title": "斗破苍穹剧场版 双帝之战",
-      "titleCn": "斗破苍穹剧场版 双帝之战",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
-      "airDate": "2026-11-22",
-      "ratingScore": 5,
-      "popularity": 60,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "战斗",
-        "小说改",
-        "斗破苍穹",
-        "玄幻",
-        "WEB",
-        "网文改",
-        "3D",
-        "未定档",
-        "国产动画",
-        "后宫"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": 217577,
       "bgmId": 701779,
       "title": "マゼンチュ",
@@ -6149,6 +6117,38 @@
       ],
       "tags": [
         "日常"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 576968,
+      "title": "斗破苍穹剧场版 双帝之战",
+      "titleCn": "斗破苍穹剧场版 双帝之战",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
+      "airDate": "2026-11-22",
+      "ratingScore": 0,
+      "popularity": 59,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "小说改",
+        "斗破苍穹",
+        "玄幻",
+        "WEB",
+        "网文改",
+        "3D",
+        "未定档",
+        "国产动画",
+        "后宫"
       ],
       "sites": [],
       "episodes": []
@@ -6197,14 +6197,14 @@
         "WEB",
         "原创",
         "乐子",
-        "WEBA",
-        "猫已巴",
-        "2026",
-        "蜡笔小嘉",
         "神话",
         "玄幻",
         "国产动画",
-        "2D"
+        "2026",
+        "2D",
+        "WEBA",
+        "猫已巴",
+        "蜡笔小嘉"
       ],
       "sites": [],
       "episodes": []
