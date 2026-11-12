@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-11-11T17:36:27.102Z",
+  "generatedAt": "2026-11-12T02:41:51.299Z",
   "total": 125,
   "mappedTotal": 125,
   "items": [
@@ -7656,7 +7656,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/f6/458926_0qw05.jpg",
       "airDate": "2025-12-28",
       "ratingScore": 6.8,
-      "popularity": 602,
+      "popularity": 603,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -7671,21 +7671,22 @@
         "3D",
         "国漫",
         "耳根",
-        "伊恩动漫",
         "TV",
+        "伊恩动漫",
         "飞鱼映画",
         "原创",
         "奇幻",
         "正番",
         "2分",
-        "优酷",
-        "末世",
         "youku",
+        "平板观看",
+        "厕纸",
         "7",
+        "优酷",
         "漫画改",
         "2026年1月",
         "优酷动漫",
-        "平板观看"
+        "末世"
       ],
       "sites": [],
       "episodes": []
