@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-12T12:21:43.951Z",
+  "generatedAt": "2026-11-12T17:51:53.799Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -4779,7 +4779,7 @@
       "titleCn": "乐园追放 心之共鸣",
       "countryOfOrigin": "JP",
       "format": "MOVIE",
-      "status": "NOT_YET_RELEASED",
+      "status": "FINISHED",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157330-Ow09pWu8lqCT.jpg",
       "airDate": "2026-11-13",
@@ -5309,7 +5309,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.6,
-      "popularity": 867,
+      "popularity": 872,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5326,23 +5326,23 @@
         "国漫",
         "寒木春华",
         "玄幻",
-        "3",
         "续集",
+        "3",
         "未定档",
-        "国产动画",
-        "日常",
-        "MTJJ",
         "奇幻",
-        "电视动画",
-        "动漫",
-        "追番",
-        "11",
-        "国创",
-        "续作",
-        "萌",
+        "MTJJ",
+        "日常",
+        "国产动画",
         "泡面番",
         "动作",
-        "泡面"
+        "泡面",
+        "续作",
+        "11",
+        "2026年",
+        "国创",
+        "搞笑",
+        "◆TV◆",
+        "萌"
       ],
       "sites": [],
       "episodes": []
@@ -5439,7 +5439,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7,
-      "popularity": 387,
+      "popularity": 389,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5561,7 +5561,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 336,
+      "popularity": 337,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5927,7 +5927,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 133,
+      "popularity": 134,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -6273,7 +6273,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
       "airDate": "2026-10-08",
       "ratingScore": 3,
-      "popularity": 18,
+      "popularity": 19,
       "totalEpisodes": 14,
       "genres": [
         "国产动画"
@@ -6331,7 +6331,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
       "airDate": "2026-10-31",
       "ratingScore": 0,
-      "popularity": 11,
+      "popularity": 12,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
@@ -6473,6 +6473,31 @@
     },
     {
       "anilistId": null,
+      "bgmId": 662691,
+      "title": "混在末日，独自成仙",
+      "titleCn": "混在末日，独自成仙",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/20/c8/662691_aFr7O.jpg",
+      "airDate": "2026-11-18",
+      "ratingScore": 0,
+      "popularity": 2,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB",
+        "小说改",
+        "玄幻"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 708225,
       "title": "小猪佩奇·完美假期",
       "titleCn": "小猪佩奇·完美假期",
@@ -6496,31 +6521,6 @@
         "萌系",
         "子供向",
         "原创"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 662691,
-      "title": "混在末日，独自成仙",
-      "titleCn": "混在末日，独自成仙",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/20/c8/662691_aFr7O.jpg",
-      "airDate": "2026-11-18",
-      "ratingScore": 0,
-      "popularity": 1,
-      "totalEpisodes": 0,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB",
-        "小说改",
-        "玄幻"
       ],
       "sites": [],
       "episodes": []

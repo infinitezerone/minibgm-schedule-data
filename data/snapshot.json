@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-11-12T12:19:10.305Z",
+  "generatedAt": "2026-11-12T17:49:14.093Z",
   "window": {
-    "from": 1792671460,
-    "to": 1799669860
+    "from": 1792691263,
+    "to": 1799689663
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 81453,
+      "popularity": 81490,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -472,7 +472,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8097,
+      "popularity": 8099,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -621,15 +621,15 @@
         "冒险",
         "搞笑",
         "群像",
-        "恶搞/梗番",
         "搞笑滑稽",
+        "恶搞/梗番",
         "偶像",
         "游戏",
         "乐队",
         "兽耳",
         "剑术",
-        "钓鱼",
-        "魔女"
+        "魔女",
+        "钓鱼"
       ],
       "sites": [
         {
@@ -1030,8 +1030,8 @@
         "兽耳",
         "男主",
         "异世界",
-        "悲剧",
-        "猎奇/血腥"
+        "猎奇/血腥",
+        "悲剧"
       ],
       "sites": [
         {
@@ -2439,10 +2439,6 @@
       "startYear": 2026,
       "startMonth": 7,
       "episodes": [
-        {
-          "n": 17,
-          "t": 1792682760
-        },
         {
           "n": 18,
           "t": 1793287560
@@ -4006,8 +4002,8 @@
         "日常",
         "运动",
         "男主",
-        "校园",
         "青春成长",
+        "校园",
         "治愈",
         "篮球"
       ],
@@ -4286,8 +4282,8 @@
       "tags": [
         "运动",
         "足球",
-        "青年向",
-        "男主"
+        "男主",
+        "青年向"
       ],
       "sites": [
         {
@@ -5735,10 +5731,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1792681200
-        },
         {
           "n": 4,
           "t": 1793286000
@@ -7875,10 +7867,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 4,
-          "t": 1792672200
-        },
-        {
           "n": 5,
           "t": 1793277000
         },
@@ -8579,10 +8567,10 @@
       "tags": [
         "动作",
         "搞笑",
-        "少年向",
-        "男主",
+        "群像",
         "黑手党",
-        "群像"
+        "少年向",
+        "男主"
       ],
       "sites": [],
       "isAdult": false,
@@ -8592,6 +8580,10 @@
         {
           "n": 1,
           "t": 1799071200
+        },
+        {
+          "n": 2,
+          "t": 1799676000
         }
       ]
     },
@@ -8939,9 +8931,9 @@
         "限制级",
         "奇幻",
         "恋爱",
-        "搞笑滑稽",
         "女主",
         "男主",
+        "搞笑滑稽",
         "魔物娘",
         "恶魔",
         "傲娇"
@@ -9156,11 +9148,11 @@
         "魔法少女",
         "音乐",
         "偶像",
-        "都市奇幻",
-        "女主",
-        "青春成长",
-        "少儿向",
         "校园",
+        "少儿向",
+        "青春成长",
+        "女主",
+        "都市奇幻",
         "外星人",
         "家庭"
       ],
@@ -9731,9 +9723,9 @@
       "tags": [
         "搞笑",
         "恋爱",
-        "三角恋",
+        "校园",
         "美食料理",
-        "校园"
+        "三角恋"
       ],
       "sites": [
         {
@@ -10797,10 +10789,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 4,
-          "t": 1792681200
-        },
-        {
           "n": 5,
           "t": 1793286000
         },
@@ -11022,10 +11010,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 3,
-          "t": 1792686480
-        },
         {
           "n": 4,
           "t": 1793291280
@@ -11333,8 +11317,8 @@
         "搞笑",
         "奇幻",
         "虚拟世界",
-        "搞笑滑稽",
         "男主",
+        "搞笑滑稽",
         "游戏",
         "剑术",
         "少年向",
@@ -11455,7 +11439,7 @@
       "titleCn": null,
       "countryOfOrigin": "JP",
       "format": "OVA",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213066-6gYdsenxcjWx.png",
       "airDate": "2026-09-01",
       "ratingScore": 7.1,
@@ -12022,10 +12006,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 4,
-          "t": 1792680960
-        },
-        {
           "n": 5,
           "t": 1793285760
         },
@@ -12128,36 +12108,6 @@
       ]
     },
     {
-      "anilistId": 214551,
-      "bgmId": 697655,
-      "title": "桜春女学院の男優",
-      "titleCn": null,
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "RELEASING",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214551-uDaf7UPVxN2v.jpg",
-      "airDate": "2026-09-01",
-      "ratingScore": 5.9,
-      "popularity": 397,
-      "totalEpisodes": 0,
-      "genres": [
-        "里番"
-      ],
-      "tags": [
-        "里番"
-      ],
-      "sites": [],
-      "isAdult": true,
-      "startYear": 2026,
-      "startMonth": 9,
-      "episodes": [
-        {
-          "n": 2,
-          "t": 1792681200
-        }
-      ]
-    },
-    {
       "anilistId": 214593,
       "bgmId": 688204,
       "title": "ゆうさんち！from 遊ハち",
@@ -12226,10 +12176,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 6,
-          "t": 1792681200
-        },
         {
           "n": 7,
           "t": 1792980000
@@ -12446,8 +12392,8 @@
       "tags": [
         "搞笑",
         "日常",
-        "兽耳",
         "女主",
+        "兽耳",
         "偶像",
         "美食料理"
       ],
@@ -12789,6 +12735,10 @@
         {
           "n": 1,
           "t": 1799067360
+        },
+        {
+          "n": 2,
+          "t": 1799672160
         }
       ]
     },
@@ -12810,8 +12760,8 @@
       ],
       "tags": [
         "日常",
-        "校园",
-        "少儿向"
+        "少儿向",
+        "校园"
       ],
       "sites": [
         {
@@ -13599,8 +13549,8 @@
       "tags": [
         "搞笑",
         "恋爱",
-        "女主",
-        "历史"
+        "历史",
+        "女主"
       ],
       "sites": [
         {
