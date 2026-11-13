@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-11-12T17:49:14.093Z",
+  "generatedAt": "2026-11-13T02:20:35.999Z",
   "window": {
-    "from": 1792691263,
-    "to": 1799689663
+    "from": 1792721945,
+    "to": 1799720345
   },
   "items": [
     {
@@ -13169,10 +13169,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 4,
-          "t": 1792716600
-        },
         {
           "n": 5,
           "t": 1793321400

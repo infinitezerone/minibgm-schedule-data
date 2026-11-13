@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-12T17:51:34.576Z",
+  "generatedAt": "2026-11-13T02:22:54.600Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -492,6 +492,7 @@
         "日常",
         "女主",
         "兽耳",
+        "群像",
         "青年向",
         "讽刺",
         "都市奇幻",
@@ -863,7 +864,8 @@
         "校园",
         "女主",
         "男主",
-        "少年向"
+        "少年向",
+        "傲娇"
       ],
       "sites": [
         {
@@ -7329,7 +7331,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3163,
+      "popularity": 3165,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7357,11 +7359,11 @@
         "记忆管理局",
         "2026年",
         "国创",
-        "作画",
+        "架空",
+        "治愈",
         "2026夏",
-        "中国动画",
-        "7月",
-        "记忆"
+        "记忆",
+        "作画"
       ],
       "sites": [],
       "episodes": []
@@ -7746,7 +7748,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1138,
+      "popularity": 1139,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
