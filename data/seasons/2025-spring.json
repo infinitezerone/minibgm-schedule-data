@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-11-13T11:58:38.635Z",
+  "generatedAt": "2026-11-13T17:27:45.377Z",
   "total": 131,
   "mappedTotal": 131,
   "items": [
@@ -5808,7 +5808,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bf/ca/336268_ltiod.jpg",
       "airDate": "2025-05-23",
       "ratingScore": 7,
-      "popularity": 3877,
+      "popularity": 3879,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -6402,7 +6402,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ed/4a/345824_VXxo5.jpg",
       "airDate": "2025-06-28",
       "ratingScore": 6.7,
-      "popularity": 2650,
+      "popularity": 2651,
       "totalEpisodes": 13,
       "genres": [
         "国产动画"
@@ -6430,11 +6430,11 @@
         "未定档",
         "视美影业",
         "克苏鲁",
+        "2025年",
         "熊可",
-        "剧集",
-        "蒸汽朋克",
         "视美动画",
-        "2025年"
+        "剧集",
+        "蒸汽朋克"
       ],
       "sites": [],
       "episodes": []

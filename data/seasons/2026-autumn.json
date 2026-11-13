@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-13T12:00:48.074Z",
+  "generatedAt": "2026-11-13T17:29:47.240Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -5309,7 +5309,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 886,
+      "popularity": 896,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5326,23 +5326,23 @@
         "国漫",
         "寒木春华",
         "玄幻",
-        "3",
         "续集",
+        "3",
         "未定档",
         "国产动画",
         "日常",
         "MTJJ",
         "奇幻",
-        "动漫",
-        "追番",
-        "国创",
-        "电视动画",
-        "2026年",
-        "泡面番",
-        "续作",
-        "动作",
         "泡面",
-        "11"
+        "11",
+        "电视动画",
+        "动作",
+        "动漫",
+        "◆TV◆",
+        "搞笑",
+        "萌",
+        "续作",
+        "泡面番"
       ],
       "sites": [],
       "episodes": []
@@ -5927,7 +5927,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 135,
+      "popularity": 136,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -6237,6 +6237,38 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 576783,
+      "title": "狂王2",
+      "titleCn": "狂王 第2季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
+      "airDate": "2026-10-08",
+      "ratingScore": 3,
+      "popularity": 20,
+      "totalEpisodes": 14,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "国漫",
+        "TV",
+        "漫画改",
+        "悬疑",
+        "奇幻",
+        "2026",
+        "4",
+        "WEB",
+        "狂王罗喉"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 218942,
       "bgmId": 704737,
       "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
@@ -6257,38 +6289,6 @@
       "tags": [
         "奇幻",
         "日常"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 576783,
-      "title": "狂王2",
-      "titleCn": "狂王 第2季",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
-      "airDate": "2026-10-08",
-      "ratingScore": 3,
-      "popularity": 19,
-      "totalEpisodes": 14,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "战斗",
-        "国漫",
-        "TV",
-        "漫画改",
-        "悬疑",
-        "奇幻",
-        "2026",
-        "4",
-        "WEB",
-        "狂王罗喉"
       ],
       "sites": [],
       "episodes": []
@@ -6331,7 +6331,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
       "airDate": "2026-10-31",
       "ratingScore": 0,
-      "popularity": 12,
+      "popularity": 13,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
