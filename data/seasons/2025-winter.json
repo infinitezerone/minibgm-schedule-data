@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-11-13T17:27:22.042Z",
+  "generatedAt": "2026-11-14T01:57:23.880Z",
   "total": 115,
   "mappedTotal": 115,
   "items": [
@@ -2644,15 +2644,15 @@
         "剧情",
         "悬疑",
         "超自然",
-        "都市奇幻",
         "悲剧",
+        "都市奇幻",
         "幽灵",
         "妖怪",
-        "少年向",
         "校园",
-        "神话",
+        "少年向",
         "时间回溯",
         "女主",
+        "神话",
         "BL"
       ],
       "sites": [
@@ -5243,7 +5243,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/b7/383308_COQIc.jpg",
       "airDate": "2025-01-29",
       "ratingScore": 6.4,
-      "popularity": 6968,
+      "popularity": 6970,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
