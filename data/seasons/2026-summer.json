@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-14T11:19:05.270Z",
+  "generatedAt": "2026-11-14T16:19:58.829Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -977,7 +977,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
       "airDate": "2026-07-05",
       "ratingScore": 7.4,
-      "popularity": 64495,
+      "popularity": 64549,
       "totalEpisodes": 13,
       "genres": [
         "冒险",
@@ -6295,7 +6295,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
       "airDate": "2026-07-09",
       "ratingScore": 4.9,
-      "popularity": 8174,
+      "popularity": 8179,
       "totalEpisodes": 12,
       "genres": [
         "动作",
@@ -7749,7 +7749,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1149,
+      "popularity": 1152,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7767,21 +7767,21 @@
         "动画电影",
         "牟正洋",
         "国漫",
-        "动画片",
         "东方梦工厂",
+        "动画片",
         "3D",
-        "2026年",
         "电影",
+        "2026年",
         "2026年7月",
-        "国产动画",
         "小说改",
+        "国产动画",
         "玄幻",
-        "国产动画电影",
-        "8",
-        "剧情",
         "8分",
-        "五星",
-        "7"
+        "剧情",
+        "8",
+        "国产动画电影",
+        "Pearl",
+        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -8360,7 +8360,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
       "ratingScore": 6.2,
-      "popularity": 520,
+      "popularity": 521,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8803,7 +8803,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6.3,
-      "popularity": 237,
+      "popularity": 238,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -9296,7 +9296,7 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/26/2c/507780_i0FZ0.jpg",
       "airDate": "2026-08-07",
-      "ratingScore": 5.3,
+      "ratingScore": 5.2,
       "popularity": 30,
       "totalEpisodes": 5,
       "genres": [

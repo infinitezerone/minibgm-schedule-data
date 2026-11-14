@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-14T11:19:24.466Z",
+  "generatedAt": "2026-11-14T16:20:36.419Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -5339,7 +5339,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 911,
+      "popularity": 915,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5356,23 +5356,23 @@
         "国漫",
         "寒木春华",
         "玄幻",
-        "续集",
         "3",
+        "续集",
         "未定档",
-        "国产动画",
-        "日常",
-        "MTJJ",
         "奇幻",
+        "MTJJ",
+        "日常",
+        "国产动画",
+        "追番",
+        "国创",
+        "2026年",
+        "动漫",
+        "搞笑",
+        "动作",
+        "泡面番",
         "泡面",
         "11",
-        "电视动画",
-        "动作",
-        "动漫",
-        "◆TV◆",
-        "搞笑",
-        "萌",
-        "续作",
-        "泡面番"
+        "电视动画"
       ],
       "sites": [],
       "episodes": []
@@ -5469,7 +5469,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7,
-      "popularity": 390,
+      "popularity": 392,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5591,7 +5591,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 340,
+      "popularity": 341,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5608,14 +5608,14 @@
         "战斗",
         "厕纸",
         "2026",
-        "奇幻",
         "2026补",
         "coocaa",
-        "喜欢！",
         "国产动画",
+        "奇幻",
+        "TV",
         "表番",
         "2D",
-        "TV"
+        "喜欢！"
       ],
       "sites": [],
       "episodes": []
@@ -5980,7 +5980,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 137,
+      "popularity": 138,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -5993,10 +5993,10 @@
         "2026",
         "厕纸",
         "3D",
+        "WEB",
+        "热血",
         "小说改",
         "国创",
-        "热血",
-        "WEB",
         "牧神记",
         "2026年10月",
         "沈乐平",
@@ -6082,6 +6082,40 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 576968,
+      "title": "斗破苍穹剧场版 双帝之战",
+      "titleCn": "斗破苍穹剧场版 双帝之战",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
+      "airDate": "2026-11-22",
+      "ratingScore": 0,
+      "popularity": 67,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "玄幻",
+        "小说改",
+        "斗破苍穹",
+        "3D",
+        "网文改",
+        "WEB",
+        "后宫",
+        "国产动画",
+        "未定档",
+        "剧场版",
+        "2026"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 217787,
       "bgmId": 635258,
       "title": "ポップパップポルターズ",
@@ -6148,38 +6182,6 @@
       ],
       "tags": [
         "日常"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 576968,
-      "title": "斗破苍穹剧场版 双帝之战",
-      "titleCn": "斗破苍穹剧场版 双帝之战",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
-      "airDate": "2026-11-22",
-      "ratingScore": 0,
-      "popularity": 59,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "战斗",
-        "小说改",
-        "斗破苍穹",
-        "玄幻",
-        "WEB",
-        "网文改",
-        "3D",
-        "未定档",
-        "国产动画",
-        "后宫"
       ],
       "sites": [],
       "episodes": []
@@ -6361,7 +6363,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
       "airDate": "2026-10-31",
       "ratingScore": 0,
-      "popularity": 13,
+      "popularity": 14,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
