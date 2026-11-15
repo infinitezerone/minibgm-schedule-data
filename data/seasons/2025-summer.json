@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "summer",
-  "generatedAt": "2026-11-15T11:50:42.681Z",
+  "generatedAt": "2026-11-15T16:52:46.364Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -6992,7 +6992,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
       "airDate": "2025-07-18",
       "ratingScore": 7.7,
-      "popularity": 7125,
+      "popularity": 7127,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7023,9 +7023,9 @@
         "萌",
         "热血",
         "国创",
-        "院线",
-        "打拳",
-        "中国动画"
+        "中国动画",
+        "好猫配贱人",
+        "打拳"
       ],
       "sites": [
         {
@@ -7503,7 +7503,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/93/79/440095_HJh7H.jpg",
       "airDate": "2025-08-02",
       "ratingScore": 7.1,
-      "popularity": 3857,
+      "popularity": 3858,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7512,8 +7512,8 @@
         "剧场版",
         "原创",
         "2025",
-        "上海美术电影制片厂",
         "奇幻",
+        "上海美术电影制片厂",
         "喜剧",
         "剧情",
         "搞笑",
@@ -7529,13 +7529,13 @@
         "国产动画",
         "2025年8月",
         "热血",
-        "治愈",
         "上美",
+        "治愈",
         "中国动画",
         "2020s",
         "西游",
-        "国创",
-        "玄幻"
+        "2025年7月",
+        "国创"
       ],
       "sites": [],
       "episodes": []
@@ -8887,7 +8887,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e2/e6/456167_4Jh11.jpg",
       "airDate": "2025-08-08",
       "ratingScore": 7.1,
-      "popularity": 514,
+      "popularity": 515,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8910,16 +8910,16 @@
         "好看",
         "催泪",
         "7",
-        "2025年7",
-        "公路片",
         "34岁",
-        "11:00",
         "古代",
+        "女主",
+        "公路片",
+        "不够刀",
+        "致郁",
         "6下",
-        "国产动画",
-        "2025年",
         "中8",
-        "致郁"
+        "11:00",
+        "2025年7"
       ],
       "sites": [],
       "episodes": []
@@ -9809,7 +9809,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b0/db/395186_2tWNt.jpg",
       "airDate": "2025-08-23",
       "ratingScore": 4.5,
-      "popularity": 69,
+      "popularity": 70,
       "totalEpisodes": 17,
       "genres": [
         "国产动画"
@@ -9818,16 +9818,16 @@
         "2025",
         "小说改",
         "万维猫动画",
-        "原力动画",
         "WEB",
+        "原力动画",
         "盗墓",
         "国创",
         "网文改",
         "国漫",
-        "奇幻",
         "3D",
-        "轻小说改",
         "厕纸",
+        "奇幻",
+        "轻小说改",
         "TV",
         "战斗",
         "5"
@@ -9956,22 +9956,22 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/29/25/449361_FjLLs.jpg",
       "airDate": "2025-07-23",
-      "ratingScore": 4.2,
-      "popularity": 35,
+      "ratingScore": 4.3,
+      "popularity": 36,
       "totalEpisodes": 60,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "玄幻",
         "喜剧",
+        "玄幻",
+        "WEB",
         "3D",
         "2025年7月",
-        "WEB",
         "索以",
-        "2025",
+        "小说改",
         "索以文化",
-        "小说改"
+        "2025"
       ],
       "sites": [],
       "episodes": []
