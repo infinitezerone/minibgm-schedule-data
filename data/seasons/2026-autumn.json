@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-15T16:54:35.945Z",
+  "generatedAt": "2026-11-16T01:35:30.311Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -91,7 +91,8 @@
         "女主",
         "侦探",
         "历史",
-        "青年向"
+        "青年向",
+        "生存"
       ],
       "sites": [],
       "episodes": []
@@ -4508,10 +4509,11 @@
       "tags": [
         "搞笑",
         "日常",
+        "办公室",
         "男主",
         "治愈",
         "少女向",
-        "办公室"
+        "御宅文化"
       ],
       "sites": [],
       "episodes": []
@@ -5339,7 +5341,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.6,
-      "popularity": 939,
+      "popularity": 943,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5351,8 +5353,8 @@
         "战斗",
         "WEB",
         "治愈",
-        "TV",
         "罗小黑战记",
+        "TV",
         "国漫",
         "寒木春华",
         "玄幻",
@@ -5363,16 +5365,16 @@
         "MTJJ",
         "日常",
         "国产动画",
-        "国创",
-        "2026年",
         "优作",
-        "追番",
         "搞笑",
-        "泡面",
-        "动作",
-        "11",
+        "现代国产网络动画已看合集",
+        "2026年",
+        "萌",
         "电视动画",
-        "动漫"
+        "11",
+        "动漫",
+        "追番",
+        "国创"
       ],
       "sites": [],
       "episodes": []
@@ -5496,7 +5498,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7,
-      "popularity": 393,
+      "popularity": 394,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5591,7 +5593,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 342,
+      "popularity": 345,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -6102,15 +6104,15 @@
         "战斗",
         "小说改",
         "玄幻",
-        "网文改",
         "3D",
         "斗破苍穹",
+        "网文改",
         "WEB",
         "后宫",
-        "国产动画",
         "剧场版",
-        "未定档",
-        "2026"
+        "国产动画",
+        "2026",
+        "未定档"
       ],
       "sites": [],
       "episodes": []

@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "summer",
-  "generatedAt": "2026-11-15T16:52:46.364Z",
+  "generatedAt": "2026-11-16T01:33:47.247Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -6992,7 +6992,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
       "airDate": "2025-07-18",
       "ratingScore": 7.7,
-      "popularity": 7127,
+      "popularity": 7129,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -8887,7 +8887,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e2/e6/456167_4Jh11.jpg",
       "airDate": "2025-08-08",
       "ratingScore": 7.1,
-      "popularity": 515,
+      "popularity": 516,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -9567,8 +9567,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f9/3a/456171_DllLV.jpg",
       "airDate": "2025-07-29",
-      "ratingScore": 5.8,
-      "popularity": 145,
+      "ratingScore": 5.7,
+      "popularity": 146,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"
@@ -9587,13 +9587,13 @@
         "厕纸",
         "TV",
         "恋爱",
-        "国创",
-        "10:00",
         "周二",
-        "冒险",
+        "国创",
+        "国漫",
         "超能力",
-        "5",
-        "国漫"
+        "10:00",
+        "冒险",
+        "5"
       ],
       "sites": [],
       "episodes": []
