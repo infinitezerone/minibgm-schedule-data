@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-17T12:55:24.854Z",
+  "generatedAt": "2026-11-17T18:56:02.698Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -5342,8 +5342,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
-      "ratingScore": 7.5,
-      "popularity": 974,
+      "ratingScore": 7.6,
+      "popularity": 979,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5362,21 +5362,21 @@
         "玄幻",
         "3",
         "续集",
-        "国产动画",
-        "未定档",
+        "奇幻",
         "日常",
         "MTJJ",
-        "奇幻",
-        "11",
-        "电视动画",
-        "动漫",
-        "泡面",
-        "追番",
+        "国产动画",
+        "未定档",
         "◆TV◆",
-        "萌",
         "续作",
         "泡面番",
-        "动作"
+        "萌",
+        "动作",
+        "2026年",
+        "国创",
+        "优作",
+        "搞笑",
+        "现代国产网络动画已看合集"
       ],
       "sites": [],
       "episodes": []
@@ -5500,7 +5500,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7,
-      "popularity": 396,
+      "popularity": 397,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -6097,7 +6097,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
       "airDate": "2026-11-22",
       "ratingScore": 0,
-      "popularity": 78,
+      "popularity": 81,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -6106,11 +6106,11 @@
         "战斗",
         "玄幻",
         "小说改",
+        "网文改",
         "3D",
         "斗破苍穹",
-        "网文改",
-        "后宫",
         "WEB",
+        "后宫",
         "剧场版",
         "国产动画",
         "2026",
@@ -6357,6 +6357,33 @@
     },
     {
       "anilistId": null,
+      "bgmId": 449352,
+      "title": "星门",
+      "titleCn": "星门",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/5d/87/449352_Kc22q.jpg",
+      "airDate": "2026-11-26",
+      "ratingScore": 0,
+      "popularity": 16,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "TV",
+        "启缘映画",
+        "WEB",
+        "小说改",
+        "网文改"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 712500,
       "title": "万圣街 特别篇 古堡的秘密",
       "titleCn": "万圣街 特别篇 古堡的秘密",
@@ -6478,32 +6505,6 @@
         "WEB",
         "武侠",
         "动画片"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 708145,
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "titleCn": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "countryOfOrigin": "CN",
-      "format": "剧场版",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/77/f3/708145_U4P57.jpg",
-      "airDate": "2026-10-01",
-      "ratingScore": 5,
-      "popularity": 3,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "剧场版",
-        "科幻",
-        "2026",
-        "子供向"
       ],
       "sites": [],
       "episodes": []
