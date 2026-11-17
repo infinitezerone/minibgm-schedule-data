@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-16T12:33:52.305Z",
+  "generatedAt": "2026-11-17T04:20:27.734Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -836,7 +836,7 @@
       "airDate": "2026-10-06",
       "ratingScore": 7.4,
       "popularity": 50768,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "genres": [
         "冒险",
         "搞笑",
@@ -1823,7 +1823,7 @@
       "airDate": "2026-10-04",
       "ratingScore": 6.2,
       "popularity": 27316,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "genres": [
         "动作",
         "冒险",
@@ -2289,7 +2289,7 @@
       "airDate": "2026-10-05",
       "ratingScore": 6.5,
       "popularity": 23693,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "genres": [
         "动作",
         "冒险",
@@ -4788,7 +4788,8 @@
       "tags": [
         "动作",
         "机战",
-        "科幻"
+        "科幻",
+        "女主"
       ],
       "sites": [],
       "episodes": []
@@ -5340,8 +5341,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
-      "ratingScore": 7.6,
-      "popularity": 955,
+      "ratingScore": 7.5,
+      "popularity": 964,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5358,23 +5359,23 @@
         "国漫",
         "寒木春华",
         "玄幻",
-        "续集",
         "3",
-        "国产动画",
-        "未定档",
+        "续集",
+        "奇幻",
         "日常",
         "MTJJ",
-        "奇幻",
-        "泡面番",
-        "动作",
-        "泡面",
+        "国产动画",
+        "未定档",
+        "◆TV◆",
         "续作",
-        "11",
-        "搞笑",
-        "优作",
-        "现代国产网络动画已看合集",
+        "泡面番",
         "萌",
-        "◆TV◆"
+        "动作",
+        "2026年",
+        "国创",
+        "优作",
+        "搞笑",
+        "现代国产网络动画已看合集"
       ],
       "sites": [],
       "episodes": []
@@ -5498,7 +5499,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7,
-      "popularity": 394,
+      "popularity": 396,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5506,31 +5507,31 @@
       "tags": [
         "漫画改",
         "搞笑",
-        "奇幻",
-        "2026",
-        "TV",
-        "国漫",
         "战斗",
+        "2026",
+        "国漫",
+        "奇幻",
+        "TV",
         "WEB",
         "推理",
         "武侠",
-        "未上映",
         "历史",
-        "腾讯",
-        "2026年10月",
         "国产或合作动画",
+        "2026年10月",
+        "好传动画",
+        "大理寺日志",
+        "腾讯",
+        "未上映",
         "好船动画",
         "2025",
-        "2020-2029",
         "国内番剧",
         "动作",
-        "大理寺日志",
-        "未定档",
+        "2020-2029",
+        "悬疑",
         "漫改",
         "古风",
-        "悬疑",
         "2D",
-        "好传动画"
+        "未定档"
       ],
       "sites": [],
       "episodes": []
@@ -5593,7 +5594,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 346,
+      "popularity": 348,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5853,23 +5854,23 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 187,
+      "popularity": 188,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "镇魂街",
-        "WEB",
-        "漫改",
-        "未定档",
-        "国漫",
         "表番",
-        "TV",
-        "国创",
+        "未定档",
         "艾尔平方",
+        "漫改",
+        "国创",
+        "国产动画",
+        "TV",
         "战斗",
-        "国产动画"
+        "国漫",
+        "WEB"
       ],
       "sites": [],
       "episodes": []
@@ -6095,7 +6096,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
       "airDate": "2026-11-22",
       "ratingScore": 0,
-      "popularity": 73,
+      "popularity": 75,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -6104,15 +6105,15 @@
         "战斗",
         "小说改",
         "玄幻",
+        "3D",
         "斗破苍穹",
         "网文改",
-        "3D",
         "WEB",
         "后宫",
         "剧场版",
         "国产动画",
-        "未定档",
-        "2026"
+        "2026",
+        "未定档"
       ],
       "sites": [],
       "episodes": []
