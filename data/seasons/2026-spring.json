@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-11-18T12:47:22.831Z",
+  "generatedAt": "2026-11-18T18:34:04.438Z",
   "total": 120,
   "mappedTotal": 120,
   "items": [
@@ -8622,7 +8622,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/06/9c/520299_IS833.jpg",
       "airDate": "2026-06-25",
       "ratingScore": 6.1,
-      "popularity": 328,
+      "popularity": 329,
       "totalEpisodes": 15,
       "genres": [
         "国产动画"
@@ -8645,16 +8645,16 @@
         "TV",
         "2026年7月",
         "现代",
-        "厕纸",
-        "god",
-        "THE",
-        "7",
         "第二季",
-        "剧场版",
-        "slay",
-        "看了十五集的",
+        "龙傲天",
+        "god",
+        "厕纸",
         "预告",
-        "龙傲天"
+        "slay",
+        "大陆",
+        "2026年6月",
+        "看了十五集的",
+        "剧场版"
       ],
       "sites": [],
       "episodes": []
@@ -9216,6 +9216,39 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 507822,
+      "title": "全职法师Ⅶ",
+      "titleCn": "全职法师 第七季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/88/e4/507822_q52CC.jpg",
+      "airDate": "2026-05-13",
+      "ratingScore": 5.2,
+      "popularity": 124,
+      "totalEpisodes": 12,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "2026",
+        "奇幻",
+        "网文改",
+        "2026年4月",
+        "WEB",
+        "小说改",
+        "TV",
+        "未上映",
+        "国漫",
+        "4",
+        "中国动画"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 206950,
       "bgmId": 532772,
       "title": "クマーバシーズン3",
@@ -9263,39 +9296,6 @@
           "id": "532772"
         }
       ],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 507822,
-      "title": "全职法师Ⅶ",
-      "titleCn": "全职法师 第七季",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/88/e4/507822_q52CC.jpg",
-      "airDate": "2026-05-13",
-      "ratingScore": 5.2,
-      "popularity": 123,
-      "totalEpisodes": 12,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "2026",
-        "奇幻",
-        "网文改",
-        "2026年4月",
-        "WEB",
-        "小说改",
-        "未上映",
-        "TV",
-        "国漫",
-        "4",
-        "中国动画"
-      ],
-      "sites": [],
       "episodes": []
     },
     {

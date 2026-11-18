@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-18T12:47:40.195Z",
+  "generatedAt": "2026-11-18T18:34:23.008Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -7333,7 +7333,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3192,
+      "popularity": 3198,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7750,7 +7750,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1180,
+      "popularity": 1181,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7781,8 +7781,8 @@
         "剧情",
         "8",
         "国产动画电影",
-        "组织",
-        "反转"
+        "Pearl",
+        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -9082,7 +9082,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/45/0b/449354_gs8Rj.jpg",
       "airDate": "2026-07-04",
       "ratingScore": 5.4,
-      "popularity": 103,
+      "popularity": 104,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -9095,9 +9095,9 @@
         "2026年7月",
         "国产或合作动画",
         "奇幻战斗",
-        "腾讯",
         "子供",
         "子供向",
+        "腾讯",
         "战斗",
         "魔法少女",
         "国产TV"
