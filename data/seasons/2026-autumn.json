@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-17T18:56:02.698Z",
+  "generatedAt": "2026-11-18T03:20:26.457Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -442,11 +442,12 @@
         "恋爱",
         "病娇",
         "女性向",
-        "猎奇/血腥",
         "历史",
-        "女主",
+        "猎奇/血腥",
         "婚姻",
-        "生存"
+        "生存",
+        "女主",
+        "男主"
       ],
       "sites": [
         {
@@ -1332,7 +1333,8 @@
         "武术格斗",
         "男主",
         "神明",
-        "外星人"
+        "外星人",
+        "都市奇幻"
       ],
       "sites": [],
       "episodes": []
@@ -1758,7 +1760,11 @@
         "转生",
         "异世界",
         "搞笑滑稽",
-        "男主"
+        "男主",
+        "校园",
+        "地下城",
+        "天使",
+        "精灵"
       ],
       "sites": [
         {
@@ -5343,7 +5349,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.6,
-      "popularity": 979,
+      "popularity": 980,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5360,23 +5366,23 @@
         "国漫",
         "寒木春华",
         "玄幻",
-        "3",
         "续集",
-        "奇幻",
-        "日常",
-        "MTJJ",
+        "3",
         "国产动画",
         "未定档",
-        "◆TV◆",
-        "续作",
+        "日常",
+        "MTJJ",
+        "奇幻",
         "泡面番",
-        "萌",
         "动作",
-        "2026年",
-        "国创",
-        "优作",
+        "泡面",
+        "续作",
+        "11",
         "搞笑",
-        "现代国产网络动画已看合集"
+        "优作",
+        "现代国产网络动画已看合集",
+        "萌",
+        "◆TV◆"
       ],
       "sites": [],
       "episodes": []
@@ -6097,7 +6103,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
       "airDate": "2026-11-22",
       "ratingScore": 0,
-      "popularity": 81,
+      "popularity": 82,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -6106,15 +6112,15 @@
         "战斗",
         "玄幻",
         "小说改",
+        "斗破苍穹",
         "网文改",
         "3D",
-        "斗破苍穹",
         "WEB",
         "后宫",
         "剧场版",
         "国产动画",
-        "2026",
-        "未定档"
+        "未定档",
+        "2026"
       ],
       "sites": [],
       "episodes": []
@@ -6433,6 +6439,32 @@
     },
     {
       "anilistId": null,
+      "bgmId": 712926,
+      "title": "都市古医仙2",
+      "titleCn": "都市古医仙2",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
+      "airDate": "2026-10-14",
+      "ratingScore": 0,
+      "popularity": 8,
+      "totalEpisodes": 40,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "日",
+        "WEB",
+        "小说改",
+        "三"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 625517,
       "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
       "titleCn": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
@@ -6505,31 +6537,6 @@
         "WEB",
         "武侠",
         "动画片"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 662691,
-      "title": "混在末日，独自成仙",
-      "titleCn": "混在末日，独自成仙",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/20/c8/662691_aFr7O.jpg",
-      "airDate": "2026-11-18",
-      "ratingScore": 0,
-      "popularity": 2,
-      "totalEpisodes": 0,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB",
-        "小说改",
-        "玄幻"
       ],
       "sites": [],
       "episodes": []
