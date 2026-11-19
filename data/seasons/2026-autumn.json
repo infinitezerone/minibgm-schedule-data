@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-18T18:34:43.469Z",
+  "generatedAt": "2026-11-19T02:58:25.368Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -1048,7 +1048,7 @@
       "airDate": "2026-10-01",
       "ratingScore": 8.2,
       "popularity": 41353,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "genres": [
         "搞笑",
         "剧情",
@@ -4982,7 +4982,7 @@
       "airDate": "2026-10-07",
       "ratingScore": 5.1,
       "popularity": 3524,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "genres": [
         "动作",
         "机战"
@@ -5349,7 +5349,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 988,
+      "popularity": 989,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"

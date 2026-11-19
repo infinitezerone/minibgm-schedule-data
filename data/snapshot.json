@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-11-18T18:31:29.998Z",
+  "generatedAt": "2026-11-19T02:55:38.539Z",
   "window": {
-    "from": 1793212189,
-    "to": 1800210589
+    "from": 1793242435,
+    "to": 1800240835
   },
   "items": [
     {
@@ -1449,10 +1449,10 @@
         "异世界",
         "搞笑滑稽",
         "男主",
-        "校园",
         "地下城",
         "天使",
-        "精灵"
+        "精灵",
+        "校园"
       ],
       "sites": [
         {
@@ -3872,8 +3872,8 @@
         "日常",
         "运动",
         "男主",
-        "校园",
         "青春成长",
+        "校园",
         "治愈",
         "篮球"
       ],
@@ -5071,8 +5071,8 @@
         "丧尸",
         "末日废土",
         "旅行",
-        "女主",
         "生存",
+        "女主",
         "悲剧",
         "少年向"
       ],
@@ -7425,8 +7425,8 @@
         "猎奇/血腥",
         "婚姻",
         "生存",
-        "男主",
-        "女主"
+        "女主",
+        "男主"
       ],
       "sites": [
         {
@@ -8380,10 +8380,10 @@
       "tags": [
         "动作",
         "搞笑",
-        "少年向",
-        "男主",
+        "群像",
         "黑手党",
-        "群像"
+        "男主",
+        "少年向"
       ],
       "sites": [],
       "isAdult": false,
@@ -11236,7 +11236,7 @@
       "airDate": "2026-10-07",
       "ratingScore": 5.1,
       "popularity": 3524,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "genres": [
         "动作",
         "机战"
@@ -11731,7 +11731,7 @@
       "airDate": "2026-10-01",
       "ratingScore": 8.2,
       "popularity": 41353,
-      "totalEpisodes": 0,
+      "totalEpisodes": 12,
       "genres": [
         "搞笑",
         "剧情",
@@ -12188,8 +12188,8 @@
         "日常",
         "兽耳",
         "女主",
-        "美食料理",
-        "偶像"
+        "偶像",
+        "美食料理"
       ],
       "sites": [
         {
@@ -13539,6 +13539,42 @@
         {
           "n": 12,
           "t": 1797502740
+        }
+      ]
+    },
+    {
+      "anilistId": 219505,
+      "bgmId": 697602,
+      "title": "ペロペロ★スパ～クルズ",
+      "titleCn": null,
+      "countryOfOrigin": "JP",
+      "format": "TV",
+      "status": "NOT_YET_RELEASED",
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx219505-HjkAJVkffxS9.jpg",
+      "airDate": "2027-01-01",
+      "ratingScore": 0,
+      "popularity": 54,
+      "totalEpisodes": 0,
+      "genres": [
+        "搞笑",
+        "科幻"
+      ],
+      "tags": [
+        "搞笑",
+        "科幻"
+      ],
+      "sites": [],
+      "isAdult": false,
+      "startYear": 2027,
+      "startMonth": 1,
+      "episodes": [
+        {
+          "n": 1,
+          "t": 1799532000
+        },
+        {
+          "n": 2,
+          "t": 1800136800
         }
       ]
     },
