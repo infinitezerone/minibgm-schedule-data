@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-20T12:38:50.311Z",
+  "generatedAt": "2026-11-20T18:11:54.132Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -7360,11 +7360,11 @@
         "记忆管理局",
         "2026年",
         "国创",
-        "中国动画",
-        "7月",
-        "日本",
-        "剧集",
-        "Web动画"
+        "架空",
+        "治愈",
+        "2026夏",
+        "记忆",
+        "作画"
       ],
       "sites": [],
       "episodes": []
@@ -7749,7 +7749,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1185,
+      "popularity": 1188,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -9474,13 +9474,14 @@
         "国产动画"
       ],
       "tags": [
-        "泡面番",
         "原创",
-        "红小豆",
+        "泡面番",
+        "高6",
         "2026年10月",
-        "WEB",
+        "红小豆",
         "日常",
-        "可爱"
+        "可爱",
+        "WEB"
       ],
       "sites": [],
       "episodes": []

@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-11-20T12:38:09.644Z",
-  "total": 113,
-  "mappedTotal": 113,
+  "generatedAt": "2026-11-20T18:11:16.455Z",
+  "total": 114,
+  "mappedTotal": 114,
   "items": [
     {
       "anilistId": 172463,
@@ -8917,6 +8917,34 @@
       "tags": [
         "剧情",
         "科幻"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 628629,
+      "title": "魔物料理人",
+      "titleCn": "魔物料理人",
+      "countryOfOrigin": "CN",
+      "format": "其他",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/3d/54/628629_5VNnW.jpg",
+      "airDate": "2026-02-16",
+      "ratingScore": 4,
+      "popularity": 7,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "短片",
+        "2026年1月",
+        "原创",
+        "麦冬映画",
+        "动画片",
+        "拜年纪"
       ],
       "sites": [],
       "episodes": []

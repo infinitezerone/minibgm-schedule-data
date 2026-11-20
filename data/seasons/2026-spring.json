@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-11-20T12:38:32.370Z",
-  "total": 117,
-  "mappedTotal": 117,
+  "generatedAt": "2026-11-20T18:11:37.316Z",
+  "total": 119,
+  "mappedTotal": 119,
   "items": [
     {
       "anilistId": 147105,
@@ -9354,6 +9354,39 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 507822,
+      "title": "全职法师Ⅶ",
+      "titleCn": "全职法师 第七季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/88/e4/507822_q52CC.jpg",
+      "airDate": "2026-05-13",
+      "ratingScore": 5.2,
+      "popularity": 124,
+      "totalEpisodes": 12,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "2026",
+        "奇幻",
+        "网文改",
+        "2026年4月",
+        "WEB",
+        "小说改",
+        "TV",
+        "未上映",
+        "国漫",
+        "4",
+        "中国动画"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 206950,
       "bgmId": 532772,
       "title": "クマーバシーズン3",
@@ -9506,6 +9539,47 @@
         "WEB",
         "三",
         "youku"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 405232,
+      "title": "大道独行之蝶龙变",
+      "titleCn": "大道独行之蝶龙变",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b0/e1/405232_bUuUk.jpg",
+      "airDate": "2026-04-06",
+      "ratingScore": 4.8,
+      "popularity": 82,
+      "totalEpisodes": 16,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "玄幻",
+        "小说改",
+        "3D",
+        "WEB",
+        "2026年4月",
+        "网文改",
+        "国漫",
+        "2026",
+        "万维猫",
+        "11:00",
+        "5",
+        "厕纸",
+        "凡人修仙传",
+        "万维猫动画",
+        "修仙",
+        "2026年",
+        "周一",
+        "TV"
       ],
       "sites": [],
       "episodes": []

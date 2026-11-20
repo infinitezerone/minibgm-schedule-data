@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "summer",
-  "generatedAt": "2026-11-20T12:37:32.186Z",
-  "total": 116,
-  "mappedTotal": 116,
+  "generatedAt": "2026-11-20T18:10:41.010Z",
+  "total": 117,
+  "mappedTotal": 117,
   "items": [
     {
       "anilistId": 178025,
@@ -6992,7 +6992,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
       "airDate": "2025-07-18",
       "ratingScore": 7.7,
-      "popularity": 7159,
+      "popularity": 7161,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7021,9 +7021,9 @@
         "搞笑",
         "玄幻",
         "萌",
-        "国创",
         "热血",
         "中国动画",
+        "国创",
         "院线",
         "打拳"
       ],
@@ -8887,14 +8887,14 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e2/e6/456167_4Jh11.jpg",
       "airDate": "2025-08-08",
       "ratingScore": 7.1,
-      "popularity": 518,
+      "popularity": 519,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "古风",
         "小说改",
+        "古风",
         "奇幻",
         "治愈",
         "国漫",
@@ -8905,21 +8905,21 @@
         "TV",
         "国创",
         "妖怪",
-        "7",
         "妖怪志异",
-        "催泪",
         "玄幻",
         "好看",
-        "6下",
-        "中8",
-        "致郁",
-        "2025年",
-        "11:00",
-        "周五",
+        "催泪",
+        "7",
+        "2D",
+        "2026补",
+        "网文改",
+        "不够刀",
         "续集",
-        "绘梦",
-        "女性向",
-        "国产动画"
+        "34岁",
+        "2025年7",
+        "公路片",
+        "古代",
+        "女主"
       ],
       "sites": [],
       "episodes": []
@@ -8955,19 +8955,19 @@
         "后宫",
         "WEB",
         "六",
-        "魔幻",
-        "网游",
         "幻维数码",
-        "4分",
-        "热血",
-        "修仙",
-        "修炼",
-        "厕纸",
-        "网文",
+        "网游",
+        "魔幻",
         "续集",
+        "修仙",
+        "网文",
+        "厕纸",
         "国创",
+        "修炼",
         "WETV",
-        "幻维数码（国）"
+        "幻维数码（国）",
+        "热血",
+        "4分"
       ],
       "sites": [],
       "episodes": []
@@ -9806,6 +9806,36 @@
           "id": "565325"
         }
       ],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 571909,
+      "title": "宝可梦动画图鉴 第三季 嬉闹一夏",
+      "titleCn": "宝可梦动画图鉴 第三季 嬉闹一夏",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/fd/bd/571909_u5BaU.jpg",
+      "airDate": "2025-07-18",
+      "ratingScore": 5.8,
+      "popularity": 31,
+      "totalEpisodes": 10,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "短片",
+        "2025",
+        "WEB",
+        "宝可梦",
+        "游戏改",
+        "泡面番",
+        "pokemon",
+        "精灵宝可梦"
+      ],
+      "sites": [],
       "episodes": []
     },
     {
