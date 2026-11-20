@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-19T18:48:56.407Z",
-  "total": 106,
-  "mappedTotal": 106,
+  "generatedAt": "2026-11-20T02:50:59.650Z",
+  "total": 110,
+  "mappedTotal": 110,
   "items": [
     {
       "anilistId": 195539,
@@ -5120,8 +5120,8 @@
         "日常",
         "兽耳",
         "女主",
-        "美食料理",
-        "偶像"
+        "偶像",
+        "美食料理"
       ],
       "sites": [],
       "episodes": []
@@ -5349,7 +5349,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.5,
-      "popularity": 1004,
+      "popularity": 1007,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5506,7 +5506,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_x5y5r.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 7,
-      "popularity": 399,
+      "popularity": 400,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5601,7 +5601,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 352,
+      "popularity": 353,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5792,6 +5792,43 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 577237,
+      "title": "仙逆剧场版 弑仙之战",
+      "titleCn": "仙逆剧场版 弑仙之战",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+      "airDate": "2026-10-01",
+      "ratingScore": 6,
+      "popularity": 210,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "剧场版",
+        "2026",
+        "网文改",
+        "玄幻",
+        "3D",
+        "国漫",
+        "WEB",
+        "小说改",
+        "轻小说改",
+        "动画电影",
+        "奇幻",
+        "铸梦动画",
+        "厕纸",
+        "6"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 213298,
       "bgmId": 661278,
       "title": "ゆるゆる図鑑",
@@ -5920,7 +5957,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
-      "popularity": 143,
+      "popularity": 144,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -6107,6 +6144,75 @@
         "奇幻",
         "日常"
       ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 712500,
+      "title": "万圣街 特别篇 古堡的秘密",
+      "titleCn": "万圣街 特别篇 古堡的秘密",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
+      "airDate": "2026-10-31",
+      "ratingScore": 0,
+      "popularity": 14,
+      "totalEpisodes": 3,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "漫画改",
+        "WEB"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 662683,
+      "title": "傲风",
+      "titleCn": "傲风",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c7/dc/662683_BZchh.jpg",
+      "airDate": "2026-11-27",
+      "ratingScore": 0,
+      "popularity": 2,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB",
+        "小说改"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 726875,
+      "title": "大主宰 年番3",
+      "titleCn": "大主宰 年番3",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/84/a8/726875_1441F.jpg",
+      "airDate": "2026-12-25",
+      "ratingScore": 0,
+      "popularity": 0,
+      "totalEpisodes": 52,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [],
       "sites": [],
       "episodes": []
     }
