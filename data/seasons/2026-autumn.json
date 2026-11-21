@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-20T18:12:13.241Z",
-  "total": 117,
-  "mappedTotal": 117,
+  "generatedAt": "2026-11-21T03:01:01.020Z",
+  "total": 118,
+  "mappedTotal": 118,
   "items": [
     {
       "anilistId": 195539,
@@ -2593,7 +2593,8 @@
         "剧情",
         "奇幻",
         "女主",
-        "军事"
+        "军事",
+        "战争"
       ],
       "sites": [
         {
@@ -5348,7 +5349,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.6,
-      "popularity": 1036,
+      "popularity": 1038,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5366,22 +5367,22 @@
         "寒木春华",
         "玄幻",
         "续集",
-        "MTJJ",
-        "日常",
-        "奇幻",
+        "未定档",
         "追番",
         "国产动画",
-        "未定档",
-        "优作",
-        "2026年",
-        "现代国产网络动画已看合集",
-        "搞笑",
-        "国创",
-        "11",
+        "日常",
+        "奇幻",
+        "MTJJ",
         "泡面",
+        "泡面番",
         "动作",
         "电视动画",
-        "动漫"
+        "续作",
+        "◆TV◆",
+        "优作",
+        "现代国产网络动画已看合集",
+        "搞笑",
+        "萌"
       ],
       "sites": [],
       "episodes": []
@@ -5802,7 +5803,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 212,
+      "popularity": 213,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -6072,7 +6073,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
       "airDate": "2026-11-22",
       "ratingScore": 0,
-      "popularity": 88,
+      "popularity": 89,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -6200,7 +6201,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b8/bd/576733_Dgzds.jpg",
       "airDate": "2026-11-29",
       "ratingScore": 0,
-      "popularity": 40,
+      "popularity": 41,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -6322,6 +6323,32 @@
         "玄幻",
         "TV",
         "小说改"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 710874,
+      "title": "宝可梦动画图鉴 第六季 云岫寻踪",
+      "titleCn": "宝可梦动画图鉴 第六季 云岫寻踪",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
+      "airDate": "2026-10-12",
+      "ratingScore": 5.3,
+      "popularity": 16,
+      "totalEpisodes": 10,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "2026",
+        "2026年10月",
+        "短片",
+        "宝可梦"
       ],
       "sites": [],
       "episodes": []

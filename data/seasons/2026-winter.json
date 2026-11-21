@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-11-20T18:11:16.455Z",
+  "generatedAt": "2026-11-21T03:00:00.340Z",
   "total": 114,
   "mappedTotal": 114,
   "items": [
@@ -7443,7 +7443,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ee/ae/507819_OD5zd.jpg",
       "airDate": "2026-01-02",
       "ratingScore": 6.6,
-      "popularity": 1875,
+      "popularity": 1876,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -7465,17 +7465,17 @@
         "启缘映画",
         "未定档",
         "玄幻",
-        "续作",
         "武侠",
         "一魁夺动漫",
-        "2026冬",
-        "7",
-        "表番",
-        "良心作",
-        "都市",
+        "续作",
         "动作",
         "中国动画",
-        "#6"
+        "#6",
+        "都市",
+        "东方",
+        "2020-2029",
+        "C2",
+        "B4"
       ],
       "sites": [],
       "episodes": []

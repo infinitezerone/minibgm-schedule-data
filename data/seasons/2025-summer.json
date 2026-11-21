@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "summer",
-  "generatedAt": "2026-11-20T18:10:41.010Z",
-  "total": 117,
-  "mappedTotal": 117,
+  "generatedAt": "2026-11-21T02:59:23.931Z",
+  "total": 118,
+  "mappedTotal": 118,
   "items": [
     {
       "anilistId": 178025,
@@ -6992,7 +6992,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
       "airDate": "2025-07-18",
       "ratingScore": 7.7,
-      "popularity": 7161,
+      "popularity": 7162,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7024,8 +7024,8 @@
         "热血",
         "中国动画",
         "国创",
-        "院线",
-        "打拳"
+        "打拳",
+        "好猫配贱人"
       ],
       "sites": [
         {
@@ -8553,7 +8553,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/c3/7b/434807_9kVom.jpg",
       "airDate": "2025-09-28",
       "ratingScore": 6.4,
-      "popularity": 931,
+      "popularity": 932,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -9451,6 +9451,48 @@
       "tags": [
         "搞笑",
         "奇幻"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 458937,
+      "title": "神墓 年番",
+      "titleCn": "神墓 年番",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/bd/6b/458937_YveKp.jpg",
+      "airDate": "2025-08-08",
+      "ratingScore": 5.9,
+      "popularity": 253,
+      "totalEpisodes": 52,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "国漫",
+        "小说改",
+        "WEB",
+        "玄幻",
+        "网文改",
+        "2025",
+        "3D",
+        "伊恩动漫",
+        "厕纸",
+        "万维猫动画",
+        "万维猫",
+        "2025年8月",
+        "TV",
+        "异世界",
+        "|",
+        "IYF",
+        "Youtube",
+        "7",
+        "2025年",
+        "2025年7月"
       ],
       "sites": [],
       "episodes": []

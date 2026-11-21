@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-20T18:11:54.132Z",
+  "generatedAt": "2026-11-21T03:00:41.245Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -7332,7 +7332,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3212,
+      "popularity": 3213,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7749,7 +7749,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1188,
+      "popularity": 1190,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7780,8 +7780,8 @@
         "剧情",
         "8",
         "国产动画电影",
-        "反转",
-        "双男主"
+        "组织",
+        "反转"
       ],
       "sites": [],
       "episodes": []

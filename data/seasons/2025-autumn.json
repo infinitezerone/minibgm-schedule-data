@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-11-20T18:11:07.335Z",
-  "total": 116,
-  "mappedTotal": 116,
+  "generatedAt": "2026-11-21T02:59:50.682Z",
+  "total": 117,
+  "mappedTotal": 117,
   "items": [
     {
       "anilistId": 153800,
@@ -8729,6 +8729,43 @@
       "tags": [
         "搞笑",
         "运动"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 345759,
+      "title": "孤雄",
+      "titleCn": "孤雄",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/7d/1c/345759_Lrqh7.jpg",
+      "airDate": "2025-11-02",
+      "ratingScore": 6.1,
+      "popularity": 58,
+      "totalEpisodes": 9,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "原创",
+        "好传动画",
+        "科幻",
+        "TV",
+        "复仇",
+        "艾思动漫",
+        "WEB",
+        "2025",
+        "2025年11月",
+        "2D",
+        "未上映",
+        "6",
+        "2025年10月",
+        "国漫"
       ],
       "sites": [],
       "episodes": []
