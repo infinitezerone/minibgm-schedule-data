@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-21T12:18:20.075Z",
+  "generatedAt": "2026-11-21T17:04:33.484Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -7332,7 +7332,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/4c/1d/358568_qNj44.jpg",
       "airDate": "2026-08-02",
       "ratingScore": 7.2,
-      "popularity": 3217,
+      "popularity": 3219,
       "totalEpisodes": 7,
       "genres": [
         "国产动画"
@@ -7360,11 +7360,11 @@
         "记忆管理局",
         "2026年",
         "国创",
+        "治愈",
+        "作画",
+        "记忆",
         "中国动画",
-        "7月",
-        "日本",
-        "剧集",
-        "Web动画"
+        "2026夏"
       ],
       "sites": [],
       "episodes": []
@@ -7749,7 +7749,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1192,
+      "popularity": 1193,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7773,15 +7773,15 @@
         "2026年",
         "电影",
         "2026年7月",
-        "玄幻",
         "小说改",
         "国产动画",
-        "国产动画电影",
-        "8",
+        "玄幻",
         "剧情",
+        "国产动画电影",
         "8分",
-        "现代国产动画剧场版",
-        "【3D电影】"
+        "8",
+        "画梦成帧文化传媒",
+        "2020s"
       ],
       "sites": [],
       "episodes": []
@@ -8360,7 +8360,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/e6/52/506836_Zz9Bm.jpg",
       "airDate": "2026-09-11",
       "ratingScore": 6.3,
-      "popularity": 528,
+      "popularity": 529,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -8375,18 +8375,18 @@
         "2026",
         "WEB",
         "TV",
-        "2025",
         "漫改",
+        "2025",
         "国产动画",
-        "非常好看",
         "玄幻",
         "补",
         "日常",
-        "可爱",
-        "国创",
         "腾讯",
+        "非常好看",
+        "可爱",
         "6",
-        "绘梦"
+        "绘梦",
+        "国创"
       ],
       "sites": [],
       "episodes": []
@@ -8896,7 +8896,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2e/516426_JJUoU.jpg",
       "airDate": "2026-07-28",
       "ratingScore": 6.4,
-      "popularity": 246,
+      "popularity": 247,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8911,13 +8911,13 @@
         "大宇宙工作室",
         "玄幻",
         "2026",
-        "神漫",
         "2026年7月",
         "搞笑",
-        "平板观看",
+        "神漫",
         "二",
         "欢乐向",
-        "粗口有点多，还打马赛克不过有点意思，有看点能看看的"
+        "粗口有点多，还打马赛克不过有点意思，有看点能看看的",
+        "平板观看"
       ],
       "sites": [],
       "episodes": []
@@ -8934,7 +8934,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/39/b8/577143_dmbb4.jpg",
       "airDate": "2026-08-21",
       "ratingScore": 6.7,
-      "popularity": 212,
+      "popularity": 213,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8992,50 +8992,6 @@
         "2026年7月",
         "方翔",
         "WEB"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 642666,
-      "title": "李熊猫",
-      "titleCn": "李熊猫",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/2e/26/642666_tALbN.jpg",
-      "airDate": "2026-07-29",
-      "ratingScore": 5.6,
-      "popularity": 162,
-      "totalEpisodes": 18,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "战斗",
-        "奇幻",
-        "洛水花原",
-        "冒险",
-        "小说改",
-        "王昕",
-        "2D",
-        "2026",
-        "WEB",
-        "国漫",
-        "2026年7月",
-        "悬疑",
-        "TV",
-        "网文改",
-        "原创",
-        "科幻",
-        "表番",
-        "5",
-        "2026补",
-        "玄幻",
-        "国产动画",
-        "大陆"
       ],
       "sites": [],
       "episodes": []
@@ -9344,6 +9300,38 @@
       "tags": [
         "日常",
         "少儿向"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 624691,
+      "title": "喜羊羊与灰太狼之破界山海诀",
+      "titleCn": "喜羊羊与灰太狼之破界山海诀",
+      "countryOfOrigin": "CN",
+      "format": "TV",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/6c/5c/624691_3u3s8.jpg",
+      "airDate": "2026-07-10",
+      "ratingScore": 6.8,
+      "popularity": 68,
+      "totalEpisodes": 60,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "子供向",
+        "冒险",
+        "2026",
+        "奇幻",
+        "原创动力",
+        "山海经",
+        "中式玄幻",
+        "TV",
+        "原创",
+        "战斗"
       ],
       "sites": [],
       "episodes": []

@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-21T12:18:39.750Z",
-  "total": 118,
-  "mappedTotal": 118,
+  "generatedAt": "2026-11-21T17:04:55.144Z",
+  "total": 119,
+  "mappedTotal": 119,
   "items": [
     {
       "anilistId": 195539,
@@ -5351,7 +5351,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.7,
-      "popularity": 1058,
+      "popularity": 1065,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5366,8 +5366,8 @@
         "罗小黑战记",
         "国漫",
         "TV",
-        "寒木春华",
         "玄幻",
+        "寒木春华",
         "续集",
         "国产动画",
         "未定档",
@@ -5375,16 +5375,16 @@
         "MTJJ",
         "追番",
         "奇幻",
-        "电视动画",
-        "动作",
-        "11",
+        "2026年",
         "国创",
+        "优作",
+        "现代国产网络动画已看合集",
+        "短篇",
+        "电视动画",
+        "泡面番",
         "泡面",
-        "萌",
-        "搞笑",
-        "◆TV◆",
-        "续作",
-        "泡面番"
+        "动作",
+        "11"
       ],
       "sites": [],
       "episodes": []
@@ -5514,16 +5514,16 @@
         "国产动画"
       ],
       "tags": [
-        "搞笑",
         "漫画改",
-        "奇幻",
-        "国漫",
+        "搞笑",
         "2026",
+        "奇幻",
         "战斗",
+        "国漫",
         "TV",
         "WEB",
-        "推理",
         "武侠",
+        "推理",
         "腾讯",
         "好传动画",
         "未上映",
@@ -5531,16 +5531,16 @@
         "2026年10月",
         "大理寺日志",
         "历史",
-        "古风",
-        "悬疑",
         "未定档",
-        "2D",
-        "2020-2029",
         "动作",
-        "好船动画",
         "2025",
+        "2D",
+        "好船动画",
+        "2020-2029",
         "国内番剧",
-        "漫改"
+        "漫改",
+        "古风",
+        "悬疑"
       ],
       "sites": [],
       "episodes": []
@@ -5603,7 +5603,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 355,
+      "popularity": 357,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5615,17 +5615,18 @@
         "WEB",
         "小说改",
         "异能",
-        "搞笑",
         "玄幻",
-        "战斗",
+        "搞笑",
         "厕纸",
         "2026",
-        "2026补",
-        "coocaa",
-        "奇幻",
-        "国产动画",
-        "2D",
+        "战斗",
         "表番",
+        "2026补",
+        "国产动画",
+        "奇幻",
+        "coocaa",
+        "恋爱",
+        "2D",
         "TV",
         "喜欢！"
       ],
@@ -5863,7 +5864,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 189,
+      "popularity": 190,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
@@ -6075,7 +6076,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
       "airDate": "2026-11-22",
       "ratingScore": 0,
-      "popularity": 90,
+      "popularity": 92,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -6084,10 +6085,10 @@
         "战斗",
         "玄幻",
         "网文改",
-        "小说改",
         "3D",
-        "斗破苍穹",
+        "小说改",
         "后宫",
+        "斗破苍穹",
         "WEB",
         "剧场版",
         "2026",
@@ -6366,7 +6367,7 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
       "airDate": "2026-10-31",
-      "ratingScore": 0,
+      "ratingScore": 5,
       "popularity": 14,
       "totalEpisodes": 3,
       "genres": [
@@ -6453,6 +6454,27 @@
         "玄幻",
         "战斗"
       ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 731509,
+      "title": "《蓝色星原：旅谣》公测动画短片",
+      "titleCn": "《蓝色星原：旅谣》公测动画短片",
+      "countryOfOrigin": "CN",
+      "format": "其他",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/f2/5a/731509_BB6BB.jpg",
+      "airDate": "2026-11-21",
+      "ratingScore": 0,
+      "popularity": 0,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [],
       "sites": [],
       "episodes": []
     }
