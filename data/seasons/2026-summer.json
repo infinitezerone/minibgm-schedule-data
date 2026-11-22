@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-21T17:04:33.484Z",
+  "generatedAt": "2026-11-22T01:54:31.535Z",
   "total": 129,
   "mappedTotal": 129,
   "items": [
@@ -7749,7 +7749,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1193,
+      "popularity": 1195,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7776,12 +7776,12 @@
         "小说改",
         "国产动画",
         "玄幻",
-        "剧情",
-        "国产动画电影",
         "8分",
+        "剧情",
         "8",
-        "画梦成帧文化传媒",
-        "2020s"
+        "国产动画电影",
+        "可磕",
+        "6"
       ],
       "sites": [],
       "episodes": []
@@ -9076,18 +9076,18 @@
         "搞笑",
         "WEB",
         "科幻",
-        "奇幻",
         "国漫",
+        "奇幻",
         "动画片",
+        "2026",
         "枫糖动画",
         "2026年7月",
-        "2026",
-        "重返未来1999",
+        "当代",
         "2020s",
-        "6",
-        "番外",
         "国创",
-        "当代"
+        "重返未来1999",
+        "番外",
+        "6"
       ],
       "sites": [],
       "episodes": []
@@ -9348,7 +9348,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/54/61/582920_Y8t5X.jpg",
       "airDate": "2026-08-05",
       "ratingScore": 6.9,
-      "popularity": 52,
+      "popularity": 53,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -9358,10 +9358,10 @@
         "泡面番",
         "日常",
         "WEB",
-        "分子互动",
         "萌系",
-        "2026年7月",
-        "漫改"
+        "分子互动",
+        "漫改",
+        "2026年7月"
       ],
       "sites": [],
       "episodes": []

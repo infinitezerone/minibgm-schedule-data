@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-11-21T17:03:51.316Z",
-  "total": 115,
-  "mappedTotal": 115,
+  "generatedAt": "2026-11-22T01:53:54.076Z",
+  "total": 116,
+  "mappedTotal": 116,
   "items": [
     {
       "anilistId": 172463,
@@ -1645,7 +1645,6 @@
         "无口/三无",
         "肉体恐怖",
         "大逃杀",
-        "百合",
         "生存"
       ],
       "sites": [
@@ -8892,6 +8891,49 @@
         "我吃西红柿",
         "TV",
         "6"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 549506,
+      "title": "有兽焉 第五季",
+      "titleCn": "有兽焉 第五季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b6/b5/549506_J9OGG.jpg",
+      "airDate": "2026-02-20",
+      "ratingScore": 7.1,
+      "popularity": 111,
+      "totalEpisodes": 12,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "泡面番",
+        "萌系",
+        "漫画改",
+        "分子互动",
+        "WEB",
+        "7钓到发光皮皮",
+        "5钓狗仔鸟",
+        "4钓龟",
+        "3钓互换菇",
+        "6钓金银角",
+        "短片",
+        "漫改",
+        "8钓靴下猫腰子",
+        "9钓飞船",
+        "2026年1月",
+        "2026",
+        "重复",
+        "福瑞",
+        "新片头埋刀新片尾四不相钓鱼",
+        "1片尾钓激光笔",
+        "2钓刍狗头"
       ],
       "sites": [],
       "episodes": []
