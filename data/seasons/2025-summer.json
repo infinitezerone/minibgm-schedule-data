@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "summer",
-  "generatedAt": "2026-11-22T12:22:42.113Z",
+  "generatedAt": "2026-11-22T17:31:49.827Z",
   "total": 121,
   "mappedTotal": 121,
   "items": [
@@ -6993,7 +6993,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
       "airDate": "2025-07-18",
       "ratingScore": 7.7,
-      "popularity": 7176,
+      "popularity": 7178,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7022,11 +7022,11 @@
         "搞笑",
         "玄幻",
         "萌",
-        "中国动画",
         "国创",
         "热血",
-        "弃养",
-        "院线"
+        "中国动画",
+        "院线",
+        "打拳"
       ],
       "sites": [
         {
@@ -7504,7 +7504,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/93/79/440095_HJh7H.jpg",
       "airDate": "2025-08-02",
       "ratingScore": 7.1,
-      "popularity": 3878,
+      "popularity": 3881,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7536,7 +7536,7 @@
         "中国动画",
         "国创",
         "西游",
-        "神话"
+        "2025年7月"
       ],
       "sites": [],
       "episodes": []
@@ -8937,7 +8937,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/9d/ae/562145_i67LX.jpg",
       "airDate": "2025-08-03",
       "ratingScore": 4.9,
-      "popularity": 510,
+      "popularity": 511,
       "totalEpisodes": 62,
       "genres": [
         "国产动画"
@@ -8959,17 +8959,17 @@
         "幻维数码",
         "网游",
         "魔幻",
-        "网文",
-        "WETV",
-        "幻维数码（国）",
-        "国创",
-        "修炼",
-        "厕纸",
-        "5",
-        "热血",
         "4分",
+        "幻维数码（国）",
+        "5",
+        "修炼",
+        "热血",
+        "厕纸",
+        "国创",
         "修仙",
-        "续集"
+        "续集",
+        "网文",
+        "WETV"
       ],
       "sites": [],
       "episodes": []

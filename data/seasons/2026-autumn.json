@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-22T12:24:23.155Z",
-  "total": 121,
-  "mappedTotal": 121,
+  "generatedAt": "2026-11-22T17:33:30.673Z",
+  "total": 122,
+  "mappedTotal": 122,
   "items": [
     {
       "anilistId": 195539,
@@ -3382,8 +3382,7 @@
         "恋爱",
         "女主",
         "异世界",
-        "转生",
-        "少女向"
+        "转生"
       ],
       "sites": [],
       "episodes": []
@@ -3656,7 +3655,6 @@
         "剧情",
         "恋爱",
         "超自然",
-        "少女向",
         "婚姻",
         "女主",
         "历史",
@@ -5353,7 +5351,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.7,
-      "popularity": 1083,
+      "popularity": 1092,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5371,22 +5369,21 @@
         "玄幻",
         "寒木春华",
         "续集",
+        "追番",
+        "奇幻",
+        "未定档",
+        "国产动画",
         "MTJJ",
         "日常",
-        "奇幻",
-        "追番",
-        "国产动画",
-        "未定档",
-        "优作",
-        "2026年",
-        "搞笑",
+        "◆TV◆",
+        "萌",
+        "续作",
         "现代国产网络动画已看合集",
+        "优作",
+        "短篇",
         "国创",
-        "11",
-        "泡面",
-        "动作",
-        "电视动画",
-        "短篇"
+        "2026年",
+        "搞笑"
       ],
       "sites": [],
       "episodes": []
@@ -5510,7 +5507,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/fc/d2/449346_x5y5r.jpg",
       "airDate": "2026-10-15",
       "ratingScore": 6.7,
-      "popularity": 404,
+      "popularity": 405,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5604,8 +5601,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
-      "ratingScore": 7.2,
-      "popularity": 359,
+      "ratingScore": 7.1,
+      "popularity": 361,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5614,8 +5611,8 @@
         "大火鸟文化",
         "2026年10月",
         "网文改",
-        "WEB",
         "小说改",
+        "WEB",
         "异能",
         "搞笑",
         "玄幻",
@@ -5625,17 +5622,17 @@
         "TV",
         "奇幻",
         "表番",
-        "coocaa",
         "剧情",
-        "续作",
         "2026补",
         "国漫",
-        "国产动画",
+        "人设",
+        "coocaa",
+        "2D",
+        "续作",
         "8",
         "恋爱",
-        "2D",
-        "喜欢！",
-        "人设"
+        "国产动画",
+        "喜欢！"
       ],
       "sites": [],
       "episodes": []
@@ -5813,7 +5810,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 214,
+      "popularity": 215,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -5868,7 +5865,7 @@
       "format": "WEB",
       "status": "",
       "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_3PIei.jpg",
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_X181q.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
       "popularity": 191,
@@ -5997,7 +5994,7 @@
       "format": "WEB",
       "status": "",
       "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/da/c8/712000_lL46X.jpg",
       "airDate": "2026-10-18",
       "ratingScore": 6,
       "popularity": 148,
@@ -6082,8 +6079,8 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
       "airDate": "2026-11-22",
-      "ratingScore": 5.4,
-      "popularity": 109,
+      "ratingScore": 5.3,
+      "popularity": 127,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -6091,18 +6088,49 @@
       "tags": [
         "战斗",
         "玄幻",
-        "小说改",
-        "3D",
-        "网文改",
         "剧场版",
+        "网文改",
+        "3D",
+        "小说改",
         "WEB",
         "后宫",
         "斗破苍穹",
-        "国产动画",
         "2026",
+        "国产动画",
+        "未定档",
         "国漫",
         "5",
-        "未定档"
+        "5分"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 461585,
+      "title": "第一序列2",
+      "titleCn": "第一序列 第二季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/a5/4a/461585_Wwei9.jpg",
+      "airDate": "2026-12-17",
+      "ratingScore": 0,
+      "popularity": 99,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "奇幻",
+        "未上映",
+        "小说改",
+        "WEB",
+        "末世",
+        "科幻",
+        "3D",
+        "异能"
       ],
       "sites": [],
       "episodes": []
@@ -6118,7 +6146,7 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
       "airDate": "2026-10-25",
-      "ratingScore": 6.8,
+      "ratingScore": 6.7,
       "popularity": 71,
       "totalEpisodes": 0,
       "genres": [
@@ -6127,16 +6155,17 @@
       "tags": [
         "游戏改",
         "WEB",
-        "泡面",
         "校园",
         "2026年10月",
-        "鹰角网络",
+        "泡面",
         "2026",
+        "鹰角网络",
         "明日方舟",
-        "游改",
         "泡面番",
+        "2026观",
+        "游改",
         "国漫",
-        "2026观"
+        "6"
       ],
       "sites": [],
       "episodes": []
@@ -6237,6 +6266,39 @@
     },
     {
       "anilistId": null,
+      "bgmId": 390200,
+      "title": "列女战纪：女娲石记",
+      "titleCn": "列女战纪：女娲石记",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/1c/b4/390200_Z9jPp.jpg",
+      "airDate": "2026-10-05",
+      "ratingScore": 3.6,
+      "popularity": 43,
+      "totalEpisodes": 0,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB",
+        "原创",
+        "乐子",
+        "神话",
+        "玄幻",
+        "国产动画",
+        "2026",
+        "2D",
+        "WEBA",
+        "猫已巴",
+        "蜡笔小嘉"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 576733,
       "title": "武动乾坤 第七季",
       "titleCn": "武动乾坤 第7季",
@@ -6247,19 +6309,20 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b8/bd/576733_Dgzds.jpg",
       "airDate": "2026-11-29",
       "ratingScore": 0,
-      "popularity": 42,
+      "popularity": 43,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
       ],
       "tags": [
+        "战斗",
         "小说改",
         "玄幻",
-        "战斗",
-        "TV",
-        "国漫",
         "WEB",
-        "2026"
+        "六",
+        "国漫",
+        "2026",
+        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -6301,7 +6364,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
       "airDate": "2026-10-08",
       "ratingScore": 3,
-      "popularity": 21,
+      "popularity": 22,
       "totalEpisodes": 14,
       "genres": [
         "国产动画"
@@ -6317,6 +6380,32 @@
         "TV",
         "奇幻",
         "4"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 705980,
+      "title": "熊出没之神奇宝物2",
+      "titleCn": "熊出没之神奇宝物 第二季",
+      "countryOfOrigin": "CN",
+      "format": "TV",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
+      "airDate": "2026-10-01",
+      "ratingScore": 7.2,
+      "popularity": 18,
+      "totalEpisodes": 52,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "子供向",
+        "原创",
+        "奇幻",
+        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -6344,6 +6433,32 @@
         "WEB",
         "战斗",
         "3D"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 710874,
+      "title": "宝可梦动画图鉴 第六季 云岫寻踪",
+      "titleCn": "宝可梦动画图鉴 第六季 云岫寻踪",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
+      "airDate": "2026-10-12",
+      "ratingScore": 5.3,
+      "popularity": 17,
+      "totalEpisodes": 10,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "2026",
+        "2026年10月",
+        "短片",
+        "宝可梦"
       ],
       "sites": [],
       "episodes": []
@@ -6378,32 +6493,6 @@
     },
     {
       "anilistId": null,
-      "bgmId": 710874,
-      "title": "宝可梦动画图鉴 第六季 云岫寻踪",
-      "titleCn": "宝可梦动画图鉴 第六季 云岫寻踪",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
-      "airDate": "2026-10-12",
-      "ratingScore": 5.3,
-      "popularity": 16,
-      "totalEpisodes": 10,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "2026",
-        "2026年10月",
-        "短片",
-        "宝可梦"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
       "bgmId": 712500,
       "title": "万圣街 特别篇 古堡的秘密",
       "titleCn": "万圣街 特别篇 古堡的秘密",
@@ -6414,7 +6503,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
       "airDate": "2026-10-31",
       "ratingScore": 5,
-      "popularity": 15,
+      "popularity": 16,
       "totalEpisodes": 3,
       "genres": [
         "国产动画"
@@ -6422,6 +6511,32 @@
       "tags": [
         "WEB",
         "漫画改"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 562144,
+      "title": "三体短篇集：平行之境",
+      "titleCn": "三体短篇集：平行之境",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/0e/a1/562144_ZJ772.jpg",
+      "airDate": "2026-12-23",
+      "ratingScore": 0,
+      "popularity": 10,
+      "totalEpisodes": 6,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "科幻",
+        "小说改",
+        "WEB",
+        "短片"
       ],
       "sites": [],
       "episodes": []
@@ -6438,7 +6553,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
       "airDate": "2026-10-14",
       "ratingScore": 0,
-      "popularity": 9,
+      "popularity": 10,
       "totalEpisodes": 40,
       "genres": [
         "国产动画"
@@ -6448,32 +6563,6 @@
         "WEB",
         "小说改",
         "三"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 562144,
-      "title": "三体短篇集：平行之境",
-      "titleCn": "三体短篇集：平行之境",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": null,
-      "airDate": "2026-12-23",
-      "ratingScore": 0,
-      "popularity": 8,
-      "totalEpisodes": 6,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "科幻",
-        "小说改",
-        "WEB",
-        "短片"
       ],
       "sites": [],
       "episodes": []
@@ -6500,53 +6589,6 @@
         "小说改",
         "玄幻"
       ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 726875,
-      "title": "大主宰 年番3",
-      "titleCn": "大主宰 年番3",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/84/a8/726875_1441F.jpg",
-      "airDate": "2026-12-25",
-      "ratingScore": 0,
-      "popularity": 1,
-      "totalEpisodes": 52,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB",
-        "小说改",
-        "玄幻",
-        "战斗"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 731509,
-      "title": "《蓝色星原：旅谣》公测动画短片",
-      "titleCn": "《蓝色星原：旅谣》公测动画短片",
-      "countryOfOrigin": "CN",
-      "format": "其他",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/f2/5a/731509_BB6BB.jpg",
-      "airDate": "2026-11-21",
-      "ratingScore": 0,
-      "popularity": 0,
-      "totalEpisodes": 0,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [],
       "sites": [],
       "episodes": []
     }
