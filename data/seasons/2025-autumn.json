@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-11-22T17:32:18.165Z",
-  "total": 122,
-  "mappedTotal": 122,
+  "generatedAt": "2026-11-23T02:10:01.000Z",
+  "total": 123,
+  "mappedTotal": 123,
   "items": [
     {
       "anilistId": 153800,
@@ -586,7 +586,6 @@
         "奇幻",
         "恋爱",
         "女主",
-        "少女向",
         "异世界",
         "时间回溯"
       ],
@@ -3009,7 +3008,6 @@
         "奇幻",
         "恋爱",
         "美食料理",
-        "少女向",
         "女主",
         "婚姻"
       ],
@@ -5430,7 +5428,6 @@
         "日常",
         "超自然",
         "妖怪",
-        "少女向",
         "美食料理",
         "女主"
       ],
@@ -7085,7 +7082,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/de/0c/520300_56Pfx.jpg",
       "airDate": "2025-12-25",
       "ratingScore": 7.4,
-      "popularity": 1786,
+      "popularity": 1788,
       "totalEpisodes": 27,
       "genres": [
         "国产动画"
@@ -7107,17 +7104,17 @@
         "2026年1月",
         "热血",
         "烽火戏诸侯",
+        "奇幻",
         "2026",
         "剑来",
-        "奇幻",
-        "14",
-        "7",
+        "厕纸",
+        "Q1",
+        "少年向",
         "6",
+        "抄袭",
         "文青病",
-        "人上人",
-        "续作",
-        "单女主",
-        "抄袭"
+        "14",
+        "7"
       ],
       "sites": [],
       "episodes": []
@@ -7983,7 +7980,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/21/e4/529875_0EWyE.jpg",
       "airDate": "2025-12-14",
       "ratingScore": 4.2,
-      "popularity": 474,
+      "popularity": 475,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8159,7 +8156,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/cb/95/577198_CJD13.jpg",
       "airDate": "2025-10-03",
       "ratingScore": 5.9,
-      "popularity": 264,
+      "popularity": 265,
       "totalEpisodes": 52,
       "genres": [
         "国产动画"
@@ -8291,7 +8288,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/85/58/395223_Mf6La.jpg",
       "airDate": "2025-12-30",
       "ratingScore": 5.8,
-      "popularity": 230,
+      "popularity": 231,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8311,15 +8308,15 @@
         "遊戲改",
         "2026年1月",
         "仙侠",
-        "5",
-        "炎央",
-        "打发时间",
+        "修仙",
+        "国产，工业垃圾",
         "国漫你就真的崛起吧！",
         "國漫",
+        "打发时间",
+        "5",
+        "炎央",
         "游改",
-        "屎",
-        "修仙",
-        "国产，工业垃圾"
+        "屎"
       ],
       "sites": [],
       "episodes": []
@@ -8389,7 +8386,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/88/59/487853_2bCYs.jpg",
       "airDate": "2025-12-20",
       "ratingScore": 6.2,
-      "popularity": 215,
+      "popularity": 216,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8435,7 +8432,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/55/06/487201_LLBps.jpg",
       "airDate": "2025-10-01",
       "ratingScore": 4.3,
-      "popularity": 208,
+      "popularity": 209,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -8507,7 +8504,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f6/dc/219760_7FG73.jpg",
       "airDate": "2025-12-06",
       "ratingScore": 2.7,
-      "popularity": 144,
+      "popularity": 145,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8608,7 +8605,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b2/c3/535075_4mK9k.jpg",
       "airDate": "2025-11-20",
       "ratingScore": 5.9,
-      "popularity": 120,
+      "popularity": 121,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8693,7 +8690,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/c0/83/403731_Jzqio.jpg",
       "airDate": "2025-12-27",
       "ratingScore": 5.2,
-      "popularity": 105,
+      "popularity": 106,
       "totalEpisodes": 13,
       "genres": [
         "国产动画"
@@ -8824,6 +8821,43 @@
         "喜剧",
         "续作",
         "2025年"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 491587,
+      "title": "傲世丹神",
+      "titleCn": "傲世丹神",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/aa/fa/491587_AK1pz.jpg",
+      "airDate": "2025-12-02",
+      "ratingScore": 6.3,
+      "popularity": 79,
+      "totalEpisodes": 12,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "若鸿文化",
+        "WEB",
+        "战斗",
+        "3D",
+        "玄幻",
+        "2025",
+        "轻小说改",
+        "小说改",
+        "2025年1月",
+        "漫禾动漫",
+        "网文改",
+        "后宫",
+        "2025年12月",
+        "2025年",
+        "国漫"
       ],
       "sites": [],
       "episodes": []
@@ -8987,7 +9021,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/71/98/616060_lXXT4.jpg",
       "airDate": "2025-12-21",
       "ratingScore": 5.6,
-      "popularity": 40,
+      "popularity": 41,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"

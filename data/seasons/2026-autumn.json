@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-22T17:33:30.673Z",
+  "generatedAt": "2026-11-23T02:11:09.435Z",
   "total": 122,
   "mappedTotal": 122,
   "items": [
@@ -682,9 +682,10 @@
         "运动",
         "男主",
         "青春成长",
-        "校园",
         "治愈",
-        "篮球"
+        "校园",
+        "篮球",
+        "女主"
       ],
       "sites": [
         {
@@ -1329,7 +1330,6 @@
         "动作",
         "冒险",
         "科幻",
-        "少年向",
         "武术格斗",
         "男主",
         "神明",
@@ -3938,8 +3938,7 @@
         "动作",
         "冒险",
         "奇幻",
-        "战争",
-        "少年向"
+        "战争"
       ],
       "sites": [
         {
@@ -5351,7 +5350,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
       "airDate": "2026-10-30",
       "ratingScore": 7.7,
-      "popularity": 1092,
+      "popularity": 1096,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
@@ -5369,21 +5368,22 @@
         "玄幻",
         "寒木春华",
         "续集",
-        "追番",
-        "奇幻",
-        "未定档",
+        "日常",
         "国产动画",
         "MTJJ",
-        "日常",
-        "◆TV◆",
-        "萌",
-        "续作",
-        "现代国产网络动画已看合集",
-        "优作",
-        "短篇",
-        "国创",
+        "奇幻",
+        "未定档",
+        "追番",
         "2026年",
-        "搞笑"
+        "国创",
+        "优作",
+        "搞笑",
+        "短篇",
+        "电视动画",
+        "泡面番",
+        "泡面",
+        "动作",
+        "11"
       ],
       "sites": [],
       "episodes": []
@@ -5602,7 +5602,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
       "airDate": "2026-10-03",
       "ratingScore": 7.1,
-      "popularity": 361,
+      "popularity": 362,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
@@ -5611,28 +5611,28 @@
         "大火鸟文化",
         "2026年10月",
         "网文改",
-        "小说改",
         "WEB",
+        "小说改",
         "异能",
-        "搞笑",
         "玄幻",
+        "搞笑",
         "2026",
         "战斗",
         "厕纸",
         "TV",
         "奇幻",
         "表番",
-        "剧情",
-        "2026补",
         "国漫",
-        "人设",
         "coocaa",
-        "2D",
-        "续作",
         "8",
+        "剧情",
+        "续作",
+        "喜欢！",
         "恋爱",
+        "2D",
         "国产动画",
-        "喜欢！"
+        "人设",
+        "2026补"
       ],
       "sites": [],
       "episodes": []
@@ -5810,7 +5810,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
       "airDate": "2026-10-01",
       "ratingScore": 6,
-      "popularity": 215,
+      "popularity": 216,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -5868,7 +5868,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_X181q.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 191,
+      "popularity": 192,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
@@ -6080,7 +6080,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/db/6b/576968_s0ddA.jpg",
       "airDate": "2026-11-22",
       "ratingScore": 5.3,
-      "popularity": 127,
+      "popularity": 133,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -6089,18 +6089,19 @@
         "战斗",
         "玄幻",
         "剧场版",
-        "网文改",
-        "3D",
         "小说改",
+        "3D",
+        "网文改",
         "WEB",
         "后宫",
         "斗破苍穹",
         "2026",
         "国产动画",
         "未定档",
-        "国漫",
+        "5分",
         "5",
-        "5分"
+        "国漫",
+        "遗憾"
       ],
       "sites": [],
       "episodes": []
@@ -6266,6 +6267,36 @@
     },
     {
       "anilistId": null,
+      "bgmId": 576733,
+      "title": "武动乾坤 第七季",
+      "titleCn": "武动乾坤 第7季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b8/bd/576733_Dgzds.jpg",
+      "airDate": "2026-11-29",
+      "ratingScore": 0,
+      "popularity": 44,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "战斗",
+        "小说改",
+        "玄幻",
+        "WEB",
+        "六",
+        "国漫",
+        "2026",
+        "TV"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 390200,
       "title": "列女战纪：女娲石记",
       "titleCn": "列女战纪：女娲石记",
@@ -6293,36 +6324,6 @@
         "WEBA",
         "猫已巴",
         "蜡笔小嘉"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 576733,
-      "title": "武动乾坤 第七季",
-      "titleCn": "武动乾坤 第7季",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b8/bd/576733_Dgzds.jpg",
-      "airDate": "2026-11-29",
-      "ratingScore": 0,
-      "popularity": 43,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "战斗",
-        "小说改",
-        "玄幻",
-        "WEB",
-        "六",
-        "国漫",
-        "2026",
-        "TV"
       ],
       "sites": [],
       "episodes": []
@@ -6386,6 +6387,33 @@
     },
     {
       "anilistId": null,
+      "bgmId": 673860,
+      "title": "凹凸世界·新生 第二篇章 重负赛场",
+      "titleCn": "凹凸世界·新生 重负赛场篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": null,
+      "airDate": "2026-12-25",
+      "ratingScore": 5,
+      "popularity": 18,
+      "totalEpisodes": 4,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "国创",
+        "2026年11月",
+        "WEB",
+        "战斗",
+        "3D"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 705980,
       "title": "熊出没之神奇宝物2",
       "titleCn": "熊出没之神奇宝物 第二季",
@@ -6406,33 +6434,6 @@
         "原创",
         "奇幻",
         "TV"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 673860,
-      "title": "凹凸世界·新生 第二篇章 重负赛场",
-      "titleCn": "凹凸世界·新生 重负赛场篇",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": null,
-      "airDate": "2026-12-25",
-      "ratingScore": 5,
-      "popularity": 17,
-      "totalEpisodes": 4,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "国创",
-        "2026年11月",
-        "WEB",
-        "战斗",
-        "3D"
       ],
       "sites": [],
       "episodes": []
@@ -6527,16 +6528,16 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/0e/a1/562144_ZJ772.jpg",
       "airDate": "2026-12-23",
       "ratingScore": 0,
-      "popularity": 10,
+      "popularity": 12,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "科幻",
-        "小说改",
+        "短片",
         "WEB",
-        "短片"
+        "小说改"
       ],
       "sites": [],
       "episodes": []
@@ -6579,7 +6580,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/c7/dc/662683_BZchh.jpg",
       "airDate": "2026-11-27",
       "ratingScore": 0,
-      "popularity": 3,
+      "popularity": 4,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"

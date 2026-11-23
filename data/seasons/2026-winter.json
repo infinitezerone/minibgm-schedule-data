@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-11-22T17:32:28.144Z",
+  "generatedAt": "2026-11-23T02:10:11.267Z",
   "total": 118,
   "mappedTotal": 118,
   "items": [
@@ -3628,7 +3628,6 @@
       "tags": [
         "奇幻",
         "恋爱",
-        "少女向",
         "三角恋",
         "异世界",
         "女主"
@@ -3992,8 +3991,7 @@
         "悲剧",
         "侦探",
         "反英雄",
-        "历史",
-        "少女向"
+        "历史"
       ],
       "sites": [
         {
@@ -7256,7 +7254,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/1f/91/250224_7ZUS7.jpg",
       "airDate": "2026-03-02",
       "ratingScore": 7.3,
-      "popularity": 2083,
+      "popularity": 2085,
       "totalEpisodes": 8,
       "genres": [
         "国产动画"
@@ -7440,7 +7438,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ee/ae/507819_OD5zd.jpg",
       "airDate": "2026-01-02",
       "ratingScore": 6.6,
-      "popularity": 1882,
+      "popularity": 1884,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -7462,17 +7460,17 @@
         "启缘映画",
         "未定档",
         "玄幻",
-        "武侠",
         "一魁夺动漫",
         "续作",
-        "B4",
-        "都市",
-        "动作",
-        "C2",
+        "武侠",
+        "A3",
         "日漫",
         "国漫之光",
-        "东方",
-        "2020-2029"
+        "6.8",
+        "剧情",
+        "2026年",
+        "6+=",
+        "待看原著"
       ],
       "sites": [],
       "episodes": []
@@ -8604,7 +8602,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/af/9c/526975_quBRr.jpg",
       "airDate": "2026-01-31",
       "ratingScore": 5.8,
-      "popularity": 247,
+      "popularity": 248,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8643,7 +8641,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ef/2c/493777_G0G0p.jpg",
       "airDate": "2026-01-16",
       "ratingScore": 5.7,
-      "popularity": 217,
+      "popularity": 218,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8830,7 +8828,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ce/5b/569761_t1r2N.jpg",
       "airDate": "2026-02-17",
       "ratingScore": 5.6,
-      "popularity": 141,
+      "popularity": 142,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -8948,7 +8946,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f5/32/434759_YcIIC.jpg",
       "airDate": "2026-03-25",
       "ratingScore": 4.4,
-      "popularity": 101,
+      "popularity": 102,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"
@@ -9003,6 +9001,39 @@
     },
     {
       "anilistId": null,
+      "bgmId": 577148,
+      "title": "武神主宰 异魔篇",
+      "titleCn": "武神主宰 异魔篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/5a/3a/577148_zL4d5.jpg",
+      "airDate": "2026-01-06",
+      "ratingScore": 5.8,
+      "popularity": 32,
+      "totalEpisodes": 56,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB",
+        "龙傲天",
+        "国漫",
+        "修仙",
+        "仙侠",
+        "小说改",
+        "网文改",
+        "3D",
+        "2026",
+        "2026年1月",
+        "玄幻"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 403739,
       "title": "修仙者大战超能力",
       "titleCn": "修仙者大战超能力",
@@ -9034,39 +9065,6 @@
     },
     {
       "anilistId": null,
-      "bgmId": 577148,
-      "title": "武神主宰 异魔篇",
-      "titleCn": "武神主宰 异魔篇",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/5a/3a/577148_zL4d5.jpg",
-      "airDate": "2026-01-06",
-      "ratingScore": 5.8,
-      "popularity": 31,
-      "totalEpisodes": 56,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "WEB",
-        "龙傲天",
-        "国漫",
-        "修仙",
-        "仙侠",
-        "小说改",
-        "网文改",
-        "3D",
-        "2026",
-        "2026年1月",
-        "玄幻"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
       "bgmId": 628629,
       "title": "魔物料理人",
       "titleCn": "魔物料理人",
@@ -9077,7 +9075,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/3d/54/628629_5VNnW.jpg",
       "airDate": "2026-02-16",
       "ratingScore": 4,
-      "popularity": 7,
+      "popularity": 8,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
