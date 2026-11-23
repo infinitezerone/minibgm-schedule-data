@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-23T14:16:33.772Z",
+  "generatedAt": "2026-11-23T21:54:41.910Z",
   "total": 126,
   "mappedTotal": 126,
   "items": [
@@ -4056,8 +4056,8 @@
         "奇幻",
         "恋爱",
         "女性向",
-        "男主",
-        "群像"
+        "群像",
+        "男主"
       ],
       "sites": [
         {
@@ -6395,6 +6395,34 @@
     },
     {
       "anilistId": null,
+      "bgmId": 449352,
+      "title": "星门",
+      "titleCn": "星门",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/5d/87/449352_Kc22q.jpg",
+      "airDate": null,
+      "ratingScore": 0,
+      "popularity": 18,
+      "totalEpisodes": 26,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "网文改",
+        "启缘映画",
+        "WEB",
+        "玄幻",
+        "TV",
+        "小说改"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 673860,
       "title": "凹凸世界·新生 第二篇章 重负赛场",
       "titleCn": "凹凸世界·新生 重负赛场篇",
@@ -6448,34 +6476,6 @@
     },
     {
       "anilistId": null,
-      "bgmId": 449352,
-      "title": "星门",
-      "titleCn": "星门",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/5d/87/449352_Kc22q.jpg",
-      "airDate": null,
-      "ratingScore": 0,
-      "popularity": 17,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "网文改",
-        "启缘映画",
-        "WEB",
-        "玄幻",
-        "TV",
-        "小说改"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
       "bgmId": 710874,
       "title": "宝可梦动画图鉴 第六季 云岫寻踪",
       "titleCn": "宝可梦动画图鉴 第六季 云岫寻踪",
@@ -6512,7 +6512,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/0e/a1/562144_ZJ772.jpg",
       "airDate": "2026-12-23",
       "ratingScore": 0,
-      "popularity": 13,
+      "popularity": 14,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"

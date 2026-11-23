@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-11-23T14:14:23.445Z",
+  "generatedAt": "2026-11-23T21:53:26.292Z",
   "total": 134,
   "mappedTotal": 134,
   "items": [
@@ -7503,6 +7503,36 @@
       "episodes": []
     },
     {
+      "anilistId": 199411,
+      "bgmId": 456169,
+      "title": "驭灵师",
+      "titleCn": "驭灵师",
+      "countryOfOrigin": "CN",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199411-ToFTWRXUdfMj.jpg",
+      "airDate": "2026-02-26",
+      "ratingScore": 7.1,
+      "popularity": 1623,
+      "totalEpisodes": 18,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "异世界",
+        "反英雄",
+        "转生"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 202419,
       "bgmId": 601763,
       "title": "お前はまだグンマを知らない～令和版～",
@@ -8186,6 +8216,33 @@
       "episodes": []
     },
     {
+      "anilistId": 199410,
+      "bgmId": 526975,
+      "title": "择天记 (2026)",
+      "titleCn": "择天记",
+      "countryOfOrigin": "CN",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199410-x60vxUFQxu4x.jpg",
+      "airDate": "2026-01-31",
+      "ratingScore": 8,
+      "popularity": 788,
+      "totalEpisodes": 26,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 199005,
       "bgmId": 580762,
       "title": "#神奈川に住んでるエルフ",
@@ -8493,54 +8550,6 @@
       "episodes": []
     },
     {
-      "anilistId": null,
-      "bgmId": 630676,
-      "title": "仙逆 年番3",
-      "titleCn": "仙逆 年番3",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/19/71/630676_6v15K.jpg",
-      "airDate": "2026-02-23",
-      "ratingScore": 6.6,
-      "popularity": 501,
-      "totalEpisodes": 52,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "玄幻",
-        "网文改",
-        "国漫",
-        "战斗",
-        "3D",
-        "武侠",
-        "小说改",
-        "修仙",
-        "2026",
-        "WEB",
-        "铸梦动画",
-        "2026年2月",
-        "TV",
-        "漫改",
-        "仙侠",
-        "漫画改",
-        "日",
-        "原创",
-        "WETV",
-        "2027年02月15日",
-        "平板观看",
-        "厕纸",
-        "东方",
-        "第四季",
-        "剧场版",
-        "轻小说改"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": 210376,
       "bgmId": 627556,
       "title": "呼唤少女特别篇 想做的事到底是什么",
@@ -8561,9 +8570,9 @@
       "tags": [
         "搞笑",
         "日常",
-        "百合",
         "女主",
-        "校园"
+        "校园",
+        "百合"
       ],
       "sites": [],
       "episodes": []
@@ -8845,45 +8854,6 @@
       "episodes": []
     },
     {
-      "anilistId": null,
-      "bgmId": 526975,
-      "title": "择天记3D",
-      "titleCn": "择天记",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/af/9c/526975_quBRr.jpg",
-      "airDate": "2026-01-31",
-      "ratingScore": 5.8,
-      "popularity": 248,
-      "totalEpisodes": 26,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "玄幻",
-        "小说改",
-        "网文改",
-        "神漫文化",
-        "2026",
-        "3D",
-        "猫腻",
-        "WEB",
-        "国漫",
-        "战斗",
-        "原创",
-        "IYF",
-        "2026年1月",
-        "6",
-        "修炼",
-        "单女主",
-        "TV"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": 206895,
       "bgmId": 458985,
       "title": "史上最强炼体老祖",
@@ -9075,51 +9045,6 @@
     },
     {
       "anilistId": null,
-      "bgmId": 456169,
-      "title": "驭灵师",
-      "titleCn": "驭灵师",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/11/9f/456169_8zzyK.jpg",
-      "airDate": "2026-02-26",
-      "ratingScore": 6.2,
-      "popularity": 151,
-      "totalEpisodes": 18,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "漫画改",
-        "战斗",
-        "奇幻",
-        "穿越",
-        "WEB",
-        "喜剧",
-        "2026",
-        "2D",
-        "知行合一动漫",
-        "2026年1月",
-        "异世界",
-        "TV",
-        "周四",
-        "玄幻",
-        "2026年2月",
-        "5.8，有点低龄",
-        "11:00",
-        "乔彧",
-        "国创",
-        "国漫",
-        "6",
-        "厕纸",
-        "剧集"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
       "bgmId": 569761,
       "title": "熊出没·年年有熊",
       "titleCn": "熊出没·年年有熊",
@@ -9239,6 +9164,47 @@
         "5",
         "search",
         "2026年3月"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 608049,
+      "title": "盗妖行",
+      "titleCn": "盗妖行",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/6b/d4/608049_8CyB6.jpg",
+      "airDate": "2026-03-03",
+      "ratingScore": 5.5,
+      "popularity": 90,
+      "totalEpisodes": 60,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "玄幻",
+        "原创",
+        "战斗",
+        "3D",
+        "WEB",
+        "索以文化",
+        "奇幻",
+        "2026年3月",
+        "2026年4月",
+        "修仙",
+        "搞笑",
+        "仙侠",
+        "9:00",
+        "国漫",
+        "索以",
+        "周四",
+        "周二",
+        "2026",
+        "点子"
       ],
       "sites": [],
       "episodes": []
