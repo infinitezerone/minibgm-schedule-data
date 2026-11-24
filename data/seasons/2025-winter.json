@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-11-24T14:39:47.548Z",
+  "generatedAt": "2026-11-24T20:27:48.503Z",
   "total": 134,
   "mappedTotal": 134,
   "items": [
@@ -7935,6 +7935,45 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 531515,
+      "title": "那年那兔那些事儿 第七季",
+      "titleCn": "那年那兔那些事儿 第七季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/5d/38/531515_xU9SF.jpg",
+      "airDate": "2025-02-11",
+      "ratingScore": 3.7,
+      "popularity": 153,
+      "totalEpisodes": 12,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "WEB",
+        "泡面番",
+        "历史",
+        "2025",
+        "历史-政治",
+        "广告",
+        "续作",
+        "短片",
+        "逆光飞行",
+        "爱国",
+        "政治",
+        "里番",
+        "2020s",
+        "纳粹",
+        "反人类",
+        "漫改",
+        "軍國主義"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 185539,
       "bgmId": 613378,
       "title": "アルプスの老人ハイジのおじいさん",
@@ -7953,45 +7992,6 @@
       ],
       "tags": [
         "搞笑"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 531515,
-      "title": "那年那兔那些事儿 第七季",
-      "titleCn": "那年那兔那些事儿 第七季",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/5d/38/531515_xU9SF.jpg",
-      "airDate": "2025-02-11",
-      "ratingScore": 3.6,
-      "popularity": 152,
-      "totalEpisodes": 12,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "泡面番",
-        "WEB",
-        "历史",
-        "2025",
-        "历史-政治",
-        "短片",
-        "广告",
-        "逆光飞行",
-        "爱国",
-        "续作",
-        "2020s",
-        "纳粹",
-        "政治",
-        "軍國主義",
-        "里番",
-        "漫改",
-        "反人类"
       ],
       "sites": [],
       "episodes": []

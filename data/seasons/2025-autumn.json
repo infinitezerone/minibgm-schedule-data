@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-11-24T14:41:26.933Z",
-  "total": 147,
-  "mappedTotal": 147,
+  "generatedAt": "2026-11-24T20:29:32.932Z",
+  "total": 148,
+  "mappedTotal": 148,
   "items": [
     {
       "anilistId": 153800,
@@ -1121,11 +1121,11 @@
         "女主",
         "男主",
         "青春成长",
+        "校园",
         "青年向",
         "傲娇",
         "群像",
-        "恶搞/梗番",
-        "校园"
+        "恶搞/梗番"
       ],
       "sites": [
         {
@@ -8758,7 +8758,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/85/58/395223_Mf6La.jpg",
       "airDate": "2025-12-30",
       "ratingScore": 5.8,
-      "popularity": 231,
+      "popularity": 232,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -9585,6 +9585,86 @@
       "episodes": []
     },
     {
+      "anilistId": 166443,
+      "bgmId": 434816,
+      "title": "紫禁·御喵房",
+      "titleCn": "紫禁·御喵房",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/e5/2b/434816_lp0h7.jpg",
+      "airDate": "2025-12-03",
+      "ratingScore": 5.8,
+      "popularity": 55,
+      "totalEpisodes": 16,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "漫画改",
+        "彩色铅笔动画",
+        "WEB",
+        "历史",
+        "奇幻",
+        "2026年1月",
+        "2025",
+        "中国动画",
+        "关清书",
+        "漫改",
+        "古川慎",
+        "2D",
+        "一二工作室",
+        "周三",
+        "TV",
+        "浦和希",
+        "邓志巍",
+        "国产或合作动画",
+        "10:00",
+        "战斗",
+        "2025年12月"
+      ],
+      "sites": [
+        {
+          "site": "nicovideo",
+          "id": "nekokeibishitsu",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "tmdb",
+          "id": "tv/306296"
+        },
+        {
+          "site": "mal",
+          "id": "61640"
+        },
+        {
+          "site": "anidb",
+          "id": "19938"
+        },
+        {
+          "site": "unext",
+          "id": "SID0316397",
+          "begin": "2026-10-10T11:00:00.000Z",
+          "broadcast": "R/2026-10-10T11:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "29297",
+          "begin": "2026-10-10T11:00:00.000Z",
+          "broadcast": "R/2026-10-10T11:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0HLWMCMP2",
+          "begin": "",
+          "broadcast": ""
+        }
+      ],
+      "episodes": []
+    },
+    {
       "anilistId": 200375,
       "bgmId": 593000,
       "title": "インプる君の存在しないお仕事",
@@ -9643,24 +9723,24 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/71/98/616060_lXXT4.jpg",
       "airDate": "2025-12-21",
-      "ratingScore": 5.6,
-      "popularity": 41,
+      "ratingScore": 5.7,
+      "popularity": 42,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "泡面番",
+        "原创",
         "国创",
         "日常",
-        "原创",
         "可爱",
         "WEB",
-        "2020年1月",
         "萌系",
         "OVA",
-        "5分",
+        "2020年1月",
         "治愈",
+        "5分",
         "红小豆",
         "九五年动画"
       ],

@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "spring",
-  "generatedAt": "2026-11-24T14:40:17.600Z",
+  "generatedAt": "2026-11-24T20:28:19.896Z",
   "total": 145,
   "mappedTotal": 145,
   "items": [
@@ -6469,7 +6469,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ed/4a/345824_VXxo5.jpg",
       "airDate": "2025-06-28",
       "ratingScore": 6.7,
-      "popularity": 2666,
+      "popularity": 2667,
       "totalEpisodes": 13,
       "genres": [
         "国产动画"
@@ -8477,7 +8477,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f8/07/516416_IKizc.jpg",
       "airDate": "2025-06-05",
       "ratingScore": 7,
-      "popularity": 281,
+      "popularity": 282,
       "totalEpisodes": 52,
       "genres": [
         "国产动画"
@@ -8491,10 +8491,10 @@
         "国漫",
         "WEB",
         "搞笑",
-        "修仙",
-        "优酷",
-        "小说改",
         "年番",
+        "小说改",
+        "优酷",
+        "修仙",
         "战斗",
         "续集",
         "TV",
