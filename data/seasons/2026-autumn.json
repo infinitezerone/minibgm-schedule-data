@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-23T21:54:41.910Z",
+  "generatedAt": "2026-11-24T05:47:56.384Z",
   "total": 126,
   "mappedTotal": 126,
   "items": [
@@ -6512,16 +6512,16 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/0e/a1/562144_ZJ772.jpg",
       "airDate": "2026-12-23",
       "ratingScore": 0,
-      "popularity": 14,
+      "popularity": 15,
       "totalEpisodes": 6,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "科幻",
-        "小说改",
         "WEB",
-        "短片"
+        "短片",
+        "小说改"
       ],
       "sites": [],
       "episodes": []

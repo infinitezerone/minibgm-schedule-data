@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-11-23T21:51:32.941Z",
-  "total": 130,
-  "mappedTotal": 130,
+  "generatedAt": "2026-11-24T05:44:41.510Z",
+  "total": 132,
+  "mappedTotal": 132,
   "items": [
     {
       "anilistId": 176496,
@@ -6007,9 +6007,9 @@
         "冒险",
         "搞笑",
         "奇幻",
-        "异世界",
+        "虚拟世界",
         "游戏",
-        "虚拟世界"
+        "异世界"
       ],
       "sites": [],
       "episodes": []
@@ -6582,7 +6582,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/53/7d/526970_FZyS7.jpg",
       "airDate": "2025-02-24",
       "ratingScore": 6.7,
-      "popularity": 1304,
+      "popularity": 1305,
       "totalEpisodes": 52,
       "genres": [
         "国产动画"
@@ -7282,7 +7282,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/5b/74/530751_WkaYI.jpg",
       "airDate": "2025-01-04",
       "ratingScore": 7.4,
-      "popularity": 711,
+      "popularity": 712,
       "totalEpisodes": 2,
       "genres": [
         "国产动画"
@@ -7758,6 +7758,35 @@
       "episodes": []
     },
     {
+      "anilistId": 185832,
+      "bgmId": 458998,
+      "title": "永恒剑祖",
+      "titleCn": null,
+      "countryOfOrigin": "CN",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185832-RLMvYxpAXTYN.jpg",
+      "airDate": "2024-12-19",
+      "ratingScore": 5.8,
+      "popularity": 220,
+      "totalEpisodes": 40,
+      "genres": [
+        "动作",
+        "冒险",
+        "奇幻"
+      ],
+      "tags": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "武术格斗",
+        "男主"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 206500,
       "bgmId": 562618,
       "title": "광장",
@@ -7801,6 +7830,29 @@
       ],
       "tags": [
         "奇幻"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": 187833,
+      "bgmId": 466296,
+      "title": "胶囊计划 英雄",
+      "titleCn": "胶囊计划 英雄",
+      "countryOfOrigin": "CN",
+      "format": "ONA",
+      "status": "FINISHED",
+      "isAdult": false,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187833-a5X3z4s4JlEK.jpg",
+      "airDate": "2024-12-17",
+      "ratingScore": 6.4,
+      "popularity": 210,
+      "totalEpisodes": 11,
+      "genres": [
+        "动作"
+      ],
+      "tags": [
+        "动作"
       ],
       "sites": [],
       "episodes": []
