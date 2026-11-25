@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-24T20:31:22.556Z",
+  "generatedAt": "2026-11-25T04:48:55.658Z",
   "total": 126,
   "mappedTotal": 126,
   "items": [
@@ -2989,7 +2989,8 @@
       ],
       "tags": [
         "动作",
-        "科幻"
+        "科幻",
+        "女主"
       ],
       "sites": [
         {
@@ -5874,6 +5875,42 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 516076,
+      "title": "镇魂街 第五季",
+      "titleCn": "镇魂街 王国纷争篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_X181q.jpg",
+      "airDate": "2026-12-11",
+      "ratingScore": 5.8,
+      "popularity": 195,
+      "totalEpisodes": 30,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "镇魂街",
+        "国漫",
+        "战斗",
+        "TV",
+        "漫改",
+        "奇幻",
+        "国产动画",
+        "艾尔平方",
+        "WEB",
+        "表番",
+        "有妖气",
+        "未定档",
+        "国创",
+        "热血"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 213298,
       "bgmId": 661278,
       "title": "ゆるゆる図鑑",
@@ -5890,39 +5927,6 @@
       "genres": [],
       "tags": [
         "少儿向"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 516076,
-      "title": "镇魂街 第五季",
-      "titleCn": "镇魂街 王国纷争篇",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_X181q.jpg",
-      "airDate": "2026-12-11",
-      "ratingScore": 5.8,
-      "popularity": 194,
-      "totalEpisodes": 30,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "镇魂街",
-        "表番",
-        "未定档",
-        "艾尔平方",
-        "漫改",
-        "国创",
-        "国产动画",
-        "TV",
-        "战斗",
-        "国漫",
-        "WEB"
       ],
       "sites": [],
       "episodes": []

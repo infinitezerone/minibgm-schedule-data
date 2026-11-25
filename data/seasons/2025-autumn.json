@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-11-24T20:29:32.932Z",
+  "generatedAt": "2026-11-25T04:47:27.864Z",
   "total": 148,
   "mappedTotal": 148,
   "items": [
@@ -7969,7 +7969,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/b1/f6/458926_0qw05.jpg",
       "airDate": "2025-12-28",
       "ratingScore": 6.9,
-      "popularity": 624,
+      "popularity": 625,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -8210,7 +8210,6 @@
       "totalEpisodes": 12,
       "genres": [
         "动作",
-        "奇幻",
         "奇幻"
       ],
       "tags": [
