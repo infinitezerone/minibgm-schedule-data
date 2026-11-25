@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-11-25T14:02:51.541Z",
-  "total": 133,
-  "mappedTotal": 133,
+  "generatedAt": "2026-11-25T19:43:40.399Z",
+  "total": 132,
+  "mappedTotal": 132,
   "items": [
     {
       "anilistId": 172463,
@@ -319,9 +319,9 @@
         "群像",
         "悲剧",
         "猎奇/血腥",
+        "历史",
         "武术格斗",
-        "大逃杀",
-        "历史"
+        "大逃杀"
       ],
       "sites": [
         {
@@ -9318,30 +9318,6 @@
         "游戏改",
         "彼岸天文化",
         "pokemon"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 628621,
-      "title": "过年者联盟之新春赛马",
-      "titleCn": "过年者联盟之新春赛马",
-      "countryOfOrigin": "CN",
-      "format": "其他",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/bf/f5/628621_9gZhh.jpg",
-      "airDate": "2026-02-16",
-      "ratingScore": 6,
-      "popularity": 8,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "玄机科技",
-        "短片"
       ],
       "sites": [],
       "episodes": []

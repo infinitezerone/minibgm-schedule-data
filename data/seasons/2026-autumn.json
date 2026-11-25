@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-25T14:04:11.740Z",
+  "generatedAt": "2026-11-25T19:44:57.292Z",
   "total": 126,
   "mappedTotal": 126,
   "items": [
@@ -577,9 +577,9 @@
         "日常",
         "社团活动",
         "搞笑滑稽",
+        "女主",
         "校园",
         "男主",
-        "女主",
         "群像",
         "少年向"
       ],
@@ -5913,7 +5913,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/15/95/516076_X181q.jpg",
       "airDate": "2026-12-11",
       "ratingScore": 5.8,
-      "popularity": 197,
+      "popularity": 198,
       "totalEpisodes": 30,
       "genres": [
         "国产动画"
@@ -6428,6 +6428,33 @@
     },
     {
       "anilistId": null,
+      "bgmId": 673860,
+      "title": "凹凸世界·新生 第二篇章 重负赛场",
+      "titleCn": "凹凸世界·新生 重负赛场篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": null,
+      "airDate": "2026-12-25",
+      "ratingScore": 5,
+      "popularity": 18,
+      "totalEpisodes": 4,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "2026年11月",
+        "3D",
+        "WEB",
+        "战斗",
+        "国创"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
       "bgmId": 705980,
       "title": "熊出没之神奇宝物2",
       "titleCn": "熊出没之神奇宝物 第二季",
@@ -6448,33 +6475,6 @@
         "原创",
         "奇幻",
         "TV"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 673860,
-      "title": "凹凸世界·新生 第二篇章 重负赛场",
-      "titleCn": "凹凸世界·新生 重负赛场篇",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": null,
-      "airDate": "2026-12-25",
-      "ratingScore": 5,
-      "popularity": 17,
-      "totalEpisodes": 4,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "国创",
-        "2026年11月",
-        "WEB",
-        "战斗",
-        "3D"
       ],
       "sites": [],
       "episodes": []
@@ -6533,32 +6533,6 @@
     },
     {
       "anilistId": null,
-      "bgmId": 712926,
-      "title": "都市古医仙2",
-      "titleCn": "都市古医仙2",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
-      "airDate": "2026-10-14",
-      "ratingScore": 0,
-      "popularity": 10,
-      "totalEpisodes": 40,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "日",
-        "WEB",
-        "小说改",
-        "三"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
       "bgmId": 620676,
       "title": "西游记之真假美猴王",
       "titleCn": "西游记之真假美猴王",
@@ -6569,17 +6543,16 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/8d/53/620676_gx6Dx.jpg",
       "airDate": "2026-12-05",
       "ratingScore": 0,
-      "popularity": 5,
+      "popularity": 6,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "剧情",
-        "小说改",
+        "喜剧",
         "战斗",
-        "剧场版",
-        "奇幻"
+        "奇幻",
+        "剧场版"
       ],
       "sites": [],
       "episodes": []
@@ -6605,6 +6578,35 @@
         "WEB",
         "小说改",
         "玄幻"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 708225,
+      "title": "小猪佩奇·完美假期",
+      "titleCn": "小猪佩奇·完美假期",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c0/79/708225_Y86R8.jpg",
+      "airDate": "2026-10-01",
+      "ratingScore": 0,
+      "popularity": 3,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "日常",
+        "英国",
+        "子供向",
+        "原创",
+        "喜剧",
+        "剧场版",
+        "萌系"
       ],
       "sites": [],
       "episodes": []

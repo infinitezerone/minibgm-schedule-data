@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-11-25T14:00:52.671Z",
-  "total": 135,
-  "mappedTotal": 135,
+  "generatedAt": "2026-11-25T19:41:46.299Z",
+  "total": 138,
+  "mappedTotal": 138,
   "items": [
     {
       "anilistId": 176496,
@@ -7984,7 +7984,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/5d/38/531515_xU9SF.jpg",
       "airDate": "2025-02-11",
       "ratingScore": 3.7,
-      "popularity": 153,
+      "popularity": 154,
       "totalEpisodes": 12,
       "genres": [
         "国产动画"
@@ -8378,7 +8378,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/99/a2/497978_2seOE.jpg",
       "airDate": "2025-01-10",
       "ratingScore": 6,
-      "popularity": 76,
+      "popularity": 77,
       "totalEpisodes": 10,
       "genres": [
         "国产动画"
@@ -8399,6 +8399,38 @@
         "2025年1月",
         "中7",
         "2025"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 536603,
+      "title": "时间的彼端",
+      "titleCn": "时间的彼端",
+      "countryOfOrigin": "CN",
+      "format": "其他",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/3b/73/536603_guqzD.jpg",
+      "airDate": "2025-01-29",
+      "ratingScore": 6.7,
+      "popularity": 77,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "短片",
+        "MV",
+        "原创",
+        "2025",
+        "百合",
+        "喵太动画",
+        "2025年1月",
+        "MV・PV・CM",
+        "暗猫",
+        "暗猫の祝福"
       ],
       "sites": [],
       "episodes": []
@@ -8480,27 +8512,76 @@
     },
     {
       "anilistId": null,
-      "bgmId": 668855,
-      "title": "【Mitchie M】UWA UWA 初音未来feat. 【动画MV】",
-      "titleCn": "【Mitchie M】UWA UWA 初音未来feat. 【动画MV】",
+      "bgmId": 516075,
+      "title": "小动物三国之将星篇",
+      "titleCn": "小动物三国之将星篇",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/f4/1b/516075_U0fV6.jpg",
+      "airDate": "2025-01-20",
+      "ratingScore": 5.8,
+      "popularity": 17,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "漫画改",
+        "（津）网动审字（2025）第001号",
+        "WEB"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 658226,
+      "title": "乐园危机",
+      "titleCn": "乐园危机",
       "countryOfOrigin": "CN",
       "format": "其他",
       "status": "",
       "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/d0/14/668855_5242p.jpg",
-      "airDate": "2025-03-09",
-      "ratingScore": 4,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/b5/57/658226_MSCmP.jpg",
+      "airDate": "2025-01-28",
+      "ratingScore": 5,
       "popularity": 6,
-      "totalEpisodes": 0,
+      "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "短片",
+        "原创",
+        "2025年1月",
+        "3D"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 658216,
+      "title": "Colour Cast",
+      "titleCn": "色相偏移",
+      "countryOfOrigin": "CN",
+      "format": "其他",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/46/28/658216_p88bj.jpg",
+      "airDate": "2025-01-28",
+      "ratingScore": 5,
+      "popularity": 5,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
         "MV",
-        "MV・PV・CM",
-        "雪珀",
-        "上倉エク"
+        "原创",
+        "2025年1月"
       ],
       "sites": [],
       "episodes": []

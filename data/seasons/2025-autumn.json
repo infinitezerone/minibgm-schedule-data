@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-11-25T14:02:35.590Z",
+  "generatedAt": "2026-11-25T19:43:24.974Z",
   "total": 148,
   "mappedTotal": 148,
   "items": [
@@ -9687,6 +9687,41 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 616060,
+      "title": "请吃红小豆吧！新年快乐",
+      "titleCn": "请吃红小豆吧！新年快乐",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/71/98/616060_lXXT4.jpg",
+      "airDate": "2025-12-21",
+      "ratingScore": 5.7,
+      "popularity": 43,
+      "totalEpisodes": 6,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "泡面番",
+        "原创",
+        "国创",
+        "日常",
+        "可爱",
+        "WEB",
+        "萌系",
+        "OVA",
+        "2020年1月",
+        "治愈",
+        "5分",
+        "红小豆",
+        "九五年动画"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 214074,
       "bgmId": 616981,
       "title": "ゼッツあにめ　ドリームアルバイターばく",
@@ -9707,41 +9742,6 @@
         "搞笑",
         "群像",
         "男主"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 616060,
-      "title": "请吃红小豆吧！新年快乐",
-      "titleCn": "请吃红小豆吧！新年快乐",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/71/98/616060_lXXT4.jpg",
-      "airDate": "2025-12-21",
-      "ratingScore": 5.7,
-      "popularity": 42,
-      "totalEpisodes": 6,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "泡面番",
-        "原创",
-        "国创",
-        "日常",
-        "可爱",
-        "WEB",
-        "萌系",
-        "OVA",
-        "2020年1月",
-        "治愈",
-        "5分",
-        "红小豆",
-        "九五年动画"
       ],
       "sites": [],
       "episodes": []
