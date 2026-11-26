@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "winter",
-  "generatedAt": "2026-11-25T19:43:40.399Z",
+  "generatedAt": "2026-11-26T03:56:41.359Z",
   "total": 132,
   "mappedTotal": 132,
   "items": [
@@ -9055,15 +9055,15 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ce/5b/569761_t1r2N.jpg",
       "airDate": "2026-02-17",
       "ratingScore": 5.6,
-      "popularity": 142,
+      "popularity": 143,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
       ],
       "tags": [
         "剧场版",
-        "喜剧",
         "原创",
+        "喜剧",
         "奇幻",
         "2026",
         "熊出没",
@@ -9071,11 +9071,11 @@
         "搞笑",
         "动画电影",
         "3D",
-        "林汇达",
-        "国产3D",
-        "电影",
         "国漫",
-        "国创"
+        "电影",
+        "国创",
+        "国产3D",
+        "林汇达"
       ],
       "sites": [],
       "episodes": []

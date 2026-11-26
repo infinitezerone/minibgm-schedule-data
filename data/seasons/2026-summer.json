@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-25T19:44:35.628Z",
+  "generatedAt": "2026-11-26T03:57:35.491Z",
   "total": 147,
   "mappedTotal": 147,
   "items": [
@@ -7953,7 +7953,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/7b/6e/492481_JWdNk.jpg",
       "airDate": "2026-07-18",
       "ratingScore": 7.1,
-      "popularity": 1220,
+      "popularity": 1221,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -9069,6 +9069,48 @@
       "episodes": []
     },
     {
+      "anilistId": null,
+      "bgmId": 572768,
+      "title": "一念永恒 完结季",
+      "titleCn": "一念永恒 完结季",
+      "countryOfOrigin": "CN",
+      "format": "WEB",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
+      "airDate": "2026-07-22",
+      "ratingScore": 7,
+      "popularity": 340,
+      "totalEpisodes": 46,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "玄幻",
+        "小说改",
+        "热血",
+        "国漫",
+        "WEB",
+        "国漫之光",
+        "视美",
+        "2026年七月",
+        "国产连载动画",
+        "搞笑",
+        "2026",
+        "战斗",
+        "2026年7月",
+        "爽文改",
+        "未放流",
+        "修仙",
+        "厕纸",
+        "2D",
+        "网文改",
+        "视美影业"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
       "anilistId": 217026,
       "bgmId": 648065,
       "title": "라온의 남자",
@@ -9088,48 +9130,6 @@
       "tags": [
         "恋爱",
         "BL"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
-      "bgmId": 572768,
-      "title": "一念永恒 完结季",
-      "titleCn": "一念永恒 完结季",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
-      "airDate": "2026-07-22",
-      "ratingScore": 7,
-      "popularity": 339,
-      "totalEpisodes": 46,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "玄幻",
-        "小说改",
-        "热血",
-        "WEB",
-        "国漫",
-        "视美",
-        "2026年七月",
-        "国漫之光",
-        "国产连载动画",
-        "搞笑",
-        "2026",
-        "厕纸",
-        "网文改",
-        "2026年7月",
-        "2D",
-        "战斗",
-        "修仙",
-        "视美影业",
-        "爽文改",
-        "未放流"
       ],
       "sites": [],
       "episodes": []
@@ -9423,14 +9423,14 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/9b/2a/507530_yWUYo.jpg",
       "airDate": "2026-09-03",
       "ratingScore": 5.8,
-      "popularity": 160,
+      "popularity": 161,
       "totalEpisodes": 24,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "小说改",
         "奇幻",
+        "小说改",
         "国漫",
         "2026年9月",
         "3D",
@@ -9439,9 +9439,9 @@
         "2026",
         "WEB",
         "幻维数码",
-        "幻维",
         "平板观看",
-        "四"
+        "四",
+        "幻维"
       ],
       "sites": [],
       "episodes": []
@@ -9852,7 +9852,7 @@
       "titleCn": null,
       "countryOfOrigin": "CN",
       "format": "ONA",
-      "status": "RELEASING",
+      "status": "FINISHED",
       "isAdult": false,
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx220079-7TiLWUTeqmW8.jpg",
       "airDate": "2026-06-04",
