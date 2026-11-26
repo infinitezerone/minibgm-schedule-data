@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "winter",
-  "generatedAt": "2026-11-26T13:39:21.471Z",
+  "generatedAt": "2026-11-26T19:22:40.704Z",
   "total": 138,
   "mappedTotal": 138,
   "items": [
@@ -8378,7 +8378,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/99/a2/497978_2seOE.jpg",
       "airDate": "2025-01-10",
       "ratingScore": 6,
-      "popularity": 77,
+      "popularity": 78,
       "totalEpisodes": 10,
       "genres": [
         "国产动画"
@@ -8392,13 +8392,13 @@
         "萌",
         "可爱",
         "TV",
+        "国产动画",
         "2D",
         "国创",
-        "九五年动画",
-        "国产动画",
         "2025年1月",
+        "2025",
         "中7",
-        "2025"
+        "九五年动画"
       ],
       "sites": [],
       "episodes": []
