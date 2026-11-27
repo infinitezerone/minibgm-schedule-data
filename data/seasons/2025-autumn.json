@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "autumn",
-  "generatedAt": "2026-11-27T13:36:39.837Z",
+  "generatedAt": "2026-11-27T19:18:55.753Z",
   "total": 147,
   "mappedTotal": 147,
   "items": [
@@ -7295,17 +7295,17 @@
         "2026年1月",
         "烽火戏诸侯",
         "热血",
+        "剑来",
         "奇幻",
         "2026",
-        "剑来",
-        "大陆",
         "国创",
         "2026年06月11日",
-        "@国漫",
-        "修仙",
+        "E",
+        "大陆",
         "修炼",
         "@半年番",
-        "#4"
+        "#4",
+        "@国漫"
       ],
       "sites": [],
       "episodes": []
@@ -7962,19 +7962,19 @@
         "飞鱼映画",
         "奇幻",
         "原创",
-        "漫画改",
-        "youku",
+        "7",
         "2026年1月",
+        "剧情",
+        "优酷动漫",
+        "youku",
         "末世",
         "6.8",
-        "7",
-        "厕纸",
-        "优酷动漫",
-        "剧情",
-        "平板观看",
         "2分",
+        "平板观看",
         "正番",
-        "优酷"
+        "厕纸",
+        "优酷",
+        "漫画改"
       ],
       "sites": [],
       "episodes": []
@@ -9074,7 +9074,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/f6/dc/219760_7FG73.jpg",
       "airDate": "2025-12-06",
       "ratingScore": 2.7,
-      "popularity": 145,
+      "popularity": 146,
       "totalEpisodes": 26,
       "genres": [
         "国产动画"
@@ -9458,54 +9458,6 @@
       "episodes": []
     },
     {
-      "anilistId": null,
-      "bgmId": 609226,
-      "title": "宗门里除了我都是卧底 第二部分",
-      "titleCn": "宗门里除了我都是卧底 第二部分",
-      "countryOfOrigin": "CN",
-      "format": "WEB",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/03/6c/609226_TwN4O.jpg",
-      "airDate": "2025-11-24",
-      "ratingScore": 6.5,
-      "popularity": 89,
-      "totalEpisodes": 0,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "小说改",
-        "搞笑",
-        "玄幻",
-        "奇幻",
-        "索以文化",
-        "战斗",
-        "3D",
-        "WEB",
-        "修仙",
-        "网文改",
-        "2025年11月",
-        "续集",
-        "国创",
-        "短片",
-        "国产3D",
-        "2020s",
-        "穿越",
-        "2025",
-        "6分",
-        "龙傲天",
-        "武侠",
-        "2025年10月",
-        "国漫",
-        "喜剧",
-        "续作",
-        "2025年"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
       "anilistId": 199417,
       "bgmId": 586028,
       "title": "武魂大陆",
@@ -9733,6 +9685,30 @@
       "tags": [
         "搞笑",
         "运动"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 544188,
+      "title": "极限城市",
+      "titleCn": "极限城市",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/c6/3e/544188_liutI.jpg",
+      "airDate": "2025-10-04",
+      "ratingScore": 3.5,
+      "popularity": 24,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "2025"
       ],
       "sites": [],
       "episodes": []
