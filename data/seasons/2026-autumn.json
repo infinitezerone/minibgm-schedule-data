@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-26T19:25:48.298Z",
+  "generatedAt": "2026-11-27T03:59:04.395Z",
   "total": 126,
   "mappedTotal": 126,
   "items": [
@@ -1873,9 +1873,11 @@
         "科幻",
         "惊悚",
         "青年向",
-        "都市奇幻",
         "反乌托邦",
-        "末日废土"
+        "末日废土",
+        "赛博朋克",
+        "都市奇幻",
+        "悲剧"
       ],
       "sites": [],
       "episodes": []

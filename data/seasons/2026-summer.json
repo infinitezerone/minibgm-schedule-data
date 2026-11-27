@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "summer",
-  "generatedAt": "2026-11-26T19:25:25.485Z",
+  "generatedAt": "2026-11-27T03:58:41.453Z",
   "total": 147,
   "mappedTotal": 147,
   "items": [
@@ -9820,27 +9820,27 @@
       "isAdult": false,
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/07/2d/552778_I4uFv.jpg",
       "airDate": "2026-08-16",
-      "ratingScore": 4,
-      "popularity": 62,
+      "ratingScore": 4.1,
+      "popularity": 63,
       "totalEpisodes": 16,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "奇幻",
         "中影年年",
+        "奇幻",
         "国漫",
         "小说改",
         "2026",
         "WEB",
+        "TV",
         "黑暗",
         "3D",
-        "2026年8月",
-        "TV",
         "异闻",
-        "网文改",
+        "2026年8月",
+        "民俗",
         "4",
-        "民俗"
+        "网文改"
       ],
       "sites": [],
       "episodes": []
