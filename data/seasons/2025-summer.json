@@ -2,9 +2,9 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2025,
   "season": "summer",
-  "generatedAt": "2026-11-27T19:18:22.114Z",
-  "total": 146,
-  "mappedTotal": 146,
+  "generatedAt": "2026-11-28T03:43:33.897Z",
+  "total": 147,
+  "mappedTotal": 147,
   "items": [
     {
       "anilistId": 178025,
@@ -7616,7 +7616,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/93/79/440095_HJh7H.jpg",
       "airDate": "2025-08-02",
       "ratingScore": 7.1,
-      "popularity": 3890,
+      "popularity": 3892,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
@@ -7638,17 +7638,17 @@
         "西游记",
         "电影",
         "2025年",
-        "冒险",
         "国产动画",
+        "冒险",
         "2025年8月",
         "热血",
         "上美",
         "治愈",
-        "中国动画",
         "2020s",
-        "西游",
+        "中国动画",
         "国创",
-        "2025年7月"
+        "西游",
+        "2D"
       ],
       "sites": [],
       "episodes": []
@@ -10515,6 +10515,30 @@
       "tags": [
         "动作",
         "搞笑"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 506109,
+      "title": "勇者動畫系列 第二季",
+      "titleCn": "勇者动画系列 第二季",
+      "countryOfOrigin": "CN",
+      "format": "TV",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/f6/68/506109_0ax00.jpg",
+      "airDate": "2025-08-23",
+      "ratingScore": 7,
+      "popularity": 11,
+      "totalEpisodes": 6,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "台湾",
+        "TV"
       ],
       "sites": [],
       "episodes": []
