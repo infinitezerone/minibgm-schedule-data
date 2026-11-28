@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "autumn",
-  "generatedAt": "2026-11-28T12:51:10.675Z",
+  "generatedAt": "2026-11-28T17:57:12.722Z",
   "total": 128,
   "mappedTotal": 128,
   "items": [
@@ -1439,8 +1439,9 @@
         "反乌托邦",
         "末日废土",
         "肉体恐怖",
-        "猎奇/血腥",
         "都市奇幻",
+        "猎奇/血腥",
+        "赛博朋克",
         "悲剧"
       ],
       "sites": [],
@@ -6116,29 +6117,29 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/28/7b/507527_h3q23.jpg",
       "airDate": "2026-12-05",
       "ratingScore": 10,
-      "popularity": 134,
+      "popularity": 136,
       "totalEpisodes": 18,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "网文改",
         "道诡异仙",
         "小说改",
-        "国创",
+        "网文改",
         "WEB",
-        "TV",
+        "国创",
         "黑岩网络",
         "国产动画",
-        "狐尾的笔",
+        "TV",
         "玄幻",
-        "悬疑",
-        "3D",
-        "未定档",
-        "国漫",
         "异世界",
+        "3D",
+        "国漫",
+        "悬疑",
         "精神病",
-        "企鹅影视"
+        "未定档",
+        "企鹅影视",
+        "狐尾的笔"
       ],
       "sites": [],
       "episodes": []
@@ -6342,11 +6343,11 @@
         "战斗",
         "小说改",
         "玄幻",
-        "六",
-        "2026",
-        "WEB",
         "TV",
-        "国漫"
+        "2026",
+        "国漫",
+        "WEB",
+        "六"
       ],
       "sites": [],
       "episodes": []
@@ -6576,32 +6577,6 @@
     },
     {
       "anilistId": null,
-      "bgmId": 620676,
-      "title": "西游记之真假美猴王",
-      "titleCn": "西游记之真假美猴王",
-      "countryOfOrigin": "CN",
-      "format": "剧场版",
-      "status": "",
-      "isAdult": false,
-      "coverUrl": "https://lain.bgm.tv/pic/cover/l/8d/53/620676_gx6Dx.jpg",
-      "airDate": "2026-12-05",
-      "ratingScore": 5,
-      "popularity": 6,
-      "totalEpisodes": 1,
-      "genres": [
-        "国产动画"
-      ],
-      "tags": [
-        "剧场版",
-        "战斗",
-        "喜剧",
-        "奇幻"
-      ],
-      "sites": [],
-      "episodes": []
-    },
-    {
-      "anilistId": null,
       "bgmId": 662683,
       "title": "傲风",
       "titleCn": "傲风",
@@ -6612,15 +6587,41 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/c7/dc/662683_BZchh.jpg",
       "airDate": "2026-11-27",
       "ratingScore": 0,
-      "popularity": 6,
+      "popularity": 7,
       "totalEpisodes": 0,
       "genres": [
         "国产动画"
       ],
       "tags": [
-        "玄幻",
         "WEB",
-        "小说改"
+        "小说改",
+        "玄幻"
+      ],
+      "sites": [],
+      "episodes": []
+    },
+    {
+      "anilistId": null,
+      "bgmId": 620676,
+      "title": "西游记之真假美猴王",
+      "titleCn": "西游记之真假美猴王",
+      "countryOfOrigin": "CN",
+      "format": "剧场版",
+      "status": "",
+      "isAdult": false,
+      "coverUrl": "https://lain.bgm.tv/pic/cover/l/8d/53/620676_gx6Dx.jpg",
+      "airDate": "2026-12-05",
+      "ratingScore": 6,
+      "popularity": 6,
+      "totalEpisodes": 1,
+      "genres": [
+        "国产动画"
+      ],
+      "tags": [
+        "剧场版",
+        "战斗",
+        "喜剧",
+        "奇幻"
       ],
       "sites": [],
       "episodes": []

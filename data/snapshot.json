@@ -1,9 +1,9 @@
 {
   "schema": "minibgm-schedule-snapshot/1",
-  "generatedAt": "2026-11-28T12:47:41.395Z",
+  "generatedAt": "2026-11-28T17:53:35.987Z",
   "window": {
-    "from": 1794055566,
-    "to": 1801053966
+    "from": 1794073918,
+    "to": 1801072318
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "airDate": "1996-01-08",
       "ratingScore": 8.2,
-      "popularity": 81903,
+      "popularity": 81927,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -196,7 +196,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
       "airDate": "1992-04-13",
       "ratingScore": 7.8,
-      "popularity": 20508,
+      "popularity": 20522,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -366,7 +366,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
       "airDate": "1969-10-05",
       "ratingScore": 5.7,
-      "popularity": 2584,
+      "popularity": 2583,
       "totalEpisodes": 0,
       "genres": [
         "搞笑",
@@ -488,7 +488,7 @@
       "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
       "airDate": "2005-04-15",
       "ratingScore": 7.8,
-      "popularity": 8159,
+      "popularity": 8164,
       "totalEpisodes": 0,
       "genres": [
         "冒险",
@@ -1458,9 +1458,9 @@
         "搞笑滑稽",
         "男主",
         "校园",
-        "精灵",
+        "地下城",
         "天使",
-        "地下城"
+        "精灵"
       ],
       "sites": [
         {
@@ -1542,10 +1542,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 7,
-          "t": 1794063600
-        },
         {
           "n": 8,
           "t": 1794668400
@@ -1764,9 +1760,9 @@
         "超自然",
         "惊悚",
         "丧尸",
-        "末日废土",
+        "青年向",
         "男主",
-        "青年向"
+        "末日废土"
       ],
       "sites": [],
       "isAdult": false,
@@ -3685,10 +3681,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 7,
-          "t": 1794056400
-        },
-        {
           "n": 8,
           "t": 1794661200
         },
@@ -3925,10 +3917,10 @@
       "tags": [
         "搞笑",
         "恋爱",
-        "三角恋",
         "傲娇",
-        "校园",
-        "男主"
+        "三角恋",
+        "男主",
+        "校园"
       ],
       "sites": [],
       "isAdult": false,
@@ -4196,10 +4188,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 6,
-          "t": 1794065400
-        },
         {
           "n": 7,
           "t": 1794670200
@@ -4897,10 +4885,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 6,
-          "t": 1794060000
-        },
-        {
           "n": 7,
           "t": 1794664800
         },
@@ -5108,8 +5092,8 @@
         "丧尸",
         "末日废土",
         "旅行",
-        "女主",
         "生存",
+        "女主",
         "悲剧"
       ],
       "sites": [
@@ -5780,8 +5764,8 @@
         "奇幻",
         "恋爱",
         "女主",
-        "转生",
-        "异世界"
+        "异世界",
+        "转生"
       ],
       "sites": [
         {
@@ -6080,10 +6064,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 6,
-          "t": 1794069000
-        },
-        {
           "n": 7,
           "t": 1794673800
         },
@@ -6131,8 +6111,8 @@
         "动作",
         "冒险",
         "奇幻",
-        "转生",
-        "精灵"
+        "精灵",
+        "转生"
       ],
       "sites": [],
       "isAdult": false,
@@ -6154,6 +6134,10 @@
         {
           "n": 4,
           "t": 1800457200
+        },
+        {
+          "n": 5,
+          "t": 1801062000
         }
       ]
     },
@@ -6565,10 +6549,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 5,
-          "t": 1794062700
-        },
         {
           "n": 6,
           "t": 1794667500
@@ -7054,10 +7034,6 @@
       "startYear": 2026,
       "startMonth": 9,
       "episodes": [
-        {
-          "n": 7,
-          "t": 1794058200
-        },
         {
           "n": 8,
           "t": 1794663000
@@ -8585,8 +8561,8 @@
         "日常",
         "拟似家庭",
         "搞笑滑稽",
-        "都市奇幻",
         "男主",
+        "都市奇幻",
         "恶搞/梗番",
         "少年向"
       ],
@@ -9041,36 +9017,6 @@
       ]
     },
     {
-      "anilistId": 208105,
-      "bgmId": 630665,
-      "title": "ヤニねこ ミニ",
-      "titleCn": "尼古喵喵 迷你动画",
-      "countryOfOrigin": "JP",
-      "format": "ONA",
-      "status": "FINISHED",
-      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
-      "airDate": "2026-02-01",
-      "ratingScore": 6.3,
-      "popularity": 1164,
-      "totalEpisodes": 22,
-      "genres": [
-        "搞笑"
-      ],
-      "tags": [
-        "搞笑"
-      ],
-      "sites": [],
-      "isAdult": false,
-      "startYear": 2026,
-      "startMonth": 2,
-      "episodes": [
-        {
-          "n": 22,
-          "t": 1794063600
-        }
-      ]
-    },
-    {
       "anilistId": 209032,
       "bgmId": 634210,
       "title": "魔法の姉妹ルルットリリィ 第2クール",
@@ -9381,8 +9327,8 @@
         "动作",
         "冒险",
         "奇幻",
-        "异世界",
-        "转生"
+        "转生",
+        "异世界"
       ],
       "sites": [],
       "isAdult": false,
@@ -9400,6 +9346,10 @@
         {
           "n": 3,
           "t": 1800450000
+        },
+        {
+          "n": 4,
+          "t": 1801054800
         }
       ]
     },
@@ -9559,8 +9509,8 @@
       "tags": [
         "动作",
         "科幻",
-        "肉体恐怖",
-        "反乌托邦"
+        "反乌托邦",
+        "肉体恐怖"
       ],
       "sites": [
         {
@@ -9918,10 +9868,6 @@
       "startMonth": 10,
       "episodes": [
         {
-          "n": 6,
-          "t": 1794061800
-        },
-        {
           "n": 7,
           "t": 1794666600
         },
@@ -10097,10 +10043,6 @@
       "startYear": 2026,
       "startMonth": 10,
       "episodes": [
-        {
-          "n": 6,
-          "t": 1794066900
-        },
         {
           "n": 7,
           "t": 1794671700
@@ -10369,9 +10311,9 @@
         "动作",
         "搞笑",
         "奇幻",
-        "女主",
-        "虚拟世界",
         "旅行",
+        "虚拟世界",
+        "女主",
         "恶搞/梗番"
       ],
       "sites": [
@@ -11214,8 +11156,8 @@
         "搞笑滑稽",
         "游戏",
         "剑术",
-        "婚姻",
-        "少年向"
+        "少年向",
+        "婚姻"
       ],
       "sites": [
         {
@@ -11651,8 +11593,9 @@
         "反乌托邦",
         "末日废土",
         "肉体恐怖",
-        "猎奇/血腥",
         "都市奇幻",
+        "猎奇/血腥",
+        "赛博朋克",
         "悲剧"
       ],
       "sites": [],
@@ -11729,8 +11672,8 @@
       "tags": [
         "运动",
         "棒球",
-        "男主",
         "社团活动",
+        "男主",
         "少年向"
       ],
       "sites": [
@@ -12298,8 +12241,8 @@
       "tags": [
         "搞笑",
         "日常",
-        "兽耳",
         "女主",
+        "兽耳",
         "偶像",
         "美食料理"
       ],
@@ -13447,8 +13390,8 @@
       "tags": [
         "搞笑",
         "恋爱",
-        "历史",
-        "女主"
+        "女主",
+        "历史"
       ],
       "sites": [
         {

@@ -2,7 +2,7 @@
   "schema": "minibgm-season-snapshot/1",
   "year": 2026,
   "season": "spring",
-  "generatedAt": "2026-11-28T12:50:21.345Z",
+  "generatedAt": "2026-11-28T17:56:22.594Z",
   "total": 123,
   "mappedTotal": 123,
   "items": [
@@ -7772,7 +7772,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/ac/c9/607915_RBL8u.jpg",
       "airDate": "2026-06-13",
       "ratingScore": 7.1,
-      "popularity": 2517,
+      "popularity": 2524,
       "totalEpisodes": 52,
       "genres": [
         "国产动画"
@@ -7799,12 +7799,12 @@
         "奇幻",
         "未上映",
         "2026年6月",
-        "第五季",
-        "恋爱",
-        "2026年",
         "国创",
-        "这一季台词对比乱星海不尽人意",
-        "动画剧集"
+        "2026年",
+        "恋爱",
+        "第五季",
+        "喜欢",
+        "励志"
       ],
       "sites": [],
       "episodes": []
@@ -9451,7 +9451,7 @@
       "coverUrl": "https://lain.bgm.tv/pic/cover/l/38/78/444957_WiIW8.jpg",
       "airDate": "2026-04-28",
       "ratingScore": 6.3,
-      "popularity": 88,
+      "popularity": 89,
       "totalEpisodes": 1,
       "genres": [
         "国产动画"
